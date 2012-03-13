@@ -1,0 +1,29 @@
+#Introduction
+
+##Why Study Antarctic Aquatic Systems? Research Rationale
+The Antarctica is a "cold desert" defined by constant low temperatures, little precipitation and long polar light cycles.
+In this harsh environment, only specially adapted organisms can survive.
+Life is concentrated on the few ice-free coastal oases where liquid water is present in hundreds of lakes and ponds.
+These include the Vestfold Hills, Bunger Hills, Larsemann Hills, Syowa Bay and McMurdo Dry Valleys in East Antarctica, the West Antarctic Peninsula and the sub-antarctic islands that circle the continent. 
+Antarctic lakes span a wide range of physical and chemical properties from freshwater to hypersaline, oligotrophic to eutrophic, ice-covered to permanently melted and stratified or mixed.
+Lakes within close proximity to one another may have markedly different physico-chemistries so lake biota is highly adapted to their particular locality.
+Most lakes are largely isolated due to long periods of ice-cover recieving external inputs only intermittently from precipitation, glacial melt, marine incursions or from animals.
+Permanently ice-covered lakes and the bottom waters of meromictic (permanently stratified) lakes are truly closed systems with some lakes having been isolated for thousands to millions of years. Eg. Lakes in the Dry Valleys, subglacial lakes.
+Lake biota is dominated by microbial life where metazoans are rare or absent.
+The relative isolation and extreme conditions make Antarctic lakes potential reservoirs of novel taxa or refuges for ancient life. 
+Certainly, endemism in metazoan life is distinctive of the Antarctic and there is some evidence that it is similarly high in Antarctic microbiota.
+Microbial communities have reduced diversity and richness with shortened food webs.
+As a result, microbial processes are closely linked to lake geochemistry.
+As the lakes span a continuum of different environmental parameters, they present themselves as "natural laboratories" where comparisons can be made between lakes that vary in the property of interest.
+For example, lakes of different trophic statuses or salinities can be compared to determine adaptations to those environmental constraints. 
+This makes Antarctic lakes ideal model ecosystems where it is possible to define the microbial community and infer the role members play within the system.
+Meromictic (permanently stratified) lakes similarly provide a unique opportunity for comparison between the discrete zones within a single lake.
+With genomic approaches, not only can composition be related to taxa, but the functional adaptations can be elucidated.
+This study focuses on two particular lakes within the Vestfold Hills, East Antarctica and aims to unravel the community composition, reconstruct microbial interactions and key processes to gain an integrative understanding of the ecosystem.
+
+
+##The Vestfold Hills, East Antarctica
+##History of Organic Lake Research
+##History of Ace Lake Research
+##Insights From Molecular-based Studies of Antarctic Aquatic Terrestrial Systems
+##Limitations of Previous Studies
