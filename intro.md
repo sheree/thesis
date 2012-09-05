@@ -3,7 +3,7 @@
 ##Why study Antarctic microbial ecosystems?
 The Antarctica is a "cold desert" defined by constant low temperatures, little precipitation and long polar light cycles where only specially adapted organisms can survive.
 Life is concentrated on the few ice-free coastal oases where liquid water is present in hundreds of lakes and ponds.
-These include the Vestfold Hills, Bunger Hills, Larsemann Hills, Syowa Bay and McMurdo Dry Valleys in East Antarctica, the West Antarctic Peninsula and the sub-antarctic islands. 
+These include the Vestfold Hills, Bunger Hills, Larsemann Hills, Syowa Oasis, Schirmacher Oasis, Grearson Hills and McMurdo Dry Valleys in East Antarctica, the West Antarctic Peninsula and the sub-antarctic islands. 
 Lake biota is dominated by microbial life where metazoans are rare or absent.
 Antarctic lakes span a wide range of physical and chemical properties from freshwater to hypersaline, ice-covered to permanently melted and stratified or mixed.
 Most lakes are largely isolated due to long periods of ice-cover and only receive intermittent external inputs from precipitation, glacial melt and in some cases marine incursion or animals.
@@ -20,22 +20,27 @@ This study focuses on the microbial ecology of two meromictic lakes, Organic Lak
 
 
 ##The Vestfold Hills
-The Vestfold Hills are a rocky ice-free region of X km (GPS) surrounding Davis Station in the Australian Antarctic Territory.
-They occupy the the eastern shore of the Prydz Bay. 
-It is a temperate region and an important breeding ground for Adelie penguins, snow petrels etc.
-
+The Vestfold Hills is a rocky ice-free region of approximately 400 km^2 on the eastern shore of the Prydz Bay, Princess Elizabeth Land, East Antarctica (fig:vestfold map) \cite{Gibson1999}. 
+It is the region surrounding Davis Station in the Australian Antarctic Territory (lat.long.).
+It is a temperate region and an important breeding ground for Adelie penguins, snow petrels etc (reference).
+weather?
 ![Map of the Vestfold Hills showing their location relative to Australia (inset). The land is shown in white, the Southern Ocean in grey, the continental iceshelf is stippled, meromictic lakes shown in black and seasonally isolated marine basins in diagonal fill. The numbered lakes and basins are: 1. unnamed lake; 2. Organic Lake; 3. Pendant Lake; 4. Glider Lake; 5. Ace Lake; 6. unnamed lake; 7. Williams Lake; 8. Abraxas Lake; 9. Johnstone Lake; 10. Ekho Lake; 11. Lake Farrell; 12. Sheild Lake; 13. Oval Lake; 14. Ephyra Lake; 15. Scale Lake; 16. Lake Anderson; 17. Oblong Lake; 18. Lake McCallum; 19. Clear Lake; 20. Laternula Lake; 21. South Angle Lake; 22. Bayly Bay; 23. Lake Fletcher; 24. Franzmann Lake; 25. Deprez Basin; 26. 'Small Meromictic Basin', Ellis Fjord; 27. Burton Lake; 28. Burch Lake; 29. Tassie Lake; 30. Club Lake; 31. Lake Jabs; 32. Deep Lake; 33. Lake Stinear; 34. Lake Dingle; 35. Lake Druzhby; 36. Watts Lake; 37. Lebed Lake; 38. Crooked Lake. Image is adapted from (Gibson 1999).](Vestfold_hills_map.png "vestfold hills map")
 
 ##Palaeogeography of the Vestfold Hills and the evolution of the lakes
-The region was formed in the early Holocene (how long ago?) when the retreat of the continental ice-shelf lead to isostatic uplift of the land that was beneath the ice. 
-Sea water was trapped in the rocky depressions as the peninsula rose from the sea forming the hundreds (how many?) of lakes and ponds.
-Most have separated from the ocean (history?) generally with the lakes further inland completely separating much earlier than the more coastal lakes. (Ages of the lakes?)
-All lakes were therefore originally marine derived.
-However, since their isolation from the ocean each lake has followed a separate physical evolution depending on the local geography and now have very different chemical and physical properties. 
-Some have experience negative water balances have concentrated by ablation (evaporation and sublimnation) to become hypersaline such as Organic Lake.
-While others have a regular influx from glacial melt water or snow and salt water have become freshwater eg. Clear Lake.
-Nutrient status?
-This is the largest concentration of meromictic lake in the world (number?) and stratified basins.
+The region was formed approximately 10,000 years ago when the retreat of the continental ice-shelf lead to isostatic uplift of the land \cite{Burton1981}. 
+Water was trapped in the exposed rocky depressions forming the hundreds (how many?) of lakes and ponds(Zwartz?).
+Those lakes that are nearer to the coast were formed from seawater and are predominantly saline or hypersaline (Burke 1988).
+Freshwater lakes near the continental ice shelf were likely already above sea-level as the ice receded are not marine-derived (Laybourne-Parry 1992, Bronge 1996).
+Lakes closer to the coast, such as Rookery Lake, may still occasionally experience marine inputs while those further inland have completely separated from the sea with most lakes generally <6,000 years old \cite:{Burton1981}. (Ages of the lakes?)
+All lakes may receive water inputs from precipitation, from the ice-shelf and glacial melt streams \cite:{Burton1981}.
+Since their formation each lake has followed a separate physical evolution depending on the local geography and now have very different chemical and physical properties. 
+Some have experience negative water balances and have concentrated by ablation (evaporation and sublimnation) to become hypersaline (reference).
+While other originally saline lakes have been flushed with glacial melt water and have become fresh eg. Clear Lake (Pickard 1986, Bird 1991).
+Nutrient status? (see Burton 1981)
+temperature?
+weather?
+major ions? (see Burton1981)
+This is the largest concentration of meromictic lakes in Antarctica (Gibson 1999) in the world (number?).
 
 ##Biology of the Vestfold Hills
 General stuff about plants, birds, mammals, insects, microbes.

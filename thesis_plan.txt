@@ -1,17 +1,23 @@
 Chapter 1 -General introduction
-Why study Antarctic microbial ecosystems?
-1.2 The Vestfold Hills, East Antarctica
-1.2.1 Limnology of Organic Lake
-1.2.2 Limnology of Ace Lake
-1.3 Insights from molecular studies of Antarctic aquatic systems
-1.3.1 Methodologies
-1.3.2 Bacteria
-1.3.3 Archaea
-1.3.4 Viruses
-1.3.5 Determining microbial drivers of geochemical cycles - case study Blood Falls
-1.4.1 Metagenomics: classic studies
-1.4.2 Metaproteomics: classic studies
-1.5 Research Objectives
+ 1.1 Antarctic Lakes
+ 1.2 Coastal Oases - overview of the best studied areas, see table. some history
+ 1.3 The Vestfold Hills
+ 	?1.3.1 Limnology of Organic Lake
+ 	?1.3.2 Limnology of Ace Lake
+ 1.4 Cultivation and morphological-based Microbiology of the Antarctic Lakes
+ 1.5 Molecular approaches used in Antarctic lake systems
+ 1.6 Insights from molecular studies of Antarctic aquatic systems
+ 	1.5.1 Bacteria
+		1.5.1.1
+		1.5.1.2
+		1.5.1.3
+	1.5.2 Archaea
+	1.5.3 Eucarya
+	1.5.4 Viruses
+	1.5.5 functional
+	1.5.6 whole ecosystem
+ 1.7 Metagenomics of Antarctic systems (review Lopez-Bueno, Mat study)
+ 1.8 Research Objectives
 
 Chapter 2 - Integrative study of an Antarctic Lake
 Co-authorship statement
