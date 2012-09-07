@@ -2,9 +2,12 @@ Chapter 1 -General introduction
  1.1 Antarctic Lakes
  1.2 Coastal Oases - overview of the best studied areas, see table. some history
  1.3 The Vestfold Hills
- 	?1.3.1 Limnology of Organic Lake
- 	?1.3.2 Limnology of Ace Lake
+ 	1.3.1 Biology of the Vestfold Hills	
  1.4 Cultivation and morphological-based Microbiology of the Antarctic Lakes
+	1.4.1 Bacteria
+	1.4.2 Eucarya
+	1.4.3 Archaea
+	1.4.4 Viruses
  1.5 Molecular approaches used in Antarctic lake systems
  1.6 Insights from molecular studies of Antarctic aquatic systems
  	1.5.1 Bacteria

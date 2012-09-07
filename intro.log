@@ -1,0 +1,528 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2011.7.28)  7 SEP 2012 18:26
+entering extended mode
+ %&-line parsing enabled.
+**intro.tex
+(./intro.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/bk10.clo
+File: bk10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+No file intro.aux.
+\openout1 = `intro.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+Chapter 1.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.8 ...e total ice area of Antarctica (12.3 \times
+                                                   10$^6$ km$^2$) is seasona...
+
+? 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 8.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.8 ...al ice area of Antarctica (12.3 \times 10$^
+                                                  6$ km$^2$) is seasonally i...
+
+? 
+
+LaTeX Warning: Citation `Laybourne-Parry1997' on page 1 undefined on input line
+ 11.
+
+
+LaTeX Warning: Citation `Laybourne-Parry2007' on page 1 undefined on input line
+ 15.
+
+
+LaTeX Warning: Citation `Siegert2005' on page 1 undefined on input line 22.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
+
+
+]
+
+LaTeX Warning: Citation `Mickucki2009' on page 2 undefined on input line 32.
+
+
+LaTeX Warning: Citation `Rankin1999' on page 2 undefined on input line 33.
+
+
+LaTeX Warning: Citation `Green1988' on page 2 undefined on input line 33.
+
+
+LaTeX Warning: Citation `Gibson1999' on page 2 undefined on input line 43.
+
+
+LaTeX Warning: Citation `Law1959' on page 2 undefined on input line 44.
+
+
+LaTeX Warning: Citation `Law1959' on page 2 undefined on input line 45.
+
+
+LaTeX Warning: Citation `Johnstone1973' on page 2 undefined on input line 46.
+
+
+LaTeX Warning: Citation `Gibson' on page 2 undefined on input line 49.
+
+
+LaTeX Warning: Citation `1999' on page 2 undefined on input line 49.
+
+
+LaTeX Warning: Citation `Burke1988' on page 2 undefined on input line 51.
+
+
+LaTeX Warning: Citation `Burton1981' on page 2 undefined on input line 52.
+
+
+LaTeX Warning: Citation `Gibson1999' on page 2 undefined on input line 55.
+
+
+LaTeX Warning: Citation `Burke1988' on page 2 undefined on input line 55.
+
+
+LaTeX Warning: Citation `Laybourne-Parry1992' on page 2 undefined on input line
+ 57.
+
+
+LaTeX Warning: Citation `Bronge1996' on page 2 undefined on input line 57.
+
+
+Overfull \hbox (162.54053pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10 2 \OT1/cmr/m/sl/10 CHAPTER 1.  GENERAL INTRODUCTION: MOLECULAR 
+MICROBIAL ECOLOGY OF ANTARCTIC LAKES
+ []
+
+[2]
+
+LaTeX Warning: Citation `Burton1981' on page 3 undefined on input line 60.
+
+
+LaTeX Warning: Citation `Pickard1986' on page 3 undefined on input line 62.
+
+
+LaTeX Warning: Citation `Bird1991' on page 3 undefined on input line 62.
+
+
+LaTeX Warning: Citation `Bowman2000a' on page 3 undefined on input line 93.
+
+
+LaTeX Warning: Citation `Bowman2000' on page 3 undefined on input line 93.
+
+
+LaTeX Warning: Citation `Gordon2000' on page 3 undefined on input line 93.
+
+
+LaTeX Warning: Citation `Christner2001' on page 3 undefined on input line 93.
+
+
+LaTeX Warning: Citation `Purdy2003' on page 3 undefined on input line 93.
+
+
+LaTeX Warning: Citation `Karr2006' on page 3 undefined on input line 93.
+
+
+LaTeX Warning: Citation `Matsuzaki2006' on page 3 undefined on input line 93.
+
+
+LaTeX Warning: Citation `Kurosawa2010' on page 3 undefined on input line 93.
+
+
+LaTeX Warning: Citation `Bielewicz2011' on page 3 undefined on input line 93.
+
+
+LaTeX Warning: Citation `Pearce2003' on page 3 undefined on input line 95.
+
+
+LaTeX Warning: Citation `Pearce2003' on page 3 undefined on input line 95.
+
+
+LaTeX Warning: Citation `Karr2005' on page 3 undefined on input line 95.
+
+
+LaTeX Warning: Citation `Pearce2005' on page 3 undefined on input line 95.
+
+
+LaTeX Warning: Citation `Pearce2005' on page 3 undefined on input line 95.
+
+
+LaTeX Warning: Citation `Unrein2005' on page 3 undefined on input line 95.
+
+
+LaTeX Warning: Citation `Glatz2006' on page 3 undefined on input line 95.
+
+
+LaTeX Warning: Citation `Mikucki2007' on page 3 undefined on input line 95.
+
+
+LaTeX Warning: Citation `Mosier2007' on page 3 undefined on input line 95.
+
+
+LaTeX Warning: Citation `Schiaffino2009' on page 3 undefined on input line 95.
+
+
+LaTeX Warning: Citation `Villaescusa2010' on page 3 undefined on input line 95.
+
+
+
+LaTeX Warning: Citation `Olsen1998' on page 3 undefined on input line 96.
+
+
+LaTeX Warning: Citation `Voytek1999' on page 3 undefined on input line 97.
+
+
+LaTeX Warning: Citation `Karr2003' on page 3 undefined on input line 97.
+
+
+LaTeX Warning: Citation `Karr2005' on page 3 undefined on input line 97.
+
+
+LaTeX Warning: Citation `Mikucki2009' on page 3 undefined on input line 97.
+
+[3]
+
+LaTeX Warning: Citation `Bowman2000b' on page 4 undefined on input line 110.
+
+
+LaTeX Warning: Citation `Glatz2006' on page 4 undefined on input line 110.
+
+
+LaTeX Warning: Citation `Mosier2007' on page 4 undefined on input line 110.
+
+
+LaTeX Warning: Citation `Lauro2011' on page 4 undefined on input line 113.
+
+
+LaTeX Warning: Citation `Bowman2000a' on page 4 undefined on input line 114.
+
+
+LaTeX Warning: Citation `Kurasawa2010' on page 4 undefined on input line 114.
+
+
+LaTeX Warning: Citation `Pearce2003' on page 4 undefined on input line 117.
+
+
+LaTeX Warning: Citation `Pearce2005' on page 4 undefined on input line 117.
+
+
+LaTeX Warning: Citation `Pearce2005' on page 4 undefined on input line 117.
+
+
+LaTeX Warning: Citation `Schiaffino2009' on page 4 undefined on input line 117.
+
+
+
+LaTeX Warning: Citation `Schiaffino2009' on page 4 undefined on input line 122.
+
+
+
+LaTeX Warning: Citation `Villaescusa2010' on page 4 undefined on input line 122
+.
+
+
+Overfull \hbox (162.54053pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10 4 \OT1/cmr/m/sl/10 CHAPTER 1.  GENERAL INTRODUCTION: MOLECULAR 
+MICROBIAL ECOLOGY OF ANTARCTIC LAKES
+ []
+
+[4]
+
+LaTeX Warning: Citation `Pearce2005' on page 5 undefined on input line 126.
+
+
+LaTeX Warning: Citation `Pearce2005' on page 5 undefined on input line 127.
+
+
+LaTeX Warning: Citation `Burke1988' on page 5 undefined on input line 140.
+
+
+LaTeX Warning: Citation `Karr2003' on page 5 undefined on input line 141.
+
+
+LaTeX Warning: Citation `Glatz2006' on page 5 undefined on input line 143.
+
+
+LaTeX Warning: Citation `Gordon2000' on page 5 undefined on input line 146.
+
+
+LaTeX Warning: Citation `Siegert2001' on page 5 undefined on input line 151.
+
+
+LaTeX Warning: Citation `Inman 2005' on page 5 undefined on input line 155.
+
+
+LaTeX Warning: Citation `Wingham2006' on page 5 undefined on input line 155.
+
+
+LaTeX Warning: Citation `Lukin2011' on page 5 undefined on input line 155.
+
+
+LaTeX Warning: Citation `Gramling2012' on page 5 undefined on input line 155.
+
+
+LaTeX Warning: Citation `Jones2012' on page 5 undefined on input line 155.
+
+
+LaTeX Warning: Citation `Priscu1999' on page 5 undefined on input line 156.
+
+
+LaTeX Warning: Citation `Christner2000' on page 5 undefined on input line 156.
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+
+LaTeX Warning: Citation `Bulat2004' on page 5 undefined on input line 159.
+
+
+LaTeX Warning: Citation `Lavire2007' on page 5 undefined on input line 159.
+
+
+LaTeX Warning: Citation `Alekhina2007' on page 5 undefined on input line 162.
+
+
+LaTeX Warning: Citation `Christner2000' on page 5 undefined on input line 163.
+
+
+Overfull \hbox (56.21982pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10 1.6.  INSIGHTS FROM MOLECULAR STUDIES OF ANTARCTIC AQUATIC SYS
+TEMS \OT1/cmr/m/n/10 5
+ []
+
+[5]
+
+LaTeX Warning: Citation `Bowman2000a' on page 6 undefined on input line 169.
+
+
+LaTeX Warning: Citation `Bowman2000b' on page 6 undefined on input line 169.
+
+
+LaTeX Warning: Citation `Purdy2003' on page 6 undefined on input line 169.
+
+
+LaTeX Warning: Citation `Kurasawa2010' on page 6 undefined on input line 169.
+
+
+LaTeX Warning: Citation `Lauro2011' on page 6 undefined on input line 169.
+
+
+LaTeX Warning: Citation `Purdy2003' on page 6 undefined on input line 176.
+
+
+LaTeX Warning: Citation `Franzmann1992' on page 6 undefined on input line 178.
+
+
+LaTeX Warning: Citation `Franmann1997' on page 6 undefined on input line 178.
+
+
+LaTeX Warning: Citation `Saunders2003' on page 6 undefined on input line 178.
+
+
+LaTeX Warning: Citation `Allen2009' on page 6 undefined on input line 178.
+
+
+LaTeX Warning: Citation `Cavicchioli2006' on page 6 undefined on input line 179
+.
+
+
+LaTeX Warning: Citation `Williams2011' on page 6 undefined on input line 179.
+
+
+Overfull \hbox (38.92989pt too wide) in paragraph at lines 175--180
+\OT1/cmr/m/n/10 frigidum) and methy-lamine/methanol (\OT1/cmr/m/it/10 Methanoco
+c-coides bur-tonii\OT1/cmr/m/n/10 ) uti-liz-ing methanogens
+ []
+
+
+LaTeX Warning: Citation `Bowman2000a' on page 6 undefined on input line 183.
+
+
+LaTeX Warning: Citation `Karr2006' on page 6 undefined on input line 186.
+
+
+Overfull \hbox (162.54053pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10 6 \OT1/cmr/m/sl/10 CHAPTER 1.  GENERAL INTRODUCTION: MOLECULAR 
+MICROBIAL ECOLOGY OF ANTARCTIC LAKES
+ []
+
+[6]
+
+LaTeX Warning: Citation `Kurasawa2010' on page 7 undefined on input line 191.
+
+
+LaTeX Warning: Citation `Lauro2011' on page 7 undefined on input line 193.
+
+
+LaTeX Warning: Citation `Lauro2011' on page 7 undefined on input line 195.
+
+
+LaTeX Warning: Citation `Glatz2006' on page 7 undefined on input line 198.
+
+
+LaTeX Warning: Citation `Bowman2000b' on page 7 undefined on input line 199.
+
+
+LaTeX Warning: Citation `Bowman2000b' on page 7 undefined on input line 200.
+
+! Undefined control sequence.
+l.201 ...(formerly \textit{Halobacterium}) \textif
+                                                  {lacusprofundi} which was ...
+
+? 
+
+LaTeX Warning: Citation `Franzmann1988' on page 7 undefined on input line 201.
+
+
+LaTeX Warning: Citation `Unrein2005' on page 7 undefined on input line 209.
+
+
+LaTeX Warning: Citation `Unrein2005' on page 7 undefined on input line 210.
+
+
+LaTeX Warning: Citation `Mosier2007' on page 7 undefined on input line 210.
+
+
+LaTeX Warning: Citation `Bielewicz2011' on page 7 undefined on input line 210.
+
+
+LaTeX Warning: Citation `Unrein2005' on page 7 undefined on input line 211.
+
+
+LaTeX Warning: Citation `Mosier2007' on page 7 undefined on input line 211.
+
+
+LaTeX Warning: Citation `Bielewicz2011' on page 7 undefined on input line 211.
+
+
+LaTeX Warning: Citation `Unrein2005' on page 7 undefined on input line 216.
+
+
+LaTeX Warning: Citation `Bielewicz2011' on page 7 undefined on input line 218.
+
+
+LaTeX Warning: Citation `Bielewicz2011' on page 7 undefined on input line 220.
+
+
+Overfull \hbox (56.21982pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10 1.6.  INSIGHTS FROM MOLECULAR STUDIES OF ANTARCTIC AQUATIC SYS
+TEMS \OT1/cmr/m/n/10 7
+ []
+
+[7]
+Overfull \hbox (10.85287pt too wide) in paragraph at lines 229--229
+[]\OT1/cmr/bx/n/14.4 Limitations of amplification-based ap-proaches 
+ []
+
+
+LaTeX Warning: Citation `Bowman2000b' on page 8 undefined on input line 235.
+
+
+LaTeX Warning: Citation `Glatz2006' on page 8 undefined on input line 235.
+
+
+LaTeX Warning: Citation `Matsuzaki2006' on page 8 undefined on input line 235.
+
+
+LaTeX Warning: Citation `Mosier2007' on page 8 undefined on input line 235.
+
+
+LaTeX Warning: Citation `Matsuzaki2006' on page 8 undefined on input line 237.
+
+
+LaTeX Warning: Citation `Ward1997' on page 8 undefined on input line 238.
+
+
+LaTeX Warning: Citation `Ward2005' on page 8 undefined on input line 240.
+
+
+LaTeX Warning: Citation `Glatz2006' on page 8 undefined on input line 240.
+
+
+LaTeX Warning: Citation `Bell2003' on page 8 undefined on input line 243.
+
+
+LaTeX Warning: Citation `Laybourn-Parry2005' on page 8 undefined on input line 
+244.
+
+
+LaTeX Warning: Citation `Lopez-Bueno2009' on page 8 undefined on input line 249
+.
+
+
+LaTeX Warning: Citation `Ng2010' on page 8 undefined on input line 249.
+
+
+LaTeX Warning: Citation `Lauro2011' on page 8 undefined on input line 249.
+
+
+LaTeX Warning: Citation `Yau2011' on page 8 undefined on input line 249.
+
+
+LaTeX Warning: Citation `Varin2012' on page 8 undefined on input line 249.
+
+
+LaTeX Warning: Citation `Ng2010 Lauro2011' on page 8 undefined on input line 25
+1.
+
+
+LaTeX Warning: Citation `Yau2011' on page 8 undefined on input line 251.
+
+
+Underfull \vbox (badness 2393) has occurred while \output is active []
+
+
+Overfull \hbox (162.54053pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10 8 \OT1/cmr/m/sl/10 CHAPTER 1.  GENERAL INTRODUCTION: MOLECULAR 
+MICROBIAL ECOLOGY OF ANTARCTIC LAKES
+ []
+
+[8] [9] (./intro.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 311 strings out of 495062
+ 3449 string characters out of 1182644
+ 54440 words of memory out of 3000000
+ 3571 multiletter control sequences out of 15000+50000
+ 6770 words of font info for 24 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 23i,4n,21p,232b,141s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on intro.dvi (9 pages, 33928 bytes).
