@@ -1,0 +1,146 @@
+%Preamble--------------------------------------------------------------------------------------------
+
+\documentclass[11pt,a4paper,twoside,openright]{report}
+
+%End-preamble----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%Frontmatter-----------------------------------------------------------------------------------------
+
+ %Title page
+\begin{titlepage}
+\begin{center}
+\vspace*{1in}
+\LARGE {Molecular Study of Saline Antarctic Lakes from a Whole Ecosystem Perspective}
+\par
+\vspace{1.5in}
+\large {Sheree Yau}
+\par
+\vfill
+A Thesis submitted for the degree of Doctor of Philosophy
+\par
+\vspace{0.5in}
+School of Biotechnology and Biomolecular Sciences
+\par
+\vspace{0.5in}
+University of New South Wales, Australia
+\par
+\vspace{0.5in}
+\today
+\end{center}
+\end{titlepage}
+
+
+%\title{Molecular Study of Saline Antarctic Lakes From a Whole Ecosystem Perspective}
+%\author{Sheree Yau\\\\A thesis submitted for the degree of Doctor of Philosophy\\
+% the School of Biotechnology and Biomolecular Sciences, \\ Faculty of Science,\\ 
+%University of New South Wales,\\ Australia}
+%\maketitle
+
+\pagenumbering{roman}
+
+\chapter*{Originality Statement}
+\addcontentsline{toc}{chapter}{Originality Statement}
+`I hereby declare that this submission is my own work and to the best of my knowledge it contains
+ no materials previously published of written by another person, or substantial proportions of 
+material which have been accepted for the award of any other degree or diploma at UNSW or any other
+ educational institution, except where due acknowledgement is made in the thesis. Any contribution 
+made to the research by others, with whom I have worked at UNSW or elsewhere, is explicitly 
+acknowledged in the thesis. I also declare that the intellectual content of this thesis is the product
+ of my own work, except to the extent that assistance from others in the project's design and 
+conception or in style, presentation and linguistic expression is acknowledged.'\\\\
+Signed \dotfill\\\\
+Date \dotfill
+
+\chapter*{Acknowledgements}
+\addcontentsline{toc}{chapter}{Acknowledgements}
+Make sure you acknowledge who did what in your thesis.
+
+\chapter*{Co-authorship Statement}
+\addcontentsline{toc}{chapter}{Co-authorship Statement}
+Chapters and sections from this thesis that have been published or submitted for publication
+ are outlined below.
+Copies of these publications are included in the Appendices.
+Where I appear as the first author, I performed the majority of the research and wrote the 
+manuscript. 
+Where I appear as a secondary author, the thesis chapter primarily contains my contribution to the 
+manuscript and information relevant to the objectives of this thesis.
+Details of contributions provided by myself and others procede each chapter.
+
+
+Sections of Chapter~\ref{ch:intro} have been published in \textit{FEMS Microbiology Reviews} as: 
+David Wilkins, Sheree Yau, Timothy Williams, Michelle Allen, Mark V. Brown, Matthew Z. DeMaere, 
+Federico M. Lauro, and Ricardo Cavicchioli 
+`Key Microbial Drivers in Antarctic Aquatic Environments'.
+I contributied the section of the publication entitled \emph{Antarctic Lakes} 
+excluding the subsection, 
+\emph{Microbial mats as microcosms of Antarctic life}.
+The majority of this is contained in Chapter~\ref{ch:intro} as 
+\emph{Molecular insights into Antarctic lakes} \ref{in:mol}.
+
+Chapter~\ref{ch:ace} has been published in 
+\textit{ISME Journal} as:
+Federico M. Lauro, Matthew Z. DeMaere, Sheree Yau, Mark V. Brown, Charmaine Ng, David Wilkins, 
+Mark J. Raftery, John A.E. Gibson, Cynthia Andrews-Pfannkoch, Matthew Lewis, Jeffery M. Hoffman,
+Torsten Thomas, and Ricardo Cavicchioli
+`An integrative study of a meromictic lake ecosystem in Antarctica'.
+I performed the metaproteomic analysis of the whole lake, epifluorescence imaging, 
+microbial and viral counts and wrote the corresponging sections of the manuscript.
+
+
+Chapter~\ref{ch:olv} has been published in 
+\textit{Proceedings of the National Academy of Sciences USA} as: 
+Sheree Yau, Federico M. Lauro, Matthew Z. DeMaere, Mark V. Brown, Torsten Thomas, 
+Mark J. Raftery, Cynthia Andrews-Pfannkoch, Matthew Lewis, Jeffery M. Hoffman, John A. Gibson, and 
+Ricardo Cavicchioli `Virophage control of antarctic algal host--virus dynamics'. 
+The author contributions are described in the publication as: 
+``F.M.L, M.V.B, T.T., J.A.G, and R.C. designed research; 
+S.Y., F.M.L., M.Z.D., M.V.B., T.T., J.M.H., and R.C. performed research; 
+M.J.R., C.A.-P.,M.L., and J.M.H. contributed reagents/analytical tools; 
+S.Y., F.M.L., M.Z.D., and M.V.B. analyzed data; 
+and S.Y., F.M.L., and R.C. wrote the paper.''
+Specific details of research and analysis performed by others is as follows. 
+\begin{itemize}
+\item Sample collection performed by F.M.L, M.V.B., T.T., J.M.H., and R.C.
+\item DNA extraction and clone library generation of 2006 samples performed by C.A.-P., M.L., and 
+J.M.H of the J. Craig Venter Institute.
+\item DNA sequencing and quality control performed by M.L. of the J. Craig Venter Institute.
+\item Metagenomic sequence quality control performed by F.M.L. and M.Z.D.
+\item Global metagenomic sequence assembly and annotation performed by M.Z.D.
+\item Preliminary taxonomic analysis performed by M.Z.D., and T.T.
+\item Assistance in mass spectronomy and mass spectra analysis from M.J.R.
+\item Eucaryal ribosomal subunit database construction and assistance in analysis by M.V.B.
+\end{itemize}
+
+
+\begin{abstract}
+\addcontentsline{toc}{abstract}{Abstract}
+\end{abstract}
+
+\tableofcontents
+\listoffigures
+\listoftables
+
+
+%End-frontmatter-------------------------------------------------------------------------------------
+
+\pagenumbering{arabic}
+
+
+%Mainmatter-----------------------------------------------------------------------------------------
+
+\include{intro}
+\include{acelake}
+\include{olv}
+\include{orglake}
+\include{viruses}
+\include{conc}
+
+%Endmainmatter-------------------------------------------------------------------------------------
+\bibliographystyle{plain}
+\bibliography{thesis}
+\include{appendices}
+
+
+\end{document}
