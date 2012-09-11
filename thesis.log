@@ -1,0 +1,710 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2011.7.28)  11 SEP 2012 20:32
+entering extended mode
+ %&-line parsing enabled.
+**thesis.tex
+(./thesis.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./thesis.aux
+(./originality.aux) (./acknowledgements.aux) (./publist.aux) (./abstract.aux)
+(./intro.aux) (./acelake.aux) (./olv.aux) (./orglake.aux) (./viruses.aux)
+(./conc.aux) (./appendices.aux))
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+ [1
+
+]
+\openout2 = `originality.aux'.
+
+ (./originality.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 3--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--38
+
+ []
+
+[1
+
+
+]
+\openout2 = `acknowledgements.aux'.
+
+ (./acknowledgements.tex [2
+
+
+
+]) [3]
+\openout2 = `publist.aux'.
+
+ (./publist.tex [4
+
+
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 11.
+
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 14.
+
+Overfull \hbox (0.42278pt too wide) in paragraph at lines 17--23
+\OT1/cmr/m/n/10.95 Gib-son, Cyn-thia Andrews-Pfannkoch, Matthew Lewis, Jef-fery
+ M. Hoff-
+ []
+
+
+Overfull \hbox (6.67337pt too wide) in paragraph at lines 24--30
+\OT1/cmr/m/n/10.95 Brown, Torsten Thomas, Mark J. Raftery, Cyn-thia Andrews-Pfa
+nnkoch,
+ []
+
+) [5]
+\openout2 = `abstract.aux'.
+
+ (./abstract.tex [6
+
+
+
+]) [7] [8
+
+
+] (./thesis.toc [9]
+Overfull \hbox (2.30865pt too wide) in paragraph at lines 48--48
+ [][] []\OT1/cmr/m/n/10.95 Gene Ex-change Be-tween Vi-rophage and Phy-cod-navir
+uses []  
+ []
+
+)
+\tf@toc=\write3
+\openout3 = `thesis.toc'.
+
+ [10] (./thesis.lof)
+\tf@lof=\write4
+\openout4 = `thesis.lof'.
+
+ [11
+
+] [12
+
+] (./thesis.lot)
+\tf@lot=\write5
+\openout5 = `thesis.lot'.
+
+ [1]
+\openout2 = `intro.aux'.
+
+ (./intro.tex [2
+
+
+]
+Chapter 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--16
+
+ []
+
+[3]
+
+LaTeX Warning: Citation `Laybourne-Parry1997' on page 4 undefined on input line
+ 27.
+
+
+LaTeX Warning: Citation `Laybourne-Parry2007' on page 4 undefined on input line
+ 31.
+
+
+LaTeX Warning: Citation `Siegert2005' on page 4 undefined on input line 41.
+
+
+LaTeX Warning: Citation `Mickucki2009' on page 4 undefined on input line 51.
+
+
+LaTeX Warning: Citation `Rankin1999' on page 4 undefined on input line 52.
+
+
+LaTeX Warning: Citation `Green1988' on page 4 undefined on input line 52.
+
+[4]
+
+LaTeX Warning: Citation `Gibson1999' on page 5 undefined on input line 62.
+
+
+LaTeX Warning: Citation `Law1959' on page 5 undefined on input line 63.
+
+
+LaTeX Warning: Citation `Law1959' on page 5 undefined on input line 64.
+
+
+LaTeX Warning: Citation `Johnstone1973' on page 5 undefined on input line 65.
+
+
+LaTeX Warning: Citation `Gibson' on page 5 undefined on input line 68.
+
+
+LaTeX Warning: Citation `1999' on page 5 undefined on input line 68.
+
+
+LaTeX Warning: Citation `Burke1988' on page 5 undefined on input line 70.
+
+
+LaTeX Warning: Citation `Burton1981' on page 5 undefined on input line 71.
+
+
+LaTeX Warning: Citation `Gibson1999' on page 5 undefined on input line 74.
+
+
+LaTeX Warning: Citation `Burke1988' on page 5 undefined on input line 74.
+
+
+LaTeX Warning: Citation `Laybourne-Parry1992' on page 5 undefined on input line
+ 76.
+
+
+LaTeX Warning: Citation `Bronge1996' on page 5 undefined on input line 76.
+
+
+LaTeX Warning: Citation `Burton1981' on page 5 undefined on input line 79.
+
+
+LaTeX Warning: Citation `Pickard1986' on page 5 undefined on input line 81.
+
+
+LaTeX Warning: Citation `Bird1991' on page 5 undefined on input line 81.
+
+[5]
+
+LaTeX Warning: Citation `Bowman2000a' on page 6 undefined on input line 116.
+
+
+LaTeX Warning: Citation `Bowman2000' on page 6 undefined on input line 116.
+
+
+LaTeX Warning: Citation `Gordon2000' on page 6 undefined on input line 116.
+
+
+LaTeX Warning: Citation `Christner2001' on page 6 undefined on input line 116.
+
+
+LaTeX Warning: Citation `Purdy2003' on page 6 undefined on input line 116.
+
+
+LaTeX Warning: Citation `Karr2006' on page 6 undefined on input line 116.
+
+
+LaTeX Warning: Citation `Matsuzaki2006' on page 6 undefined on input line 116.
+
+
+LaTeX Warning: Citation `Kurosawa2010' on page 6 undefined on input line 116.
+
+
+LaTeX Warning: Citation `Bielewicz2011' on page 6 undefined on input line 116.
+
+
+LaTeX Warning: Citation `Pearce2003' on page 6 undefined on input line 118.
+
+
+LaTeX Warning: Citation `Pearce2003' on page 6 undefined on input line 118.
+
+
+LaTeX Warning: Citation `Karr2005' on page 6 undefined on input line 118.
+
+
+LaTeX Warning: Citation `Pearce2005' on page 6 undefined on input line 118.
+
+
+LaTeX Warning: Citation `Pearce2005' on page 6 undefined on input line 118.
+
+
+LaTeX Warning: Citation `Unrein2005' on page 6 undefined on input line 118.
+
+
+LaTeX Warning: Citation `Glatz2006' on page 6 undefined on input line 118.
+
+
+LaTeX Warning: Citation `Mikucki2007' on page 6 undefined on input line 118.
+
+
+LaTeX Warning: Citation `Mosier2007' on page 6 undefined on input line 118.
+
+
+LaTeX Warning: Citation `Schiaffino2009' on page 6 undefined on input line 118.
+
+
+
+LaTeX Warning: Citation `Villaescusa2010' on page 6 undefined on input line 118
+.
+
+
+LaTeX Warning: Citation `Olsen1998' on page 6 undefined on input line 119.
+
+
+LaTeX Warning: Citation `Voytek1999' on page 6 undefined on input line 120.
+
+
+LaTeX Warning: Citation `Karr2003' on page 6 undefined on input line 120.
+
+
+LaTeX Warning: Citation `Karr2005' on page 6 undefined on input line 120.
+
+
+LaTeX Warning: Citation `Mikucki2009' on page 6 undefined on input line 120.
+
+
+LaTeX Warning: Citation `Bowman2000b' on page 6 undefined on input line 134.
+
+
+LaTeX Warning: Citation `Glatz2006' on page 6 undefined on input line 134.
+
+
+LaTeX Warning: Citation `Mosier2007' on page 6 undefined on input line 134.
+
+
+LaTeX Warning: Citation `Lauro2011' on page 6 undefined on input line 137.
+
+
+LaTeX Warning: Citation `Bowman2000a' on page 6 undefined on input line 138.
+
+
+LaTeX Warning: Citation `Kurasawa2010' on page 6 undefined on input line 138.
+
+
+LaTeX Warning: Citation `Pearce2003' on page 6 undefined on input line 141.
+
+
+LaTeX Warning: Citation `Pearce2005' on page 6 undefined on input line 141.
+
+
+LaTeX Warning: Citation `Pearce2005' on page 6 undefined on input line 141.
+
+
+LaTeX Warning: Citation `Schiaffino2009' on page 6 undefined on input line 141.
+
+
+[6]
+
+LaTeX Warning: Citation `Schiaffino2009' on page 7 undefined on input line 146.
+
+
+
+LaTeX Warning: Citation `Villaescusa2010' on page 7 undefined on input line 146
+.
+
+
+LaTeX Warning: Citation `Pearce2005' on page 7 undefined on input line 150.
+
+
+LaTeX Warning: Citation `Pearce2005' on page 7 undefined on input line 151.
+
+
+LaTeX Warning: Citation `Burke1988' on page 7 undefined on input line 163.
+
+
+LaTeX Warning: Citation `Karr2003' on page 7 undefined on input line 164.
+
+
+LaTeX Warning: Citation `Glatz2006' on page 7 undefined on input line 166.
+
+
+LaTeX Warning: Citation `Gordon2000' on page 7 undefined on input line 169.
+
+[7]
+
+LaTeX Warning: Citation `Siegert2001' on page 8 undefined on input line 174.
+
+
+LaTeX Warning: Citation `Inman 2005' on page 8 undefined on input line 178.
+
+
+LaTeX Warning: Citation `Wingham2006' on page 8 undefined on input line 178.
+
+
+LaTeX Warning: Citation `Lukin2011' on page 8 undefined on input line 178.
+
+
+LaTeX Warning: Citation `Gramling2012' on page 8 undefined on input line 178.
+
+
+LaTeX Warning: Citation `Jones2012' on page 8 undefined on input line 178.
+
+
+LaTeX Warning: Citation `Priscu1999' on page 8 undefined on input line 179.
+
+
+LaTeX Warning: Citation `Christner2000' on page 8 undefined on input line 179.
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+
+LaTeX Warning: Citation `Bulat2004' on page 8 undefined on input line 182.
+
+
+LaTeX Warning: Citation `Lavire2007' on page 8 undefined on input line 182.
+
+
+LaTeX Warning: Citation `Alekhina2007' on page 8 undefined on input line 185.
+
+
+LaTeX Warning: Citation `Christner2000' on page 8 undefined on input line 186.
+
+[8]
+
+LaTeX Warning: Citation `Bowman2000a' on page 9 undefined on input line 192.
+
+
+LaTeX Warning: Citation `Bowman2000b' on page 9 undefined on input line 192.
+
+
+LaTeX Warning: Citation `Purdy2003' on page 9 undefined on input line 192.
+
+
+LaTeX Warning: Citation `Kurasawa2010' on page 9 undefined on input line 192.
+
+
+LaTeX Warning: Citation `Lauro2011' on page 9 undefined on input line 192.
+
+
+LaTeX Warning: Citation `Purdy2003' on page 9 undefined on input line 199.
+
+
+LaTeX Warning: Citation `Franzmann1992' on page 9 undefined on input line 201.
+
+
+LaTeX Warning: Citation `Franmann1997' on page 9 undefined on input line 201.
+
+
+LaTeX Warning: Citation `Saunders2003' on page 9 undefined on input line 201.
+
+
+LaTeX Warning: Citation `Allen2009' on page 9 undefined on input line 201.
+
+
+LaTeX Warning: Citation `Cavicchioli2006' on page 9 undefined on input line 202
+.
+
+
+LaTeX Warning: Citation `Williams2011' on page 9 undefined on input line 202.
+
+
+Overfull \hbox (6.87105pt too wide) in paragraph at lines 198--203
+\OT1/cmr/m/n/10.95 etate and C1-compound uti-liz-ing methanogens [[]]. Both H$[
+]$:CO$[]$ (Methanoge-
+ []
+
+
+Overfull \hbox (0.72534pt too wide) in paragraph at lines 198--203
+\OT1/cmr/m/n/10.95 nium frigidum) and methy-lamine/methanol (\OT1/cmr/m/it/10.9
+5 Methanococ-coides bur-tonii\OT1/cmr/m/n/10.95 ) uti-
+ []
+
+
+LaTeX Warning: Citation `Bowman2000a' on page 9 undefined on input line 206.
+
+
+LaTeX Warning: Citation `Karr2006' on page 9 undefined on input line 209.
+
+
+LaTeX Warning: Citation `Kurasawa2010' on page 9 undefined on input line 214.
+
+
+LaTeX Warning: Citation `Lauro2011' on page 9 undefined on input line 216.
+
+
+LaTeX Warning: Citation `Lauro2011' on page 9 undefined on input line 218.
+
+[9]
+
+LaTeX Warning: Citation `Glatz2006' on page 10 undefined on input line 221.
+
+
+LaTeX Warning: Citation `Bowman2000b' on page 10 undefined on input line 222.
+
+
+LaTeX Warning: Citation `Bowman2000b' on page 10 undefined on input line 223.
+
+
+LaTeX Warning: Citation `Franzmann1988' on page 10 undefined on input line 224.
+
+
+
+LaTeX Warning: Citation `Unrein2005' on page 10 undefined on input line 232.
+
+
+LaTeX Warning: Citation `Unrein2005' on page 10 undefined on input line 233.
+
+
+LaTeX Warning: Citation `Mosier2007' on page 10 undefined on input line 233.
+
+
+LaTeX Warning: Citation `Bielewicz2011' on page 10 undefined on input line 233.
+
+
+
+LaTeX Warning: Citation `Unrein2005' on page 10 undefined on input line 234.
+
+
+LaTeX Warning: Citation `Mosier2007' on page 10 undefined on input line 234.
+
+
+LaTeX Warning: Citation `Bielewicz2011' on page 10 undefined on input line 234.
+
+
+
+LaTeX Warning: Citation `Unrein2005' on page 10 undefined on input line 239.
+
+
+LaTeX Warning: Citation `Bielewicz2011' on page 10 undefined on input line 241.
+
+
+
+LaTeX Warning: Citation `Bielewicz2011' on page 10 undefined on input line 243.
+
+
+[10]
+
+LaTeX Warning: Citation `Bowman2000b' on page 11 undefined on input line 261.
+
+
+LaTeX Warning: Citation `Glatz2006' on page 11 undefined on input line 261.
+
+
+LaTeX Warning: Citation `Matsuzaki2006' on page 11 undefined on input line 261.
+
+
+
+LaTeX Warning: Citation `Mosier2007' on page 11 undefined on input line 261.
+
+
+LaTeX Warning: Citation `Matsuzaki2006' on page 11 undefined on input line 263.
+
+
+
+LaTeX Warning: Citation `Ward1997' on page 11 undefined on input line 264.
+
+
+LaTeX Warning: Citation `Ward2005' on page 11 undefined on input line 266.
+
+
+LaTeX Warning: Citation `Glatz2006' on page 11 undefined on input line 266.
+
+
+LaTeX Warning: Citation `Bell2003' on page 11 undefined on input line 269.
+
+
+LaTeX Warning: Citation `Laybourn-Parry2005' on page 11 undefined on input line
+ 270.
+
+
+LaTeX Warning: Citation `Lopez-Bueno2009' on page 11 undefined on input line 27
+7.
+
+
+LaTeX Warning: Citation `Ng2010' on page 11 undefined on input line 277.
+
+
+LaTeX Warning: Citation `Lauro2011' on page 11 undefined on input line 277.
+
+
+LaTeX Warning: Citation `Yau2011' on page 11 undefined on input line 277.
+
+
+LaTeX Warning: Citation `Varin2012' on page 11 undefined on input line 277.
+
+
+LaTeX Warning: Citation `Ng2010 Lauro2011' on page 11 undefined on input line 2
+79.
+
+
+LaTeX Warning: Citation `Yau2011' on page 11 undefined on input line 279.
+
+[11]
+Overfull \hbox (1.9284pt too wide) in paragraph at lines 285--288
+\OT1/cmr/m/n/10.95 Overall, this study aimed to use metage-nomic and metapro-te
+omic ap-proaches
+ []
+
+) [12]
+\openout2 = `acelake.aux'.
+
+ (./acelake.tex
+Chapter 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+
+Overfull \hbox (1.31995pt too wide) in paragraph at lines 10--16
+\OT1/cmr/m/n/10.95 ecosys-tem in Antarc-tica. $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--16
+
+ []
+
+[13
+
+
+
+])
+\openout2 = `olv.aux'.
+
+ (./olv.tex [14
+
+
+
+]
+Chapter 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--16
+
+ []
+
+[15] [16]
+
+LaTeX Warning: Citation `Proctor1990' on page 17 undefined on input line 47.
+
+
+LaTeX Warning: Citation `Suttle1990' on page 17 undefined on input line 47.
+
+
+Overfull \hbox (23.83885pt too wide) in paragraph at lines 57--64
+[]\OT1/cmr/m/n/10.95 We es-tab-lished a metapro-teoge-nomic pro-gram for Or-gan
+ic Lake (68$[]$27$[]$23.4$[]$S,
+ []
+
+
+Overfull \hbox (14.95181pt too wide) in paragraph at lines 65--67
+\OT1/cmr/m/n/10.95 rophage, a small eu-cary-otic virus that re-quires a helper 
+\OT1/cmr/m/it/10.95 Acan-thamoeba polyphaga
+ []
+
+
+Underfull \vbox (badness 3612) has occurred while \output is active []
+
+ [17]
+Overfull \hbox (16.55515pt too wide) in paragraph at lines 77--78
+\OT1/cmr/m/n/10.95 face ice above the deep-est point in the lake (68$[]$27$[]$2
+2.15$[]$S, 78$[]$11$[]$23.95$[]$E),
+ []
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+[18] [19] [20] [21] [22]
+Overfull \hbox (14.00131pt too wide) in paragraph at lines 231--235
+\OT1/cmr/m/n/10.95 V20 MCP, V3 DNA pack-ag-ing AT-Pase, V13 pu-ta-tive DNA poly
+-merase/primase
+ []
+
+
+Overfull \hbox (13.31665pt too wide) in paragraph at lines 236--236
+[]\OT1/cmr/bx/n/12 Gene Ex-change Be-tween Vi-rophage and Phy-cod-naviruses 
+ []
+
+[23] [24] [25]) [26]
+\openout2 = `orglake.aux'.
+
+ (./orglake.tex
+Chapter 4.
+) [27
+
+
+
+]
+\openout2 = `viruses.aux'.
+
+ (./viruses.tex [28
+
+
+
+]
+Chapter 5.
+) [29]
+\openout2 = `conc.aux'.
+
+ (./conc.tex [30
+
+
+
+]
+Chapter 6.
+) [31]
+No file thesis.bbl.
+\openout2 = `appendices.aux'.
+
+(./appendices.tex [32
+
+
+
+]
+Chapter 7.
+) [33] (./thesis.aux (./originality.aux) (./acknowledgements.aux)
+(./publist.aux) (./abstract.aux) (./intro.aux) (./acelake.aux) (./olv.aux)
+(./orglake.aux) (./viruses.aux) (./conc.aux) (./appendices.aux))
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 457 strings out of 495062
+ 5237 string characters out of 1182644
+ 55672 words of memory out of 3000000
+ 3621 multiletter control sequences out of 15000+50000
+ 9754 words of font info for 34 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 25i,4n,23p,562b,174s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on thesis.dvi (46 pages, 93940 bytes).
