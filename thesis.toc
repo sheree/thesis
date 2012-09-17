@@ -5,51 +5,56 @@
 \contentsline {chapter}{\numberline {1}General Introduction}{3}
 \contentsline {section}{Co-authorship Statement}{3}
 \contentsline {section}{\numberline {1.1}Introduction}{4}
-\contentsline {section}{\numberline {1.2}Antarctic Coastal Oases and Glacial Lakes}{4}
-\contentsline {section}{\numberline {1.3}The Vestfold Hills, East Antarctica}{5}
-\contentsline {subsection}{\numberline {1.3.1}Biology of the Vestfold Hills}{5}
-\contentsline {subsection}{\numberline {1.3.2}Lakes of the Vestfold Hills}{5}
-\contentsline {section}{\numberline {1.4}Cultivation-based Antarctic microbiology}{6}
-\contentsline {subsection}{\numberline {1.4.1}Eucarya}{6}
-\contentsline {subsection}{\numberline {1.4.2}Bacteria}{6}
-\contentsline {subsection}{\numberline {1.4.3}Archaea}{6}
-\contentsline {subsection}{\numberline {1.4.4}Viruses}{6}
-\contentsline {section}{\numberline {1.5}Molecular Approaches Used in Antarctic Lake Systems}{6}
-\contentsline {section}{\numberline {1.6}Insights from Antarctic Molecular Studies}{6}
-\contentsline {subsection}{\numberline {1.6.1}Bacterial Diversity: Adaptation to Unique Physical and Chemical Conditions}{6}
-\contentsline {subsubsection}{Bacterial Diversity Defined by Nutrients}{7}
-\contentsline {subsubsection}{Bacterial Biogeography}{7}
-\contentsline {subsubsection}{Bacterial Diversity of Lake Vostok}{8}
-\contentsline {subsection}{\numberline {1.6.2}Archaea: Methanogens and Haloarchaea}{9}
-\contentsline {subsection}{\numberline {1.6.3}Eucarya Perform Multiple Ecosystem Roles}{10}
-\contentsline {subsection}{\numberline {1.6.4}functional}{11}
-\contentsline {subsection}{\numberline {1.6.5}whole ecosystem}{11}
-\contentsline {section}{\numberline {1.7}Limitations of Taxonomic Surveys}{11}
-\contentsline {section}{\numberline {1.8}`-omics' Approaches}{11}
-\contentsline {subsection}{\numberline {1.8.1}Viruses}{12}
-\contentsline {section}{\numberline {1.9}Objectives}{12}
-\contentsline {chapter}{\numberline {2}Metaproteogenomic analysis of Ace Lake}{13}
-\contentsline {section}{Co-authorship Statement}{13}
-\contentsline {chapter}{\numberline {3}Virophage Control of Antarctic Algal Host--Virus Dynamics}{15}
+\contentsline {section}{\numberline {1.2}Antarctic Lakes}{4}
+\contentsline {subsection}{\numberline {1.2.1}Ice-bound Lakes}{4}
+\contentsline {subsection}{\numberline {1.2.2}Rock-bound Lakes}{5}
+\contentsline {section}{\numberline {1.3}Coastal Oases}{5}
+\contentsline {section}{\numberline {1.4}The Vestfold Hills, East Antarctica}{6}
+\contentsline {subsection}{\numberline {1.4.1}Biology of the Vestfold Hills}{6}
+\contentsline {subsection}{\numberline {1.4.2}Lakes of the Vestfold Hills}{6}
+\contentsline {subsection}{\numberline {1.4.3}History of studies in Organic Lake}{7}
+\contentsline {subsection}{\numberline {1.4.4}History of studies in Ace Lake}{7}
+\contentsline {section}{\numberline {1.5}Cultivation-based Antarctic microbiology}{7}
+\contentsline {subsection}{\numberline {1.5.1}Eucarya}{7}
+\contentsline {subsection}{\numberline {1.5.2}Bacteria}{7}
+\contentsline {subsection}{\numberline {1.5.3}Archaea}{7}
+\contentsline {subsection}{\numberline {1.5.4}Viruses}{7}
+\contentsline {section}{\numberline {1.6}Molecular Approaches Used in Antarctic Lake Systems}{7}
+\contentsline {section}{\numberline {1.7}Insights from Antarctic Molecular Studies}{7}
+\contentsline {subsection}{\numberline {1.7.1}Bacterial Diversity: Adaptation to Unique Physical and Chemical Conditions}{7}
+\contentsline {subsubsection}{Bacterial Diversity Defined by Nutrients}{8}
+\contentsline {subsubsection}{Bacterial Biogeography}{8}
+\contentsline {subsubsection}{Bacterial Diversity of Lake Vostok}{9}
+\contentsline {subsection}{\numberline {1.7.2}Archaea: Methanogens and Haloarchaea}{10}
+\contentsline {subsection}{\numberline {1.7.3}Eucarya Perform Multiple Ecosystem Roles}{11}
+\contentsline {subsection}{\numberline {1.7.4}functional}{12}
+\contentsline {subsection}{\numberline {1.7.5}whole ecosystem}{12}
+\contentsline {section}{\numberline {1.8}Limitations of Taxonomic Surveys}{12}
+\contentsline {section}{\numberline {1.9}`-omics' Approaches}{12}
+\contentsline {subsection}{\numberline {1.9.1}Viruses}{13}
+\contentsline {section}{\numberline {1.10}Objectives}{13}
+\contentsline {chapter}{\numberline {2}Metaproteogenomic analysis of Ace Lake}{15}
 \contentsline {section}{Co-authorship Statement}{15}
-\contentsline {section}{\numberline {3.1}Abstract}{16}
-\contentsline {section}{\numberline {3.2}Introduction}{17}
-\contentsline {section}{\numberline {3.3}Materials and Methods}{18}
-\contentsline {subsection}{\numberline {3.3.1}Samples and DNA Sequencing}{18}
-\contentsline {subsection}{\numberline {3.3.2}Transmission Electron Microscopy}{18}
-\contentsline {subsection}{\numberline {3.3.3}Metagenomic Assembly and Annotation}{18}
-\contentsline {subsection}{\numberline {3.3.4}Genome Completion and Annotation}{19}
-\contentsline {subsection}{\numberline {3.3.5}Phylogenetic Analysis}{19}
-\contentsline {subsection}{\numberline {3.3.6}Metaproteomic Analysis}{20}
-\contentsline {subsection}{\numberline {3.3.7}Algal Host--Virus and Virophage Dynamics}{20}
-\contentsline {section}{\numberline {3.4}Results and Discussion}{21}
-\contentsline {subsection}{\numberline {3.4.1}Dominance of Phycodnaviruses in Organic Lake}{21}
-\contentsline {subsection}{\numberline {3.4.2}Complete Genome of an Organic Lake Virophage}{23}
-\contentsline {subsection}{\numberline {3.4.3}Gene Exchange Between Virophage and Phycodnaviruses}{23}
-\contentsline {subsection}{\numberline {3.4.4}Virophage in Algal Host--Phycodnavirus Dynamics}{25}
-\contentsline {subsection}{\numberline {3.4.5}Ecological Relevance of Virophages in Aquatic Systems}{25}
-\contentsline {section}{\numberline {3.5}Acknowledgements}{26}
-\contentsline {chapter}{\numberline {4}Organic Lake}{27}
-\contentsline {chapter}{\numberline {5}Ace Lake Viral Genomes}{29}
-\contentsline {chapter}{\numberline {6}Conclusions and Future Work}{31}
-\contentsline {chapter}{\numberline {7}Appendices}{33}
+\contentsline {chapter}{\numberline {3}Virophage Control of Antarctic Algal Host--Virus Dynamics}{17}
+\contentsline {section}{Co-authorship Statement}{17}
+\contentsline {section}{\numberline {3.1}Abstract}{18}
+\contentsline {section}{\numberline {3.2}Introduction}{19}
+\contentsline {section}{\numberline {3.3}Materials and Methods}{20}
+\contentsline {subsection}{\numberline {3.3.1}Samples and DNA Sequencing}{20}
+\contentsline {subsection}{\numberline {3.3.2}Transmission Electron Microscopy}{20}
+\contentsline {subsection}{\numberline {3.3.3}Metagenomic Assembly and Annotation}{20}
+\contentsline {subsection}{\numberline {3.3.4}Genome Completion and Annotation}{21}
+\contentsline {subsection}{\numberline {3.3.5}Phylogenetic Analysis}{21}
+\contentsline {subsection}{\numberline {3.3.6}Metaproteomic Analysis}{22}
+\contentsline {subsection}{\numberline {3.3.7}Algal Host--Virus and Virophage Dynamics}{22}
+\contentsline {section}{\numberline {3.4}Results and Discussion}{23}
+\contentsline {subsection}{\numberline {3.4.1}Dominance of Phycodnaviruses in Organic Lake}{23}
+\contentsline {subsection}{\numberline {3.4.2}Complete Genome of an Organic Lake Virophage}{25}
+\contentsline {subsection}{\numberline {3.4.3}Gene Exchange Between Virophage and Phycodnaviruses}{25}
+\contentsline {subsection}{\numberline {3.4.4}Virophage in Algal Host--Phycodnavirus Dynamics}{27}
+\contentsline {subsection}{\numberline {3.4.5}Ecological Relevance of Virophages in Aquatic Systems}{27}
+\contentsline {section}{\numberline {3.5}Acknowledgements}{28}
+\contentsline {chapter}{\numberline {4}Organic Lake}{29}
+\contentsline {chapter}{\numberline {5}Ace Lake Viral Genomes}{31}
+\contentsline {chapter}{\numberline {6}Conclusions and Future Work}{33}
+\contentsline {chapter}{\numberline {7}Appendices}{35}
