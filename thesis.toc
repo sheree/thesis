@@ -12,9 +12,9 @@
 \contentsline {section}{\numberline {1.4}The Vestfold Hills, East Antarctica}{6}
 \contentsline {subsection}{\numberline {1.4.1}Biology of the Vestfold Hills}{6}
 \contentsline {subsection}{\numberline {1.4.2}Lakes of the Vestfold Hills}{6}
-\contentsline {subsection}{\numberline {1.4.3}History of studies in Organic Lake}{7}
-\contentsline {subsection}{\numberline {1.4.4}History of studies in Ace Lake}{7}
-\contentsline {section}{\numberline {1.5}Cultivation-based Antarctic microbiology}{7}
+\contentsline {subsection}{\numberline {1.4.3}History of Studies of Organic Lake}{7}
+\contentsline {subsection}{\numberline {1.4.4}History of Studies of Ace Lake}{7}
+\contentsline {section}{\numberline {1.5}Cultivation and microscopy-based Antarctic Microbiology}{7}
 \contentsline {subsection}{\numberline {1.5.1}Eucarya}{7}
 \contentsline {subsection}{\numberline {1.5.2}Bacteria}{7}
 \contentsline {subsection}{\numberline {1.5.3}Archaea}{7}
@@ -27,34 +27,44 @@
 \contentsline {subsubsection}{Bacterial Diversity of Lake Vostok}{9}
 \contentsline {subsection}{\numberline {1.7.2}Archaea: Methanogens and Haloarchaea}{10}
 \contentsline {subsection}{\numberline {1.7.3}Eucarya Perform Multiple Ecosystem Roles}{11}
-\contentsline {subsection}{\numberline {1.7.4}functional}{12}
-\contentsline {subsection}{\numberline {1.7.5}whole ecosystem}{12}
+\contentsline {subsection}{\numberline {1.7.4}Functional Gene Studies of Antarctic Lakes}{12}
+\contentsline {subsection}{\numberline {1.7.5}Integrative Studies to Derive Whole Ecosystem Function}{12}
 \contentsline {section}{\numberline {1.8}Limitations of Taxonomic Surveys}{12}
-\contentsline {section}{\numberline {1.9}`-omics' Approaches}{12}
+\contentsline {section}{\numberline {1.9}`-omics' Approaches}{13}
 \contentsline {subsection}{\numberline {1.9.1}Viruses}{13}
 \contentsline {section}{\numberline {1.10}Objectives}{13}
 \contentsline {chapter}{\numberline {2}Metaproteogenomic analysis of Ace Lake}{15}
 \contentsline {section}{Co-authorship Statement}{15}
-\contentsline {chapter}{\numberline {3}Virophage Control of Antarctic Algal Host--Virus Dynamics}{17}
-\contentsline {section}{Co-authorship Statement}{17}
-\contentsline {section}{\numberline {3.1}Abstract}{18}
-\contentsline {section}{\numberline {3.2}Introduction}{19}
-\contentsline {section}{\numberline {3.3}Materials and Methods}{20}
-\contentsline {subsection}{\numberline {3.3.1}Samples and DNA Sequencing}{20}
-\contentsline {subsection}{\numberline {3.3.2}Transmission Electron Microscopy}{20}
-\contentsline {subsection}{\numberline {3.3.3}Metagenomic Assembly and Annotation}{20}
-\contentsline {subsection}{\numberline {3.3.4}Genome Completion and Annotation}{21}
-\contentsline {subsection}{\numberline {3.3.5}Phylogenetic Analysis}{21}
-\contentsline {subsection}{\numberline {3.3.6}Metaproteomic Analysis}{22}
-\contentsline {subsection}{\numberline {3.3.7}Algal Host--Virus and Virophage Dynamics}{22}
-\contentsline {section}{\numberline {3.4}Results and Discussion}{23}
-\contentsline {subsection}{\numberline {3.4.1}Dominance of Phycodnaviruses in Organic Lake}{23}
-\contentsline {subsection}{\numberline {3.4.2}Complete Genome of an Organic Lake Virophage}{25}
-\contentsline {subsection}{\numberline {3.4.3}Gene Exchange Between Virophage and Phycodnaviruses}{25}
-\contentsline {subsection}{\numberline {3.4.4}Virophage in Algal Host--Phycodnavirus Dynamics}{27}
-\contentsline {subsection}{\numberline {3.4.5}Ecological Relevance of Virophages in Aquatic Systems}{27}
-\contentsline {section}{\numberline {3.5}Acknowledgements}{28}
-\contentsline {chapter}{\numberline {4}Organic Lake}{29}
-\contentsline {chapter}{\numberline {5}Ace Lake Viral Genomes}{31}
-\contentsline {chapter}{\numberline {6}Conclusions and Future Work}{33}
-\contentsline {chapter}{\numberline {7}Appendices}{35}
+\contentsline {section}{Relation to Thesis Objectives}{17}
+\contentsline {section}{\numberline {2.1}Summary}{17}
+\contentsline {section}{\numberline {2.2}Introduction}{17}
+\contentsline {section}{\numberline {2.3}Materials and Methods}{17}
+\contentsline {subsection}{\numberline {2.3.1}Ace Lake Samples}{17}
+\contentsline {subsection}{\numberline {2.3.2}DNA sequencing and data cleanup}{18}
+\contentsline {subsection}{\numberline {2.3.3}Epifluorescence Microscopy}{18}
+\contentsline {subsection}{\numberline {2.3.4}Metaproteomic Analysis}{19}
+\contentsline {section}{\numberline {2.4}Results and Discussion}{21}
+\contentsline {section}{\numberline {2.5}Conclusions}{23}
+\contentsline {chapter}{\numberline {3}Virophage Control of Antarctic Algal Host--Virus Dynamics}{25}
+\contentsline {section}{Co-authorship Statement}{25}
+\contentsline {section}{\numberline {3.1}Abstract}{26}
+\contentsline {section}{\numberline {3.2}Introduction}{27}
+\contentsline {section}{\numberline {3.3}Materials and Methods}{28}
+\contentsline {subsection}{\numberline {3.3.1}Samples and DNA Sequencing}{28}
+\contentsline {subsection}{\numberline {3.3.2}Transmission Electron Microscopy}{28}
+\contentsline {subsection}{\numberline {3.3.3}Metagenomic Assembly and Annotation}{28}
+\contentsline {subsection}{\numberline {3.3.4}Genome Completion and Annotation}{29}
+\contentsline {subsection}{\numberline {3.3.5}Phylogenetic Analysis}{29}
+\contentsline {subsection}{\numberline {3.3.6}Metaproteomic Analysis}{30}
+\contentsline {subsection}{\numberline {3.3.7}Algal Host--Virus and Virophage Dynamics}{30}
+\contentsline {section}{\numberline {3.4}Results and Discussion}{31}
+\contentsline {subsection}{\numberline {3.4.1}Dominance of Phycodnaviruses in Organic Lake}{31}
+\contentsline {subsection}{\numberline {3.4.2}Complete Genome of an Organic Lake Virophage}{33}
+\contentsline {subsection}{\numberline {3.4.3}Gene Exchange Between Virophage and Phycodnaviruses}{33}
+\contentsline {subsection}{\numberline {3.4.4}Virophage in Algal Host--Phycodnavirus Dynamics}{35}
+\contentsline {subsection}{\numberline {3.4.5}Ecological Relevance of Virophages in Aquatic Systems}{35}
+\contentsline {section}{\numberline {3.5}Acknowledgements}{36}
+\contentsline {chapter}{\numberline {4}Organic Lake}{37}
+\contentsline {chapter}{\numberline {5}Ace Lake Viral Genomes}{39}
+\contentsline {chapter}{\numberline {6}Conclusions and Future Work}{41}
+\contentsline {chapter}{\numberline {7}Appendices}{43}
