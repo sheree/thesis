@@ -2,6 +2,22 @@
 
 \documentclass[11pt,a4paper,twoside,openright]{report}
 
+
+\usepackage[round,authoryear]{natbib} %This package is to make nice author date citations.
+\renewcommand\cite{\citep} %in the natlab package cite is citep so change command to cite.
+\renewcommand{\bibname}{References} %This is make the bibliography be called references.
+
+\usepackage{hyperref} %this package makes hyperlinks between citations and figures and the body of the text.
+\newcommand{\figref}[1]{(\autoref{#1})} %this command will correctly name a figure reference, surround with parentheses and make it a clickable link.
+
+\usepackage{setspace} %this package is to set the line space easily
+\onehalfspacing %set to one and a half spacing
+
+\usepackage{graphicx} %This is some package for including figures images.
+%\usepackage{float} %This package helps modify floats, ie. figures and tables.
+%\floatstyle{boxed} %This puts the figures in little boxes.
+%\restylefloat{figure} %Makes sure it just does it to the figures.
+
 %End-preamble----------------------------------------------------------------------------------------
 
 \begin{document}
@@ -9,33 +25,14 @@
 %Frontmatter-----------------------------------------------------------------------------------------
 
  %Title page
-\begin{titlepage}
-\begin{center}
-\vspace*{1in}
-\LARGE{Molecular Study of Saline Antarctic Lakes from a Whole Ecosystem Perspective}
-\par
-\vspace{1.5in}
-\large{Sheree Yau}
-\par
-\vspace{0.5in}
-\large{2012}
-\par
-\vfill
-A thesis submitted for the degree of Doctor of Philosophy
-\par
-\vspace{0.5in}
-School of Biotechnology and Biomolecular Sciences
-\par
-University of New South Wales, Australia
-\par
-\vspace{0.5in}
-\end{center}
-\end{titlepage}
+\include{title}
 
 %number the front matter with roman numerals
 \pagenumbering{roman}
 
 \include{originality}
+\include{copyright}
+\include{authenticity}
 \include{acknowledgements}
 \include{publist}
 \include{abstract}
@@ -63,8 +60,11 @@ University of New South Wales, Australia
 
 %Endmatter-----------------------------------------------------------------------------------------
 
-\bibliographystyle{plain}
-\bibliography{thesis}
+\singlespacing
+\bibliographystyle{mybibstyle}
+\bibliography{Thesis}
+
+
 \include{appendices}
 
 %End-endmatter-------------------------------------------------------------------------------------

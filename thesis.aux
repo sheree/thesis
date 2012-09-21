@@ -1,5 +1,20 @@
 \relax 
+\ifx\hyper@anchor\@undefined
+\global \let \oldcontentsline\contentsline
+\gdef \contentsline#1#2#3#4{\oldcontentsline{#1}{#2}{#3}}
+\global \let \oldnewlabel\newlabel
+\gdef \newlabel#1#2{\newlabelxx{#1}#2}
+\gdef \newlabelxx#1#2#3#4#5#6{\oldnewlabel{#1}{{#2}{#3}}}
+\AtEndDocument{\let \contentsline\oldcontentsline
+\let \newlabel\oldnewlabel}
+\else
+\global \let \hyper@last\relax 
+\fi
+
+\@input{title.aux}
 \@input{originality.aux}
+\@input{copyright.aux}
+\@input{authenticity.aux}
 \@input{acknowledgements.aux}
 \@input{publist.aux}
 \@input{abstract.aux}
@@ -9,6 +24,11 @@
 \@input{orglake.aux}
 \@input{viruses.aux}
 \@input{conc.aux}
-\bibstyle{plain}
-\bibdata{thesis}
+\bibstyle{mybibstyle}
+\bibdata{Thesis}
+\bibcite{Bird1991}{{1}{1991}{{Bird \emph  {et~al.}}}{{Bird, Chivas, Radnell, and Burton}}}
+\bibcite{Bowman2000}{{2}{2000{a}}{{Bowman \emph  {et~al.}}}{{Bowman, McCammon, and Rea}}}
+\bibcite{Bowman2000a}{{3}{2000{b}}{{Bowman \emph  {et~al.}}}{{Bowman, Rea, McCammon, and McMeekin}}}
+\bibcite{Burton1981}{{4}{1981}{{Burton}}{{}}}
+\bibcite{Gibson1999}{{5}{1999}{{Gibson}}{{}}}
 \@input{appendices.aux}

@@ -1,0 +1,53 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bird \emph{et~al.}(1991)Bird, Chivas, Radnell, and Burton]{Bird1991}
+Bird M., Chivas A.~R., Radnell C.~J., and Burton H.~R.
+\newblock {Sedimentological and stable-isotope evolution of lakes in the
+  Vestfold Hills, Antarctica}.
+\newblock \emph{Palaeogeography, Palaeoclimatology, Palaeoecology}, 84\penalty0
+  (1-4):\penalty0 109--130, May 1991.
+\newblock ISSN 00310182.
+\newblock \doi{10.1016/0031-0182(91)90039-T}.
+\newblock URL
+  \url{http://linkinghub.elsevier.com/retrieve/pii/003101829190039T}.
+
+\bibitem[Bowman \emph{et~al.}(2000{\natexlab{a}})Bowman, McCammon, and
+  Rea]{Bowman2000}
+Bowman J.~P., McCammon S., and Rea S.~M.
+\newblock {The microbial composition of three limnologically disparate
+  hypersaline Antarctic lakes}.
+\newblock \emph{FEMS microbiology}, 183:\penalty0 81--88, 2000{\natexlab{a}}.
+\newblock URL
+  \url{http://onlinelibrary.wiley.com/doi/10.1111/j.1574-6968.2000.tb08937.x/f%
+ull}.
+
+\bibitem[Bowman \emph{et~al.}(2000{\natexlab{b}})Bowman, Rea, McCammon, and
+  McMeekin]{Bowman2000a}
+Bowman J.~P., Rea S.~M., McCammon S.~A., and McMeekin T.~A.
+\newblock {Diversity and community structure within anoxic sediment from marine
+  salinity meromictic lakes and a coastal meromictic marine basin, Vestfold
+  Hills, Eastern Antarctica}.
+\newblock \emph{Environmental Microbiology}, 2\penalty0 (2):\penalty0 227--237,
+  April 2000{\natexlab{b}}.
+\newblock ISSN 1462-2912.
+\newblock \doi{10.1046/j.1462-2920.2000.00097.x}.
+\newblock URL \url{http://doi.wiley.com/10.1046/j.1462-2920.2000.00097.x}.
+
+\bibitem[Burton(1981)]{Burton1981}
+Burton H.~R.
+\newblock {Chemistry , physics and evolution of Antarctic saline lakes}.
+\newblock \emph{Hydrobiologia}, 82\penalty0 (1):\penalty0 339--362, 1981.
+
+\bibitem[Gibson(1999)]{Gibson1999}
+Gibson J.
+\newblock {The meromictic lakes and stratified marine basins of the Vestfold
+  Hills, East Antarctica}.
+\newblock \emph{Antarctic Science}, 11\penalty0 (2):\penalty0 175--192, 1999.
+\newblock URL \url{http://journals.cambridge.org/abstract\_S0954102099000243}.
+
+\end{thebibliography}
