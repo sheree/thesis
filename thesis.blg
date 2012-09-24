@@ -1,4 +1,5 @@
-This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
 A level-1 auxiliary file: title.aux
 A level-1 auxiliary file: originality.aux
@@ -8,7 +9,7 @@ A level-1 auxiliary file: acknowledgements.aux
 A level-1 auxiliary file: publist.aux
 A level-1 auxiliary file: abstract.aux
 A level-1 auxiliary file: intro.aux
-White space in argument---line 72 of file intro.aux
+White space in argument---line 73 of file intro.aux
  : \citation{Inman
  :                 2005,Wingham2006,Lukin2011,Gramling2012,Jones2012}
 I'm skipping whatever remains of this command
@@ -20,41 +21,20 @@ A level-1 auxiliary file: conc.aux
 The style file: mybibstyle.bst
 A level-1 auxiliary file: appendices.aux
 Database file #1: Thesis.bib
-Warning--I didn't find a database entry for "Hodgeson2012"
 Warning--I didn't find a database entry for "Laybourne-Parry1997"
-Warning--I didn't find a database entry for "Mickucki2009"
 Warning--I didn't find a database entry for "Green1988"
-Warning--I didn't find a database entry for "Siegert2005"
-Warning--I didn't find a database entry for "Siegert2001"
-Warning--I didn't find a database entry for "Siegert"
-Warning--I didn't find a database entry for "Burke1988"
-Warning--I didn't find a database entry for "Laybourne-Parry1992"
 Warning--I didn't find a database entry for "Bronge1996"
-Warning--I didn't find a database entry for "Pickard1986"
-Warning--I didn't find a database entry for "Law1959"
-Warning--I didn't find a database entry for "Johnstone1973"
-Warning--I didn't find a database entry for "Gibson"
-Warning--I didn't find a database entry for "1999"
-Warning--I didn't find a database entry for "Gordon2000"
-Warning--I didn't find a database entry for "Christner2001"
-Warning--I didn't find a database entry for "Purdy2003"
-Warning--I didn't find a database entry for "Karr2006"
-Warning--I didn't find a database entry for "Matsuzaki2006"
-Warning--I didn't find a database entry for "Kurosawa2010"
-Warning--I didn't find a database entry for "Bielewicz2011"
 Warning--I didn't find a database entry for "Pearce2003"
 Warning--I didn't find a database entry for "Karr2005"
 Warning--I didn't find a database entry for "Pearce2005"
 Warning--I didn't find a database entry for "Unrein2005"
 Warning--I didn't find a database entry for "Glatz2006"
-Warning--I didn't find a database entry for "Mikucki2007"
 Warning--I didn't find a database entry for "Mosier2007"
 Warning--I didn't find a database entry for "Schiaffino2009"
 Warning--I didn't find a database entry for "Villaescusa2010"
 Warning--I didn't find a database entry for "Olsen1998"
 Warning--I didn't find a database entry for "Voytek1999"
 Warning--I didn't find a database entry for "Karr2003"
-Warning--I didn't find a database entry for "Mikucki2009"
 Warning--I didn't find a database entry for "Bowman2000b"
 Warning--I didn't find a database entry for "Lauro2011"
 Warning--I didn't find a database entry for "Kurasawa2010"
@@ -84,45 +64,46 @@ Warning--I didn't find a database entry for "Hennes1995"
 Warning--I didn't find a database entry for "Noble1998"
 Warning--I didn't find a database entry for "Proctor1990"
 Warning--I didn't find a database entry for "Suttle1990"
-You've used 5 entries,
-            2773 wiz_defined-function locations,
-            779 strings with 7702 characters,
-and the built_in function-call counts, 2528 in all, are:
-= -- 242
-> -- 128
-< -- 2
-+ -- 45
-- -- 39
-* -- 233
-:= -- 399
-add.period$ -- 23
-call.type$ -- 5
-change.case$ -- 28
-chr.to.int$ -- 4
-cite$ -- 10
-duplicate$ -- 103
-empty$ -- 201
-format.name$ -- 44
-if$ -- 514
+Warning--empty journal in Karr2006
+You've used 22 entries,
+            2735 wiz_defined-function locations,
+            893 strings with 12048 characters,
+and the built_in function-call counts, 11577 in all, are:
+= -- 1068
+> -- 807
+< -- 9
++ -- 272
+- -- 249
+* -- 1107
+:= -- 1868
+add.period$ -- 69
+call.type$ -- 22
+change.case$ -- 148
+chr.to.int$ -- 21
+cite$ -- 45
+duplicate$ -- 404
+empty$ -- 750
+format.name$ -- 277
+if$ -- 2305
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 5
-newline$ -- 41
-num.names$ -- 20
-pop$ -- 40
+missing$ -- 22
+newline$ -- 120
+num.names$ -- 90
+pop$ -- 197
 preamble$ -- 1
-purify$ -- 23
+purify$ -- 126
 quote$ -- 0
-skip$ -- 69
+skip$ -- 336
 stack$ -- 0
-substring$ -- 129
-swap$ -- 9
-text.length$ -- 0
+substring$ -- 575
+swap$ -- 31
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 55
-warning$ -- 0
-while$ -- 25
+type$ -- 242
+warning$ -- 1
+while$ -- 112
 width$ -- 0
-write$ -- 88
+write$ -- 298
 (There was 1 error message)

@@ -4,26 +4,26 @@
 \contentsline {chapter}{Acknowledgements}{vii}{chapter*.4}
 \contentsline {chapter}{List of Publications}{ix}{chapter*.5}
 \contentsline {chapter}{Abstract}{xi}{chapter*.6}
-\contentsline {chapter}{\numberline {1}General Introduction}{3}{chapter.1}
+\contentsline {chapter}{\numberline {1}General introduction}{3}{chapter.1}
 \contentsline {section}{Co-authorship Statement}{3}{section*.10}
 \contentsline {section}{\numberline {1.1}Introduction}{4}{section.1.1}
-\contentsline {section}{\numberline {1.2}Antarctic Lakes}{4}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Ice-bound Lakes}{5}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}Rock-bound Lakes}{5}{subsection.1.2.2}
-\contentsline {section}{\numberline {1.3}Coastal Oases}{6}{section.1.3}
+\contentsline {section}{\numberline {1.2}Antarctic lakes}{4}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Ice-bound lakes}{5}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Rock-bound lakes}{5}{subsection.1.2.2}
+\contentsline {section}{\numberline {1.3}Coastal oases}{6}{section.1.3}
 \contentsline {section}{\numberline {1.4}The Vestfold Hills, East Antarctica}{6}{section.1.4}
 \contentsline {subsection}{\numberline {1.4.1}Biology of the Vestfold Hills}{7}{subsection.1.4.1}
 \contentsline {subsection}{\numberline {1.4.2}Lakes of the Vestfold Hills}{7}{subsection.1.4.2}
-\contentsline {subsection}{\numberline {1.4.3}History of Studies of Organic Lake}{7}{subsection.1.4.3}
-\contentsline {subsection}{\numberline {1.4.4}History of Studies of Ace Lake}{7}{subsection.1.4.4}
-\contentsline {section}{\numberline {1.5}Cultivation and microscopy-based Antarctic Microbiology}{7}{section.1.5}
-\contentsline {subsection}{\numberline {1.5.1}Eucarya}{7}{subsection.1.5.1}
-\contentsline {subsection}{\numberline {1.5.2}Bacteria}{7}{subsection.1.5.2}
-\contentsline {subsection}{\numberline {1.5.3}Archaea}{7}{subsection.1.5.3}
-\contentsline {subsection}{\numberline {1.5.4}Viruses}{7}{subsection.1.5.4}
-\contentsline {section}{\numberline {1.6}Molecular Approaches Used in Antarctic Lake Systems}{8}{section.1.6}
-\contentsline {section}{\numberline {1.7}Insights from Antarctic Molecular Studies}{9}{section.1.7}
-\contentsline {subsection}{\numberline {1.7.1}Bacterial Diversity: Adaptation to Unique Physical and Chemical Conditions}{9}{subsection.1.7.1}
+\contentsline {subsection}{\numberline {1.4.3}History of studies of Organic Lake}{7}{subsection.1.4.3}
+\contentsline {subsection}{\numberline {1.4.4}History of studies of Ace Lake}{7}{subsection.1.4.4}
+\contentsline {section}{\numberline {1.5}Cultivation and microscopy-based Antarctic microbiology}{7}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Eucarya}{8}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}Bacteria}{8}{subsection.1.5.2}
+\contentsline {subsection}{\numberline {1.5.3}Archaea}{8}{subsection.1.5.3}
+\contentsline {subsection}{\numberline {1.5.4}Viruses}{8}{subsection.1.5.4}
+\contentsline {section}{\numberline {1.6}Molecular approaches used in Antarctic lake systems}{9}{section.1.6}
+\contentsline {section}{\numberline {1.7}Insights from Antarctic molecular studies}{9}{section.1.7}
+\contentsline {subsection}{\numberline {1.7.1}Bacterial diversity: adaptation to unique physical and chemical conditions}{9}{subsection.1.7.1}
 \contentsline {subsubsection}{Bacterial Diversity Defined by Nutrients}{10}{section*.11}
 \contentsline {subsubsection}{Bacterial Biogeography}{10}{section*.12}
 \contentsline {subsubsection}{Bacterial Diversity of Lake Vostok}{11}{section*.13}
@@ -70,4 +70,4 @@
 \contentsline {chapter}{\numberline {4}Organic Lake}{47}{chapter.4}
 \contentsline {chapter}{\numberline {5}Ace Lake Viral Genomes}{49}{chapter.5}
 \contentsline {chapter}{\numberline {6}Conclusions and Future Work}{51}{chapter.6}
-\contentsline {chapter}{\numberline {7}Appendices}{55}{chapter.7}
+\contentsline {chapter}{\numberline {7}Appendices}{57}{chapter.7}

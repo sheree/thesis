@@ -1,30 +1,31 @@
-\begin{thebibliography}{5}
+\begin{thebibliography}{22}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
+\bibitem[Bielewicz \emph{et~al.}(2011)Bielewicz, Bell, Kong, Friedberg, Priscu,
+  and Morgan-Kiss]{Bielewicz2011}
+Bielewicz S., Bell E., Kong W., Friedberg I., Priscu J.~C., and Morgan-Kiss
+  R.~M.
+\newblock {Protist diversity in a permanently ice-covered Antarctic lake during
+  the polar night transition.}
+\newblock \emph{The ISME journal}, 5\penalty0 (9):\penalty0 1559--1564, 2011.
+
 \bibitem[Bird \emph{et~al.}(1991)Bird, Chivas, Radnell, and Burton]{Bird1991}
-Bird M., Chivas A.~R., Radnell C.~J., and Burton H.~R.
+Bird M.~I., Chivas A.~R., Radnell C.~J., and Burton H.~R.
 \newblock {Sedimentological and stable-isotope evolution of lakes in the
   Vestfold Hills, Antarctica}.
 \newblock \emph{Palaeogeography, Palaeoclimatology, Palaeoecology}, 84\penalty0
-  (1-4):\penalty0 109--130, May 1991.
-\newblock ISSN 00310182.
-\newblock \doi{10.1016/0031-0182(91)90039-T}.
-\newblock URL
-  \url{http://linkinghub.elsevier.com/retrieve/pii/003101829190039T}.
+  (1-4):\penalty0 109--130, 1991.
 
 \bibitem[Bowman \emph{et~al.}(2000{\natexlab{a}})Bowman, McCammon, and
   Rea]{Bowman2000}
-Bowman J.~P., McCammon S., and Rea S.~M.
+Bowman J.~P., McCammon S.~A., and Rea S.~M.
 \newblock {The microbial composition of three limnologically disparate
   hypersaline Antarctic lakes}.
 \newblock \emph{FEMS microbiology}, 183:\penalty0 81--88, 2000{\natexlab{a}}.
-\newblock URL
-  \url{http://onlinelibrary.wiley.com/doi/10.1111/j.1574-6968.2000.tb08937.x/f%
-ull}.
 
 \bibitem[Bowman \emph{et~al.}(2000{\natexlab{b}})Bowman, Rea, McCammon, and
   McMeekin]{Bowman2000a}
@@ -33,21 +34,127 @@ Bowman J.~P., Rea S.~M., McCammon S.~A., and McMeekin T.~A.
   salinity meromictic lakes and a coastal meromictic marine basin, Vestfold
   Hills, Eastern Antarctica}.
 \newblock \emph{Environmental Microbiology}, 2\penalty0 (2):\penalty0 227--237,
-  April 2000{\natexlab{b}}.
-\newblock ISSN 1462-2912.
-\newblock \doi{10.1046/j.1462-2920.2000.00097.x}.
-\newblock URL \url{http://doi.wiley.com/10.1046/j.1462-2920.2000.00097.x}.
+  2000{\natexlab{b}}.
+
+\bibitem[Burke and Burton(1988)]{Burke1988}
+Burke C. and Burton H.~R.
+\newblock {Photosynthetic bacteria in meromictic lakes and stratified fjords of
+  the Vestfold Hills, Antarctica}.
+\newblock \emph{Hydrobiologia}, 165\penalty0 (1):\penalty0 13--23, 1988.
 
 \bibitem[Burton(1981)]{Burton1981}
 Burton H.~R.
 \newblock {Chemistry , physics and evolution of Antarctic saline lakes}.
 \newblock \emph{Hydrobiologia}, 82\penalty0 (1):\penalty0 339--362, 1981.
 
+\bibitem[Christner \emph{et~al.}(2001)Christner, Mosley-Thompson, Thompson, and
+  Reeve]{Christner2001}
+Christner B.~C., Mosley-Thompson E., Thompson L.~G., and Reeve J.~N.
+\newblock {Isolation of bacteria and 16S rDNAs from Lake Vostok accretion ice}.
+\newblock \emph{Environmental Microbiology}, 3\penalty0 (9):\penalty0 570--577,
+  2001.
+
 \bibitem[Gibson(1999)]{Gibson1999}
-Gibson J.
+Gibson J.~A.
 \newblock {The meromictic lakes and stratified marine basins of the Vestfold
   Hills, East Antarctica}.
 \newblock \emph{Antarctic Science}, 11\penalty0 (2):\penalty0 175--192, 1999.
-\newblock URL \url{http://journals.cambridge.org/abstract\_S0954102099000243}.
+
+\bibitem[Gordon \emph{et~al.}(2000)Gordon, Priscu, and Giovanonni]{Gordon2000}
+Gordon D., Priscu J.~C., and Giovanonni S.~J.
+\newblock {Origin and Phylogeny of Microbes Living in Permanent Antarctic Lake
+  Ice}.
+\newblock \emph{Microbial ecology}, 39\penalty0 (3):\penalty0 197--202, 2000.
+
+\bibitem[Hodgson(2012)]{Hodgson2012}
+Hodgson D.~A.
+\newblock {Antarctic Lakes}.
+\newblock In Bengtsson L., Herschy R.~W., and Fairbridge R.~W., editors,
+  \emph{Encyclopedia of Lakes and Reservoirs}, chapter Antarctic, pages 26--31.
+  Springer, Dordrecht, 2012.
+\newblock ISBN 978-1-4020-5616-1.
+\newblock \doi{10.1007/978-1-4020-4410-6}.
+
+\bibitem[Johnstone \emph{et~al.}(1973)Johnstone, Brown, and
+  Lugg]{Johnstone1973}
+Johnstone G., Brown D., and Lugg D.
+\newblock {The biology of the Vestfold Hills, Antarctica}.
+\newblock \emph{ANARE Scientific Reports}, 123:\penalty0 1--60, 1973.
+
+\bibitem[Karr \emph{et~al.}(2006)Karr, Ng, Belchik, Matthew, Madigan,
+  Achenbach, and Sattley]{Karr2006}
+Karr E.~A., Ng~J.~M., Belchik S.~M., Matthew W., Madigan M.~T., Achenbach
+  L.~A., and Sattley W.~M.
+\newblock {Biodiversity of Methanogenic and Other Archaea in the Permanently
+  Frozen Lake Fryxell , Antarctica}.
+\newblock 72\penalty0 (2):\penalty0 1663--1666, 2006.
+
+\bibitem[Kurosawa \emph{et~al.}(2010)Kurosawa, Sato, Kawarabayasi, Imura, and
+  Naganuma]{Kurosawa2010}
+Kurosawa N., Sato S., Kawarabayasi Y., Imura S., and Naganuma T.
+\newblock {Archaeal and bacterial community structures in the anoxic sediment
+  of Antarctic meromictic lake Nurume-Ike}.
+\newblock \emph{Polar Science}, 4\penalty0 (2):\penalty0 421--429, 2010.
+
+\bibitem[Law(1959)]{Law1959}
+Law P.
+\newblock {The Vestfold Hills}.
+\newblock \emph{ANARE Reports}, 1:\penalty0 1--50, 1959.
+
+\bibitem[Laybourn-Parry and Marchant(1992)]{Laybourn-Parry1992}
+Laybourn-Parry J. and Marchant H.~J.
+\newblock {The microbial plankton of freshwater lakes in the Vestfold Hills,
+  Antarctica}.
+\newblock \emph{Polar Biology}, 12\penalty0 (3-4):\penalty0 405--410, 1992.
+
+\bibitem[Matsuzaki \emph{et~al.}(2006)Matsuzaki, Kubota, Satoh, Kunugi, Ban,
+  and Imura]{Matsuzaki2006}
+Matsuzaki M., Kubota K., Satoh T., Kunugi M., Ban S., and Imura S.
+\newblock {Dimethyl sulfoxide-respiring bacteria in Suribati Ike, a hypersaline
+  lake, in Antarctica and the marine environment}.
+\newblock \emph{Polar Bioscience}, 20:\penalty0 73--81, 2006.
+
+\bibitem[Mikucki and Priscu(2007)]{Mikucki2007}
+Mikucki J.~A. and Priscu J.~C.
+\newblock {Bacterial diversity associated with Blood Falls, a subglacial
+  outflow from the Taylor Glacier, Antarctica.}
+\newblock \emph{Applied and environmental microbiology}, 73\penalty0
+  (12):\penalty0 4029--39, 2007.
+
+\bibitem[Mikucki \emph{et~al.}(2009)Mikucki, Pearson, Johnston, Turchyn,
+  Farquhar, Schrag, Anbar, Priscu, and Lee]{Mikucki2009}
+Mikucki J.~A., Pearson A., Johnston D.~T., Turchyn A.~V., Farquhar J., Schrag
+  D.~P., Anbar A.~D., Priscu J.~C., and Lee P.~A.
+\newblock {A contemporary microbially maintained subglacial ferrous "ocean".}
+\newblock \emph{Science (New York, N.Y.)}, 324\penalty0 (5925):\penalty0
+  397--400, 2009.
+
+\bibitem[Pickard \emph{et~al.}(1986)Pickard, Adamson, and Heath]{Pickard1986}
+Pickard J., Adamson D.~A., and Heath C.~W.
+\newblock {The evolution of Watts Lake, Vestfold Hills, East Antarctica, from
+  marine inlet to freshwater lake}.
+\newblock \emph{Palaeogeography, Palaeoclimatology, Palaeoecology},
+  53:\penalty0 271--288, 1986.
+
+\bibitem[Purdy \emph{et~al.}(2003)Purdy, Nedwell, and Embley]{Purdy2003}
+Purdy K., Nedwell D., and Embley T.
+\newblock {Analysis of the sulfate-reducing bacterial and methanogenic archaeal
+  populations in contrasting Antarctic sediments}.
+\newblock \emph{Applied and environmental \ldots}, 69\penalty0 (6):\penalty0
+  3181--3191, 2003.
+
+\bibitem[Siegert \emph{et~al.}(2001)Siegert, Ellis-Evans, Tranter, Mayer,
+  Petit, Salamatin, and Priscu]{Siegert2001}
+Siegert M.~J., Ellis-Evans J.~C., Tranter M., Mayer C., Petit J.-R., Salamatin
+  A., and Priscu J.~C.
+\newblock {Physical, chemical and biological processes in Lake Vostok and other
+  Antarctic subglacial lakes.}
+\newblock \emph{Nature}, 414\penalty0 (6864):\penalty0 603--609, 2001.
+
+\bibitem[Siegert \emph{et~al.}(2005)Siegert, Carter, Tabacco, Popov, and
+  Blankenship]{Siegert2005}
+Siegert M.~J., Carter S., Tabacco I., Popov S., and Blankenship D.~D.
+\newblock {A revised inventory of Antarctic subglacial lakes}.
+\newblock \emph{Antarctic Science}, 17\penalty0 (03):\penalty0 453--460, 2005.
 
 \end{thebibliography}
