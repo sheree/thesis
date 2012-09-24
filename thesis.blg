@@ -8,8 +8,9 @@ A level-1 auxiliary file: authenticity.aux
 A level-1 auxiliary file: acknowledgements.aux
 A level-1 auxiliary file: publist.aux
 A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: acronyms.aux
 A level-1 auxiliary file: intro.aux
-White space in argument---line 73 of file intro.aux
+White space in argument---line 87 of file intro.aux
  : \citation{Inman
  :                 2005,Wingham2006,Lukin2011,Gramling2012,Jones2012}
 I'm skipping whatever remains of this command
@@ -21,9 +22,6 @@ A level-1 auxiliary file: conc.aux
 The style file: mybibstyle.bst
 A level-1 auxiliary file: appendices.aux
 Database file #1: Thesis.bib
-Warning--I didn't find a database entry for "Laybourne-Parry1997"
-Warning--I didn't find a database entry for "Green1988"
-Warning--I didn't find a database entry for "Bronge1996"
 Warning--I didn't find a database entry for "Pearce2003"
 Warning--I didn't find a database entry for "Karr2005"
 Warning--I didn't find a database entry for "Pearce2005"
@@ -35,20 +33,20 @@ Warning--I didn't find a database entry for "Villaescusa2010"
 Warning--I didn't find a database entry for "Olsen1998"
 Warning--I didn't find a database entry for "Voytek1999"
 Warning--I didn't find a database entry for "Karr2003"
-Warning--I didn't find a database entry for "Bowman2000b"
 Warning--I didn't find a database entry for "Lauro2011"
-Warning--I didn't find a database entry for "Kurasawa2010"
 Warning--I didn't find a database entry for "Priscu1999"
 Warning--I didn't find a database entry for "Christner2000"
 Warning--I didn't find a database entry for "Bulat2004"
 Warning--I didn't find a database entry for "Lavire2007"
 Warning--I didn't find a database entry for "Alekhina2007"
+Warning--I didn't find a database entry for "Kurasawa2010"
 Warning--I didn't find a database entry for "Franzmann1992"
 Warning--I didn't find a database entry for "Franmann1997"
 Warning--I didn't find a database entry for "Saunders2003"
 Warning--I didn't find a database entry for "Allen2009"
 Warning--I didn't find a database entry for "Cavicchioli2006"
 Warning--I didn't find a database entry for "Williams2011"
+Warning--I didn't find a database entry for "Bowman2000b"
 Warning--I didn't find a database entry for "Franzmann1988"
 Warning--I didn't find a database entry for "Ward1997"
 Warning--I didn't find a database entry for "Ward2005"
@@ -65,45 +63,46 @@ Warning--I didn't find a database entry for "Noble1998"
 Warning--I didn't find a database entry for "Proctor1990"
 Warning--I didn't find a database entry for "Suttle1990"
 Warning--empty journal in Karr2006
-You've used 22 entries,
+Warning--empty publisher in Laybourn-Parry1997
+You've used 23 entries,
             2735 wiz_defined-function locations,
-            893 strings with 12048 characters,
-and the built_in function-call counts, 11577 in all, are:
-= -- 1068
-> -- 807
-< -- 9
-+ -- 272
-- -- 249
-* -- 1107
-:= -- 1868
-add.period$ -- 69
-call.type$ -- 22
-change.case$ -- 148
-chr.to.int$ -- 21
-cite$ -- 45
-duplicate$ -- 404
-empty$ -- 750
-format.name$ -- 277
-if$ -- 2305
+            892 strings with 12306 characters,
+and the built_in function-call counts, 12074 in all, are:
+= -- 1114
+> -- 817
+< -- 10
++ -- 276
+- -- 252
+* -- 1136
+:= -- 1937
+add.period$ -- 71
+call.type$ -- 23
+change.case$ -- 151
+chr.to.int$ -- 22
+cite$ -- 48
+duplicate$ -- 436
+empty$ -- 804
+format.name$ -- 279
+if$ -- 2419
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 22
-newline$ -- 120
-num.names$ -- 90
-pop$ -- 197
+missing$ -- 23
+newline$ -- 123
+num.names$ -- 96
+pop$ -- 210
 preamble$ -- 1
-purify$ -- 126
+purify$ -- 128
 quote$ -- 0
-skip$ -- 336
+skip$ -- 356
 stack$ -- 0
-substring$ -- 575
-swap$ -- 31
+substring$ -- 615
+swap$ -- 40
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 242
-warning$ -- 1
-while$ -- 112
+type$ -- 253
+warning$ -- 2
+while$ -- 119
 width$ -- 0
-write$ -- 298
+write$ -- 308
 (There was 1 error message)
