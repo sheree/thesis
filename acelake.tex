@@ -92,8 +92,8 @@ As the next sample taken after sampling at 12.7 m was at 5 m, and then 11.5 m, d
 the simplest explanation for the \ac{GSB} signature at 5 m is carry-over from sampling of the dense biomass at 12.7 m. 
 
 A sonde probe (YSI model 6600, YSI Inc., Yellow Springs, OH, USA) was used to record depth, dissolved oxygen content, pH, salinity, temperature and turbidity throughout the water column of the lake. 
-Total organic carbon was determined using a total organic carbon analyzer, TOC-5000A (Shimadzu, Kyoto, Japan) equipped with a ASI-5000A auto sampler (Shimadzu), and particulate organic carbon by standard protocols \\
-(http://www.epa.gov/glnpo/lmmb/methods/about.html) 
+Total organic carbon was determined using a total organic carbon analyzer, TOC-5000A (Shimadzu, Kyoto, Japan) equipped with a ASI-5000A auto sampler (Shimadzu), and particulate organic carbon by standard protocols 
+\url{(http://www.epa.gov/glnpo/lmmb/methods/about.html)} 
 at the Centre for Water and Waste Technology, UNSW.
 
 \subsection{DNA sequencing and data cleanup}
@@ -116,6 +116,17 @@ As the sffToCA (v5.3) pre-processor removes all reads with a perfect prefix of a
 After this process, $<$5\% of the reads belonged to clusters of duplicates with three or more reads, and \ac{COG} of proteins classification of these reads showed an over-representation of category L (replication, recombination and repair) that includes mobile genetic elements, which are often duplicated, suggesting a potential biological significance for the duplicated reads. 
 It is possible these residual duplications are a result of high gene copy number or localized fragility of DNA sequences that might be biasing the shear points.
 
+\subsection{Metagenomic DNA assembly and annotation}
+Mosaic assemblies were generated for each sample fraction using Celera \ac{WGS} Assembler v5.3 (Myers et al., 2000). 
+For each assembly, the runtime parameters used were as outlined for 454 sequencing data in the published standard operating procedure\\ 
+\url{(http://sourceforge.net/apps/mediawiki/wgs-assembler/index.php?title 1⁄4SFF\_SOP)}. 
+As none of the samples can be considered clonal, these are regarded as stringent assemblies (Rusch et al., 2007). 
+Each 0.1 $\mu$m fraction assembly was a hybrid of Sanger and 454 read data, wherein the estimated genome size was manually set to minimize the number of unitigs from abundant organisms being falsely classified as degenerate (Rusch et al., 2007). 
+Annotation of each sample fraction assembly was carried out using an in-house pipeline, wherein the pipeline stages consisted of genomic feature detection and subsequent annotation. 
+Detected features consisted of \acp{ORF}, transfer \acs{RNA} and \ac{rRNA}. Each detected \ac{ORF} was further annotated by \ac{BLAST} comparison against \ac{NR}, Swissprot and \ac{KEGG}-peptide sequence databases and by \ac{HMMER} comparison against \ac{TIGRFAM} (Haft et al., 2001), \ac{COG} (Tatusov et al, 1997; Tatusov et al., 2003) and known marker genes (von Mering et al., 2007).
+In all cases the cut-off e-value was a maximum of 1e$-$5. 
+
+
 \subsection{Epifluorescence microscopy}
 Samples of unfiltered lake water and the flow-through from 3.0 and 0.8 $\mu$m filters from all depths were collected on November 2008 and fixed on site in formalin 1\% (v/v). 
 The samples were stored at $-$80$^{\circ}$C for subsequent direct counts of cells and \acp{VLP}. 
@@ -129,20 +140,10 @@ Samples were visualised under wide-blue filter set (excitation 460--495 nm, emis
 
 
 \subsection{Metaproteomic analysis}
-Proteins were extracted from membrane filters from all 0.1 $\mu$m fractions from the six depths (5, 11.5, 12.7, 14, 18 and 23 m), and one-dimensional sodium dodecyl sulphate–polyacrylamide gel electrophoresis \ac{1D-SDS PAGE} and in gel trypsin digestion, liquid chromatography and mass \ac{MS}, and \ac{MS-MS} data analysis and validation of protein identifications performed as previously described (Ng et al., 2010), with minor modifications.
+Proteins were extracted from membrane filters from all 0.1 $\mu$m fractions from the six depths (5, 11.5, 12.7, 14, 18 and 23 m), and \ac{1D-SDS PAGE} and in gel trypsin digestion, liquid chromatography and mass \ac{MS}, and \ac{MS-MS} data analysis and validation of protein identifications performed as previously described (Ng et al., 2010), with minor modifications.
 The specta generated were searched against the protein sequence database corresponding to that depth constructed from the 0.1 $\mu$m mosaic assemblies. 
-
-Mosaic assemblies were generated for each sample fraction using Celera \ac{WGS} Assembler v5.3 (Myers et al., 2000). 
-For each assembly, the runtime parameters used were as outlined for 454 sequencing data in the published standard operating procedure\\ 
-(http://sourceforge.net/apps/mediawiki/wgs-assembler/index.php?title 1⁄4SFF\_SOP). 
-As none of the samples can be considered clonal, these are regarded as stringent assemblies (Rusch et al., 2007). 
-Each 0.1 $\mu$m fraction assembly was a hybrid of Sanger and 454 read data, wherein the estimated genome size was manually set to minimize the number of unitigs from abundant organisms being falsely classified as degenerate (Rusch et al., 2007). 
-Annotation of each sample fraction assembly was carried out using an in-house pipeline, wherein the pipeline stages consisted of genomic feature detection and subsequent annotation. 
-Detected features consisted of \acp{ORF}, transfer \acs{RNA} and \ac{rRNA}. Each detected \ac{ORF} was further annotated by \ac{BLAST} comparison against \ac{NR}, Swissprot and \ac{KEGG}-peptide sequence databases and by \ac{HMMER} comparison against TIGRFAM (Haft et al., 2001), \ac{COG} (Tatusov et al, 1997; Tatusov et al., 2003) and known marker genes (von Mering et al., 2007).
-In all cases the cut-off e-value was a maximum of 1e$-$5. 
-
 The number of protein sequences in each database were as follows: 5 m, 138,208; 11.5 m, 133,948; 12.7 m, 27,142; 14 m, 62,436; 18 m, 71,512; and 23 m, 128,878. 
-Scaffold (version Scaffold\_2\_05\_01, Proteome Software Inc., Portland, OR, USA) was used to validate MS/MS-based peptide and protein identifications. 
+Scaffold (version Scaffold\_2\_05\_01, Proteome Software Inc., Portland, OR, USA) was used to validate \ac{MS-MS}-based peptide and protein identifications. 
 Peptide and protein identifications were accepted if they could be established at $>$95\% and 99\% probability, respectively, as specified by the Peptide Prophet algorithm (Keller et al., 2002). 
 Protein identifications required the identification of at least two peptides.
  
@@ -156,7 +157,7 @@ As longer proteins are more likely to be detected, the average spectral counts w
 This value is equivalent to the normalized spectral abundance factor (Florens et al., 2006; Zybailov et al., 2006). 
 In order to compare the relative abundance of proteins between depths, the normalized spectral abundance factor was divided by the average read depth of the contig (scaffold or degenerate) to which the protein mapped. 
 
-If $>$90\%of a scaffold’s length consisted of surrogate (highly degenerate unitig) sequence, the average read depth of the surrogate was used. 
+If $>$90\% of a scaffold’s length consisted of surrogate (highly degenerate unitig) sequence, the average read depth of the surrogate was used. 
 For identified proteins that were part of a protein group the longest protein length and largest read depth value in the group was used. 
 Pairwise comparisons of each zone were conducted on COG assigned proteins. 
 The normalized spectral counts from each protein was aggregated based on their COG annotation. 
