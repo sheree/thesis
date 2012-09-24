@@ -56,7 +56,6 @@ ENTRY
     howpublished
     institution
     isbn
-    issn
     journal
     key
     note
@@ -271,13 +270,6 @@ FUNCTION {format.isbn}
 { isbn empty$
     { "" }
     { new.block "ISBN " isbn * }
-  if$
-}
-
-FUNCTION {format.issn}
-{ issn empty$
-    { "" }
-    { new.block "ISSN " issn * }
   if$
 }
 
@@ -711,7 +703,6 @@ FUNCTION {article}
       if$
     }
   if$
-  format.issn output
   new.block
   note output
   fin.entry
@@ -924,7 +915,6 @@ FUNCTION {misc}
   howpublished new.block.checka
   howpublished output
   format.date output
-  format.issn output
   format.url output
   new.block
   note output
