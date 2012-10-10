@@ -686,6 +686,8 @@ FUNCTION {article}
   format.authors "author" output.check
   author format.key output
   new.block
+  " (" * year * ")" *
+  new.block
   format.title "title" output.check
   new.block
   crossref missing$
@@ -694,7 +696,6 @@ FUNCTION {article}
         { format.vol.num.pages output }
         { format.vol.num.eid output }
       if$
-      format.date "year" output.check
     }
     { format.article.crossref output.nonnull
       eid empty$

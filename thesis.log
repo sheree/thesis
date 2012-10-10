@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.21)  2 OCT 2012 10:26
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.21)  6 OCT 2012 22:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -438,59 +438,13 @@ although it is yet undefined on input line 167.
 Package acronym Info: Label `acro:DGGE' newly defined as it shall be overridden
 
 although it is yet undefined on input line 169.
-
-
-Package natbib Warning: Citation `Villaescusa2010' on page 6 undefined on input
- line 170.
-
-
-Package natbib Warning: Citation `Olsen1998' on page 6 undefined on input line 
-171.
-
-
-Package natbib Warning: Citation `Karr2003' on page 6 undefined on input line 1
-72.
-
-[6]
-
-Package natbib Warning: Citation `Lauro2011' on page 7 undefined on input line 
-189.
-
-
-Package natbib Warning: Citation `Pearce2003' on page 7 undefined on input line
- 192.
-
-
-Package natbib Warning: Citation `Pearce2005' on page 7 undefined on input line
- 192.
-
-
-Package natbib Warning: Citation `Pearce2005' on page 7 undefined on input line
- 192.
-
-[7]
-
-Package natbib Warning: Citation `Villaescusa2010' on page 8 undefined on input
- line 197.
-
-
-Package natbib Warning: Citation `Pearce2005' on page 8 undefined on input line
- 201.
-
-
-Package natbib Warning: Citation `Pearce2005' on page 8 undefined on input line
- 202.
-
+ [6] [7]
 Package acronym Info: Label `acro:GSB' newly defined as it shall be overridden
 although it is yet undefined on input line 213.
+ [8]
 
-Package natbib Warning: Citation `Karr2003' on page 8 undefined on input line 2
-15.
-
-[8]
-
-Package natbib Warning: Citation `Inman 2005' on page 9 undefined on input line
- 229.
+Package natbib Warning: Citation `Inman2005' on page 9 undefined on input line 
+229.
 
 
 Package natbib Warning: Citation `Wingham2006' on page 9 undefined on input lin
@@ -508,14 +462,6 @@ ne 229.
 Package natbib Warning: Citation `Jones2012' on page 9 undefined on input line 
 229.
 
-
-Package natbib Warning: Citation `Priscu1999' on page 9 undefined on input line
- 230.
-
-
-Package natbib Warning: Citation `Christner2000' on page 9 undefined on input l
-ine 230.
-
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -527,117 +473,20 @@ Package natbib Warning: Citation `Bulat2004' on page 9 undefined on input line
 Package natbib Warning: Citation `Lavire2007' on page 9 undefined on input line
  233.
 
-
-Package natbib Warning: Citation `Alekhina2007' on page 9 undefined on input li
-ne 236.
-
-
-Package natbib Warning: Citation `Christner2000' on page 9 undefined on input l
-ine 237.
-
-[9]
-
-Package natbib Warning: Citation `Kurasawa2010' on page 10 undefined on input l
-ine 243.
-
-
-Package natbib Warning: Citation `Lauro2011' on page 10 undefined on input line
- 243.
-
-
-Package natbib Warning: Citation `Franzmann1992' on page 10 undefined on input 
-line 252.
-
-
-Package natbib Warning: Citation `Franmann1997' on page 10 undefined on input l
-ine 252.
-
-
-Package natbib Warning: Citation `Saunders2003' on page 10 undefined on input l
-ine 252.
-
-
-Package natbib Warning: Citation `Allen2009' on page 10 undefined on input line
- 252.
-
-
-Package natbib Warning: Citation `Cavicchioli2006' on page 10 undefined on inpu
-t line 253.
-
-
-Package natbib Warning: Citation `Williams2011' on page 10 undefined on input l
-ine 253.
-
-
-Overfull \hbox (7.09622pt too wide) in paragraph at lines 249--254
-\OT1/cmr/m/n/10.95 H$[]$:CO$[]$ (\OT1/cmr/m/it/10.95 Methanoge-nium frigidum\OT
-1/cmr/m/n/10.95 ) and methy-lamine/methanol (\OT1/cmr/m/it/10.95 Methanococ-
- []
-
-[10]
-
-Package natbib Warning: Citation `Kurasawa2010' on page 11 undefined on input l
-ine 264.
-
+[9] [10]
 
 Package natbib Warning: Citation `Bowman2000b' on page 11 undefined on input li
-ne 267.
-
-
-Package natbib Warning: Citation `Bowman2000b' on page 11 undefined on input li
-ne 268.
+ne 265.
 
 
 Package natbib Warning: Citation `Franzmann1988' on page 11 undefined on input 
-line 269.
+line 266.
 
 [11]
 Package acronym Info: Label `acro:DMSO' newly defined as it shall be overridden
 
-although it is yet undefined on input line 306.
-
-
-Package natbib Warning: Citation `Ward1997' on page 12 undefined on input line 
-307.
-
-
-Package natbib Warning: Citation `Ward2005' on page 12 undefined on input line 
-309.
-
-[12]
-
-Package natbib Warning: Citation `Bell2003' on page 13 undefined on input line 
-312.
-
-
-Package natbib Warning: Citation `Laybourn-Parry2005' on page 13 undefined on i
-nput line 313.
-
-
-Package natbib Warning: Citation `Lopez-Bueno2009' on page 13 undefined on inpu
-t line 323.
-
-
-Package natbib Warning: Citation `Ng2010' on page 13 undefined on input line 32
-3.
-
-
-Package natbib Warning: Citation `Lauro2011' on page 13 undefined on input line
- 323.
-
-
-Package natbib Warning: Citation `Yau2011' on page 13 undefined on input line 3
-23.
-
-
-Package natbib Warning: Citation `Varin2012' on page 13 undefined on input line
- 323.
-
-
-Package natbib Warning: Citation `Ng2010' on page 13 undefined on input line 32
-5.
-
-[13]) [14]
+although it is yet undefined on input line 303.
+ [12] [13]) [14]
 \openout2 = `acelake.aux'.
 
  (./acelake.tex
@@ -664,16 +513,8 @@ Package acronym Info: Label `acro:GOS' newly defined as it shall be overridden
 although it is yet undefined on input line 58.
 
 
-Package natbib Warning: Citation `Lauro2011' on page 17 undefined on input line
- 61.
-
-
 Package natbib Warning: Citation `Ng2010' on page 17 undefined on input line 63
 .
-
-
-Package natbib Warning: Citation `Lauro2011' on page 17 undefined on input line
- 63.
 
 Package acronym Info: Label `acro:SRB' newly defined as it shall be overridden
 although it is yet undefined on input line 64.
@@ -689,16 +530,8 @@ Package natbib Warning: Citation `Ng2010' on page 18 undefined on input line 69
 .
 
 
-Package natbib Warning: Citation `Lauro2011' on page 18 undefined on input line
- 70.
-
-
 Package natbib Warning: Citation `Ng2010' on page 18 undefined on input line 71
 .
-
-
-Package natbib Warning: Citation `Lauro2011' on page 18 undefined on input line
- 71.
 
 
 Package natbib Warning: Citation `Ng2010' on page 18 undefined on input line 72
@@ -754,14 +587,15 @@ although it is yet undefined on input line 143.
 Package acronym Info: Label `acro:MS-MS' newly defined as it shall be overridde
 n
 although it is yet undefined on input line 143.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [21]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
-Underfull \vbox (badness 5077) has occurred while \output is active []
-
- [22]
+[22]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -774,8 +608,7 @@ Missing character: There is no “ in font cmr10!
 Package acronym Info: Label `acro:STAMP' newly defined as it shall be overridde
 n
 although it is yet undefined on input line 167.
-
-[23]
+ [23]
 
 Package natbib Warning: Citation `Hennes1995' on page 24 undefined on input lin
 e 189.
@@ -798,14 +631,14 @@ e 198.
 [24] [25]
 Package acronym Info: Label `acro:CRISPR' newly defined as it shall be overridd
 en
-although it is yet undefined on input line 259.
+although it is yet undefined on input line 260.
 Package acronym Info: Label `acro:CAS' newly defined as it shall be overridden
-although it is yet undefined on input line 259.
+although it is yet undefined on input line 260.
  [26]
 Package acronym Info: Label `acro:ABC' newly defined as it shall be overridden
-although it is yet undefined on input line 267.
+although it is yet undefined on input line 268.
 Package acronym Info: Label `acro:DOC' newly defined as it shall be overridden
-although it is yet undefined on input line 272.
+although it is yet undefined on input line 273.
 Missing character: There is no Â in font cmr10!
 Missing character: There is no – in font cmr10!
 
@@ -917,21 +750,26 @@ Chapter 6.
 
 
 ]
+Underfull \hbox (badness 2035) in paragraph at lines 17--21
+\OT1/cmr/m/n/10.95 ANTARC-TIC PHYTOFLAG-EL-LATE , PYRA-MI-MONAS GE-LIDI-
+ []
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no „ in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+[53]
 Missing character: There is no â in font cmr10!
 Missing character: There is no „ in font cmr10!
 Missing character: There is no ¢ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no „ in font cmr10!
 Missing character: There is no ¢ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no „ in font cmr10!
-Missing character: There is no ¢ in font cmr10!
- [53] [54] [55]) [56]
+ [54] [55] [56] [57]) [58]
 \openout2 = `appendices.aux'.
 
  (./appendices.tex
 Chapter 7.
-) [57
+) [59
 
 
 ]
@@ -951,13 +789,13 @@ Package rerunfilecheck Info: File `thesis.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 79.
  ) 
 Here is how much of TeX's memory you used:
- 6506 strings out of 493488
- 93152 string characters out of 3141347
- 183305 words of memory out of 3000000
- 9379 multiletter control sequences out of 15000+200000
+ 6540 strings out of 493488
+ 93811 string characters out of 3141347
+ 185409 words of memory out of 3000000
+ 9398 multiletter control sequences out of 15000+200000
  11196 words of font info for 39 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 29i,6n,33p,562b,523s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,6n,33p,562b,565s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
@@ -973,10 +811,10 @@ ive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
 ve/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
 /2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/
 2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on thesis.pdf (80 pages, 344346 bytes).
+Output written on thesis.pdf (82 pages, 351888 bytes).
 PDF statistics:
- 1239 PDF objects out of 1440 (max. 8388607)
- 1130 compressed objects within 12 object streams
- 286 named destinations out of 1000 (max. 500000)
+ 1334 PDF objects out of 1440 (max. 8388607)
+ 1222 compressed objects within 13 object streams
+ 301 named destinations out of 1000 (max. 500000)
  521 words of extra memory for PDF output out of 10000 (max. 10000000)
 

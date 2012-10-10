@@ -37,7 +37,7 @@
 \contentsline {subsection}{\numberline {2.3.2}DNA sequencing and data cleanup}{19}{subsection.2.3.2}
 \contentsline {subsection}{\numberline {2.3.3}Metagenomic DNA assembly and annotation}{20}{subsection.2.3.3}
 \contentsline {subsection}{\numberline {2.3.4}Epifluorescence microscopy}{21}{subsection.2.3.4}
-\contentsline {subsection}{\numberline {2.3.5}Metaproteomic analysis}{21}{subsection.2.3.5}
+\contentsline {subsection}{\numberline {2.3.5}Metaproteomic analysis}{22}{subsection.2.3.5}
 \contentsline {section}{\numberline {2.4}Results and discussion}{23}{section.2.4}
 \contentsline {subsection}{\numberline {2.4.1}Epifluorescence microscopy methodology}{23}{subsection.2.4.1}
 \contentsline {subsection}{\numberline {2.4.2}Community stratification supported by cell and VLP densities}{25}{subsection.2.4.2}
@@ -65,4 +65,4 @@
 \contentsline {chapter}{\numberline {4}Organic Lake}{47}{chapter.4}
 \contentsline {chapter}{\numberline {5}Ace Lake Viral Genomes}{49}{chapter.5}
 \contentsline {chapter}{\numberline {6}Conclusions and future work}{51}{chapter.6}
-\contentsline {chapter}{\numberline {7}Appendices}{57}{chapter.7}
+\contentsline {chapter}{\numberline {7}Appendices}{59}{chapter.7}
