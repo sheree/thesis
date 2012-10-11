@@ -1,4 +1,4 @@
-\begin{thebibliography}{54}
+\begin{thebibliography}{63}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -12,6 +12,12 @@ Alekhina I.~A., Marie D., Petit J.~R., Lukin V.~V., Zubkov V.~M., and Bulat
 \newblock {Molecular analysis of bacterial diversity in kerosene-based drilling
   fluid from the deep ice borehole at Vostok, East Antarctica}.
 \newblock \emph{FEMS microbiology ecology}, 59\penalty0 (2):\penalty0 289--299.
+
+\bibitem[Anesio and Bellas(2011)]{Anesio2011}
+Anesio A.~M. and Bellas C.~M. (2011).
+\newblock {Are low temperature habitats hot spots of microbial evolution driven
+  by viruses?}
+\newblock \emph{Trends in microbiology}, 19\penalty0 (2):\penalty0 52--57.
 
 \bibitem[Bell and Laybourn-Parry(2003)]{Bell2003}
 Bell E.~M. and Laybourn-Parry J. (2003).
@@ -61,6 +67,17 @@ Budinoff C.~R., Loar S.~N., LeCleir G.~R., Wilhelm S.~W., and Buchan A. (2011).
   microscopy using Anodisc™ 13 membranes.}
 \newblock \emph{BMC microbiology}, 11\penalty0 (1):\penalty0 168.
 
+\bibitem[Bulat \emph{et~al.}(2004)Bulat, Alekhina, Blot, Petit, de~Angelis,
+  Wagenbach, Lipenkov, Vasilyeva, Wloch, Raynaud, and Lukin]{Bulat2004}
+Bulat S.~A., Alekhina I.~A., Blot M., Petit J.-R., Angelis M.de, Wagenbach D.,
+  Lipenkov V.~Y., Vasilyeva L.~P., Wloch D.~M., Raynaud D., and Lukin V.~V.
+  (2004).
+\newblock {DNA signature of thermophilic bacteria from the aged accretion ice
+  of Lake Vostok, Antarctica: implications for searching for life in extreme
+  icy environments}.
+\newblock \emph{International Journal of Astrobiology}, 3\penalty0
+  (1):\penalty0 1--12.
+
 \bibitem[Burke and Burton(1988)]{Burke1988}
 Burke C. and Burton H.~R. (1988).
 \newblock {Photosynthetic bacteria in meromictic lakes and stratified fjords of
@@ -84,6 +101,14 @@ Diemer G.~S., Kyle J.~E., and Stedman K.~M.
   as an alternative to Anodisc ™ membrane filters .}, 2012.
 \newblock URL
   \url{http://www.web.pdx.edu/~kstedman/PCTE\_virus\_counting\_protocol.pdf}.
+
+\bibitem[Franzmann \emph{et~al.}(1988)Franzmann, Stackebrandt, Sanderson,
+  Volkman, Cameron, Stevenson, and Mcmeekin]{Franzmann1988}
+Franzmann P.~D., Stackebrandt E., Sanderson K., Volkman J.~K., Cameron D.,
+  Stevenson P., and Mcmeekin T.~A. (1988).
+\newblock {Halorubrum lacusprofundi sp. nov., a halophilic bacterium idolated
+  from Deep Lake, Antarctica}.
+\newblock \emph{Systematic \& Applied Microbiology}, 11:\penalty0 20--27.
 
 \bibitem[Gibson(1999)]{Gibson1999}
 Gibson J.~A. (1999).
@@ -149,6 +174,12 @@ Karr E.~A., Ng~J.~M., Belchik S.~M., Matthew W.~M., Madigan M.~T., Achenbach
   Frozen Lake Fryxell , Antarctica}.
 \newblock 72\penalty0 (2):\penalty0 1663--1666.
 
+\bibitem[Kepner \emph{et~al.}(1998)Kepner, Wharton, and Suttle]{Kepner1998}
+Kepner R.~L., Wharton R.~A., and Suttle C.~A. (1998).
+\newblock {Viruses in Antarctic lakes}.
+\newblock \emph{Limnology and oceanography}, 43\penalty0 (7):\penalty0
+  1754--1761.
+
 \bibitem[Kurosawa \emph{et~al.}(2010)Kurosawa, Sato, Kawarabayasi, Imura, and
   Naganuma]{Kurosawa2010}
 Kurosawa N., Sato S., Kawarabayasi Y., Imura S., and Naganuma T. (2010).
@@ -177,6 +208,19 @@ Laybourn-Parry J.
   \emph{Ecosystem Dynamics in a Antarctic Ice-Free Landscapes}, pages 231--240.
   Rotterdam, 1997.
 
+\bibitem[Laybourn-Parry and Pearce(2007)]{Laybourn-Parry2007}
+Laybourn-Parry J. and Pearce D.~A. (2007).
+\newblock {The biodiversity and ecology of Antarctic lakes: models for
+  evolution.}
+\newblock \emph{Philosophical transactions of the Royal Society of London.
+  Series B, Biological sciences}, 362\penalty0 (1488):\penalty0 2273--2289.
+
+\bibitem[Laybourn-Parry \emph{et~al.}(2001)Laybourn-Parry, Hofer, and
+  Sommaruga]{Laybourn-Parry2001}
+Laybourn-Parry J., Hofer J.~S., and Sommaruga R. (2001).
+\newblock {Viruses in the plankton of freshwater and saline Antarctic lakes}.
+\newblock \emph{Freshwater Biology}, 46\penalty0 (9):\penalty0 1279--1287.
+
 \bibitem[Laybourn-Parry \emph{et~al.}(2005)Laybourn-Parry, Marshall, and
   Marchant]{Laybourn-Parry2005}
 Laybourn-Parry J., Marshall W.~A., and Marchant H.~J. (2005).
@@ -190,6 +234,13 @@ L\'{o}pez-Bueno A., Tamames J., Vel\'{a}zquez D., Moya A., Quesada A., and
   Alcam\'{\i} A. (2009).
 \newblock {High diversity of the viral community from an Antarctic lake}.
 \newblock \emph{Science}, 326:\penalty0 858--861.
+
+\bibitem[Madan \emph{et~al.}(2005)Madan, Marshall, and
+  Laybourn-Parry]{Madan2005}
+Madan N.~J., Marshall W.~A., and Laybourn-Parry J. (2005).
+\newblock {Virus and microbial loop dynamics over an annual cycle in three
+  contrasting Antarctic lakes}.
+\newblock \emph{Freshwater B}, 50:\penalty0 1291--1300.
 
 \bibitem[Matsuzaki \emph{et~al.}(2006)Matsuzaki, Kubota, Satoh, Kunugi, Ban,
   and Imura]{Matsuzaki2006}
@@ -217,6 +268,12 @@ Mikucki J.~A., Pearson A., Johnston D.~T., Turchyn A.~V., Farquhar J., Schrag
 Mosier A.~C., Murray A.~E., and Fritsen C.~H. (2007).
 \newblock {Microbiota within the perennial ice cover of Lake Vida, Antarctica}.
 \newblock \emph{FEMS microbiology ecology}, 59\penalty0 (2):\penalty0 274--288.
+
+\bibitem[Ng(2010)]{Ng2010b}
+Ng~C.
+\newblock \emph{{A metaproteomic analysis of microbial communities in Ace Lake,
+  Antarctic}}.
+\newblock PhD thesis, University of New South Wales, 2010.
 
 \bibitem[Ng \emph{et~al.}(2010)Ng, DeMaere, Williams, Lauro, Raftery, Gibson,
   Andrews-Pfannkoch, Lewis, Hoffman, Thomas, and Cavicchioli]{Ng2010a}
@@ -298,8 +355,8 @@ Purdy K., Nedwell D., and Embley T. (2003).
   Eguiarte, Karl, Sathyendranath, Platt, Bermingham, Gallardo, Tamayo-Castillo,
   Ferrari, Strausberg, Nealson, Friedman, Frazier, and Venter]{Rusch2007}
 Rusch D.~B., Halpern A.~L., Sutton G., Heidelberg K.~B., Williamson S.~J.,
-  Yooseph S., Wu~D., Eisen J.~A., Hoffman J.~M., Remington K., Beeson K., Tran
-  B., Smith H., Baden-Tillson H., Stewart C., Thorpe J., Freeman J.,
+  Yooseph S., Wu~D., Eisen J.~A., Hoffman J.~M., Remington K., Beeson K.~Y.,
+  Tran B., Smith H., Baden-Tillson H., Stewart C., Thorpe J., Freeman J.,
   Andrews-Pfannkoch C., Venter J.~E., Li~K., Kravitz S., Heidelberg J.~F.,
   Utterback T., Rogers Y.-H., Falc\'{o}n L.~I., Souza V., Bonilla-Rosso G.,
   Eguiarte L.~E., Karl D.~M., Sathyendranath S., Platt T., Bermingham E.,
@@ -308,6 +365,14 @@ Rusch D.~B., Halpern A.~L., Sutton G., Heidelberg K.~B., Williamson S.~J.,
 \newblock {The Sorcerer II Global Ocean Sampling expedition: northwest Atlantic
   through eastern tropical Pacific.}
 \newblock \emph{PLoS biology}, 5\penalty0 (3):\penalty0 e77.
+
+\bibitem[S\"{a}wstr\"{o}m \emph{et~al.}(2007)S\"{a}wstr\"{o}m, Anesio,
+  Gran\'{e}li, and Laybourn-Parry]{Sawstrom2007}
+S\"{a}wstr\"{o}m C., Anesio A.~M., Gran\'{e}li W., and Laybourn-Parry J.
+  (2007).
+\newblock {Seasonal viral loop dynamics in two large ultraoligotrophic
+  Antarctic freshwater lakes}.
+\newblock \emph{Microbial ecology}, 53:\penalty0 1--11.
 
 \bibitem[Schiaffino \emph{et~al.}(2009)Schiaffino, Unrein, Gasol, Farias,
   Estevez, Balagu\'{e}, and Izaguirre]{Schiaffino2009}

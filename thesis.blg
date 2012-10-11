@@ -18,15 +18,18 @@ A level-1 auxiliary file: conc.aux
 The style file: mybibstyle.bst
 A level-1 auxiliary file: appendices.aux
 Database file #1: Thesis.bib
+Repeated entry---line 1301 of file Thesis.bib
+ : @article{Laybourn-Parry2007
+ :                            ,
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "Inman2005"
 Warning--I didn't find a database entry for "Wingham2006"
 Warning--I didn't find a database entry for "Lukin2011"
 Warning--I didn't find a database entry for "Gramling2012"
 Warning--I didn't find a database entry for "Jones2012"
-Warning--I didn't find a database entry for "Bulat2004"
 Warning--I didn't find a database entry for "Lavire2007"
-Warning--I didn't find a database entry for "Bowman2000b"
-Warning--I didn't find a database entry for "Franzmann1988"
+Warning--I didn't find a database entry for "Yau2011"
+Warning--I didn't find a database entry for "Danavoro2011"
 Warning--I didn't find a database entry for "Ng2010"
 Warning--I didn't find a database entry for "Hennes1995"
 Warning--I didn't find a database entry for "Hara1991"
@@ -42,45 +45,45 @@ You can't pop an empty literal stack for entry Torrice2009
 while executing---line 1411 of file mybibstyle.bst
 Warning--there's a number but no volume in Villaescusa2010
 Warning--there's a number but no volume in Ward1997
-You've used 54 entries,
+You've used 63 entries,
             2739 wiz_defined-function locations,
-            1084 strings with 22037 characters,
-and the built_in function-call counts, 31056 in all, are:
-= -- 2775
-> -- 2603
-< -- 18
-+ -- 874
-- -- 819
-* -- 3122
-:= -- 5091
-add.period$ -- 164
-call.type$ -- 54
-change.case$ -- 433
-chr.to.int$ -- 53
-cite$ -- 113
-duplicate$ -- 880
-empty$ -- 1712
-format.name$ -- 885
-if$ -- 6101
+            1153 strings with 24672 characters,
+and the built_in function-call counts, 35663 in all, are:
+= -- 3203
+> -- 2952
+< -- 21
++ -- 991
+- -- 927
+* -- 3575
+:= -- 5846
+add.period$ -- 191
+call.type$ -- 63
+change.case$ -- 495
+chr.to.int$ -- 62
+cite$ -- 131
+duplicate$ -- 1022
+empty$ -- 1982
+format.name$ -- 1006
+if$ -- 7008
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 52
-newline$ -- 278
-num.names$ -- 220
-pop$ -- 641
+missing$ -- 60
+newline$ -- 323
+num.names$ -- 256
+pop$ -- 725
 preamble$ -- 1
-purify$ -- 379
+purify$ -- 433
 quote$ -- 0
-skip$ -- 842
+skip$ -- 972
 stack$ -- 0
-substring$ -- 1346
-swap$ -- 70
+substring$ -- 1558
+swap$ -- 79
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 594
+type$ -- 693
 warning$ -- 5
-while$ -- 268
+while$ -- 311
 width$ -- 0
-write$ -- 658
-(There were 2 error messages)
+write$ -- 767
+(There were 3 error messages)
