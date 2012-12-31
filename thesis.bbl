@@ -1,4 +1,4 @@
-\begin{thebibliography}{63}
+\begin{thebibliography}{64}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -456,5 +456,14 @@ Ward B.~B., Granger J., Maldonado M., Casciotti K., Harris S., and Wells M.
 \newblock {Denitrification in the hypolimnion of permanently ice-covered Lake
   Bonney, Antarctica}.
 \newblock \emph{Aquatic \ldots}, 38\penalty0 (2000):\penalty0 295--307.
+
+\bibitem[Yau \emph{et~al.}(2011)Yau, Lauro, Demaere, Brown, Thomas, Raftery,
+  Andrews-Pfannkoch, Lewis, Hoffman, Gibson, and Cavicchioli]{Yau2011}
+Yau S., Lauro F.~M., Demaere M.~Z., Brown M.~V., Thomas T., Raftery M.~J.,
+  Andrews-Pfannkoch C., Lewis M., Hoffman J.~M., Gibson J.~A., and Cavicchioli
+  R. (2011).
+\newblock {Virophage control of antarctic algal host – virus dynamics}.
+\newblock \emph{Proceedings of the National Academy of Sciences of the United
+  States of America}, 108:\penalty0 6163--6168.
 
 \end{thebibliography}

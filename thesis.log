@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.21)  11 OCT 2012 15:05
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.21)  10 NOV 2012 21:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -477,10 +477,6 @@ although it is yet undefined on input line 303.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [12]
-
-Package natbib Warning: Citation `Yau2011' on page 13 undefined on input line 3
-20.
-
 [13]
 
 Package natbib Warning: Citation `Danavoro2011' on page 14 undefined on input l
@@ -511,19 +507,18 @@ although it is yet undefined on input line 24.
 [17] [18]
 Package acronym Info: Label `acro:GOS' newly defined as it shall be overridden
 although it is yet undefined on input line 58.
-
-
-Package natbib Warning: Citation `Ng2010' on page 19 undefined on input line 63
-.
-
 Package acronym Info: Label `acro:SRB' newly defined as it shall be overridden
 although it is yet undefined on input line 64.
-[19]
+ [19]
 Package acronym Info: Label `acro:NCBI' newly defined as it shall be overridden
 
 although it is yet undefined on input line 66.
 Package acronym Info: Label `acro:NR' newly defined as it shall be overridden
 although it is yet undefined on input line 66.
+
+
+Package natbib Warning: Citation `2010b' on page 20 undefined on input line 66.
+
 
 
 Package natbib Warning: Citation `Ng2010' on page 20 undefined on input line 71
@@ -756,15 +751,19 @@ Missing character: There is no ¢ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no „ in font cmr10!
 Missing character: There is no ¢ in font cmr10!
- [56] [57] [58] [59]) [60]
+ [56] [57] [58] [59]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+ [60]) [61]
 \openout2 = `appendices.aux'.
 
- (./appendices.tex
-Chapter 7.
-) [61
+ (./appendices.tex [62
 
 
 ]
+Chapter 7.
+) [63]
 
 Package natbib Warning: There were undefined citations.
 
@@ -781,13 +780,13 @@ Package rerunfilecheck Info: File `thesis.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 79.
  ) 
 Here is how much of TeX's memory you used:
- 6577 strings out of 493488
- 94476 string characters out of 3141347
- 186071 words of memory out of 3000000
- 9425 multiletter control sequences out of 15000+200000
+ 6583 strings out of 493488
+ 94545 string characters out of 3141347
+ 186207 words of memory out of 3000000
+ 9428 multiletter control sequences out of 15000+200000
  11196 words of font info for 39 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 29i,6n,33p,562b,568s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,6n,33p,562b,589s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
@@ -803,10 +802,10 @@ ive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
 ve/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
 /2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/
 2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on thesis.pdf (84 pages, 357667 bytes).
+Output written on thesis.pdf (86 pages, 358783 bytes).
 PDF statistics:
- 1376 PDF objects out of 1440 (max. 8388607)
- 1262 compressed objects within 13 object streams
- 311 named destinations out of 1000 (max. 500000)
+ 1390 PDF objects out of 1440 (max. 8388607)
+ 1274 compressed objects within 13 object streams
+ 314 named destinations out of 1000 (max. 500000)
  513 words of extra memory for PDF output out of 10000 (max. 10000000)
 
