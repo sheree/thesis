@@ -61,7 +61,18 @@
 \contentsline {subsection}{\numberline {3.4.4}Virophage in algal host--phycodnavirus dynamics}{45}{subsection.3.4.4}
 \contentsline {subsection}{\numberline {3.4.5}Ecological relevance of virophages in aquatic systems}{46}{subsection.3.4.5}
 \contentsline {section}{\numberline {3.5}Acknowledgements}{47}{section.3.5}
-\contentsline {chapter}{\numberline {4}Organic Lake}{49}{chapter.4}
-\contentsline {chapter}{\numberline {5}Ace Lake Viral Genomes}{51}{chapter.5}
-\contentsline {chapter}{\numberline {6}Conclusions and future work}{53}{chapter.6}
-\contentsline {chapter}{\numberline {7}Appendices}{63}{chapter.7}
+\contentsline {chapter}{\numberline {4}Heterotrophic resourcefulness and unusual sulphur biogeochemistry in a hypersaline Antarctic Lake}{49}{chapter.4}
+\contentsline {section}{\numberline {4.1}Abstract}{50}{section.4.1}
+\contentsline {section}{\numberline {4.2}Introduction}{51}{section.4.2}
+\contentsline {section}{\numberline {4.3}Materials and methods}{53}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Characteristics of the lake and sample collection}{53}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Physical and chemical analyses}{54}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Epifluorescence microscopy}{55}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Cellular diversity analyses}{55}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}Analysis of functional potential}{56}{subsection.4.3.5}
+\contentsline {section}{\numberline {4.4}Results and discussion}{57}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Abiotic properties and water column structure}{57}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Overall microbial diversity}{58}{subsection.4.4.2}
+\contentsline {chapter}{\numberline {5}Ace Lake Viral Genomes}{61}{chapter.5}
+\contentsline {chapter}{\numberline {6}Conclusions and future work}{63}{chapter.6}
+\contentsline {chapter}{\numberline {7}Appendices}{75}{chapter.7}

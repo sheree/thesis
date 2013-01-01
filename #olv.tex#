@@ -188,7 +188,7 @@ A large proportion of shotgun sequencing reads (96.2\%) from the 0.1 $\mu$m size
 (tBLASTx with e-value $<$ 1.0e$-$3, minimum alignment length: 60 bp, minimum identity: 60\%). 
 The degree of assembly was high, with 77\% of reads forming part of a scaffold, indicating the sample contained a few abundant taxa of minimal diversity. 
 Forty-five scaffolds were longer than 10 kb; the five longest ranged from 70 to 171 kb. 
-GC content and coverage were used to separate scaffolds into taxonomic groups (Fig. S1). 
+GC content and coverage were used to separate scaffolds into taxonomic groups (Fi. S1). 
 A broad division was evident between low ($\le$ 41\%) and high ($\ge$ 51\%) GC scaffolds suggesting they constituted two taxonomic groups. 
 All scaffolds in the high GC group that could be assigned contained phage homologues, as did the one exceptional low GC scaffold. 
 The low coverage in the high GC group showed bacteriophages were not abundant in the 0.1 $\mu$m fraction. 

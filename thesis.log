@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.21)  10 NOV 2012 21:35
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.21)  2 JAN 2013 01:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -357,14 +357,14 @@ Overfull \hbox (6.67337pt too wide) in paragraph at lines 25--31
 nnkoch,
  []
 
-) [9]
+[9]) [10]
 \openout2 = `abstract.aux'.
 
- (./abstract.tex [10
+ (./abstract.tex) [11
 
 
 
-]) [11] [12
+] [12
 
 
 ] (./thesis.toc [13] [14])
@@ -396,7 +396,7 @@ Overfull \hbox (1.36102pt too wide) in paragraph at lines 5--6
 e gel
  []
 
-[21]) [22]
+[21] [22]) [23]
 \openout2 = `intro.aux'.
 
  (./intro.tex
@@ -715,55 +715,251 @@ Overfull \hbox (4.10135pt too wide) in paragraph at lines 236--236
 
 ]
 Chapter 4.
-) [49]
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+[49]
+Package acronym Info: Label `acro:DMS' newly defined as it shall be overridden
+although it is yet undefined on input line 27.
+Package acronym Info: Label `acro:DMSP' newly defined as it shall be overridden
+
+although it is yet undefined on input line 35.
+ [50]
+Package acronym Info: Label `acro:AAnP' newly defined as it shall be overridden
+
+although it is yet undefined on input line 58.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [51]
+
+Package natbib Warning: Citation `Franzman1987b' on page 52 undefined on input 
+line 60.
+
+
+Package natbib Warning: Citation `Roberts1993' on page 52 undefined on input li
+ne 60.
+
+
+Package natbib Warning: Citation `Zwartz1988' on page 52 undefined on input lin
+e 61.
+
+Package acronym Info: Label `acro:DMS' overridden on input line 62.
+
+Package natbib Warning: Citation `Franzmann' on page 52 undefined on input line
+ 62.
+
+
+Package natbib Warning: Citation `1987b' on page 52 undefined on input line 62.
+
+
+
+Package natbib Warning: Citation `Curran1998' on page 52 undefined on input lin
+e 63.
+
+Package acronym Info: Label `acro:DMSP' overridden on input line 67.
+Package acronym Info: Label `acro:GOS' overridden on input line 76.
+
+Package natbib Warning: Citation `Lauro 2011' on page 52 undefined on input lin
+e 76.
+
+
+Package natbib Warning: Citation `Brown2012' on page 52 undefined on input line
+ 76.
+
+
+Package natbib Warning: Citation `Williams2012b' on page 52 undefined on input 
+line 76.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [52]
+Package acronym Info: Label `acro:DNA' newly defined as it shall be overridden
+although it is yet undefined on input line 88.
+
+
+Package natbib Warning: Citation `Ng2010' on page 53 undefined on input line 88
+.
+
+Package acronym Info: Label `acro:DO' newly defined as it shall be overridden
+although it is yet undefined on input line 92.
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Package acronym Info: Label `acro:TN' newly defined as it shall be overridden
+although it is yet undefined on input line 101.
+Package acronym Info: Label `acro:TDN' newly defined as it shall be overridden
+although it is yet undefined on input line 101.
+Package acronym Info: Label `acro:DRP' newly defined as it shall be overridden
+although it is yet undefined on input line 101.
+Package acronym Info: Label `acro:TP' newly defined as it shall be overridden
+although it is yet undefined on input line 101.
+Package acronym Info: Label `acro:TDP' newly defined as it shall be overridden
+although it is yet undefined on input line 101.
+Package acronym Info: Label `acro:TOC' newly defined as it shall be overridden
+although it is yet undefined on input line 101.
+Package acronym Info: Label `acro:DOC' overridden on input line 101.
+Package acronym Info: Label `acro:TS' newly defined as it shall be overridden
+although it is yet undefined on input line 101.
+Package acronym Info: Label `acro:TDS' newly defined as it shall be overridden
+although it is yet undefined on input line 101.
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Package acronym Info: Label `acro:PCA' newly defined as it shall be overridden
+although it is yet undefined on input line 107.
+[53]
+
+LaTeX Warning: Command \textregistered invalid in math mode on input line 112.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 112.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 112.
+
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no — in font cmr10!
+
+LaTeX Warning: Command \textregistered invalid in math mode on input line 112.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 112.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 112.
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Package acronym Info: Label `acro:VLP' overridden on input line 114.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [54]
+Package acronym Info: Label `acro:SSU' overridden on input line 117.
+Package acronym Info: Label `acro:rRNA' overridden on input line 118.
+Package acronym Info: Label `acro:QIIME' newly defined as it shall be overridde
+n
+although it is yet undefined on input line 120.
+
+
+Package natbib Warning: Citation `Caporaso2010' on page 55 undefined on input l
+ine 120.
+
+Package acronym Info: Label `acro:OTU' newly defined as it shall be overridden
+although it is yet undefined on input line 120.
+Package acronym Info: Label `acro:RDP' newly defined as it shall be overridden
+although it is yet undefined on input line 122.
+Package acronym Info: Label `acro:ANOSIM' newly defined as it shall be overridd
+en
+although it is yet undefined on input line 128.
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+[55]
+Package acronym Info: Label `acro:ORF' overridden on input line 135.
+Package acronym Info: Label `acro:KEGG' overridden on input line 136.
+Package acronym Info: Label `acro:BLAST' overridden on input line 136.
+Package acronym Info: Label `acro:KOBAS' newly defined as it shall be overridde
+n
+although it is yet undefined on input line 137.
+
+
+Package natbib Warning: Citation `Xie2011' on page 56 undefined on input line 1
+37.
+
+Package acronym Info: Label `acro:KO' newly defined as it shall be overridden
+although it is yet undefined on input line 137.
+
+Package natbib Warning: Citation `Howard2008' on page 56 undefined on input lin
+e 146.
+
+Package acronym Info: Label `acro:CAMERA' overridden on input line 147.
+
+Package natbib Warning: Citation `Tamura2011' on page 56 undefined on input lin
+e 150.
+
+
+Package natbib Warning: Citation `Robert2004' on page 56 undefined on input lin
+e 151.
+
+[56]
+
+Package natbib Warning: Citation `Ferris1999' on page 57 undefined on input lin
+e 167.
+
+
+Package natbib Warning: Citation `Redfield1963' on page 57 undefined on input l
+ine 176.
+
+[57])
+Runaway argument?
+{OTU{ for \emph {Cyanobacteria}/chloroplasts were classified as chlor\ETC.
+! File ended while scanning use of \@acp.
+<inserted text> 
+                \par 
+l.62 \include{orglake}
+                      
+? 
+[58] [59]
 \openout2 = `viruses.aux'.
 
- (./viruses.tex [50
+ (./viruses.tex [60
 
 
 
 ]
 Chapter 5.
-) [51]
+) [61]
 \openout2 = `conc.aux'.
 
- (./conc.tex [52
+ (./conc.tex [62
 
 
 
 ]
 Chapter 6.
-) [53] (./thesis.bbl [54
+) [63] (./thesis.bbl [64
 
 
 ]
-Underfull \hbox (badness 2035) in paragraph at lines 23--27
+Underfull \hbox (badness 2035) in paragraph at lines 29--33
 \OT1/cmr/m/n/10.95 ANTARC-TIC PHYTOFLAG-EL-LATE , PYRA-MI-MONAS GE-LIDI-
  []
 
+[65]
 Missing character: There is no â in font cmr10!
 Missing character: There is no „ in font cmr10!
 Missing character: There is no ¢ in font cmr10!
-[55]
 Missing character: There is no â in font cmr10!
 Missing character: There is no „ in font cmr10!
 Missing character: There is no ¢ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no „ in font cmr10!
 Missing character: There is no ¢ in font cmr10!
- [56] [57] [58] [59]
+ [66] [67] [68] [69] [70] [71] [72]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
- [60]) [61]
+) [73]
 \openout2 = `appendices.aux'.
 
- (./appendices.tex [62
+ (./appendices.tex [74
 
 
 ]
 Chapter 7.
-) [63]
+) [75]
 
 Package natbib Warning: There were undefined citations.
 
@@ -776,17 +972,17 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 79.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 79.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 79.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 9FBAD86BAA2DECC54C1280956A9A3B70;4960.
+(rerunfilecheck)             Checksum: 9026D08CB0AF6BD787D43D5F86BC4C05;5910.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 79.
  ) 
 Here is how much of TeX's memory you used:
- 6583 strings out of 493488
- 94545 string characters out of 3141347
- 186207 words of memory out of 3000000
- 9428 multiletter control sequences out of 15000+200000
+ 6900 strings out of 493488
+ 98462 string characters out of 3141347
+ 219002 words of memory out of 3000000
+ 9643 multiletter control sequences out of 15000+200000
  11196 words of font info for 39 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 29i,6n,33p,562b,589s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,10n,33p,2128b,635s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
@@ -802,10 +998,10 @@ ive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
 ve/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
 /2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/
 2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on thesis.pdf (86 pages, 358783 bytes).
+Output written on thesis.pdf (99 pages, 406904 bytes).
 PDF statistics:
- 1390 PDF objects out of 1440 (max. 8388607)
- 1274 compressed objects within 13 object streams
- 314 named destinations out of 1000 (max. 500000)
- 513 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1822 PDF objects out of 2073 (max. 8388607)
+ 1689 compressed objects within 17 object streams
+ 416 named destinations out of 1000 (max. 500000)
+ 601 words of extra memory for PDF output out of 10000 (max. 10000000)
 

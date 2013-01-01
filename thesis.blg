@@ -13,12 +13,16 @@ A level-1 auxiliary file: intro.aux
 A level-1 auxiliary file: acelake.aux
 A level-1 auxiliary file: olv.aux
 A level-1 auxiliary file: orglake.aux
+White space in argument---line 43 of file orglake.aux
+ : \citation{Ng2010a,Lauro
+ :                         2011,Yau2011,Brown2012,Williams2012b,Wilkins2012b}
+I'm skipping whatever remains of this command
 A level-1 auxiliary file: viruses.aux
 A level-1 auxiliary file: conc.aux
 The style file: mybibstyle.bst
 A level-1 auxiliary file: appendices.aux
 Database file #1: Thesis.bib
-Repeated entry---line 564 of file Thesis.bib
+Repeated entry---line 867 of file Thesis.bib
  : @article{Laybourn-Parry2007
  :                            ,
 I'm skipping whatever remains of this entry
@@ -36,6 +40,21 @@ Warning--I didn't find a database entry for "Hara1991"
 Warning--I didn't find a database entry for "Proctor1992"
 Warning--I didn't find a database entry for "Hobbie1977"
 Warning--I didn't find a database entry for "Suttle1990"
+Warning--I didn't find a database entry for "Franzman1987b"
+Warning--I didn't find a database entry for "Roberts1993"
+Warning--I didn't find a database entry for "Zwartz1988"
+Warning--I didn't find a database entry for "Franzmann"
+Warning--I didn't find a database entry for "1987b"
+Warning--I didn't find a database entry for "Curran1998"
+Warning--I didn't find a database entry for "Caporaso2010"
+Warning--I didn't find a database entry for "Xie2011"
+Warning--I didn't find a database entry for "Howard2008"
+Warning--I didn't find a database entry for "Tamura2011"
+Warning--I didn't find a database entry for "Robert2004"
+Warning--I didn't find a database entry for "Ferris1999"
+Warning--I didn't find a database entry for "Redfield1963"
+You can't pop an empty literal stack for entry Clarke2006
+while executing---line 1411 of file mybibstyle.bst
 You can't pop an empty literal stack for entry Diemer2012
 while executing---line 1411 of file mybibstyle.bst
 Warning--empty journal in Karr2003
@@ -45,45 +64,46 @@ You can't pop an empty literal stack for entry Torrice2009
 while executing---line 1411 of file mybibstyle.bst
 Warning--there's a number but no volume in Villaescusa2010
 Warning--there's a number but no volume in Ward1997
-You've used 64 entries,
+Warning--there's a number but no volume in Wilkins2012a
+You've used 91 entries,
             2739 wiz_defined-function locations,
-            1160 strings with 25086 characters,
-and the built_in function-call counts, 36553 in all, are:
-= -- 3275
-> -- 3054
-< -- 21
-+ -- 1025
-- -- 960
-* -- 3671
-:= -- 5996
-add.period$ -- 194
-call.type$ -- 64
-change.case$ -- 509
-chr.to.int$ -- 63
-cite$ -- 133
-duplicate$ -- 1038
-empty$ -- 2015
-format.name$ -- 1040
-if$ -- 7178
-int.to.chr$ -- 2
+            1388 strings with 32621 characters,
+and the built_in function-call counts, 50928 in all, are:
+= -- 4585
+> -- 4215
+< -- 26
++ -- 1413
+- -- 1320
+* -- 5113
+:= -- 8350
+add.period$ -- 274
+call.type$ -- 91
+change.case$ -- 710
+chr.to.int$ -- 89
+cite$ -- 188
+duplicate$ -- 1461
+empty$ -- 2825
+format.name$ -- 1437
+if$ -- 10005
+int.to.chr$ -- 3
 int.to.str$ -- 1
-missing$ -- 61
-newline$ -- 328
-num.names$ -- 260
-pop$ -- 748
+missing$ -- 87
+newline$ -- 462
+num.names$ -- 368
+pop$ -- 1026
 preamble$ -- 1
-purify$ -- 446
+purify$ -- 620
 quote$ -- 0
-skip$ -- 993
+skip$ -- 1392
 stack$ -- 0
-substring$ -- 1591
-swap$ -- 80
+substring$ -- 2205
+swap$ -- 109
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 704
-warning$ -- 5
-while$ -- 316
+type$ -- 1001
+warning$ -- 6
+while$ -- 443
 width$ -- 0
-write$ -- 779
-(There were 3 error messages)
+write$ -- 1100
+(There were 5 error messages)
