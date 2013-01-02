@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.21)  2 JAN 2013 01:54
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.21)  2 JAN 2013 16:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -367,14 +367,19 @@ nnkoch,
 ] [12
 
 
-] (./thesis.toc [13] [14])
+] (./thesis.toc [13] [14]
+Overfull \hbox (1.9285pt too wide) in paragraph at lines 81--81
+ [][] [][]\OT1/cmr/m/n/10.95 Carbon re-source-ful-ness in dom-i-nant het-erotro
+phic bac- 
+ []
+
+)
 \tf@toc=\write4
 \openout4 = `thesis.toc'.
 
  [15] [16
 
-]
-(./thesis.lof)
+] (./thesis.lof)
 \tf@lof=\write5
 \openout5 = `thesis.lof'.
 
@@ -387,7 +392,8 @@ nnkoch,
  [19]
 \openout2 = `acronyms.aux'.
 
- (./acronyms.tex [20
+ (./acronyms.tex
+[20
 
 
 ]
@@ -902,64 +908,479 @@ e 167.
 Package natbib Warning: Citation `Redfield1963' on page 57 undefined on input l
 ine 176.
 
-[57])
-Runaway argument?
-{OTU{ for \emph {Cyanobacteria}/chloroplasts were classified as chlor\ETC.
-! File ended while scanning use of \@acp.
-<inserted text> 
-                \par 
-l.62 \include{orglake}
-                      
-? 
-[58] [59]
+[57] [58]
+
+Package natbib Warning: Citation `Bowman1998' on page 59 undefined on input lin
+e 204.
+
+
+Package natbib Warning: Citation `Dobson1991' on page 59 undefined on input lin
+e 204.
+
+
+Package natbib Warning: Citation `Williams2012b' on page 59 undefined on input 
+line 205.
+
+
+Package natbib Warning: Citation `Kirchman2002' on page 59 undefined on input l
+ine 205.
+
+
+Package natbib Warning: Citation `Williams2012b' on page 59 undefined on input 
+line 205.
+
+
+Package natbib Warning: Citation `James1994' on page 59 undefined on input line
+ 207.
+
+
+Package natbib Warning: Citation `Dobson1991' on page 59 undefined on input lin
+e 208.
+
+[59]
+
+Package natbib Warning: Citation `Labrenz1999' on page 60 undefined on input li
+ne 211.
+
+
+Package natbib Warning: Citation `Labrenz1999' on page 60 undefined on input li
+ne 213.
+
+
+Package natbib Warning: Citation `Moran2007' on page 60 undefined on input line
+ 216.
+
+
+Package natbib Warning: Citation `Teeling2012' on page 60 undefined on input li
+ne 216.
+
+
+Package natbib Warning: Citation `Wagner-Dobler2006' on page 60 undefined on in
+put line 217.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [60]
+
+Package natbib Warning: Citation `Gauthier1992' on page 61 undefined on input l
+ine 222.
+
+
+Package natbib Warning: Citation `Gauthier1992' on page 61 undefined on input l
+ine 224.
+
+
+Package natbib Warning: Citation `Huu1999' on page 61 undefined on input line 2
+24.
+
+
+Package natbib Warning: Citation `Edwards2003' on page 61 undefined on input li
+ne 224.
+
+
+Package natbib Warning: Citation `Gardes2010' on page 61 undefined on input lin
+e 225.
+
+
+Package natbib Warning: Citation `Green2006' on page 61 undefined on input line
+ 225.
+
+Package acronym Info: Label `acro:DMSO' overridden on input line 226.
+
+Package natbib Warning: Citation `Tajima1999' on page 61 undefined on input lin
+e 232.
+
+
+Package natbib Warning: Citation `Ley2006' on page 61 undefined on input line 2
+32.
+
+
+Package natbib Warning: Citation `Samsudin2011' on page 61 undefined on input l
+ine 232.
+
+
+Package natbib Warning: Citation `Yanagibayashi1999' on page 61 undefined on in
+put line 232.
+
+
+Package natbib Warning: Citation `Roske2012' on page 61 undefined on input line
+ 232.
+
+
+Package natbib Warning: Citation `Huang2005' on page 61 undefined on input line
+ 232.
+
+
+Package natbib Warning: Citation `Chouari2005' on page 61 undefined on input li
+ne 232.
+
+
+Package natbib Warning: Citation `Goberna2009' on page 61 undefined on input li
+ne 232.
+
+
+Package natbib Warning: Citation `Riviere2009' on page 61 undefined on input li
+ne 232.
+
+
+Package natbib Warning: Citation `Tang2011' on page 61 undefined on input line 
+232.
+
+
+Package natbib Warning: Citation `Yamane2011' on page 61 undefined on input lin
+e 232.
+
+
+Package natbib Warning: Citation `Humayoun2003' on page 61 undefined on input l
+ine 232.
+
+
+Package natbib Warning: Citation `Schmidtova2009' on page 61 undefined on input
+ line 232.
+
+
+Package natbib Warning: Citation `Demergasso2008' on page 61 undefined on input
+ line 233.
+
+
+Package natbib Warning: Citation `Xing2009' on page 61 undefined on input line 
+233.
+
+
+Package natbib Warning: Citation `Yilmaz2012' on page 61 undefined on input lin
+e 233.
+
+
+Package natbib Warning: Citation `James1990' on page 61 undefined on input line
+ 235.
+
+
+Package natbib Warning: Citation `James1994' on page 61 undefined on input line
+ 236.
+
+[61]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+
+
+Package natbib Warning: Citation `Thomsen1988' on page 62 undefined on input li
+ne 243.
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+
+Package natbib Warning: Citation `Hahn2004' on page 62 undefined on input line 
+246.
+
+
+Package natbib Warning: Citation `Hahn2009' on page 62 undefined on input line 
+246.
+
+
+Package natbib Warning: Citation `Hahn2009' on page 62 undefined on input line 
+247.
+
+
+Package natbib Warning: Citation `Kang2012' on page 62 undefined on input line 
+248.
+
+
+Package natbib Warning: Citation `Miyoshi2005' on page 62 undefined on input li
+ne 253.
+
+
+Package natbib Warning: Citation `Harris2004' on page 62 undefined on input lin
+e 254.
+
+
+Package natbib Warning: Citation `Elshahed2005' on page 62 undefined on input l
+ine 254.
+
+
+Package natbib Warning: Citation `Elshahed2005' on page 62 undefined on input l
+ine 255.
+
+[62]
+Package acronym Info: Label `acro:RuBisCO' newly defined as it shall be overrid
+den
+although it is yet undefined on input line 269.
+
+
+Package natbib Warning: Citation `Hugler2011' on page 63 undefined on input lin
+e 269.
+
+
+Package natbib Warning: Citation `Edwards2003' on page 63 undefined on input li
+ne 273.
+
+
+Package natbib Warning: Citation `Hugler2011' on page 63 undefined on input lin
+e 275.
+
+
+Overfull \hbox (0.44003pt too wide) in paragraph at lines 268--277
+\OT1/cmr/m/n/10.95 sulphur-oxidizing \OT1/cmr/m/it/10.95 Thiomi-crospira\OT1/cm
+r/m/n/10.95 , in-di-cat-ing some \OT1/cmr/m/it/10.95 Gammapro-teobac-te-ria \OT
+1/cmr/m/n/10.95 are
+ []
+
+[63]
+Package acronym Info: Label `acro:rTCA' newly defined as it shall be overridden
+
+although it is yet undefined on input line 278.
+
+
+Package natbib Warning: Citation `Hugler2011' on page 64 undefined on input lin
+e 279.
+
+
+Package natbib Warning: Citation `Campbell2006' on page 64 undefined on input l
+ine 279.
+
+Package acronym Info: Label `acro:WL' newly defined as it shall be overridden
+although it is yet undefined on input line 280.
+
+Package natbib Warning: Citation `Hugler2011' on page 64 undefined on input lin
+e 281.
+
+
+Overfull \hbox (10.84488pt too wide) in paragraph at lines 278--282
+\OT1/cmr/m/n/10.95 dehydrogenase/acetyl-CoA syn-tha-seis the key en-zyme, was l
+inked to\OT1/cmr/m/it/10.95 Firmicutes
+ []
+
+
+Package natbib Warning: Citation `Moran2007' on page 64 undefined on input line
+ 292.
+
+
+Package natbib Warning: Citation `Moran2007' on page 64 undefined on input line
+ 292.
+
+
+Package natbib Warning: Citation `Moran2007' on page 64 undefined on input line
+ 294.
+
+
+Underfull \vbox (badness 1502) has occurred while \output is active []
+
+ [64]
+
+Package natbib Warning: Citation `Beja2002' on page 65 undefined on input line 
+297.
+
+
+Package natbib Warning: Citation `Moran2007' on page 65 undefined on input line
+ 297.
+
+Package acronym Info: Label `acro:BchlA' newly defined as it shall be overridde
+n
+although it is yet undefined on input line 298.
+
+Package natbib Warning: Citation `Labrenz1999' on page 65 undefined on input li
+ne 298.
+
+Package acronym Info: Label `acro:PR' newly defined as it shall be overridden
+although it is yet undefined on input line 299.
+
+Package natbib Warning: Citation `Gomez-Consarnau2007' on page 65 undefined on 
+input line 299.
+
+
+Package natbib Warning: Citation `Gomez-Consarnau2010' on page 65 undefined on 
+input line 299.
+
+
+Package natbib Warning: Citation `Fuhrman2008' on page 65 undefined on input li
+ne 300.
+
+
+Package natbib Warning: Citation `Man2003' on page 65 undefined on input line 3
+04.
+
+
+Package natbib Warning: Citation `Gomez-Consarnau2007' on page 65 undefined on 
+input line 304.
+
+
+Package natbib Warning: Citation `Balashov2005' on page 65 undefined on input l
+ine 306.
+
+
+Package natbib Warning: Citation `Balashov2005' on page 65 undefined on input l
+ine 309.
+
+Package acronym Info: Label `acro:SO' newly defined as it shall be overridden
+although it is yet undefined on input line 311.
+
+Package natbib Warning: Citation `Sharma2008' on page 65 undefined on input lin
+e 313.
+
+
+Underfull \vbox (badness 1502) has occurred while \output is active []
+
+ [65]
+
+Package natbib Warning: Citation `Cottrell2002' on page 66 undefined on input l
+ine 324.
+
+
+Package natbib Warning: Citation `Labrenz1999' on page 66 undefined on input li
+ne 325.
+
+
+Package natbib Warning: Citation `Gomez-Consarnau2007' on page 66 undefined on 
+input line 327.
+
+
+Underfull \vbox (badness 5077) has occurred while \output is active []
+
+ [66]
+
+Package natbib Warning: Citation `Takahashi2000' on page 67 undefined on input 
+line 333.
+
+
+Package natbib Warning: Citation `Williams2012b' on page 67 undefined on input 
+line 333.
+
+
+Package natbib Warning: Citation `Bergmann2005' on page 67 undefined on input l
+ine 344.
+
+[67]
+
+Package natbib Warning: Citation `Kraft2011' on page 68 undefined on input line
+ 350.
+
+
+Overfull \hbox (0.56992pt too wide) in paragraph at lines 348--357
+\OT1/cmr/m/it/10.95 Gammapro-teobac-te-ria\OT1/cmr/m/n/10.95 . Den-i-tri-fi-ca-
+tion genes are phy-lo-ge-net-i-cally widespread
+ []
+
+
+Package natbib Warning: Citation `Ng2010' on page 68 undefined on input line 36
+0.
+
+[68]
+
+Package natbib Warning: Citation `Friedrich2005' on page 69 undefined on input 
+line 370.
+
+
+Overfull \hbox (29.47504pt too wide) in paragraph at lines 364--372
+\OT1/cmr/m/n/10.95 wa-ter col-umn (Fig-ure 4C) and linked pri-mar-ily to \OT1/c
+mr/m/it/10.95 Al-pha\OT1/cmr/m/n/10.95 - and\OT1/cmr/m/it/10.95 Gammaproteobact
+eria
+ []
+
+
+Overfull \hbox (10.1749pt too wide) in paragraph at lines 364--372
+\OT1/cmr/m/n/10.95 heterotrophs as they were re-lated to het-erotrophic \OT1/cm
+r/m/it/10.95 Mari-nobac-ter \OT1/cmr/m/n/10.95 and \OT1/cmr/m/it/10.95 Roseobac
+-
+ []
+
+
+Package natbib Warning: Citation `Yamamoto2011' on page 69 undefined on input l
+ine 373.
+
+
+Package natbib Warning: Citation `Schafer2008' on page 69 undefined on input li
+ne 380.
+
+
+Underfull \vbox (badness 5077) has occurred while \output is active []
+
+ [69]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [70]
+
+Package natbib Warning: Citation `R. pomeroyi' on page 71 undefined on input li
+ne 404.
+
+
+Underfull \vbox (badness 5077) has occurred while \output is active []
+
+ [71]
+
+Package natbib Warning: Citation `Howard2008' on page 72 undefined on input lin
+e 416.
+
+
+Package natbib Warning: Citation `Todd2011b' on page 72 undefined on input line
+ 416.
+
+
+Package natbib Warning: Citation `Reisch2011' on page 72 undefined on input lin
+e 416.
+
+
+Package natbib Warning: Citation `Raina2010' on page 72 undefined on input line
+ 419.
+
+[72]
+Underfull \vbox (badness 5077) has occurred while \output is active []
+
+ [73])
+[74]
 \openout2 = `viruses.aux'.
 
- (./viruses.tex [60
+ (./viruses.tex
+Chapter 5.
+) [75
 
 
 
 ]
-Chapter 5.
-) [61]
 \openout2 = `conc.aux'.
 
- (./conc.tex [62
+ (./conc.tex [76
 
 
 
 ]
 Chapter 6.
-) [63] (./thesis.bbl [64
+) [77] (./thesis.bbl [78
 
 
 ]
-Underfull \hbox (badness 2035) in paragraph at lines 29--33
+Underfull \hbox (badness 2035) in paragraph at lines 41--45
 \OT1/cmr/m/n/10.95 ANTARC-TIC PHYTOFLAG-EL-LATE , PYRA-MI-MONAS GE-LIDI-
  []
 
-[65]
+[79]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no ¢ in font cmr10!
+ [80]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ñ in font cmr10!
 Missing character: There is no ¢ in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ñ in font cmr10!
 Missing character: There is no ¢ in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ñ in font cmr10!
-Missing character: There is no ¢ in font cmr10!
- [66] [67] [68] [69] [70] [71] [72]
+ [81] [82] [83] [84] [85] [86] [87]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
-) [73]
+) [88]
 \openout2 = `appendices.aux'.
 
- (./appendices.tex [74
+ (./appendices.tex
+Chapter 7.
+) [89
 
 
 ]
-Chapter 7.
-) [75]
 
 Package natbib Warning: There were undefined citations.
 
@@ -972,17 +1393,17 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 79.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 79.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 79.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 9026D08CB0AF6BD787D43D5F86BC4C05;5910.
+(rerunfilecheck)             Checksum: 832C7CF5C2F00EF7111EFF46794B5E9E;6561.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 79.
  ) 
 Here is how much of TeX's memory you used:
- 6900 strings out of 493488
- 98462 string characters out of 3141347
- 219002 words of memory out of 3000000
- 9643 multiletter control sequences out of 15000+200000
+ 7054 strings out of 493488
+ 100397 string characters out of 3141347
+ 191606 words of memory out of 3000000
+ 9752 multiletter control sequences out of 15000+200000
  11196 words of font info for 39 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 29i,10n,33p,2128b,635s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,10n,33p,588b,654s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
@@ -998,10 +1419,10 @@ ive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
 ve/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
 /2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/
 2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on thesis.pdf (99 pages, 406904 bytes).
+Output written on thesis.pdf (113 pages, 465160 bytes).
 PDF statistics:
- 1822 PDF objects out of 2073 (max. 8388607)
- 1689 compressed objects within 17 object streams
- 416 named destinations out of 1000 (max. 500000)
- 601 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2162 PDF objects out of 2487 (max. 8388607)
+ 2011 compressed objects within 21 object streams
+ 461 named destinations out of 1000 (max. 500000)
+ 657 words of extra memory for PDF output out of 10000 (max. 10000000)
 

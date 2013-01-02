@@ -73,6 +73,16 @@
 \contentsline {section}{\numberline {4.4}Results and discussion}{57}{section.4.4}
 \contentsline {subsection}{\numberline {4.4.1}Abiotic properties and water column structure}{57}{subsection.4.4.1}
 \contentsline {subsection}{\numberline {4.4.2}Overall microbial diversity}{58}{subsection.4.4.2}
-\contentsline {chapter}{\numberline {5}Ace Lake Viral Genomes}{61}{chapter.5}
-\contentsline {chapter}{\numberline {6}Conclusions and future work}{63}{chapter.6}
-\contentsline {chapter}{\numberline {7}Appendices}{75}{chapter.7}
+\contentsline {subsection}{\numberline {4.4.3}Variation of microbial composition according to size and depth}{59}{subsection.4.4.3}
+\contentsline {subsubsection}{20--3.0 $\mu $m fraction community composition}{59}{section*.79}
+\contentsline {subsubsection}{3--0.8 $\mu $m size fraction community composition}{61}{section*.80}
+\contentsline {subsubsection}{0.8--0.1 $\mu $m size fraction community composition}{62}{section*.82}
+\contentsline {subsection}{\numberline {4.4.4}Organic Lake functional potential}{63}{subsection.4.4.4}
+\contentsline {subsection}{\numberline {4.4.5}Carbon resourcefulness in dominant heterotrophic bacteria}{63}{subsection.4.4.5}
+\contentsline {subsection}{\numberline {4.4.6}Regenerated nitrogen is predominant in the nitrogen cycle}{67}{subsection.4.4.6}
+\contentsline {subsection}{\numberline {4.4.7}Molecular basis for unusual sulphur chemistry}{68}{subsection.4.4.7}
+\contentsline {subsection}{\numberline {4.4.8}Conclusion}{72}{subsection.4.4.8}
+\contentsline {section}{\numberline {4.5}Acknowledgements}{74}{section.4.5}
+\contentsline {chapter}{\numberline {5}Ace Lake Viral Genomes}{75}{chapter.5}
+\contentsline {chapter}{\numberline {6}Conclusions and future work}{77}{chapter.6}
+\contentsline {chapter}{\numberline {7}Appendices}{89}{chapter.7}

@@ -1,9 +1,21 @@
-\begin{thebibliography}{91}
+\begin{thebibliography}{99}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Abell and Bowman(2005{\natexlab{a}})]{Abell2005a}
+Abell G.~C.~J. and Bowman J.~P. (2005).
+\newblock {Ecological and biogeographic relationships of class Flavobacteria in
+  the Southern Ocean.}
+\newblock \emph{FEMS microbiology ecology}, 51\penalty0 (2):\penalty0 265--77.
+
+\bibitem[Abell and Bowman(2005{\natexlab{b}})]{Abell2005b}
+Abell G.~C.~J. and Bowman J.~P. (2005).
+\newblock {Colonization and community dynamics of class Flavobacteria on diatom
+  detritus in experimental mesocosms based on Southern Ocean seawater}.
+\newblock \emph{FEMS microbiology ecology}, 53\penalty0 (3):\penalty0 379--391.
 
 \bibitem[Alekhina \emph{et~al.}(2007)Alekhina, Marie, Petit, Lukin, Zubkov, and
   Bulat]{Alekhina2007}
@@ -128,6 +140,15 @@ Christner B.~C., Mosley-Thompson E., Thompson L.~G., and Reeve J.~N. (2001).
 Clarke K. and RN~G.
 \newblock {PRIMER V6: User Manual/Tutorial}, 2006.
 
+\bibitem[Curson \emph{et~al.}(2008)Curson, Rogers, Todd, Brearley, and
+  Johnston]{Curson2008}
+Curson A.~R., Rogers R., Todd J.~D., Brearley C., and Johnston A.~W. (2008).
+\newblock {Molecular genetic analysis of a dimethylsulfoniopropionate lyase
+  that liberates the climate-changing gas dimethylsulfide in several marine
+  alpha-proteobacteria and Rhodobacter sphaeroides.}
+\newblock \emph{Environmental microbiology}, 10\penalty0 (3):\penalty0
+  757--767.
+
 \bibitem[Curson \emph{et~al.}(2011)Curson, Todd, Sullivan, and
   Johnston]{Curson2011b}
 Curson A.~R., Todd J.~D., Sullivan M.~J., and Johnston A.~W. (2011).
@@ -153,8 +174,16 @@ Fofonoff N. and Millard R.~J. (1983).
 \newblock {Algorithms for computation of fundamental properties of seawater}.
 \newblock \emph{UNESCO technical papers in marine science}, 44.
 
-\bibitem[Franzmann \emph{et~al.}(1987)Franzmann, Deprez, Burton, and van~den
-  Hoff]{Franzmann1987b}
+\bibitem[Franzmann \emph{et~al.}(1987{\natexlab{a}})Franzmann, Burton, and
+  Mcmeekin]{Franzmann1987a}
+Franzmann P.~D., Burton H.~R., and Mcmeekin T.~A. (1987).
+\newblock {Halomonas subglaciescola, a new species of halotolerant bacteria
+  isolated from Antarctica}.
+\newblock \emph{International journal of systematic bacteriology}, 37:\penalty0
+  27--34.
+
+\bibitem[Franzmann \emph{et~al.}(1987{\natexlab{b}})Franzmann, Deprez, Burton,
+  and van~den Hoff]{Franzmann1987b}
 Franzmann P.~D., Deprez P.~P., Burton H.~R., and Hoff J.van~den (1987).
 \newblock {Limnology of Organic Lake, Antarctica, a meromictic lake that
   contains high concentrations of dimethyl sulfide}.
@@ -231,6 +260,16 @@ Hodgson D.~A.
 \newblock In Bengtsson L., Herschy R.~W., and Fairbridge R.~W., editors,
   \emph{Encyclopedia of Lakes and Reservoirs}, pages 26--31. Springer,
   Dordrecht, 2012.
+
+\bibitem[Howard \emph{et~al.}(2006)Howard, Henriksen, Buchan, Reisch,
+  B\"{u}rgmann, Welsh, Ye, Gonz\'{a}lez, Mace, Joye, Kiene, Whitman, and
+  Moran]{Howard2006}
+Howard E.~C., Henriksen J.~R., Buchan A., Reisch C.~R., B\"{u}rgmann H., Welsh
+  R., Ye~W., Gonz\'{a}lez J.~M., Mace K., Joye S.~B., Kiene R.~P., Whitman
+  W.~B., and Moran M.~A. (2006).
+\newblock {Bacterial taxa that limit sulfur flux from the ocean}.
+\newblock \emph{Science (New York, N.Y.)}, 314\penalty0 (5799):\penalty0
+  649--652.
 
 \bibitem[Huang \emph{et~al.}(2010)Huang, Niu, Gao, Fu, and Li]{Huang2010}
 Huang Y., Niu B., Gao Y., Fu~L., and Li~W. (2010).
@@ -316,9 +355,9 @@ Laybourn-Parry J.
 \bibitem[Laybourn-Parry and Pearce(2007)]{Laybourn-Parry2007}
 Laybourn-Parry J. and Pearce D.~A. (2007).
 \newblock {The biodiversity and ecology of Antarctic lakes: models for
-  evolution}.
+  evolution.}
 \newblock \emph{Philosophical transactions of the Royal Society of London.
-  Series B, Biological sciences}, 362:\penalty0 2273--2289.
+  Series B, Biological sciences}, 362\penalty0 (1488):\penalty0 2273--2289.
 
 \bibitem[Laybourn-Parry \emph{et~al.}(2001)Laybourn-Parry, Hofer, and
   Sommaruga]{Laybourn-Parry2001}
@@ -559,6 +598,35 @@ Todd J.~D., Rogers R., Li~Y.~G., Wexler M., Bond P.~L., Sun L., Curson A.~R.,
   sulfide in bacteria}.
 \newblock \emph{Science (New York, N.Y.)}, 315\penalty0 (5812):\penalty0
   666--669.
+
+\bibitem[Todd \emph{et~al.}(2009)Todd, Curson, Dupont, Nicholson, and
+  Johnston]{Todd2009}
+Todd J.~D., Curson A.~R., Dupont C.~L., Nicholson P., and Johnston A.~W.
+  (2009).
+\newblock {The dddP gene, encoding a novel enzyme that converts
+  dimethylsulfoniopropionate into dimethyl sulfide, is widespread in ocean
+  metagenomes and marine bacteria and also occurs in some Ascomycete fungi}.
+\newblock \emph{Environmental microbiology}, 11\penalty0 (6):\penalty0
+  1376--1385.
+
+\bibitem[Todd \emph{et~al.}(2010)Todd, Curson, Nikolaidou-Katsaraidou,
+  Brearley, Watmough, Chan, Page, Sun, and Johnston]{Todd2010}
+Todd J.~D., Curson A.~R., Nikolaidou-Katsaraidou N., Brearley C.~A., Watmough
+  N.~J., Chan Y., Page P.~C., Sun L., and Johnston A.~W. (2010).
+\newblock {Molecular dissection of bacterial acrylate catabolism - unexpected
+  links with dimethylsulfoniopropionate catabolism and dimethyl sulfide
+  production}.
+\newblock \emph{Environmental microbiology}, 12\penalty0 (2):\penalty0
+  327--343.
+
+\bibitem[Todd \emph{et~al.}(2011)Todd, Curson, Kirkwood, Sullivan, Green, and
+  Johnston]{Todd2011}
+Todd J.~D., Curson A.~R., Kirkwood M., Sullivan M.~J., Green R.~T., and
+  Johnston A.~W. (2011).
+\newblock {DddQ, a novel, cupin-containing, dimethylsulfoniopropionate lyase in
+  marine roseobacters and in uncultured marine bacteria}.
+\newblock \emph{Environmental microbiology}, 13\penalty0 (2):\penalty0
+  427--438.
 
 \bibitem[Torrice(2009)]{Torrice2009}
 Torrice M.
