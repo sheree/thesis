@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.21)  2 JAN 2013 16:11
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.21)  5 JAN 2013 20:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -514,84 +514,146 @@ although it is yet undefined on input line 24.
 Package acronym Info: Label `acro:GOS' newly defined as it shall be overridden
 although it is yet undefined on input line 58.
 Package acronym Info: Label `acro:SRB' newly defined as it shall be overridden
-although it is yet undefined on input line 64.
- [19]
+although it is yet undefined on input line 66.
+
+Overfull \hbox (5.42334pt too wide) in paragraph at lines 60--67
+[]\OT1/cmr/m/n/10.95 Microbial and vi-ral com-mu-nity com-po-si-tion was as-ses
+sed from the metage-
+ []
+
+[19]
 Package acronym Info: Label `acro:NCBI' newly defined as it shall be overridden
 
-although it is yet undefined on input line 66.
+although it is yet undefined on input line 68.
 Package acronym Info: Label `acro:NR' newly defined as it shall be overridden
-although it is yet undefined on input line 66.
+although it is yet undefined on input line 68.
 
 
-Package natbib Warning: Citation `2010b' on page 20 undefined on input line 66.
+Package natbib Warning: Citation `2010b' on page 20 undefined on input line 68.
 
 
 
-Package natbib Warning: Citation `Ng2010' on page 20 undefined on input line 71
+Package natbib Warning: Citation `Ng2010' on page 20 undefined on input line 73
 .
 
 [20]
 Package acronym Info: Label `acro:CAMERA' newly defined as it shall be overridd
 en
-although it is yet undefined on input line 101.
+although it is yet undefined on input line 103.
+Package acronym Info: Label `acro:BLAST' newly defined as it shall be overridde
+n
+although it is yet undefined on input line 107.
+
+
+Package natbib Warning: Citation `Morgulis2006' on page 21 undefined on input l
+ine 110.
+
+
+Package natbib Warning: Citation `Huse2007' on page 21 undefined on input line 
+111.
+
+
+Package natbib Warning: Citation `Huse2007' on page 21 undefined on input line 
+113.
+
+[21]
+
+Package natbib Warning: Citation `Miller2008' on page 22 undefined on input lin
+e 116.
+
+
+Package natbib Warning: Citation `Chou2001' on page 22 undefined on input line 
+116.
+
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
- [21]
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
+
+Package natbib Warning: Citation `Gomez-Alvarez2009' on page 22 undefined on in
+put line 117.
+
 Package acronym Info: Label `acro:COG' newly defined as it shall be overridden
-although it is yet undefined on input line 116.
+although it is yet undefined on input line 119.
 Package acronym Info: Label `acro:WGS' newly defined as it shall be overridden
-although it is yet undefined on input line 120.
+although it is yet undefined on input line 123.
+
+Package natbib Warning: Citation `Myers2000' on page 22 undefined on input line
+ 123.
+
 Missing character: There is no ‚ in font cmtt10!
 Missing character: There is no Å in font cmtt10!
 Missing character: There is no Ñ in font cmtt10!
 Package acronym Info: Label `acro:ORF' newly defined as it shall be overridden
-although it is yet undefined on input line 126.
-Package acronym Info: Label `acro:BLAST' newly defined as it shall be overridde
-n
-although it is yet undefined on input line 126.
+although it is yet undefined on input line 129.
 Package acronym Info: Label `acro:KEGG' newly defined as it shall be overridden
 
-although it is yet undefined on input line 126.
+although it is yet undefined on input line 130.
 Package acronym Info: Label `acro:HMMER' newly defined as it shall be overridde
 n
-although it is yet undefined on input line 126.
+although it is yet undefined on input line 130.
 Package acronym Info: Label `acro:TIGRFAM' newly defined as it shall be overrid
 den
-although it is yet undefined on input line 126.
+although it is yet undefined on input line 130.
 
-Overfull \hbox (2.66733pt too wide) in paragraph at lines 120--128
+Package natbib Warning: Citation `Haft2001' on page 22 undefined on input line 
+130.
+
+
+Package natbib Warning: Citation `Tatusov1997' on page 22 undefined on input li
+ne 130.
+
+
+Package natbib Warning: Citation `Tatusov2003' on page 22 undefined on input li
+ne 130.
+
+
+Package natbib Warning: Citation `von Mering2007' on page 22 undefined on input
+ line 130.
+
+
+Overfull \hbox (2.66733pt too wide) in paragraph at lines 123--132
 []$\OT1/cmtt/m/n/10.95 (http : / / sourceforge . net / apps / mediawiki / wgs-[
 ]assembler / index . php ?
  []
 
 [22]
+
+LaTeX Warning: Command \textregistered invalid in math mode on input line 141.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 141.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 141.
+
 Package acronym Info: Label `acro:1D-SDS PAGE' newly defined as it shall be ove
 rridden
-although it is yet undefined on input line 143.
+although it is yet undefined on input line 147.
 Package acronym Info: Label `acro:MS' newly defined as it shall be overridden
-although it is yet undefined on input line 143.
+although it is yet undefined on input line 147.
 Package acronym Info: Label `acro:MS-MS' newly defined as it shall be overridde
 n
-although it is yet undefined on input line 143.
+although it is yet undefined on input line 147.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Package natbib Warning: Citation `Keller2002' on page 23 undefined on input lin
+e 151.
 
- [23]
+[23]
+
+Package natbib Warning: Citation `Florens2006' on page 24 undefined on input li
+ne 161.
+
+
+Package natbib Warning: Citation `Zybailov2006' on page 24 undefined on input l
+ine 161.
+
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 
-[24]
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
+Underfull \vbox (badness 5077) has occurred while \output is active []
+
+ [24]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
@@ -600,38 +662,47 @@ Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
 Package acronym Info: Label `acro:STAMP' newly defined as it shall be overridde
 n
-although it is yet undefined on input line 167.
- [25]
+although it is yet undefined on input line 171.
+
+
+Package natbib Warning: Citation `Parks2010' on page 25 undefined on input line
+ 171.
+
+
+Package natbib Warning: Citation `Suttle2005' on page 25 undefined on input lin
+e 186.
+
+[25]
 
 Package natbib Warning: Citation `Hennes1995' on page 26 undefined on input lin
-e 189.
+e 193.
 
 Package acronym Info: Label `acro:PCTE' newly defined as it shall be overridden
 
-although it is yet undefined on input line 193.
+although it is yet undefined on input line 197.
 
 Package natbib Warning: Citation `Hara1991' on page 26 undefined on input line 
-197.
+201.
 
 
 Package natbib Warning: Citation `Proctor1992' on page 26 undefined on input li
-ne 197.
+ne 201.
 
 
 Package natbib Warning: Citation `Hobbie1977' on page 26 undefined on input lin
-e 198.
+e 202.
 
 [26] [27]
 Package acronym Info: Label `acro:CRISPR' newly defined as it shall be overridd
 en
-although it is yet undefined on input line 260.
+although it is yet undefined on input line 264.
 Package acronym Info: Label `acro:CAS' newly defined as it shall be overridden
-although it is yet undefined on input line 260.
+although it is yet undefined on input line 264.
  [28]
 Package acronym Info: Label `acro:ABC' newly defined as it shall be overridden
-although it is yet undefined on input line 268.
+although it is yet undefined on input line 272.
 Package acronym Info: Label `acro:DOC' newly defined as it shall be overridden
-although it is yet undefined on input line 273.
+although it is yet undefined on input line 277.
 Missing character: There is no ¬ in font cmr10!
 Missing character: There is no ñ in font cmr10!
 
@@ -728,345 +799,259 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
 [49]
 Package acronym Info: Label `acro:DMS' newly defined as it shall be overridden
-although it is yet undefined on input line 27.
+although it is yet undefined on input line 28.
 Package acronym Info: Label `acro:DMSP' newly defined as it shall be overridden
 
-although it is yet undefined on input line 35.
+although it is yet undefined on input line 36.
  [50]
 Package acronym Info: Label `acro:AAnP' newly defined as it shall be overridden
 
 although it is yet undefined on input line 58.
+Package acronym Info: Label `acro:DMS' overridden on input line 63.
+
+
+Package natbib Warning: Citation `Curran1998' on page 51 undefined on input lin
+e 64.
+
+Package acronym Info: Label `acro:DMSP' overridden on input line 69.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [51]
-
-Package natbib Warning: Citation `Franzman1987b' on page 52 undefined on input 
-line 60.
-
-
-Package natbib Warning: Citation `Roberts1993' on page 52 undefined on input li
-ne 60.
-
-
-Package natbib Warning: Citation `Zwartz1988' on page 52 undefined on input lin
-e 61.
-
-Package acronym Info: Label `acro:DMS' overridden on input line 62.
-
-Package natbib Warning: Citation `Franzmann' on page 52 undefined on input line
- 62.
-
-
-Package natbib Warning: Citation `1987b' on page 52 undefined on input line 62.
-
-
-
-Package natbib Warning: Citation `Curran1998' on page 52 undefined on input lin
-e 63.
-
-Package acronym Info: Label `acro:DMSP' overridden on input line 67.
-Package acronym Info: Label `acro:GOS' overridden on input line 76.
-
-Package natbib Warning: Citation `Lauro 2011' on page 52 undefined on input lin
-e 76.
-
-
-Package natbib Warning: Citation `Brown2012' on page 52 undefined on input line
- 76.
-
-
-Package natbib Warning: Citation `Williams2012b' on page 52 undefined on input 
-line 76.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [52]
 Package acronym Info: Label `acro:DNA' newly defined as it shall be overridden
-although it is yet undefined on input line 88.
+although it is yet undefined on input line 90.
 
-
-Package natbib Warning: Citation `Ng2010' on page 53 undefined on input line 88
-.
-
+[52]
 Package acronym Info: Label `acro:DO' newly defined as it shall be overridden
-although it is yet undefined on input line 92.
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ì in font cmr10!
+although it is yet undefined on input line 94.
 Package acronym Info: Label `acro:TN' newly defined as it shall be overridden
-although it is yet undefined on input line 101.
+although it is yet undefined on input line 109.
 Package acronym Info: Label `acro:TDN' newly defined as it shall be overridden
-although it is yet undefined on input line 101.
+although it is yet undefined on input line 109.
 Package acronym Info: Label `acro:DRP' newly defined as it shall be overridden
-although it is yet undefined on input line 101.
+although it is yet undefined on input line 109.
 Package acronym Info: Label `acro:TP' newly defined as it shall be overridden
-although it is yet undefined on input line 101.
+although it is yet undefined on input line 109.
 Package acronym Info: Label `acro:TDP' newly defined as it shall be overridden
-although it is yet undefined on input line 101.
+although it is yet undefined on input line 109.
 Package acronym Info: Label `acro:TOC' newly defined as it shall be overridden
-although it is yet undefined on input line 101.
-Package acronym Info: Label `acro:DOC' overridden on input line 101.
+although it is yet undefined on input line 109.
+Package acronym Info: Label `acro:DOC' overridden on input line 109.
 Package acronym Info: Label `acro:TS' newly defined as it shall be overridden
-although it is yet undefined on input line 101.
+although it is yet undefined on input line 109.
 Package acronym Info: Label `acro:TDS' newly defined as it shall be overridden
-although it is yet undefined on input line 101.
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ì in font cmr10!
+although it is yet undefined on input line 109.
+ [53]
 Package acronym Info: Label `acro:PCA' newly defined as it shall be overridden
-although it is yet undefined on input line 107.
-[53]
-
-LaTeX Warning: Command \textregistered invalid in math mode on input line 112.
+although it is yet undefined on input line 116.
 
 
-LaTeX Warning: Command \textcircled invalid in math mode on input line 112.
+LaTeX Warning: Command \textregistered invalid in math mode on input line 121.
 
 
-LaTeX Warning: Command \textcircled invalid in math mode on input line 112.
+LaTeX Warning: Command \textcircled invalid in math mode on input line 121.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 121.
 
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ó in font cmr10!
 
-LaTeX Warning: Command \textregistered invalid in math mode on input line 112.
+LaTeX Warning: Command \textregistered invalid in math mode on input line 121.
 
 
-LaTeX Warning: Command \textcircled invalid in math mode on input line 112.
+LaTeX Warning: Command \textcircled invalid in math mode on input line 121.
 
 
-LaTeX Warning: Command \textcircled invalid in math mode on input line 112.
+LaTeX Warning: Command \textcircled invalid in math mode on input line 121.
 
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ì in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ì in font cmr10!
-Package acronym Info: Label `acro:VLP' overridden on input line 114.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [54]
-Package acronym Info: Label `acro:SSU' overridden on input line 117.
-Package acronym Info: Label `acro:rRNA' overridden on input line 118.
+Package acronym Info: Label `acro:VLP' overridden on input line 123.
+Package acronym Info: Label `acro:SSU' overridden on input line 126.
+Package acronym Info: Label `acro:rRNA' overridden on input line 127.
 Package acronym Info: Label `acro:QIIME' newly defined as it shall be overridde
 n
-although it is yet undefined on input line 120.
-
-
-Package natbib Warning: Citation `Caporaso2010' on page 55 undefined on input l
-ine 120.
-
+although it is yet undefined on input line 130.
 Package acronym Info: Label `acro:OTU' newly defined as it shall be overridden
-although it is yet undefined on input line 120.
+although it is yet undefined on input line 130.
 Package acronym Info: Label `acro:RDP' newly defined as it shall be overridden
-although it is yet undefined on input line 122.
+although it is yet undefined on input line 133.
+[54]
 Package acronym Info: Label `acro:ANOSIM' newly defined as it shall be overridd
 en
-although it is yet undefined on input line 128.
+although it is yet undefined on input line 140.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ò in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-[55]
-Package acronym Info: Label `acro:ORF' overridden on input line 135.
-Package acronym Info: Label `acro:KEGG' overridden on input line 136.
-Package acronym Info: Label `acro:BLAST' overridden on input line 136.
+Package acronym Info: Label `acro:ORF' overridden on input line 147.
+Package acronym Info: Label `acro:KEGG' overridden on input line 148.
+Package acronym Info: Label `acro:BLAST' overridden on input line 148.
 Package acronym Info: Label `acro:KOBAS' newly defined as it shall be overridde
 n
-although it is yet undefined on input line 137.
+although it is yet undefined on input line 150.
 
 
-Package natbib Warning: Citation `Xie2011' on page 56 undefined on input line 1
-37.
+Package natbib Warning: Citation `Xie2011' on page 55 undefined on input line 1
+50.
 
 Package acronym Info: Label `acro:KO' newly defined as it shall be overridden
-although it is yet undefined on input line 137.
+although it is yet undefined on input line 150.
+[55]
+Package acronym Info: Label `acro:SO' newly defined as it shall be overridden
+although it is yet undefined on input line 159.
+Package acronym Info: Label `acro:GOS' overridden on input line 159.
+Package acronym Info: Label `acro:CAMERA' overridden on input line 162.
 
-Package natbib Warning: Citation `Howard2008' on page 56 undefined on input lin
-e 146.
+Underfull \vbox (badness 1502) has occurred while \output is active []
 
-Package acronym Info: Label `acro:CAMERA' overridden on input line 147.
-
-Package natbib Warning: Citation `Tamura2011' on page 56 undefined on input lin
-e 150.
-
-
-Package natbib Warning: Citation `Robert2004' on page 56 undefined on input lin
-e 151.
-
-[56]
+ [56]
 
 Package natbib Warning: Citation `Ferris1999' on page 57 undefined on input lin
-e 167.
+e 180.
 
 
 Package natbib Warning: Citation `Redfield1963' on page 57 undefined on input l
-ine 176.
+ine 190.
 
-[57] [58]
+[57]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Package natbib Warning: Citation `Bowman1998' on page 59 undefined on input lin
-e 204.
-
-
-Package natbib Warning: Citation `Dobson1991' on page 59 undefined on input lin
-e 204.
-
+ [58]
 
 Package natbib Warning: Citation `Williams2012b' on page 59 undefined on input 
-line 205.
+line 222.
 
 
 Package natbib Warning: Citation `Kirchman2002' on page 59 undefined on input l
-ine 205.
-
-
-Package natbib Warning: Citation `Williams2012b' on page 59 undefined on input 
-line 205.
-
-
-Package natbib Warning: Citation `James1994' on page 59 undefined on input line
- 207.
-
-
-Package natbib Warning: Citation `Dobson1991' on page 59 undefined on input lin
-e 208.
-
-[59]
-
-Package natbib Warning: Citation `Labrenz1999' on page 60 undefined on input li
-ne 211.
-
-
-Package natbib Warning: Citation `Labrenz1999' on page 60 undefined on input li
-ne 213.
-
-
-Package natbib Warning: Citation `Moran2007' on page 60 undefined on input line
- 216.
-
-
-Package natbib Warning: Citation `Teeling2012' on page 60 undefined on input li
-ne 216.
-
-
-Package natbib Warning: Citation `Wagner-Dobler2006' on page 60 undefined on in
-put line 217.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [60]
-
-Package natbib Warning: Citation `Gauthier1992' on page 61 undefined on input l
 ine 222.
 
 
-Package natbib Warning: Citation `Gauthier1992' on page 61 undefined on input l
-ine 224.
+Package natbib Warning: Citation `Williams2012b' on page 59 undefined on input 
+line 222.
 
 
-Package natbib Warning: Citation `Huu1999' on page 61 undefined on input line 2
-24.
+Package natbib Warning: Citation `James1994' on page 59 undefined on input line
+ 224.
 
 
-Package natbib Warning: Citation `Edwards2003' on page 61 undefined on input li
-ne 224.
+Package natbib Warning: Citation `Moran2007a<' on page 59 undefined on input li
+ne 233.
 
 
-Package natbib Warning: Citation `Gardes2010' on page 61 undefined on input lin
-e 225.
+Package natbib Warning: Citation `Teeling2012' on page 59 undefined on input li
+ne 233.
 
 
-Package natbib Warning: Citation `Green2006' on page 61 undefined on input line
- 225.
+Package natbib Warning: Citation `Wagner-Dobler2006' on page 59 undefined on in
+put line 234.
 
-Package acronym Info: Label `acro:DMSO' overridden on input line 226.
+[59]
+
+Package natbib Warning: Citation `Gauthier1992' on page 60 undefined on input l
+ine 239.
+
+
+Package natbib Warning: Citation `Gauthier1992' on page 60 undefined on input l
+ine 241.
+
+
+Package natbib Warning: Citation `Huu1999' on page 60 undefined on input line 2
+41.
+
+
+Package natbib Warning: Citation `Edwards2003' on page 60 undefined on input li
+ne 241.
+
+
+Package natbib Warning: Citation `Gardes2010' on page 60 undefined on input lin
+e 242.
+
+
+Package natbib Warning: Citation `Green2006' on page 60 undefined on input line
+ 242.
+
+Package acronym Info: Label `acro:DMSO' overridden on input line 243.
+[60]
 
 Package natbib Warning: Citation `Tajima1999' on page 61 undefined on input lin
-e 232.
+e 249.
 
 
 Package natbib Warning: Citation `Ley2006' on page 61 undefined on input line 2
-32.
+49.
 
 
 Package natbib Warning: Citation `Samsudin2011' on page 61 undefined on input l
-ine 232.
+ine 249.
 
 
 Package natbib Warning: Citation `Yanagibayashi1999' on page 61 undefined on in
-put line 232.
+put line 249.
 
 
 Package natbib Warning: Citation `Roske2012' on page 61 undefined on input line
- 232.
+ 249.
 
 
 Package natbib Warning: Citation `Huang2005' on page 61 undefined on input line
- 232.
+ 249.
 
 
 Package natbib Warning: Citation `Chouari2005' on page 61 undefined on input li
-ne 232.
+ne 249.
 
 
 Package natbib Warning: Citation `Goberna2009' on page 61 undefined on input li
-ne 232.
+ne 249.
 
 
 Package natbib Warning: Citation `Riviere2009' on page 61 undefined on input li
-ne 232.
+ne 249.
 
 
 Package natbib Warning: Citation `Tang2011' on page 61 undefined on input line 
-232.
+249.
 
 
 Package natbib Warning: Citation `Yamane2011' on page 61 undefined on input lin
-e 232.
+e 249.
 
 
 Package natbib Warning: Citation `Humayoun2003' on page 61 undefined on input l
-ine 232.
+ine 249.
 
 
 Package natbib Warning: Citation `Schmidtova2009' on page 61 undefined on input
- line 232.
+ line 249.
 
 
 Package natbib Warning: Citation `Demergasso2008' on page 61 undefined on input
- line 233.
+ line 250.
 
 
 Package natbib Warning: Citation `Xing2009' on page 61 undefined on input line 
-233.
+250.
 
 
 Package natbib Warning: Citation `Yilmaz2012' on page 61 undefined on input lin
-e 233.
+e 250.
 
 
 Package natbib Warning: Citation `James1990' on page 61 undefined on input line
- 235.
+ 252.
 
 
 Package natbib Warning: Citation `James1994' on page 61 undefined on input line
- 236.
+ 253.
 
-[61]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
 
-
-Package natbib Warning: Citation `Thomsen1988' on page 62 undefined on input li
-ne 243.
+Package natbib Warning: Citation `Thomsen1988' on page 61 undefined on input li
+ne 260.
 
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -1075,228 +1060,151 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
 
-Package natbib Warning: Citation `Hahn2004' on page 62 undefined on input line 
-246.
+Package natbib Warning: Citation `Hahn2004' on page 61 undefined on input line 
+263.
 
 
-Package natbib Warning: Citation `Hahn2009' on page 62 undefined on input line 
-246.
+Package natbib Warning: Citation `Hahn2009' on page 61 undefined on input line 
+263.
 
 
-Package natbib Warning: Citation `Hahn2009' on page 62 undefined on input line 
-247.
+Package natbib Warning: Citation `Hahn2009' on page 61 undefined on input line 
+264.
 
 
-Package natbib Warning: Citation `Kang2012' on page 62 undefined on input line 
-248.
+Package natbib Warning: Citation `Kang2012' on page 61 undefined on input line 
+265.
 
+[61]
 
 Package natbib Warning: Citation `Miyoshi2005' on page 62 undefined on input li
-ne 253.
+ne 270.
 
 
 Package natbib Warning: Citation `Harris2004' on page 62 undefined on input lin
-e 254.
+e 271.
 
 
 Package natbib Warning: Citation `Elshahed2005' on page 62 undefined on input l
-ine 254.
+ine 271.
 
 
 Package natbib Warning: Citation `Elshahed2005' on page 62 undefined on input l
-ine 255.
+ine 272.
 
-[62]
 Package acronym Info: Label `acro:RuBisCO' newly defined as it shall be overrid
 den
-although it is yet undefined on input line 269.
+although it is yet undefined on input line 286.
+
+Package natbib Warning: Citation `Hugler2011' on page 62 undefined on input lin
+e 286.
 
 
-Package natbib Warning: Citation `Hugler2011' on page 63 undefined on input lin
-e 269.
+Package natbib Warning: Citation `Edwards2003' on page 62 undefined on input li
+ne 290.
 
 
-Package natbib Warning: Citation `Edwards2003' on page 63 undefined on input li
-ne 273.
+Package natbib Warning: Citation `Hugler2011' on page 62 undefined on input lin
+e 292.
 
-
-Package natbib Warning: Citation `Hugler2011' on page 63 undefined on input lin
-e 275.
-
-
-Overfull \hbox (0.44003pt too wide) in paragraph at lines 268--277
-\OT1/cmr/m/n/10.95 sulphur-oxidizing \OT1/cmr/m/it/10.95 Thiomi-crospira\OT1/cm
-r/m/n/10.95 , in-di-cat-ing some \OT1/cmr/m/it/10.95 Gammapro-teobac-te-ria \OT
-1/cmr/m/n/10.95 are
- []
-
-[63]
+[62]
 Package acronym Info: Label `acro:rTCA' newly defined as it shall be overridden
 
-although it is yet undefined on input line 278.
+although it is yet undefined on input line 295.
 
 
-Package natbib Warning: Citation `Hugler2011' on page 64 undefined on input lin
-e 279.
+Package natbib Warning: Citation `Hugler2011' on page 63 undefined on input lin
+e 296.
 
 
-Package natbib Warning: Citation `Campbell2006' on page 64 undefined on input l
-ine 279.
+Package natbib Warning: Citation `Campbell2006' on page 63 undefined on input l
+ine 296.
 
 Package acronym Info: Label `acro:WL' newly defined as it shall be overridden
-although it is yet undefined on input line 280.
+although it is yet undefined on input line 297.
 
-Package natbib Warning: Citation `Hugler2011' on page 64 undefined on input lin
-e 281.
+Package natbib Warning: Citation `Hugler2011' on page 63 undefined on input lin
+e 298.
 
 
-Overfull \hbox (10.84488pt too wide) in paragraph at lines 278--282
+Overfull \hbox (10.84488pt too wide) in paragraph at lines 295--299
 \OT1/cmr/m/n/10.95 dehydrogenase/acetyl-CoA syn-tha-seis the key en-zyme, was l
 inked to\OT1/cmr/m/it/10.95 Firmicutes
  []
 
 
-Package natbib Warning: Citation `Moran2007' on page 64 undefined on input line
- 292.
+Underfull \vbox (badness 5077) has occurred while \output is active []
 
-
-Package natbib Warning: Citation `Moran2007' on page 64 undefined on input line
- 292.
-
+ [63]
 
 Package natbib Warning: Citation `Moran2007' on page 64 undefined on input line
- 294.
+ 309.
 
+
+Package natbib Warning: Citation `Moran2007' on page 64 undefined on input line
+ 309.
+
+
+Package natbib Warning: Citation `Moran2007' on page 64 undefined on input line
+ 311.
+
+
+Package natbib Warning: Citation `Beja2002' on page 64 undefined on input line 
+314.
+
+
+Package natbib Warning: Citation `Moran2007' on page 64 undefined on input line
+ 314.
+
+Package acronym Info: Label `acro:BchlA' newly defined as it shall be overridde
+n
+although it is yet undefined on input line 315.
+Package acronym Info: Label `acro:PR' newly defined as it shall be overridden
+although it is yet undefined on input line 316.
 
 Underfull \vbox (badness 1502) has occurred while \output is active []
 
  [64]
-
-Package natbib Warning: Citation `Beja2002' on page 65 undefined on input line 
-297.
-
-
-Package natbib Warning: Citation `Moran2007' on page 65 undefined on input line
- 297.
-
-Package acronym Info: Label `acro:BchlA' newly defined as it shall be overridde
-n
-although it is yet undefined on input line 298.
-
-Package natbib Warning: Citation `Labrenz1999' on page 65 undefined on input li
-ne 298.
-
-Package acronym Info: Label `acro:PR' newly defined as it shall be overridden
-although it is yet undefined on input line 299.
-
-Package natbib Warning: Citation `Gomez-Consarnau2007' on page 65 undefined on 
-input line 299.
-
-
-Package natbib Warning: Citation `Gomez-Consarnau2010' on page 65 undefined on 
-input line 299.
-
-
-Package natbib Warning: Citation `Fuhrman2008' on page 65 undefined on input li
-ne 300.
-
-
-Package natbib Warning: Citation `Man2003' on page 65 undefined on input line 3
-04.
-
-
-Package natbib Warning: Citation `Gomez-Consarnau2007' on page 65 undefined on 
-input line 304.
-
-
-Package natbib Warning: Citation `Balashov2005' on page 65 undefined on input l
-ine 306.
-
-
-Package natbib Warning: Citation `Balashov2005' on page 65 undefined on input l
-ine 309.
-
-Package acronym Info: Label `acro:SO' newly defined as it shall be overridden
-although it is yet undefined on input line 311.
-
-Package natbib Warning: Citation `Sharma2008' on page 65 undefined on input lin
-e 313.
-
-
-Underfull \vbox (badness 1502) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [65]
 
-Package natbib Warning: Citation `Cottrell2002' on page 66 undefined on input l
-ine 324.
+Package natbib Warning: Citation `Williams2012b' on page 66 undefined on input 
+line 350.
 
-
-Package natbib Warning: Citation `Labrenz1999' on page 66 undefined on input li
-ne 325.
-
-
-Package natbib Warning: Citation `Gomez-Consarnau2007' on page 66 undefined on 
-input line 327.
-
-
-Underfull \vbox (badness 5077) has occurred while \output is active []
-
- [66]
-
-Package natbib Warning: Citation `Takahashi2000' on page 67 undefined on input 
-line 333.
-
-
-Package natbib Warning: Citation `Williams2012b' on page 67 undefined on input 
-line 333.
-
+[66]
 
 Package natbib Warning: Citation `Bergmann2005' on page 67 undefined on input l
-ine 344.
-
-[67]
-
-Package natbib Warning: Citation `Kraft2011' on page 68 undefined on input line
- 350.
+ine 361.
 
 
-Overfull \hbox (0.56992pt too wide) in paragraph at lines 348--357
+Package natbib Warning: Citation `Kraft2011' on page 67 undefined on input line
+ 367.
+
+
+Overfull \hbox (0.56992pt too wide) in paragraph at lines 365--374
 \OT1/cmr/m/it/10.95 Gammapro-teobac-te-ria\OT1/cmr/m/n/10.95 . Den-i-tri-fi-ca-
 tion genes are phy-lo-ge-net-i-cally widespread
  []
 
 
-Package natbib Warning: Citation `Ng2010' on page 68 undefined on input line 36
-0.
+Underfull \vbox (badness 5077) has occurred while \output is active []
 
-[68]
-
-Package natbib Warning: Citation `Friedrich2005' on page 69 undefined on input 
-line 370.
-
-
-Overfull \hbox (29.47504pt too wide) in paragraph at lines 364--372
+ [67]
+Overfull \hbox (29.47504pt too wide) in paragraph at lines 381--389
 \OT1/cmr/m/n/10.95 wa-ter col-umn (Fig-ure 4C) and linked pri-mar-ily to \OT1/c
 mr/m/it/10.95 Al-pha\OT1/cmr/m/n/10.95 - and\OT1/cmr/m/it/10.95 Gammaproteobact
 eria
  []
 
 
-Overfull \hbox (10.1749pt too wide) in paragraph at lines 364--372
+Overfull \hbox (10.1749pt too wide) in paragraph at lines 381--389
 \OT1/cmr/m/n/10.95 heterotrophs as they were re-lated to het-erotrophic \OT1/cm
 r/m/it/10.95 Mari-nobac-ter \OT1/cmr/m/n/10.95 and \OT1/cmr/m/it/10.95 Roseobac
 -
  []
 
-
-Package natbib Warning: Citation `Yamamoto2011' on page 69 undefined on input l
-ine 373.
-
-
-Package natbib Warning: Citation `Schafer2008' on page 69 undefined on input li
-ne 380.
-
-
+[68]
 Underfull \vbox (badness 5077) has occurred while \output is active []
 
  [69]
@@ -1305,27 +1213,20 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [70]
 
 Package natbib Warning: Citation `R. pomeroyi' on page 71 undefined on input li
-ne 404.
+ne 421.
+
+
+Package natbib Warning: Citation `Todd2011b' on page 71 undefined on input line
+ 433.
 
 
 Underfull \vbox (badness 5077) has occurred while \output is active []
 
  [71]
-
-Package natbib Warning: Citation `Howard2008' on page 72 undefined on input lin
-e 416.
-
-
-Package natbib Warning: Citation `Todd2011b' on page 72 undefined on input line
- 416.
-
-
-Package natbib Warning: Citation `Reisch2011' on page 72 undefined on input lin
-e 416.
-
-
-Package natbib Warning: Citation `Raina2010' on page 72 undefined on input line
- 419.
+Overfull \hbox (10.98808pt too wide) in paragraph at lines 438--442
+\OT1/cmr/m/n/10.95 `thrifty' demethy-la-tion path-way. This is par-tic-u-larly 
+per-ti-nent to the \OT1/cmr/m/it/10.95 Roseobac-
+ []
 
 [72]
 Underfull \vbox (badness 5077) has occurred while \output is active []
@@ -1353,7 +1254,7 @@ Chapter 6.
 
 
 ]
-Underfull \hbox (badness 2035) in paragraph at lines 41--45
+Underfull \hbox (badness 2035) in paragraph at lines 50--54
 \OT1/cmr/m/n/10.95 ANTARC-TIC PHYTOFLAG-EL-LATE , PYRA-MI-MONAS GE-LIDI-
  []
 
@@ -1368,19 +1269,20 @@ Missing character: There is no ¢ in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ñ in font cmr10!
 Missing character: There is no ¢ in font cmr10!
- [81] [82] [83] [84] [85] [86] [87]
+ [81] [82] [83] [84] [85] [86] [87] [88]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
-) [88]
+) [89]
 \openout2 = `appendices.aux'.
 
  (./appendices.tex
-Chapter 7.
-) [89
+[90
 
 
 ]
+Chapter 7.
+) [91]
 
 Package natbib Warning: There were undefined citations.
 
@@ -1397,13 +1299,13 @@ Package rerunfilecheck Info: File `thesis.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 79.
  ) 
 Here is how much of TeX's memory you used:
- 7054 strings out of 493488
- 100397 string characters out of 3141347
- 191606 words of memory out of 3000000
- 9752 multiletter control sequences out of 15000+200000
+ 7117 strings out of 493488
+ 101579 string characters out of 3141347
+ 193313 words of memory out of 3000000
+ 9795 multiletter control sequences out of 15000+200000
  11196 words of font info for 39 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 29i,10n,33p,588b,654s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,10n,33p,588b,676s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
@@ -1419,10 +1321,10 @@ ive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
 ve/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
 /2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/
 2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on thesis.pdf (113 pages, 465160 bytes).
+Output written on thesis.pdf (115 pages, 473397 bytes).
 PDF statistics:
- 2162 PDF objects out of 2487 (max. 8388607)
- 2011 compressed objects within 21 object streams
- 461 named destinations out of 1000 (max. 500000)
+ 2255 PDF objects out of 2487 (max. 8388607)
+ 2101 compressed objects within 22 object streams
+ 481 named destinations out of 1000 (max. 500000)
  657 words of extra memory for PDF output out of 10000 (max. 10000000)
 

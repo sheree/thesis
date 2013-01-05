@@ -11,13 +11,13 @@ A level-1 auxiliary file: abstract.aux
 A level-1 auxiliary file: acronyms.aux
 A level-1 auxiliary file: intro.aux
 A level-1 auxiliary file: acelake.aux
+White space in argument---line 68 of file acelake.aux
+ : \citation{von
+ :               Mering2007}
+I'm skipping whatever remains of this command
 A level-1 auxiliary file: olv.aux
 A level-1 auxiliary file: orglake.aux
-White space in argument---line 43 of file orglake.aux
- : \citation{Ng2010a,Lauro
- :                         2011,Yau2011,Brown2012,Williams2012b,Wilkins2012b}
-I'm skipping whatever remains of this command
-White space in argument---line 411 of file orglake.aux
+White space in argument---line 404 of file orglake.aux
  : \citation{R.
  :              pomeroyi}
 I'm skipping whatever remains of this command
@@ -26,7 +26,7 @@ A level-1 auxiliary file: conc.aux
 The style file: mybibstyle.bst
 A level-1 auxiliary file: appendices.aux
 Database file #1: Thesis.bib
-Repeated entry---line 1492 of file Thesis.bib
+Repeated entry---line 1742 of file Thesis.bib
  : @article{Laybourn-Parry2007
  :                            ,
 I'm skipping whatever remains of this entry
@@ -39,31 +39,33 @@ Warning--I didn't find a database entry for "Lavire2007"
 Warning--I didn't find a database entry for "Danavoro2011"
 Warning--I didn't find a database entry for "2010b"
 Warning--I didn't find a database entry for "Ng2010"
+Warning--I didn't find a database entry for "Morgulis2006"
+Warning--I didn't find a database entry for "Huse2007"
+Warning--I didn't find a database entry for "Miller2008"
+Warning--I didn't find a database entry for "Chou2001"
+Warning--I didn't find a database entry for "Gomez-Alvarez2009"
+Warning--I didn't find a database entry for "Myers2000"
+Warning--I didn't find a database entry for "Haft2001"
+Warning--I didn't find a database entry for "Tatusov1997"
+Warning--I didn't find a database entry for "Tatusov2003"
+Warning--I didn't find a database entry for "Keller2002"
+Warning--I didn't find a database entry for "Florens2006"
+Warning--I didn't find a database entry for "Zybailov2006"
+Warning--I didn't find a database entry for "Parks2010"
+Warning--I didn't find a database entry for "Suttle2005"
 Warning--I didn't find a database entry for "Hennes1995"
 Warning--I didn't find a database entry for "Hara1991"
 Warning--I didn't find a database entry for "Proctor1992"
 Warning--I didn't find a database entry for "Hobbie1977"
 Warning--I didn't find a database entry for "Suttle1990"
-Warning--I didn't find a database entry for "Franzman1987b"
-Warning--I didn't find a database entry for "Roberts1993"
-Warning--I didn't find a database entry for "Zwartz1988"
-Warning--I didn't find a database entry for "Franzmann"
-Warning--I didn't find a database entry for "1987b"
 Warning--I didn't find a database entry for "Curran1998"
-Warning--I didn't find a database entry for "Caporaso2010"
 Warning--I didn't find a database entry for "Xie2011"
-Warning--I didn't find a database entry for "Howard2008"
-Warning--I didn't find a database entry for "Tamura2011"
-Warning--I didn't find a database entry for "Robert2004"
 Warning--I didn't find a database entry for "Ferris1999"
 Warning--I didn't find a database entry for "Redfield1963"
-Warning--I didn't find a database entry for "Bowman1998"
-Warning--I didn't find a database entry for "Dobson1991"
 Warning--I didn't find a database entry for "Williams2012b"
 Warning--I didn't find a database entry for "Kirchman2002"
 Warning--I didn't find a database entry for "James1994"
-Warning--I didn't find a database entry for "Labrenz1999"
-Warning--I didn't find a database entry for "Moran2007"
+Warning--I didn't find a database entry for "Moran2007a<"
 Warning--I didn't find a database entry for "Teeling2012"
 Warning--I didn't find a database entry for "Wagner-Dobler2006"
 Warning--I didn't find a database entry for "Gauthier1992"
@@ -97,27 +99,16 @@ Warning--I didn't find a database entry for "Harris2004"
 Warning--I didn't find a database entry for "Elshahed2005"
 Warning--I didn't find a database entry for "Hugler2011"
 Warning--I didn't find a database entry for "Campbell2006"
+Warning--I didn't find a database entry for "Moran2007"
 Warning--I didn't find a database entry for "Beja2002"
-Warning--I didn't find a database entry for "Gomez-Consarnau2007"
-Warning--I didn't find a database entry for "Gomez-Consarnau2010"
-Warning--I didn't find a database entry for "Fuhrman2008"
-Warning--I didn't find a database entry for "Man2003"
-Warning--I didn't find a database entry for "Balashov2005"
-Warning--I didn't find a database entry for "Sharma2008"
-Warning--I didn't find a database entry for "Cottrell2002"
-Warning--I didn't find a database entry for "Takahashi2000"
 Warning--I didn't find a database entry for "Bergmann2005"
 Warning--I didn't find a database entry for "Kraft2011"
-Warning--I didn't find a database entry for "Friedrich2005"
-Warning--I didn't find a database entry for "Yamamoto2011"
-Warning--I didn't find a database entry for "Schafer2008"
 Warning--I didn't find a database entry for "Todd2011b"
-Warning--I didn't find a database entry for "Reisch2011"
-Warning--I didn't find a database entry for "Raina2010"
 You can't pop an empty literal stack for entry Clarke2006
 while executing---line 1411 of file mybibstyle.bst
 You can't pop an empty literal stack for entry Diemer2012
 while executing---line 1411 of file mybibstyle.bst
+Warning--empty journal in Gomez-Consarnau2007
 Warning--empty journal in Karr2003
 Warning--empty journal in Karr2006
 Warning--empty publisher in Laybourn-Parry1997
@@ -125,46 +116,45 @@ You can't pop an empty literal stack for entry Torrice2009
 while executing---line 1411 of file mybibstyle.bst
 Warning--there's a number but no volume in Villaescusa2010
 Warning--there's a number but no volume in Ward1997
-Warning--there's a number but no volume in Wilkins2012a
-You've used 99 entries,
+You've used 116 entries,
             2739 wiz_defined-function locations,
-            1562 strings with 36653 characters,
-and the built_in function-call counts, 55793 in all, are:
-= -- 5017
-> -- 4644
-< -- 28
-+ -- 1558
-- -- 1455
-* -- 5628
-:= -- 9146
-add.period$ -- 298
-call.type$ -- 99
-change.case$ -- 779
-chr.to.int$ -- 95
-cite$ -- 204
-duplicate$ -- 1587
-empty$ -- 3078
-format.name$ -- 1584
-if$ -- 10954
-int.to.chr$ -- 5
+            1671 strings with 41842 characters,
+and the built_in function-call counts, 66705 in all, are:
+= -- 5973
+> -- 5658
+< -- 30
++ -- 1895
+- -- 1776
+* -- 6766
+:= -- 10946
+add.period$ -- 349
+call.type$ -- 116
+change.case$ -- 937
+chr.to.int$ -- 113
+cite$ -- 238
+duplicate$ -- 1857
+empty$ -- 3618
+format.name$ -- 1926
+if$ -- 13077
+int.to.chr$ -- 4
 int.to.str$ -- 1
-missing$ -- 95
-newline$ -- 502
-num.names$ -- 400
-pop$ -- 1124
+missing$ -- 112
+newline$ -- 587
+num.names$ -- 468
+pop$ -- 1356
 preamble$ -- 1
-purify$ -- 681
+purify$ -- 822
 quote$ -- 0
-skip$ -- 1515
+skip$ -- 1801
 stack$ -- 0
-substring$ -- 2418
-swap$ -- 121
+substring$ -- 2892
+swap$ -- 135
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1089
+type$ -- 1276
 warning$ -- 6
-while$ -- 483
+while$ -- 568
 width$ -- 0
-write$ -- 1196
+write$ -- 1399
 (There were 6 error messages)

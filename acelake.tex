@@ -1,6 +1,6 @@
 \chapter{Metaproteogenomic analysis of Ace Lake}
 \label{ch:ace}
-
+%%Change title to Integration of complementary analysis to metagenomics
 %-----------------------------------------------------------------------------------------------
 \section*{Co-authorship statement}
 \addcontentsline{toc}{section}{Co-authorship statement}
@@ -53,12 +53,14 @@ The lake is physically separated into an aerobic mixolimnion, a steep chemocline
 The monimolimnion is sulfidic with accumulated methane.
 Initial diversity analysis of the sediment showed microbial diversity was reduced \cite{Bowman2000a}.
 
-As a physically and chemically well-characterised system of moderate diversity, Ace Lake was chosen as a model ecosystem upon which to implement an integrative study using high through-put metagenomic and metaproteomic analyses.
+As a physically and chemically well-characterised system of moderate diversity, Ace Lake was chosen as a model ecosystem to implement a high thtoughput metagenomic analysis.
 Samples were obtained down the depth profile at 5, 11.5, 12.7, 18 and 23 m depths corresponding to each of the three zones.
 Sampling was conducted as part of the \ac{GOS} expedition \cite{Rusch2007} by using size fractionation of microbial biomass onto 3.0, 0.8 and 0.1 $\mu$m membrane filters.
-Microbial and viral diversity was assessed from the metagenomic dataset.
+
+Microbial and viral community composition was assessed from the metagenomic dataset.
 Significant differences were found in taxonomic composition of each size fraction within each sample depth and stratification of the microbial community between the three zones of Ace Lake.
-The mixolimnion community is similar to a marine surface water assemblage consisting of a high abundance of the SAR11 clade of \emph{Alphaproteobacteria} related to ``\emph{Candidatus} Pelagibacter ubique'' and green algae of the order \emph{Mamiellales} but of one order of magnitude reduced diversity \cite{Lauro2011}.
+The mixolimnion community is similar to a marine surface water assemblage consisting of a high abundance of the SAR11 clade of \emph{Alphaproteobacteria} related to ``\emph{Candidatus} Pelagibacter ubique'' and green algae of the order \emph{Mamiellales}.
+However, diversity is reduced by one order of magnitude reduced \cite{Lauro2011}.
 Unlike Southern Ocean surface water, the mixolimnion is overrepresented in \emph{Cyanobacteria} related to \emph{Synechococcus} and \emph{Actinobacteria}, which may represent taxa that mark the transition of a marine to lake community.
 A dense, near clonal population of \acl{GSB} related to \emph{Chlorobium} termed C-ace reside at the chemo/oxycline at 12.7 m \cite{Ng2010a, Lauro2011}.
 Below, in the anoxic monimolimnion is a diverse, primarily heterotrophic community with abundant \ac{SRB} and methanogenic \emph{Archaea}.
@@ -82,13 +84,13 @@ To determine cellular and viral densities and validate the efficacy of size-frac
 \subsection{Ace Lake samples}
 Water samples were collected from Ace Lake (68$^{\circ}$28$'$23.2$''$S, 78$^{\circ}$11$'$20.8$''$E), Vestfold Hills, Antarctica on 21 and 22 December 2006. 
 A 2 m hole positioned above the deepest point (25 m depth) of the lake was drilled through the ice cover of Ace Lake to reach the lake surface.
-A volume of 1--10 L was collected by sequential size fractionation through a 20 $\mu$m pre-filter directly onto filters 3.0, 0.8 and 0.1 $\mu$m pore-sized, 293 mm polyethersulfone membrane filters (Rusch et al., 2007), along the depth profile as described previously (Ng et al., 2010).
+A volume of 1--10 L was collected by sequential size fractionation through a 20 $\mu$m pre-filter directly onto filters 3.0, 0.8 and 0.1 $\mu$m pore-sized, 293 mm polyethersulfone membrane filters (Rusch et al., 2007), along the depth profile as described previously \cite{Ng2010a}.
 Samples were taken in the order, 23, 18, 14, 12.7, 5 and finally, 11.5 m.
 
 After samples from each depth were collected, the sample racks were sequentially washed with 2 $\times$ 25 L 0.1 N NaOH, 2 $\times$ 25 L 0.053\% NaOCl, and 2 $\times$ 25 L fresh water. 
 The sample hose was flushed with water from each depth before being applied to the filters. 
 A \emph{Chlorobium} signature was identified at 5 m, but not immediately above the \ac{GSB} layer at 11.5 m. 
-As the next sample taken after sampling at 12.7 m was at 5 m, and then 11.5 m, despite all equipment being thoroughly washed with bleach, sodium hydroxide and water, 
+As the next sample taken after sampling at 12.7 m was at 5 m, and then 11.5 m, despite all equipment being thoroughly washed with bleach, NaOH and water, 
 the simplest explanation for the \ac{GSB} signature at 5 m is carry-over from sampling of the dense biomass at 12.7 m. 
 
 A sonde probe (YSI model 6600, YSI Inc., Yellow Springs, OH, USA) was used to record depth, dissolved oxygen content, pH, salinity, temperature and turbidity throughout the water column of the lake. 
@@ -97,54 +99,56 @@ Total organic carbon was determined using a total organic carbon analyzer, TOC-5
 at the Centre for Water and Waste Technology, UNSW.
 
 \subsection{DNA sequencing and data cleanup}
-DNA extraction and Sanger sequencing was performed on 3730xl capillary sequencers (Applied Biosystems, Carlsbad, CA, USA) and pyrosequencing on GS20 FLX Titanium (Roche, Branford, CT, USA) at the \acl{JCVI} in Rockville, MD, USA (Rusch et al., 2007). 
+DNA extraction and Sanger sequencing was performed on 3730xl capillary sequencers (Applied Biosystems, Carlsbad, CA, USA) and pyrosequencing on GS20 FLX Titanium (Roche, Branford, CT, USA) at the \acl{JCVI} in Rockville, MD, USA \cite{Rusch2007}. 
 The scaffolds and annotations will be available via \ac{CAMERA} and public sequence repositories such as the \ac{NCBI} and the reads will be available via the \ac{NCBI} Trace Archive. 
 
 Sanger reads were trimmed according to quality clear ranges.
 The quality of pyrosequencing reads was assessed as follows: 
-a Blast nucleotide database was created from the Sanger reads of the 0.1 $\mu$m fraction of samples GS230, GS231 and GS232. 
+a \ac{BLAST} nucleotide database was created from the Sanger reads of the 0.1 $\mu$m fraction of samples GS230, GS231 and GS232 (see Table of metagenomic data). %%Add link to table of metagenomic data. Change sample IDs to depths?
 After blasting the corresponding pyrosequencing reads against each database with a minimum bitscore of 80 and maximum e-value of 0.1, reads were binned according to length.
 The percentage of reads for each bin lacking a match to the Sanger read database was recorded. 
-The percentage reads at least 25\% repetitive after MDUST (Morgulis et al., 2006) analysis at default settings, and the percentage of reads containing N’s, were assessed. 
-In contrast to earlier pyrosequencers (Huse et al., 2007), no length-dependent bias in reads containing N’s was observed. 
+The percentage reads at least 25\% repetitive after MDUST \cite{Morgulis2006} analysis at default settings, and the percentage of reads containing N's, were assessed. 
+In contrast to earlier pyrosequencers \cite{Huse2007}, no length-dependent bias in reads containing N's was observed. 
 However, short reads had a disproportionately high number of repeats. 
-Moreover, based on the proportion of reads with no match to the Sanger data set, both very short and very long reads had a disproportionately high number of errors; an observation that was previously reported (Huse et al., 2007).
+Moreover, based on the proportion of reads with no match to the Sanger data set, both very short and very long reads had a disproportionately high number of errors; an observation that was previously reported \cite{Huse2007}.
 
 On the basis of this analysis, a three step filtering process was applied to each sample. 
-Reads were initially run through the Celera sffToCA (Miller et al., 2008) pre-processor followed by Lucy (Chou and Holmes, 2001) and finally, excluding the bottom 8\% and top 3\% of reads determined from the read length distribution. 
-As the sffToCA (v5.3) pre-processor removes all reads with a perfect prefix of any other read it overcomes the `perfect duplicates’ problem (Gomez-Alvarez et al., 2009). 
+Reads were initially run through the Celera sffToCA \cite{Miller2008} pre-processor followed by Lucy \cite{Chou2001} and finally, excluding the bottom 8\% and top 3\% of reads determined from the read length distribution. 
+As the sffToCA (v5.3) pre-processor removes all reads with a perfect prefix of any other read it overcomes the `perfect duplicates’ problem \cite{Gomez-Alvarez2009}.
+ 
 After this process, $<$5\% of the reads belonged to clusters of duplicates with three or more reads, and \ac{COG} of proteins classification of these reads showed an over-representation of category L (replication, recombination and repair) that includes mobile genetic elements, which are often duplicated, suggesting a potential biological significance for the duplicated reads. 
 It is possible these residual duplications are a result of high gene copy number or localized fragility of DNA sequences that might be biasing the shear points.
 
 \subsection{Metagenomic DNA assembly and annotation}
-Mosaic assemblies were generated for each sample fraction using Celera \ac{WGS} Assembler v5.3 (Myers et al., 2000). 
+Mosaic assemblies were generated for each sample fraction using Celera \ac{WGS} Assembler v5.3 \cite{Myers2000}. 
 For each assembly, the runtime parameters used were as outlined for 454 sequencing data in the published standard operating procedure\\ 
 \url{(http://sourceforge.net/apps/mediawiki/wgs-assembler/index.php?title 1⁄4SFF\_SOP)}. 
-As none of the samples can be considered clonal, these are regarded as stringent assemblies (Rusch et al., 2007). 
-Each 0.1 $\mu$m fraction assembly was a hybrid of Sanger and 454 read data, wherein the estimated genome size was manually set to minimize the number of unitigs from abundant organisms being falsely classified as degenerate (Rusch et al., 2007). 
+As none of the samples can be considered clonal, these are regarded as stringent assemblies \cite{Rusch2007}. 
+Each 0.1 $\mu$m fraction assembly was a hybrid of Sanger and 454 read data, wherein the estimated genome size was manually set to minimize the number of unitigs from abundant organisms being falsely classified as degenerate \cite{Rusch2007}. 
 Annotation of each sample fraction assembly was carried out using an in-house pipeline, wherein the pipeline stages consisted of genomic feature detection and subsequent annotation. 
-Detected features consisted of \acp{ORF}, transfer \acs{RNA} and \ac{rRNA}. Each detected \ac{ORF} was further annotated by \ac{BLAST} comparison against \ac{NR}, Swissprot and \ac{KEGG}-peptide sequence databases and by \ac{HMMER} comparison against \ac{TIGRFAM} (Haft et al., 2001), \ac{COG} (Tatusov et al, 1997; Tatusov et al., 2003) and known marker genes (von Mering et al., 2007).
+Detected features consisted of \acp{ORF}, transfer \acs{RNA} and \ac{rRNA}. 
+Each detected \ac{ORF} was further annotated by \ac{BLAST} comparison against \ac{NR}, Swissprot and \ac{KEGG}-peptide sequence databases and by \ac{HMMER} comparison against \ac{TIGRFAM} \cite{Haft2001}, \ac{COG} \cite{Tatusov1997, Tatusov2003} and known marker genes \cite{von Mering2007}.
 In all cases the cut-off e-value was a maximum of 1e$-$5. 
 
 
 \subsection{Epifluorescence microscopy}
 Samples of unfiltered lake water and the flow-through from 3.0 and 0.8 $\mu$m filters from all depths were collected on November 2008 and fixed on site in formalin 1\% (v/v). 
 The samples were stored at $-$80$^{\circ}$C for subsequent direct counts of cells and \acp{VLP}. 
-Enumeration was performed according to the method of Patel et al. (2007) with modifications. 
+Enumeration was performed according to the method of \citet{Patel2007} with modifications. 
 %desribe the set up of the filter apparatus!
 Lake water samples were filtered onto 0.01 $\mu$m pore-size polycarbonate filters (25 mm Poretics, GE Osmonics, Minnetonka, MN,USA). 
 Filters were air dried, then placed with the back of the filter on top of a 30 ml aliquot of 0.1\% (w/v) molten low-gelling-point agarose and allowed to dry at 30$^{\circ}$C. 
-Samples were stained by the addition of 1 ml working solution (1/400 dilution in 0.02 $\mu$m filtered sterile Milli-Q) of SYBR Gold (Molecular Probes, Eugene, OR, USA) to 25 ml of mounting medium (VECTASHIELD HardSet, Vector Laboratories, Burlingame, CA, USA). 
+Samples were stained by the addition of 1 ml working solution (1 in 400 dilution in 0.02 $\mu$m filtered sterile Milli-Q) of SYBR Gold$^{\textregistered}$ (Molecular Probes, Eugene, OR, USA) to 25 ml of mounting medium (VECTASHIELD HardSet, Vector Laboratories, Burlingame, CA, USA). 
 Stained samples were counted immediately, or stored at $-$20$^{\circ}$C for up to a week before counting. 
 Samples were visualised under wide-blue filter set (excitation 460--495 nm, emission 510--550 nm) with an epifluorescence microscope (Olympus BX61, Hamburg, Germany).
 
 
 \subsection{Metaproteomic analysis}
-Proteins were extracted from membrane filters from all 0.1 $\mu$m fractions from the six depths (5, 11.5, 12.7, 14, 18 and 23 m), and \ac{1D-SDS PAGE} and in gel trypsin digestion, liquid chromatography and mass \ac{MS}, and \ac{MS-MS} data analysis and validation of protein identifications performed as previously described (Ng et al., 2010), with minor modifications.
+Proteins were extracted from membrane filters from all 0.1 $\mu$m fractions from the six depths (5, 11.5, 12.7, 14, 18 and 23 m), and \ac{1D-SDS PAGE} and in gel trypsin digestion, liquid chromatography and mass \ac{MS}, and \ac{MS-MS} data analysis and validation of protein identifications performed as previously described \cite{Ng2010a}, with minor modifications.
 The specta generated were searched against the protein sequence database corresponding to that depth constructed from the 0.1 $\mu$m mosaic assemblies. 
 The number of protein sequences in each database were as follows: 5 m, 138,208; 11.5 m, 133,948; 12.7 m, 27,142; 14 m, 62,436; 18 m, 71,512; and 23 m, 128,878. 
 Scaffold (version Scaffold\_2\_05\_01, Proteome Software Inc., Portland, OR, USA) was used to validate \ac{MS-MS}-based peptide and protein identifications. 
-Peptide and protein identifications were accepted if they could be established at $>$95\% and 99\% probability, respectively, as specified by the Peptide Prophet algorithm (Keller et al., 2002). 
+Peptide and protein identifications were accepted if they could be established at $>$95\% and 99\% probability, respectively, as specified by the Peptide Prophet algorithm \cite{Keller2002}. 
 Protein identifications required the identification of at least two peptides.
  
 Proteins that contained similar peptides and could not be differentiated based on \ac{MS-MS} analysis alone were grouped to satisfy the principles of parsimony and are referred to as a protein group. 
@@ -154,18 +158,18 @@ For similar proteins that have shared peptides (a protein ambiguity group), spec
 To normalize for variation in total spectra acquired between sample replicates, the number of spectra of each protein was multiplied by the average total spectra divided by the total spectra of the individual replicate. 
 The spectral count of each protein was averaged across the replicates. 
 As longer proteins are more likely to be detected, the average spectral counts were divided by the length of the protein. 
-This value is equivalent to the normalized spectral abundance factor (Florens et al., 2006; Zybailov et al., 2006). 
+This value is equivalent to the normalized spectral abundance factor \cite{Florens2006, Zybailov2006}. 
 In order to compare the relative abundance of proteins between depths, the normalized spectral abundance factor was divided by the average read depth of the contig (scaffold or degenerate) to which the protein mapped. 
 
 If $>$90\% of a scaffold’s length consisted of surrogate (highly degenerate unitig) sequence, the average read depth of the surrogate was used. 
 For identified proteins that were part of a protein group the longest protein length and largest read depth value in the group was used. 
 Pairwise comparisons of each zone were conducted on COG assigned proteins. 
-The normalized spectral counts from each protein was aggregated based on their COG annotation. 
-All proteins that were part of an ambiguity group were confirmed to share the same COG annotation to ensure counts were not biased because of the common spectra.
+The normalized spectral counts from each protein was aggregated based on their \ac{COG} annotation. 
+All proteins that were part of an ambiguity group were confirmed to share the same \ac{COG} annotation to ensure counts were not biased because of the common spectra.
 
 The summed spectral counts from 5 and 11.5 m (mixolimnion), and 14, 18 and 23 m (monimolimnion) were pooled. 
-Statistical significance of differences between each zone was assessed using Fisher’s exact test, with confidence intervals at 99\% significance calculated by the Newcombe–Wilson method and Holm–Bonferroni correction (P-value cutoff of 1e$-$5) in \ac{STAMP} (Parks and Beiko, 2010). 
-All proteins identified, including their gene identifier, normalized spectral abundance, \ac{COG} and \ac{KEGG} orthology identifiers, \ac{KEGG} locus tag and matching \ac{COG} or \ac{KEGG} description are provided in Supplementary Table S1.
+Statistical significance of differences between each zone was assessed using Fisher's exact test, with confidence intervals at 99\% significance calculated by the Newcombe–Wilson method and Holm-Bonferroni correction (P-value cutoff of 1e$-$5) in \ac{STAMP} \cite{Parks2010}. 
+All proteins identified, including their gene identifier, normalized spectral abundance, \ac{COG} and \ac{KEGG} Orthology identifiers, \ac{KEGG} locus tag and matching \ac{COG} or \ac{KEGG} description are provided in Supplementary Table S1.
 
 
 
@@ -179,7 +183,7 @@ Motivation for visualising microbiota from size fractionated water samples was t
 Firstly, visualising microbiota from water samples allows examination of cellular morphologies and more importantly, enumeration of cells and \acp{VLP}.
 Cellular and \ac{VLP} densities are not obtainable from the metagenomic data and necessitates a complementary method of determination.
 Determining viral densities is extremely important as the first studies to do so found that viruses are the most numerous biological entities on the planet and likely play a large role in plankton mortality in the ocean \cite{Bergh1989,Proctor1990}. %Why is determining cellular densities important
-Average counts from the open ocean are X.
+\ac{VLP} counts from marine environments vary with depth and trophic status ranging from 10$^6$ to 10$^8$ \acs{VLP} ml$^{-1}$ \cite{Suttle2005}.
 Viral counts from various aquatic environments have differed from site to site indicating a variable role of virally mediated mortality. %ref microbial ecology of the oceans.
 
 Secondly, size fractionation of suspended microbial biomass from aquatic environments has been utilised as part of the landmark Sargasso Sea metagenomic study \cite{Venter2004} and subsequent \ac{GOS} expedition \cite{Rusch2007}.
@@ -219,7 +223,7 @@ However, this was not strictly necessary if filters were dried well and the memb
 The back ground fluorescence of the clear filters was low when stain is only incorporated into the mountant after filtration rather than staining in the column before filtration.
 
 Filtration onto very small pore-size also necessitated a very strong seal of the filter column against the glass, but the slow flow-rate was not a property of the \ac{PCTE} filters that could be overcome.
-As the filtration and visualization was performed on fixed samples in the laboratory the time taken for filtration of 2--3 hours for each sample, this was not deemed problematic for this study.
+As the filtration and visualisation was performed on fixed samples in the laboratory the time taken for filtration of 2--3 hours for each sample, this was not deemed problematic for this study.
 
 Overall, a viable alternative methodology was successfully developed for visualisation and enumeration of cells and \acp{VLP} using \ac{PCTE} membrane filters.
 To be a viable alternative to Anodisc-based methods in terms of accuracy of counts, a comparison of this methodolody and Anodisc-based protocols using viral samples of known densities needs to be performed.
@@ -271,12 +275,12 @@ All transporters in the metaproteome were of bacterial origin and conservative p
 of which SAR11 comprised 46\% and \emph{Actinobacteria} 19\% (Table S2). 
 A high proportion of expressed genes with transport functions have also been reported for SAR11 from coastal (Poretsky et al. 2010) and open ocean waters (Sowell et al. 2009) (Morris et al. 2010?). 
 Oligotrophs, such as SAR11 not only posses a low-diversity of high-affinity transporters (Lauro et al., 2009), but regulate the relative abundance of transporters expressed in response to \ac{DOC} availability (Poretsky et al. 2010). 
-The prevalence of amino acid and simple sugar transporters (Table S2), and the low \ac{DOC} concentration in the Ace Lake mixolimnion (Fig. 1) is likely to reflect efficient utilization of these substrates from the \ac{DOC} pool. 
+The prevalence of amino acid and simple sugar transporters (Table S2), and the low \ac{DOC} concentration in the Ace Lake mixolimnion (Fig. 1) is likely to reflect efficient utilisation of these substrates from the \ac{DOC} pool. 
 Two SAR11 transport proteins that were detected in Ace Lake (Table S2) were not detected from the Sargasso Sea (Sowell,et al. 2009): an ectoine/hydroxyectoine (167807477 and 167892279) and a zinc \ac{ABC} transporter (167933120). The zinc \ac{ABC} transporter is likely to support zinc efflux in response to zinc concentrations which are $\sim$70-fold higher in the mixolimnion of Ace Lake compared to seawater (Rankin 1999). 
 Conversely, phosphate transporters were a major class detected from the Sargasso Sea (Sowell,et al. 2009) but were absent from the Ace Lake metaproteome; consistent with lower phosphate levels in the Sargasso Sea ($<$5 nM) compared to Ace Lake (1--12 $\mu$M). The differences in transporter expression between Ace Lake and oceanic SAR11 are likely to signify adaptive growth strategies that have evolved in the Ace Lake SAR11 community.
 The high numbers of bacteriophages in the monimolimnion (detected by microscopy, Fig. S5 and S6; metaproteomics, Table S2; metagenomics, Fig. 2), and increase in \ac{DOC} observed at depth (Fig. 1), also indicates that carbon turnover in the monimolimnion is likely to be tightly coupled to the carbon flux going through a viral shunt, as proposed for open ocean systems (Suttle, C. A. Viruses in the sea. Nature 437, 356361 (2005)). 
 The bacteriophages are also likely vehicles for mediating gene exchange.
-Most of the genetic potential to cycle the nitrogen pool appears to be limited to nitrogen assimilation throughout the lake and remineralization in the monimolimnion (Fig. S14). 
+Most of the genetic potential to cycle the nitrogen pool appears to be limited to nitrogen assimilation throughout the lake and remineralisation in the monimolimnion (Fig. S14). 
 The detection of glutamine synthetase (GlnA) and glutamate synthases (GltBS) in the metaproteome (Table S2) are supportive of active nitrogen assimilation. 
 In the mixolimnion, GlnA was linked to SAR11 and Actinobacteria, and they are likely to be responsible for nitrogen absorption in the oxic zone. At the oxycline, GlnA and GltB from GSB were abundant (Table S2), indicating an important role for nitrogen assimilation at this zone in the lake.
 Genes for assimilatory sulphate reduction (ASR) were present in metagenome data of all three fractions at all depths, although they were lowest at the oxycline. 
