@@ -26,24 +26,24 @@
 \contentsline {section}{\numberline {1.8}Limitations of taxonomic surveys}{13}{section.1.8}
 \contentsline {section}{\numberline {1.9}`-omics' approaches}{13}{section.1.9}
 \contentsline {section}{\numberline {1.10}Objectives}{14}{section.1.10}
-\contentsline {chapter}{\numberline {2}Metaproteogenomic analysis of Ace Lake}{17}{chapter.2}
+\contentsline {chapter}{\numberline {2}Development of methods to complement metagenomic analysis of Ace Lake}{17}{chapter.2}
 \contentsline {section}{Co-authorship statement}{17}{section*.22}
 \contentsline {section}{relation to thesis objectives}{19}{section*.24}
 \contentsline {section}{\numberline {2.1}Summary}{19}{section.2.1}
 \contentsline {section}{\numberline {2.2}Introduction}{19}{section.2.2}
-\contentsline {section}{\numberline {2.3}Materials and methods}{20}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Ace Lake samples}{20}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}DNA sequencing and data cleanup}{21}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}Metagenomic DNA assembly and annotation}{22}{subsection.2.3.3}
+\contentsline {section}{\numberline {2.3}Materials and methods}{21}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Ace Lake samples}{21}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}DNA sequencing and data cleanup}{22}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Metagenomic DNA assembly and annotation}{23}{subsection.2.3.3}
 \contentsline {subsection}{\numberline {2.3.4}Epifluorescence microscopy}{23}{subsection.2.3.4}
-\contentsline {subsection}{\numberline {2.3.5}Metaproteomic analysis}{23}{subsection.2.3.5}
+\contentsline {subsection}{\numberline {2.3.5}Metaproteomic analysis}{24}{subsection.2.3.5}
 \contentsline {section}{\numberline {2.4}Results and discussion}{25}{section.2.4}
 \contentsline {subsection}{\numberline {2.4.1}Epifluorescence microscopy methodology}{25}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}Community stratification supported by cell and VLP densities}{27}{subsection.2.4.2}
-\contentsline {subsection}{\numberline {2.4.3}Development of metaproteomic methodology}{28}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.2}Community stratification supported by cell and VLP densities}{28}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Development of metaproteomic methodology}{29}{subsection.2.4.3}
 \contentsline {section}{\numberline {2.5}Conclusions}{31}{section.2.5}
 \contentsline {chapter}{\numberline {3}Virophage control of Antarctic algal host--virus dynamics}{33}{chapter.3}
-\contentsline {section}{Co-authorship statement}{33}{section*.46}
+\contentsline {section}{Co-authorship statement}{33}{section*.50}
 \contentsline {section}{\numberline {3.1}Abstract}{35}{section.3.1}
 \contentsline {section}{\numberline {3.2}Introduction}{36}{section.3.2}
 \contentsline {section}{\numberline {3.3}Materials and methods}{37}{section.3.3}
@@ -74,9 +74,9 @@
 \contentsline {subsection}{\numberline {4.4.1}Abiotic properties and water column structure}{57}{subsection.4.4.1}
 \contentsline {subsection}{\numberline {4.4.2}Overall microbial diversity}{58}{subsection.4.4.2}
 \contentsline {subsection}{\numberline {4.4.3}Variation of microbial composition according to size and depth}{59}{subsection.4.4.3}
-\contentsline {subsubsection}{20--3.0 $\mu $m fraction community composition}{59}{section*.80}
-\contentsline {subsubsection}{3--0.8 $\mu $m size fraction community composition}{60}{section*.81}
-\contentsline {subsubsection}{0.8--0.1 $\mu $m size fraction community composition}{61}{section*.83}
+\contentsline {subsubsection}{20--3.0 $\mu $m fraction community composition}{59}{section*.84}
+\contentsline {subsubsection}{3--0.8 $\mu $m size fraction community composition}{60}{section*.85}
+\contentsline {subsubsection}{0.8--0.1 $\mu $m size fraction community composition}{61}{section*.87}
 \contentsline {subsection}{\numberline {4.4.4}Organic Lake functional potential}{62}{subsection.4.4.4}
 \contentsline {subsection}{\numberline {4.4.5}Carbon resourcefulness in dominant heterotrophic bacteria}{62}{subsection.4.4.5}
 \contentsline {subsection}{\numberline {4.4.6}Regenerated nitrogen is predominant in the nitrogen cycle}{66}{subsection.4.4.6}
