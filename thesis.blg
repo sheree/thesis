@@ -17,7 +17,7 @@ White space in argument---line 81 of file acelake.aux
 I'm skipping whatever remains of this command
 A level-1 auxiliary file: olv.aux
 A level-1 auxiliary file: orglake.aux
-White space in argument---line 404 of file orglake.aux
+White space in argument---line 401 of file orglake.aux
  : \citation{R.
  :              pomeroyi}
 I'm skipping whatever remains of this command
@@ -26,10 +26,6 @@ A level-1 auxiliary file: conc.aux
 The style file: mybibstyle.bst
 A level-1 auxiliary file: appendices.aux
 Database file #1: Thesis.bib
-Repeated entry---line 1742 of file Thesis.bib
- : @article{Laybourn-Parry2007
- :                            ,
-I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "Inman2005"
 Warning--I didn't find a database entry for "Wingham2006"
 Warning--I didn't find a database entry for "Lukin2011"
@@ -39,7 +35,6 @@ Warning--I didn't find a database entry for "Lavire2007"
 Warning--I didn't find a database entry for "Danavoro2011"
 Warning--I didn't find a database entry for "Rankin1999"
 Warning--I didn't find a database entry for "2010b"
-Warning--I didn't find a database entry for "Ng2010"
 Warning--I didn't find a database entry for "Morgulis2006"
 Warning--I didn't find a database entry for "Huse2007"
 Warning--I didn't find a database entry for "Miller2008"
@@ -67,50 +62,17 @@ Warning--I didn't find a database entry for "Redfield1963"
 Warning--I didn't find a database entry for "Williams2012b"
 Warning--I didn't find a database entry for "Kirchman2002"
 Warning--I didn't find a database entry for "James1994"
-Warning--I didn't find a database entry for "Moran2007a<"
 Warning--I didn't find a database entry for "Teeling2012"
-Warning--I didn't find a database entry for "Wagner-Dobler2006"
-Warning--I didn't find a database entry for "Gauthier1992"
-Warning--I didn't find a database entry for "Huu1999"
-Warning--I didn't find a database entry for "Edwards2003"
-Warning--I didn't find a database entry for "Gardes2010"
-Warning--I didn't find a database entry for "Green2006"
-Warning--I didn't find a database entry for "Tajima1999"
-Warning--I didn't find a database entry for "Ley2006"
-Warning--I didn't find a database entry for "Samsudin2011"
-Warning--I didn't find a database entry for "Yanagibayashi1999"
-Warning--I didn't find a database entry for "Roske2012"
-Warning--I didn't find a database entry for "Huang2005"
-Warning--I didn't find a database entry for "Chouari2005"
-Warning--I didn't find a database entry for "Goberna2009"
-Warning--I didn't find a database entry for "Riviere2009"
-Warning--I didn't find a database entry for "Tang2011"
 Warning--I didn't find a database entry for "Yamane2011"
-Warning--I didn't find a database entry for "Humayoun2003"
-Warning--I didn't find a database entry for "Schmidtova2009"
-Warning--I didn't find a database entry for "Demergasso2008"
-Warning--I didn't find a database entry for "Xing2009"
-Warning--I didn't find a database entry for "Yilmaz2012"
-Warning--I didn't find a database entry for "James1990"
-Warning--I didn't find a database entry for "Thomsen1988"
-Warning--I didn't find a database entry for "Hahn2004"
-Warning--I didn't find a database entry for "Hahn2009"
-Warning--I didn't find a database entry for "Kang2012"
-Warning--I didn't find a database entry for "Miyoshi2005"
-Warning--I didn't find a database entry for "Harris2004"
-Warning--I didn't find a database entry for "Elshahed2005"
-Warning--I didn't find a database entry for "Hugler2011"
-Warning--I didn't find a database entry for "Campbell2006"
-Warning--I didn't find a database entry for "Moran2007"
-Warning--I didn't find a database entry for "Beja2002"
-Warning--I didn't find a database entry for "Bergmann2005"
-Warning--I didn't find a database entry for "Kraft2011"
-Warning--I didn't find a database entry for "Todd2011b"
+Warning--empty journal in Beja2002
 You can't pop an empty literal stack for entry Clarke2006
 while executing---line 1411 of file mybibstyle.bst
 You can't pop an empty literal stack for entry Diemer2012
 while executing---line 1411 of file mybibstyle.bst
+Warning--there's a number but no volume in Gauthier1992
 Warning--empty journal in Gomez-Consarnau2007
+Warning--empty journal in Humayoun2003
+Warning--there's a number but no volume in Huu1999
 Warning--empty journal in Karr2003
 Warning--empty journal in Karr2006
 Warning--empty publisher in Laybourn-Parry1997
@@ -118,45 +80,45 @@ You can't pop an empty literal stack for entry Torrice2009
 while executing---line 1411 of file mybibstyle.bst
 Warning--there's a number but no volume in Villaescusa2010
 Warning--there's a number but no volume in Ward1997
-You've used 116 entries,
+You've used 151 entries,
             2739 wiz_defined-function locations,
-            1675 strings with 41880 characters,
-and the built_in function-call counts, 66705 in all, are:
-= -- 5973
-> -- 5658
-< -- 30
-+ -- 1895
-- -- 1776
-* -- 6766
-:= -- 10946
-add.period$ -- 349
-call.type$ -- 116
-change.case$ -- 937
-chr.to.int$ -- 113
-cite$ -- 238
-duplicate$ -- 1857
-empty$ -- 3618
-format.name$ -- 1926
-if$ -- 13077
+            1862 strings with 51757 characters,
+and the built_in function-call counts, 86998 in all, are:
+= -- 7810
+> -- 7325
+< -- 35
++ -- 2452
+- -- 2298
+* -- 8867
+:= -- 14245
+add.period$ -- 454
+call.type$ -- 151
+change.case$ -- 1216
+chr.to.int$ -- 148
+cite$ -- 312
+duplicate$ -- 2420
+empty$ -- 4747
+format.name$ -- 2487
+if$ -- 17062
 int.to.chr$ -- 4
 int.to.str$ -- 1
-missing$ -- 112
-newline$ -- 587
-num.names$ -- 468
-pop$ -- 1356
+missing$ -- 147
+newline$ -- 762
+num.names$ -- 608
+pop$ -- 1749
 preamble$ -- 1
-purify$ -- 822
+purify$ -- 1066
 quote$ -- 0
-skip$ -- 1801
+skip$ -- 2334
 stack$ -- 0
-substring$ -- 2892
-swap$ -- 135
-text.length$ -- 2
+substring$ -- 3887
+swap$ -- 175
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1276
-warning$ -- 6
-while$ -- 568
+type$ -- 1661
+warning$ -- 10
+while$ -- 744
 width$ -- 0
-write$ -- 1399
-(There were 6 error messages)
+write$ -- 1817
+(There were 5 error messages)

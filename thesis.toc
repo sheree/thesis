@@ -61,7 +61,7 @@
 \contentsline {subsection}{\numberline {3.4.4}Virophage in algal host--phycodnavirus dynamics}{45}{subsection.3.4.4}
 \contentsline {subsection}{\numberline {3.4.5}Ecological relevance of virophages in aquatic systems}{46}{subsection.3.4.5}
 \contentsline {section}{\numberline {3.5}Acknowledgements}{47}{section.3.5}
-\contentsline {chapter}{\numberline {4}Heterotrophic resourcefulness and unusual sulphur biogeochemistry in a hypersaline Antarctic Lake}{49}{chapter.4}
+\contentsline {chapter}{\numberline {4}Strategies of carbonn conservation and unusual sulphur biogeochemistry in a hypersaline Antarctic Lake}{49}{chapter.4}
 \contentsline {section}{\numberline {4.1}Abstract}{50}{section.4.1}
 \contentsline {section}{\numberline {4.2}Introduction}{51}{section.4.2}
 \contentsline {section}{\numberline {4.3}Materials and methods}{52}{section.4.3}
@@ -78,11 +78,11 @@
 \contentsline {subsubsection}{3--0.8 $\mu $m size fraction community composition}{60}{section*.85}
 \contentsline {subsubsection}{0.8--0.1 $\mu $m size fraction community composition}{61}{section*.87}
 \contentsline {subsection}{\numberline {4.4.4}Organic Lake functional potential}{62}{subsection.4.4.4}
-\contentsline {subsection}{\numberline {4.4.5}Carbon resourcefulness in dominant heterotrophic bacteria}{62}{subsection.4.4.5}
-\contentsline {subsection}{\numberline {4.4.6}Regenerated nitrogen is predominant in the nitrogen cycle}{66}{subsection.4.4.6}
+\contentsline {subsection}{\numberline {4.4.5}Carbon resourcefulness in dominant heterotrophic bacteria}{63}{subsection.4.4.5}
+\contentsline {subsection}{\numberline {4.4.6}Regenerated nitrogen is predominant in the nitrogen cycle}{67}{subsection.4.4.6}
 \contentsline {subsection}{\numberline {4.4.7}Molecular basis for unusual sulphur chemistry}{68}{subsection.4.4.7}
 \contentsline {subsection}{\numberline {4.4.8}Conclusion}{72}{subsection.4.4.8}
 \contentsline {section}{\numberline {4.5}Acknowledgements}{74}{section.4.5}
 \contentsline {chapter}{\numberline {5}Ace Lake Viral Genomes}{75}{chapter.5}
 \contentsline {chapter}{\numberline {6}Conclusions and future work}{77}{chapter.6}
-\contentsline {chapter}{\numberline {7}Appendices}{91}{chapter.7}
+\contentsline {chapter}{\numberline {7}Appendices}{95}{chapter.7}

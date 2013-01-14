@@ -1,4 +1,4 @@
-\begin{thebibliography}{116}
+\begin{thebibliography}{151}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -46,6 +46,13 @@ Balashov S.~P., Imasheva E.~S., Boichenko V.~a., Ant\'{o}n J., Wang J.~M., and
 \newblock \emph{Science (New York, N.Y.)}, 309\penalty0 (5743):\penalty0
   2061--4.
 
+\bibitem[B\'{e}j\`{a} \emph{et~al.}(2002)B\'{e}j\`{a}, Suzuki, Heidelberg,
+  Nelson, Preston, Hamada, Eisen, Fraser, and Delong]{Beja2002}
+B\'{e}j\`{a} O., Suzuki M.~T., Heidelberg J.~F., Nelson W.~C., Preston C.~M.,
+  Hamada T., Eisen J.~A., Fraser C.~M., and Delong E.~F. (2002).
+\newblock {Unsuspected diversity among marine aerobic anoxygenic phototrophs}.
+\newblock 415:\penalty0 5--8.
+
 \bibitem[Bell and Laybourn-Parry(2003)]{Bell2003}
 Bell E.~M. and Laybourn-Parry J. (2003).
 \newblock {MIXOTROPHY IN THE ANTARCTIC PHYTOFLAGELLATE , PYRAMIMONAS GELIDICOLA
@@ -66,6 +73,14 @@ Bengtsson J., Eriksson K.~M., Hartmann M., Wang Z., Shenoy B.~D., Grelet G.-A.,
 Bergh O.~i., B\O~rsheim K.~Y., Bratbak G., and Heldal M. (1989).
 \newblock {High abundance of viruses found in aquatic environments}.
 \newblock \emph{Nature}, 340:\penalty0 467--468.
+
+\bibitem[Bergmann \emph{et~al.}(2005)Bergmann, Hooper, and Klotz]{Bergmann2005}
+Bergmann D.~J., Hooper A.~B., and Klotz M.~G. (2005).
+\newblock {Structure and sequence conservation of hao cluster genes of
+  autotrophic ammonia-oxidizing bacteria : evidence for their evolutionary
+  history}.
+\newblock \emph{Applied and environmental microbiology}, 71\penalty0
+  (9):\penalty0 5371--5382.
 
 \bibitem[Bielewicz \emph{et~al.}(2011)Bielewicz, Bell, Kong, Friedberg, Priscu,
   and Morgan-Kiss]{Bielewicz2011}
@@ -134,12 +149,20 @@ Bulat S.~A., Alekhina I.~A., Blot M., Petit J.-R., Angelis M.de, Wagenbach D.,
 Burke C. and Burton H.~R. (1988).
 \newblock {Photosynthetic bacteria in meromictic lakes and stratified fjords of
   the Vestfold Hills, Antarctica}.
-\newblock \emph{Hydrobiologia}, 165\penalty0 (1):\penalty0 13--23.
+\newblock \emph{Hydrobiologia}, 165:\penalty0 13--23.
 
 \bibitem[Burton(1981)]{Burton1981}
 Burton H.~R. (1981).
 \newblock {Chemistry , physics and evolution of Antarctic saline lakes}.
 \newblock \emph{Hydrobiologia}, 82\penalty0 (1):\penalty0 339--362.
+
+\bibitem[Campbell \emph{et~al.}(2006)Campbell, Engel, Porter, and
+  Takai]{Campbell2006}
+Campbell B.~J., Engel A.~S., Porter M.~L., and Takai K. (2006).
+\newblock {The versatile epsilon-proteobacteria: key players in sulphidic
+  habitats}.
+\newblock \emph{Nature reviews. Microbiology}, 4\penalty0 (6):\penalty0
+  458--468.
 
 \bibitem[Caporaso \emph{et~al.}(2010)Caporaso, Kuczynski, Stombaugh, Bittinger,
   Bushman, Costello, Fierer, Pe\~{n}a, Goodrich, Gordon, Huttley, Kelley,
@@ -161,6 +184,15 @@ Charlson R.~J., Lovelock J.~E., Andreae M.~O., and Warren S.~G. (1987).
 \newblock {Oceanic phytoplankton, atmospheric sulphur, cloud albedo and
   climate}.
 \newblock \emph{Nature}, 326:\penalty0 655--661.
+
+\bibitem[Chouari \emph{et~al.}(2005)Chouari, {Le Paslier}, Daegelen, Ginestet,
+  Weissenbach, and Sghir]{Chouari2005}
+Chouari R., {Le Paslier} D., Daegelen P., Ginestet P., Weissenbach J., and
+  Sghir A. (2005).
+\newblock {Novel predominant archaeal and bacterial groups revealed by
+  molecular analysis of an anaerobic sludge digester}.
+\newblock \emph{Environmental microbiology}, 7\penalty0 (8):\penalty0
+  1104--1115.
 
 \bibitem[Christner \emph{et~al.}(2001)Christner, Mosley-Thompson, Thompson, and
   Reeve]{Christner2001}
@@ -195,6 +227,14 @@ Curson A.~R., Todd J.~D., Sullivan M.~J., and Johnston A.~W. (2011).
   and genes}.
 \newblock \emph{Nature Reviews Microbiology}, 9:\penalty0 849--859.
 
+\bibitem[Demergasso \emph{et~al.}(2008)Demergasso, Escudero, Casamayor, Chong,
+  Balagu\'{e}, and Pedr\'{o}s-Ali\'{o}]{Demergasso2008}
+Demergasso C., Escudero L., Casamayor E.~O., Chong G., Balagu\'{e} V., and
+  Pedr\'{o}s-Ali\'{o} C. (2008).
+\newblock {Novelty and spatio-temporal heterogeneity in the bacterial diversity
+  of hypersaline Lake Tebenquiche (Salar de Atacama)}.
+\newblock \emph{Extremophiles}, 12\penalty0 (4):\penalty0 491--504.
+
 \bibitem[Deprez \emph{et~al.}(1986)Deprez, Franzmann, and Burton]{Deprez1986}
 Deprez P.~P., Franzmann P.~D., and Burton H.~R. (1986).
 \newblock {Determination of reduced sulfur gases in Antarctic lakes and
@@ -214,6 +254,25 @@ Dobson S., James S., Franzmann P.~D., and Mcmeekin T.~A. (1991).
 \newblock {A numerical taxonomic study of some pigmented bacteria isolated from
   Organic Lake, an antarctic hypersaline lake}.
 \newblock \emph{Archives of Microbiology}, 156:\penalty0 56--61.
+
+\bibitem[Edwards \emph{et~al.}(2003)Edwards, Rogers, Wirsen, and
+  McCollom]{Edwards2003}
+Edwards K., Rogers D., Wirsen C., and McCollom T. (2003).
+\newblock {Isolation and characterization of novel psychrophilic , neutrophilic
+  , Fe-oxidizing, chemolithoautotrophic alpha- and gamma-Proteobacteria from
+  the deep sea}.
+\newblock \emph{Applied and environmental microbiology}, 69\penalty0
+  (5):\penalty0 2906--2913.
+
+\bibitem[Elshahed \emph{et~al.}(2005)Elshahed, Najar, Aycock, Qu, Roe, and
+  Krumholz]{Elshahed2005}
+Elshahed M.~S., Najar F.~Z., Aycock M., Qu~C., Roe B.~A., and Krumholz L.~R.
+  (2005).
+\newblock {Metagenomic Analysis of the Microbial Community at Zodletone Spring
+  ( Oklahoma ): Insights into the Genome of a Member of the Novel Candidate
+  Division OD1}.
+\newblock \emph{Applied and environmental microbiology}, 71\penalty0
+  (11):\penalty0 7598--7602.
 
 \bibitem[Fofonoff and Millard(1983)]{Fofonoff1983}
 Fofonoff N. and Millard R.~J. (1983).
@@ -258,6 +317,24 @@ Fuhrman J.~A., Schwalbach M.~S., and Stingl U. (2008).
 \newblock {Proteorhodopsins: an array of physiological roles?}
 \newblock \emph{Nature reviews. Microbiology}, 6:\penalty0 488--494.
 
+\bibitem[G\"{a}rdes \emph{et~al.}(2010)G\"{a}rdes, Kaeppel, Shehzad, Seebah,
+  Teeling, Yarza, Gl\"{o}ckner, Grossart, and Ullrich]{Gardes2010}
+G\"{a}rdes A., Kaeppel E., Shehzad A., Seebah S., Teeling H., Yarza P.,
+  Gl\"{o}ckner F.~O., Grossart H.-P., and Ullrich M.~S. (2010).
+\newblock {Complete genome sequence of Marinobacter adhaerens type strain
+  (HP15), a diatom-interacting marine microorganism}.
+\newblock \emph{Standards in genomic sciences}, 3\penalty0 (2):\penalty0
+  97--107.
+
+\bibitem[Gauthier \emph{et~al.}(1992)Gauthier, Lafay, Christen, Fernandez,
+  Acquaviva, Bonin, and Bertrand]{Gauthier1992}
+Gauthier M., Lafay B., Christen R., Fernandez L., Acquaviva M., Bonin P., and
+  Bertrand J.-C. (1992).
+\newblock {a New , Extremely Halotolerant , Hydrocarbon-Degrading Marine
+  Bacterium}.
+\newblock \emph{International journal of systematic bacteriology}, \penalty0
+  (4):\penalty0 568--576.
+
 \bibitem[Gibson(1999)]{Gibson1999}
 Gibson J.~A. (1999).
 \newblock {The meromictic lakes and stratified marine basins of the Vestfold
@@ -294,6 +371,14 @@ Glatz R., Lepp P., Ward B.~B., and Francis C. (2006).
   Antarctica}.
 \newblock \emph{Geobiology}, 4:\penalty0 53--67.
 
+\bibitem[Goberna \emph{et~al.}(2009)Goberna, Insam, and
+  Franke-Whittle]{Goberna2009}
+Goberna M., Insam H., and Franke-Whittle I. (2009).
+\newblock {Effect of biowaste sludge maturation on the diversity of
+  thermophilic bacteria and archaea in an anaerobic reactor}.
+\newblock \emph{Applied and environmental microbiology}, 75\penalty0
+  (8):\penalty0 2566--2572.
+
 \bibitem[G\'{o}mez-Consarnau \emph{et~al.}(2007)G\'{o}mez-Consarnau,
   Gonz\'{a}lez, Coll-Llad\'{o}, Gourdon, Pascher, Neutze, Pedr\'{o}s-Ali\'{o},
   and Pinhassi]{Gomez-Consarnau2007}
@@ -318,6 +403,14 @@ Gordon D., Priscu J.~C., and Giovanonni S.~J. (2000).
   Ice}.
 \newblock \emph{Microbial ecology}, 39\penalty0 (3):\penalty0 197--202.
 
+\bibitem[Green \emph{et~al.}(2006)Green, Bowman, Smith, Gutierrez, and
+  Bolch]{Green2006}
+Green D.~H., Bowman J.~P., Smith E.~A., Gutierrez T., and Bolch C.~J. (2006).
+\newblock {Marinobacter algicola sp. nov., isolated from laboratory cultures of
+  paralytic shellfish toxin-producing dinoflagellates}.
+\newblock \emph{International journal of systematic and evolutionary
+  microbiology}, 56:\penalty0 523--527.
+
 \bibitem[Green \emph{et~al.}(1988)Green, Angle, and Chave]{Green1988}
 Green W.~J., Angle M.~P., and Chave K.~E. (1988).
 \newblock {The geochemistry of Antarctic streams and their role in the
@@ -325,12 +418,32 @@ Green W.~J., Angle M.~P., and Chave K.~E. (1988).
 \newblock \emph{Geochimica et Cosmochimica Acta}, 52\penalty0 (5):\penalty0
   1265--1274.
 
+\bibitem[Hahn(2009)]{Hahn2009}
+Hahn M.~W. (2009).
+\newblock {Description of seven candidate species affiliated with the phylum
+  Actinobacteria, representing planktonic freshwater bacteria}.
+\newblock \emph{International journal of systematic and evolutionary
+  microbiology}, 59:\penalty0 112--117.
+
+\bibitem[Hahn \emph{et~al.}(2004)Hahn, Stadler, Wu, and P\"{o}ckl]{Hahn2004}
+Hahn M.~W., Stadler P., Wu~Q.~L., and P\"{o}ckl M. (2004).
+\newblock {The filtration-acclimatization method for isolation of an important
+  fraction of the not readily cultivable bacteria}.
+\newblock \emph{Journal of microbiological methods}, 57\penalty0 (3):\penalty0
+  379--390.
+
 \bibitem[Hahsler \emph{et~al.}(2007)Hahsler, Hornik, and Buchta]{Hahsler2008}
 Hahsler M., Hornik K., and Buchta C. (2007).
 \newblock {Getting things in order: an introduction to the R package
   seriation}.
 \newblock \emph{Journal of Statistical Software}, 25\penalty0 (3):\penalty0
   1--34.
+
+\bibitem[Harris \emph{et~al.}(2004)Harris, Kelley, and Pace]{Harris2004}
+Harris J.~K., Kelley S.~T., and Pace N.~R. (2004).
+\newblock {New Perspective on Uncultured Bacterial Phylogenetic Division OP11}.
+\newblock \emph{Applied and environmental microbiology}, 70\penalty0
+  (2):\penalty0 845--849.
 
 \bibitem[Hodgson(2012)]{Hodgson2012}
 Hodgson D.~A.
@@ -356,11 +469,47 @@ Howard E.~C., Sun S., Biers E.~J., and Moran M.~A. (2008).
 \newblock \emph{Environmental microbiology}, 10\penalty0 (9):\penalty0
   2397--2410.
 
+\bibitem[Huang \emph{et~al.}(2005)Huang, Zhu, Zhou, and Qu]{Huang2005}
+Huang L.-N., Zhu S., Zhou H., and Qu~L.-H. (2005).
+\newblock {Molecular phylogenetic diversity of bacteria associated with the
+  leachate of a closed municipal solid waste landfill}.
+\newblock \emph{FEMS microbiology letters}, 242\penalty0 (2):\penalty0
+  297--303.
+
 \bibitem[Huang \emph{et~al.}(2010)Huang, Niu, Gao, Fu, and Li]{Huang2010}
 Huang Y., Niu B., Gao Y., Fu~L., and Li~W. (2010).
 \newblock {CD-HIT Suite : a web server for clustering and comparing biological
   sequences}.
 \newblock \emph{Bioinformatics}, 26:\penalty0 260--262.
+
+\bibitem[H\"{u}gler and Sievert(2011)]{Hugler2011}
+H\"{u}gler M. and Sievert S.~M. (2011).
+\newblock {Beyond the Calvin Cycle: Autotrophic Carbon Fixation in the Ocean}.
+\newblock \emph{Annual Review of Marine Science}, 3\penalty0 (1):\penalty0
+  261--289.
+
+\bibitem[Humayoun \emph{et~al.}(2003)Humayoun, Bano, and
+  Hollibaugh]{Humayoun2003}
+Humayoun S.~B., Bano N., and Hollibaugh J.~T. (2003).
+\newblock {Depth distribution of microbial diversity in Mono Lake , a
+  meromictic soda lake in California}.
+\newblock 69\penalty0 (2):\penalty0 1030--1042.
+
+\bibitem[Huu \emph{et~al.}(1996)Huu, Denner, Ha, Wanner, and
+  Stan-Lotter]{Huu1999}
+Huu N.~B., Denner E.~B., Ha~D.~T., Wanner G., and Stan-Lotter H. (1996).
+\newblock {Marinobacter aquaeolei sp.nov., a halophilic bacterium isolated from
+  a Vietnamese oil-producing well}.
+\newblock \emph{International journal of systematic bacteriology}, \penalty0
+  (49):\penalty0 367--375.
+
+\bibitem[James \emph{et~al.}(1990)James, Dobson, Franzmann, and
+  Mcmeekin]{James1990}
+James S., Dobson S., Franzmann P.~D., and Mcmeekin T.~A. (1990).
+\newblock {Halomonas meridiana, a New Species of Extremely Halotolerant
+  Bacteria Isolated from Antarctic Saline Lakes}.
+\newblock \emph{Systematic and Applied Microbiology}, 13\penalty0 (3):\penalty0
+  270--278.
 
 \bibitem[Johnston \emph{et~al.}(2008)Johnston, Todd, Sun,
   Nikolaidou-Katsaraidou, Curson, and Rogers]{Johnston2008}
@@ -377,6 +526,14 @@ Johnston A.~W., Todd J.~D., Sun L., Nikolaidou-Katsaraidou N., Curson A.~R.,
 Johnstone G., Brown D., and Lugg D. (1973).
 \newblock {The biology of the Vestfold Hills, Antarctica}.
 \newblock \emph{ANARE Scientific Reports}, 123:\penalty0 1--60.
+
+\bibitem[Kang \emph{et~al.}(2012)Kang, Lee, Yang, Choi, Kang, Lee, and
+  Cho]{Kang2012}
+Kang I., Lee K., Yang S.-J., Choi A., Kang D., Lee Y.~K., and Cho J.-C. (2012).
+\newblock {Genome sequence of "Candidatus Aquiluna" sp. strain IMCC13023, a
+  marine member of the Actinobacteria isolated from an arctic fjord}.
+\newblock \emph{Journal of bacteriology}, 194\penalty0 (13):\penalty0
+  3550--3551.
 
 \bibitem[Karr \emph{et~al.}(2003)Karr, Sattley, Jung, Madigan, and
   Achenbach]{Karr2003}
@@ -408,6 +565,12 @@ Kepner R.~L., Wharton R.~A., and Suttle C.~A. (1998).
 \newblock {Viruses in Antarctic lakes}.
 \newblock \emph{Limnology and oceanography}, 43\penalty0 (7):\penalty0
   1754--1761.
+
+\bibitem[Kraft \emph{et~al.}(2011)Kraft, Strous, and Tegetmeyer]{Kraft2011}
+Kraft B., Strous M., and Tegetmeyer H.~E. (2011).
+\newblock {Microbial nitrate respiration – Genes, enzymes and environmental
+  distribution}.
+\newblock \emph{Journal of Biotechnology}, 155:\penalty0 104--117.
 
 \bibitem[Kurosawa \emph{et~al.}(2010)Kurosawa, Sato, Kawarabayasi, Imura, and
   Naganuma]{Kurosawa2010}
@@ -451,7 +614,7 @@ Laybourn-Parry J. and Pearce D.~A. (2007).
 \newblock {The biodiversity and ecology of Antarctic lakes: models for
   evolution}.
 \newblock \emph{Philosophical transactions of the Royal Society of London.
-  Series B, Biological sciences}, 362:\penalty0 2273--2289.
+  Series B, Biological sciences}, 362\penalty0 (1488):\penalty0 2273--2289.
 
 \bibitem[Laybourn-Parry \emph{et~al.}(2001)Laybourn-Parry, Hofer, and
   Sommaruga]{Laybourn-Parry2001}
@@ -465,6 +628,11 @@ Laybourn-Parry J., Marshall W.~A., and Marchant H.~J. (2005).
 \newblock {Flagellate nutritional versatility as a key to survival in two
   contrasting Antarctic saline lakes}.
 \newblock \emph{Freshwater Biology}, 50:\penalty0 830--838.
+
+\bibitem[Ley \emph{et~al.}(2006)Ley, Turnbaugh, Klein, and Gordon]{Ley2006}
+Ley R.~E., Turnbaugh P.~J., Klein S., and Gordon J.~I. (2006).
+\newblock {Human gut microbes associated with obesity}.
+\newblock \emph{Nature}, 444:\penalty0 1022--1023.
 
 \bibitem[L\'{o}pez-Bueno \emph{et~al.}(2009)L\'{o}pez-Bueno, Tamames,
   Vel\'{a}zquez, Moya, Quesada, and Alcam\'{\i}]{Lopez-Bueno2009}
@@ -514,12 +682,32 @@ Mikucki J.~A., Pearson A., Johnston D.~T., Turchyn A.~V., Farquhar J., Schrag
 \newblock \emph{Science (New York, N.Y.)}, 324\penalty0 (5925):\penalty0
   397--400.
 
+\bibitem[Miyoshi \emph{et~al.}(2005)Miyoshi, Iwatsuki, and
+  Naganuma]{Miyoshi2005}
+Miyoshi T., Iwatsuki T., and Naganuma T. (2005).
+\newblock {Phylogenetic characterization of 16S rRNA gene clones from
+  deep-groundwater microorganisms that pass through 0.2-micrometer-pore-size
+  filters}.
+\newblock \emph{Applied and environmental microbiology}, 71\penalty0
+  (2):\penalty0 1084--1088.
+
 \bibitem[Moran and Miller(2007)]{Moran2007b}
 Moran M.~A. and Miller W.~L. (2007).
 \newblock {Resourceful heterotrophs make the most of light in the coastal
-  ocean.}
+  ocean}.
 \newblock \emph{Nature reviews. Microbiology}, 5\penalty0 (10):\penalty0
   792--800.
+
+\bibitem[Moran \emph{et~al.}(2007)Moran, Belas, Schell, Gonz\'{a}lez, Sun, Sun,
+  Binder, Edmonds, Ye, Orcutt, Howard, Meile, Palefsky, Goesmann, Ren, Paulsen,
+  Ulrich, Thompson, Saunders, and Buchan]{Moran2007a}
+Moran M.~A., Belas R., Schell M., Gonz\'{a}lez J.~M., Sun F., Sun S., Binder
+  B.~J., Edmonds J., Ye~W., Orcutt B., Howard E.~C., Meile C., Palefsky W.,
+  Goesmann A., Ren Q., Paulsen I., Ulrich L., Thompson L., Saunders E., and
+  Buchan A. (2007).
+\newblock {Ecological genomics of marine Roseobacters.}
+\newblock \emph{Applied and environmental microbiology}, 73\penalty0
+  (14):\penalty0 4559--69.
 
 \bibitem[Moran \emph{et~al.}(2012)Moran, Reisch, Kiene, and Whitman]{Moran2012}
 Moran M.~A., Reisch C.~R., Kiene R.~P., and Whitman W.~B. (2012).
@@ -638,6 +826,14 @@ Reisch C.~R., Moran M.~A., and Whitman W.~B. (2011).
 \newblock \emph{Frontiers in microbiology}, 2\penalty0 (August):\penalty0
   1--12.
 
+\bibitem[Rivi\`{e}re \emph{et~al.}(2009)Rivi\`{e}re, Desvignes, Pelletier,
+  Chaussonnerie, Guermazi, Weissenbach, Li, Camacho, and Sghir]{Riviere2009}
+Rivi\`{e}re D., Desvignes V., Pelletier E., Chaussonnerie S., Guermazi S.,
+  Weissenbach J., Li~T., Camacho P., and Sghir A. (2009).
+\newblock {Towards the definition of a core of microorganisms involved in
+  anaerobic digestion of sludge.}
+\newblock \emph{The ISME journal}, 3\penalty0 (6):\penalty0 700--714.
+
 \bibitem[Roberts and Burton(1993)]{Roberts1993a}
 Roberts N. and Burton H.~R. (1993).
 \newblock {Sampling volatile organics from a meromictic Antarctic lake}.
@@ -648,6 +844,14 @@ Roberts N., Burton H.~R., and Pitson G. (1993).
 \newblock {Volatile organic compounds from Organic Lake, an Antarctic,
   hypersaline, meromictic lake}.
 \newblock \emph{Antarctic Science}, 5\penalty0 (4):\penalty0 361--366.
+
+\bibitem[R\"{o}ske \emph{et~al.}(2012)R\"{o}ske, Sachse, Scheerer, and
+  R\"{o}ske]{Roske2012}
+R\"{o}ske K., Sachse R., Scheerer C., and R\"{o}ske I. (2012).
+\newblock {Microbial diversity and composition of the sediment in the drinking
+  water reservoir Saidenbach (Saxonia, Germany)}.
+\newblock \emph{Systematic and applied microbiology}, 35\penalty0 (1):\penalty0
+  35--44.
 
 \bibitem[Rusch \emph{et~al.}(2007)Rusch, Halpern, Sutton, Heidelberg,
   Williamson, Yooseph, Wu, Eisen, Hoffman, Remington, Beeson, Tran, Smith,
@@ -666,6 +870,14 @@ Rusch D.~B., Halpern A.~L., Sutton G., Heidelberg K.~B., Williamson S.~J.,
 \newblock {The Sorcerer II Global Ocean Sampling expedition: northwest Atlantic
   through eastern tropical Pacific.}
 \newblock \emph{PLoS biology}, 5\penalty0 (3):\penalty0 e77.
+
+\bibitem[Samsudin \emph{et~al.}(2011)Samsudin, Evans, Wright, and {Al
+  Jassim}]{Samsudin2011}
+Samsudin A.~A., Evans P.~N., Wright A.-D.~G., and {Al Jassim} R. (2011).
+\newblock {Molecular diversity of the foregut bacteria community in the
+  dromedary camel (Camelus dromedarius)}.
+\newblock \emph{Environmental microbiology}, 13\penalty0 (11):\penalty0
+  3024--3035.
 
 \bibitem[S\"{a}wstr\"{o}m \emph{et~al.}(2007)S\"{a}wstr\"{o}m, Anesio,
   Gran\'{e}li, and Laybourn-Parry]{Sawstrom2007}
@@ -692,6 +904,14 @@ Schiaffino M.~R., Unrein F., Gasol J.~M., Farias M.~E., Estevez C., Balagu\'{e}
   Antarctic freshwater lakes with contrasting trophic status}.
 \newblock \emph{Polar Biology}, 32\penalty0 (6):\penalty0 923--936.
 
+\bibitem[Schmidtova \emph{et~al.}(2009)Schmidtova, Hallam, and
+  Baldwin]{Schmidtova2009}
+Schmidtova J., Hallam S.~J., and Baldwin S.~A. (2009).
+\newblock {Phylogenetic diversity of transition and anoxic zone bacterial
+  communities within a near-shore anoxic basin: Nitinat Lake}.
+\newblock \emph{Environmental microbiology}, 11\penalty0 (12):\penalty0
+  3233--3251.
+
 \bibitem[Sharma \emph{et~al.}(2008)Sharma, Zhaxybayeva, Papke, and
   Doolittle]{Sharma2008}
 Sharma A.~K., Zhaxybayeva O., Papke R.~T., and Doolittle W.~F. (2008).
@@ -714,6 +934,14 @@ Siegert M.~J., Carter S., Tabacco I., Popov S., and Blankenship D.~D. (2005).
 \newblock {A revised inventory of Antarctic subglacial lakes}.
 \newblock \emph{Antarctic Science}, 17\penalty0 (03):\penalty0 453--460.
 
+\bibitem[Tajima \emph{et~al.}(1999)Tajima, Aminov, Nagamine, Ogata, Nakamura,
+  Matsui, and Benno]{Tajima1999}
+Tajima K., Aminov R.~I., Nagamine T., Ogata K., Nakamura M., Matsui H., and
+  Benno Y. (1999).
+\newblock {Rumen bacterial diversity as determined by sequence analysis of 16S
+  rDNA libraries}.
+\newblock \emph{FEMS Microbiology Ecology}, 29\penalty0 (2):\penalty0 159--169.
+
 \bibitem[Tamura \emph{et~al.}(2011)Tamura, Peterson, Peterson, Stecher, Nei,
   and Kumar]{Tamura2011}
 Tamura K., Peterson D., Peterson N., Stecher G., Nei M., and Kumar S. (2011).
@@ -721,6 +949,20 @@ Tamura K., Peterson D., Peterson N., Stecher G., Nei M., and Kumar S. (2011).
   likelihood, evolutionary distance, and maximum parsimony methods.}
 \newblock \emph{Molecular biology and evolution}, 28\penalty0 (10):\penalty0
   2731--2739.
+
+\bibitem[Tang \emph{et~al.}(2011)Tang, Ji, Hayashi, Koike, Wu, and
+  Kida]{Tang2011}
+Tang Y.-Q., Ji~P., Hayashi J., Koike Y., Wu~X.-L., and Kida K. (2011).
+\newblock {Characteristic microbial community of a dry thermophilic
+  methanogenic digester: its long-term stability and change with feeding}.
+\newblock \emph{Applied microbiology and biotechnology}, 91\penalty0
+  (5):\penalty0 1447--1461.
+
+\bibitem[Thomsen(2007)]{Thomsen1988}
+Thomsen H.~A. (2007).
+\newblock {Ultrastructural studies of the flagellate and cyst stages of
+  Pseudopedinella tricostata (Pedinellales, Chrysophyceae)}.
+\newblock \emph{British phycological journal}, pages 37--41.
 
 \bibitem[Todd \emph{et~al.}(2007)Todd, Rogers, Li, Wexler, Bond, Sun, Curson,
   Malin, Steinke, and Johnston]{Todd2007}
@@ -789,7 +1031,7 @@ Venter J.~C., Remington K., Heidelberg J.~F., Halpern A.~L., Rusch D., Eisen
   J.~A., Wu~D., Paulsen I., Nelson K.~E., Nelson W., Fouts D.~E., Levy S., Knap
   A.~H., Lomas M.~W., Nealson K., White O., Peterson J., Hoffman J., Parsons
   R., Baden-Tillson H., Pfannkoch C., Rogers Y.-H., and Smith H.~O. (2004).
-\newblock {Environmental genome shotgun sequencing of the Sargasso Sea.}
+\newblock {Environmental genome shotgun sequencing of the Sargasso Sea}.
 \newblock \emph{Science (New York, N.Y.)}, 304\penalty0 (5667):\penalty0
   66--74.
 
@@ -806,6 +1048,11 @@ Voytek M.~A., Priscu J.~C., and Ward B.~B. (1999).
 \newblock {The distribution and relative abundance of ammonia-oxidizing
   bacteria in lakes of the McMurdo Dry Valley, Antarctica}.
 \newblock \emph{Hydrobiologia}, 401:\penalty0 113--130.
+
+\bibitem[Wagner-D\"{o}bler and Biebl(2006)]{Wagner-Dobler2006}
+Wagner-D\"{o}bler I. and Biebl H. (2006).
+\newblock {Environmental biology of the marine Roseobacter lineage}.
+\newblock \emph{Annual review of microbiology}, 60:\penalty0 255--280.
 
 \bibitem[Wang \emph{et~al.}(2007)Wang, Garrity, Tiedje, and Cole]{Wang2007}
 Wang Q., Garrity G.~M., Tiedje J.~M., and Cole J.~R. (2007).
@@ -838,11 +1085,27 @@ Wilkins D., Lauro F.~M., Williams T.~J., Demaere M.~Z., Brown M.~V., Hoffman
   by metagenomics}.
 \newblock \emph{Environmental microbiology}.
 
+\bibitem[Xing \emph{et~al.}(2009)Xing, Hahn, and Wu]{Xing2009}
+Xing P., Hahn M.~W., and Wu~Q.~L. (2009).
+\newblock {Low taxon richness of bacterioplankton in high-altitude lakes of the
+  Eastern Tibetan Plateau, with a predominance of Bacteroidetes and
+  Synechococcus spp.}
+\newblock \emph{Applied and environmental microbiology}, 75\penalty0
+  (22):\penalty0 7017--25.
+
 \bibitem[Yamamoto and Takai(2011)]{Yamamoto2011}
 Yamamoto M. and Takai K. (2011).
 \newblock {Sulfur metabolisms in epsilon- and gamma-Proteobacteria in deep-sea
   hydrothermal fields}.
 \newblock \emph{Frontiers in microbiology}, 2:\penalty0 1--8.
+
+\bibitem[Yanagibayashi \emph{et~al.}(1999)Yanagibayashi, Nogi, Li, and
+  Kato]{Yanagibayashi1999}
+Yanagibayashi M., Nogi Y., Li~L., and Kato C. (1999).
+\newblock {Changes in the microbial community in Japan Trench sediment from a
+  depth of 6292 m during cultivation without decompression}.
+\newblock \emph{FEMS microbiology letters}, 170\penalty0 (1):\penalty0
+  271--279.
 
 \bibitem[Yau \emph{et~al.}(2011)Yau, Lauro, Demaere, Brown, Thomas, Raftery,
   Andrews-Pfannkoch, Lewis, Hoffman, Gibson, and Cavicchioli]{Yau2011}
@@ -852,6 +1115,14 @@ Yau S., Lauro F.~M., Demaere M.~Z., Brown M.~V., Thomas T., Raftery M.~J.,
 \newblock {Virophage control of antarctic algal host – virus dynamics}.
 \newblock \emph{Proceedings of the National Academy of Sciences of the United
   States of America}, 108:\penalty0 6163--6168.
+
+\bibitem[Yilmaz \emph{et~al.}(2012)Yilmaz, Iversen, Hankeln, Kottmann, Quast,
+  and Gl\"{o}ckner]{Yilmaz2012}
+Yilmaz P., Iversen M.~H., Hankeln W., Kottmann R., Quast C., and Gl\"{o}ckner
+  F.~O. (2012).
+\newblock {Ecological structuring of bacterial and archaeal taxa in surface
+  ocean waters}.
+\newblock \emph{FEMS microbiology ecology}, 81\penalty0 (2):\penalty0 373--385.
 
 \bibitem[Zwartz \emph{et~al.}(1998)Zwartz, Bird, Stone, and
   Lambeck]{Zwartz1998}
