@@ -1,0 +1,6 @@
+\begin{figure}
+\includegraphics{intro_figures/vestfold_map.png}
+\caption[Map of the Vestfold Hills]{A map of the Vestfold Hills. The Southern Ocean is shown in grey, lakes are numbered with meromictic lakes coloured in black and holomictic lakes shown striped, the continental ice-shelf is stippled. Inset is a map showing the location of Australia relative to the coastal oases: Syowa Oasis, Vestfold Hills and McMurdo Dry Valleys. Map image from \cite{Bowman2000}.}
+\label{fig:vestfold_map}
+
+\end{figure}
