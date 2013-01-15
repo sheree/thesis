@@ -1,4 +1,4 @@
-\begin{thebibliography}{151}
+\begin{thebibliography}{159}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -211,6 +211,13 @@ Cottrell M.~T. and Kirchman D.~L. (2009).
 \newblock \emph{Applied and environmental microbiology}, 75\penalty0
   (15):\penalty0 4958--4966.
 
+\bibitem[Curran \emph{et~al.}(1998)Curran, Jones, and Burton]{Curran1998}
+Curran M.~A., Jones G.~B., and Burton H.~R. (1998).
+\newblock {Spatial distribution of dimethylsulphide and
+  dimethylsulfoniopropionate in the Australiasian sector of the Southern
+  Ocean}.
+\newblock \emph{Journal of Geophysical Research}, 103:\penalty0 16677--16689.
+
 \bibitem[Curson \emph{et~al.}(2008)Curson, Rogers, Todd, Brearley, and
   Johnston]{Curson2008}
 Curson A.~R., Rogers R., Todd J.~D., Brearley C., and Johnston A.~W. (2008).
@@ -273,6 +280,13 @@ Elshahed M.~S., Najar F.~Z., Aycock M., Qu~C., Roe B.~A., and Krumholz L.~R.
   Division OD1}.
 \newblock \emph{Applied and environmental microbiology}, 71\penalty0
   (11):\penalty0 7598--7602.
+
+\bibitem[Ferris \emph{et~al.}(1991)Ferris, Gibson, and Burton]{Ferris1991}
+Ferris J.~M., Gibson J.~A., and Burton H.~R. (1991).
+\newblock {Evidence of density currents with the potential to promote meromixis
+  in ice-covered saline lakes}.
+\newblock \emph{Palaeogeography, Palaeoclimatology, Palaeoecology},
+  84:\penalty0 99--107.
 
 \bibitem[Fofonoff and Millard(1983)]{Fofonoff1983}
 Fofonoff N. and Millard R.~J. (1983).
@@ -511,6 +525,14 @@ James S., Dobson S., Franzmann P.~D., and Mcmeekin T.~A. (1990).
 \newblock \emph{Systematic and Applied Microbiology}, 13\penalty0 (3):\penalty0
   270--278.
 
+\bibitem[James \emph{et~al.}(1994)James, Burton, Mcmeekin, and
+  Mancuso]{James1994}
+James S., Burton H.~R., Mcmeekin T.~A., and Mancuso C. (1994).
+\newblock {Seasonal abundance of Halomonas meridiana, Halomonas subglaciescola,
+  Flavobacterium gondwanense and Flavobacterium salegens in four Antarctic
+  lakes}.
+\newblock \emph{Antarcti}, 6\penalty0 (3):\penalty0 325--332.
+
 \bibitem[Johnston \emph{et~al.}(2008)Johnston, Todd, Sun,
   Nikolaidou-Katsaraidou, Curson, and Rogers]{Johnston2008}
 Johnston A.~W., Todd J.~D., Sun L., Nikolaidou-Katsaraidou N., Curson A.~R.,
@@ -587,6 +609,16 @@ Labrenz M., Collins M.~D., Lawson P.~A., Tindall B.~J., Schumann P., and Hirsch
   variable bacteriochlorophyll a production from hypersaline Ekho Lake}.
 \newblock \emph{International Journal of Systematic Bacteriology}, 49:\penalty0
   137--147.
+
+\bibitem[Lauro \emph{et~al.}(2009)Lauro, Mcdougald, Thomas, Williams, Egan,
+  Rice, Demaere, Ting, Ertan, Johnson, Ferriera, Lapidus, Anderson, Kyrpides,
+  Munk, Detter, Han, Brown, Robb, Kjelleberg, and Cavicchioli]{Lauro2009}
+Lauro F.~M., Mcdougald D., Thomas T., Williams T.~J., Egan S., Rice S., Demaere
+  M.~Z., Ting L., Ertan H., Johnson J., Ferriera S., Lapidus A., Anderson
+  I.~J., Kyrpides N., Munk A.~C., Detter C., Han C.~S., Brown M.~V., Robb
+  F.~T., Kjelleberg S., and Cavicchioli R. (2009).
+\newblock {The genomic basis of trophic strategy in marine bacteria}.
+\newblock \emph{PNAS}, 106\penalty0 (37):\penalty0 15527--15533.
 
 \bibitem[Lauro \emph{et~al.}(2011)Lauro, Demaere, Yau, Brown, Ng, Wilkins,
   Raftery, Gibson, Andrews-Pfannkoch, Lewis, Hoffman, Thomas, and
@@ -819,6 +851,13 @@ Raina J.-B., Dinsdale E.~A., Willis B.~L., and Bourne D.~G. (2010).
 \newblock {Do the organic sulfur compounds DMSP and DMS drive coral microbial
   associations?}
 \newblock \emph{Trends in microbiology}, 18\penalty0 (3):\penalty0 101--108.
+
+\bibitem[Redfield \emph{et~al.}(1963)Redfield, Ketchum, and
+  Richards]{Redfield1963}
+Redfield A., Ketchum B., and Richards F.
+\newblock {The influence of organisms on the composition of sea-water}.
+\newblock In Hill M., editor, \emph{The Sea}, pages 26--77. 1963.
+\newblock URL \url{http://www.vliz.be/imis/imis.php?refid=28944}.
 
 \bibitem[Reisch \emph{et~al.}(2011)Reisch, Moran, and Whitman]{Reisch2011b}
 Reisch C.~R., Moran M.~A., and Whitman W.~B. (2011).
@@ -1085,6 +1124,23 @@ Wilkins D., Lauro F.~M., Williams T.~J., Demaere M.~Z., Brown M.~V., Hoffman
   by metagenomics}.
 \newblock \emph{Environmental microbiology}.
 
+\bibitem[Williams \emph{et~al.}(2012)Williams, Wilkins, Long, Evans, DeMaere,
+  Raftery, and Cavicchioli]{Williams2012}
+Williams T.~J., Wilkins D., Long E., Evans F., DeMaere M.~Z., Raftery M.~J.,
+  and Cavicchioli R. (2012).
+\newblock {The role of planktonic Flavobacteria in processing algal organic
+  matter in coastal East Antarctica revealed using metagenomics and
+  metaproteomics}.
+\newblock \emph{Environmental Microbiology}.
+
+\bibitem[Xie \emph{et~al.}(2011)Xie, Mao, Huang, Ding, Wu, Dong, Kong, Gao, Li,
+  and Wei]{Xie2011}
+Xie C., Mao X., Huang J., Ding Y., Wu~J., Dong S., Kong L., Gao G., Li~C., and
+  Wei L. (2011).
+\newblock {KOBAS 2.0: a web server for the annotation and identification of
+  enriched pathways and diseases}.
+\newblock \emph{Nucleic acids research}, 39:\penalty0 W316--322.
+
 \bibitem[Xing \emph{et~al.}(2009)Xing, Hahn, and Wu]{Xing2009}
 Xing P., Hahn M.~W., and Wu~Q.~L. (2009).
 \newblock {Low taxon richness of bacterioplankton in high-altitude lakes of the
@@ -1098,6 +1154,13 @@ Yamamoto M. and Takai K. (2011).
 \newblock {Sulfur metabolisms in epsilon- and gamma-Proteobacteria in deep-sea
   hydrothermal fields}.
 \newblock \emph{Frontiers in microbiology}, 2:\penalty0 1--8.
+
+\bibitem[Yamane \emph{et~al.}(2011)Yamane, Hattori, Ohtagaki, and
+  Fujiwara]{Yamane2011}
+Yamane K., Hattori Y., Ohtagaki H., and Fujiwara K. (2011).
+\newblock {Microbial diversity with dominance of 16S rRNA gene sequences with
+  high GC contents at 74 and 98 °C subsurface crude oil deposits in Japan}.
+\newblock \emph{FEMS microbiology ecology}, 76\penalty0 (2):\penalty0 220--235.
 
 \bibitem[Yanagibayashi \emph{et~al.}(1999)Yanagibayashi, Nogi, Li, and
   Kato]{Yanagibayashi1999}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.21)  15 JAN 2013 15:29
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.21)  16 JAN 2013 00:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -41,6 +41,94 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count88
 )
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count89
+)))
+(/usr/local/texlive/2012/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2012/08/31 v0.4t Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count90
+\calc@Bcount=\count91
+\calc@Adimen=\dimen103
+\calc@Bdimen=\dimen104
+\calc@Askip=\skip45
+\calc@Bskip=\skip46
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count92
+\calc@Cskip=\skip47
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2010/10/06 v2.0c eso-pic (RN)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+))
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen105
+\Gin@req@width=\dimen106
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2012/08/31 v0.4t Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box26
+\AM@toc@title=\toks15
+\c@AM@survey=\count93
+\AM@templatesizebox=\box27
+)
 (/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2012/08/21 v6.83c Hypertext links for LaTeX
 
@@ -51,15 +139,14 @@ Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
 (/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
@@ -85,13 +172,9 @@ Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
 Package: xcolor-patch 2011/01/30 xcolor patch
 Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
 Package atveryend Info: \enddocument detected (standard20110627).
-Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
-)
-(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
-\KV@toks@=\toks14
 )
 (/usr/local/texlive/2012/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
@@ -102,14 +185,14 @@ Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 (/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
-\@linkdim=\dimen103
-\Hy@linkcounter=\count89
-\Hy@pagecounter=\count90
+\@linkdim=\dimen107
+\Hy@linkcounter=\count94
+\Hy@pagecounter=\count95
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/08/21 v6.83c Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count91
+\Hy@SavedSpaceFactor=\count96
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -121,17 +204,17 @@ Package hyperref Info: Plain pages OFF on input line 4278.
 Package hyperref Info: Backreferencing OFF on input line 4283.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4501.
-\c@Hy@tempcnt=\count92
+\c@Hy@tempcnt=\count97
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4854.
-\XeTeXLinkMargin=\dimen104
-\Fld@menulength=\count93
-\Field@Width=\dimen105
-\Fld@charsize=\dimen106
+\XeTeXLinkMargin=\dimen108
+\Fld@menulength=\count98
+\Field@Width=\dimen109
+\Fld@charsize=\dimen110
 Package hyperref Info: Hyper figures OFF on input line 6094.
 Package hyperref Info: Link nesting OFF on input line 6099.
 Package hyperref Info: Hyper index ON on input line 6102.
@@ -141,24 +224,24 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6119.
 Package hyperref Info: PDF/A mode OFF on input line 6124.
 LaTeX Info: Redefining \ref on input line 6164.
 LaTeX Info: Redefining \pageref on input line 6168.
-\Hy@abspage=\count94
-\c@Item=\count95
-\c@Hfootnote=\count96
+\Hy@abspage=\count99
+\c@Item=\count100
+\c@Hfootnote=\count101
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2012/08/21 v6.83c Hyperref driver for pdfTeX
-\Fld@listcount=\count97
-\c@bookmark@seq@number=\count98
+\Fld@listcount=\count102
+\c@bookmark@seq@number=\count103
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip45
+\Hy@SectionHShift=\skip48
 )
 (/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/hypcap.sty
 Package: hypcap 2011/02/16 v1.11 Adjusting the anchors of captions (HO)
@@ -185,82 +268,42 @@ Examine \scriptsize starts \@setfontsize size may be \@viiipt.
 Examine \tiny starts \@setfontsize size may be \@vipt. 
 Examine \huge starts \@setfontsize size may be \@xxpt. 
 Examine \Huge starts \@setfontsize size may be \@xxvpt. )
-\AC@clearlist=\toks15
-)
-(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
-)
-(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
-)
-Package graphics Info: Driver file: pdftex.def on input line 91.
-
-(/usr/local/texlive/2012/texmf-dist/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-\Gread@gobject=\count99
-))
-\Gin@req@height=\dimen107
-\Gin@req@width=\dimen108
-)
-(./thesis.aux (./title.aux) (./originality.aux) (./copyright.aux)
-(./authenticity.aux) (./acknowledgements.aux) (./publist.aux) (./abstract.aux)
-(./acronyms.aux) (./intro.aux) (./acelake.aux) (./olv.aux) (./orglake.aux)
-(./viruses.aux) (./conc.aux) (./appendices.aux))
+\AC@clearlist=\toks16
+) (./thesis.aux
+(./title.aux) (./originality.aux) (./copyright.aux) (./authenticity.aux)
+(./acknowledgements.aux) (./publist.aux) (./abstract.aux) (./acronyms.aux)
+(./intro.aux) (./acelake.aux) (./olv.aux) (./orglake.aux) (./viruses.aux)
+(./conc.aux) (./appendices.aux))
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-\AtBeginShipoutBox=\box26
-Package hyperref Info: Link coloring OFF on input line 32.
-
-(/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2012/07/31 v2.42 Cross-referencing by name of section
-
-(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
-)
-\c@section@level=\count100
-)
-LaTeX Info: Redefining \ref on input line 32.
-LaTeX Info: Redefining \pageref on input line 32.
-LaTeX Info: Redefining \nameref on input line 32.
-
-(./thesis.out) (./thesis.out)
-\@outlinefile=\write3
-\openout3 = `thesis.out'.
-
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
 
 (/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count101
-\scratchdimen=\dimen109
-\scratchbox=\box27
-\nofMPsegments=\count102
-\nofMParguments=\count103
-\everyMPshowfont=\toks16
-\MPscratchCnt=\count104
-\MPscratchDim=\dimen110
-\MPnumerator=\count105
-\makeMPintoPDFobject=\count106
-\everyMPtoPDFconversion=\toks17
+\scratchcounter=\count104
+\scratchdimen=\dimen111
+\scratchbox=\box28
+\nofMPsegments=\count105
+\nofMParguments=\count106
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count107
+\MPscratchDim=\dimen112
+\MPnumerator=\count108
+\makeMPintoPDFobject=\count109
+\everyMPtoPDFconversion=\toks18
 ) (/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -276,22 +319,40 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+\AtBeginShipoutBox=\box29
+Package hyperref Info: Link coloring OFF on input line 35.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/07/31 v2.42 Cross-referencing by name of section
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count110
+)
+LaTeX Info: Redefining \ref on input line 35.
+LaTeX Info: Redefining \pageref on input line 35.
+LaTeX Info: Redefining \nameref on input line 35.
+
+(./thesis.out) (./thesis.out)
+\@outlinefile=\write3
+\openout3 = `thesis.out'.
+
 \openout2 = `title.aux'.
 
-
-(./title.tex [1
+ (./title.tex [1
 
 
 {/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
 \openout2 = `originality.aux'.
 
  (./originality.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 3--42
+Underfull \hbox (badness 10000) in paragraph at lines 3--45
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--42
+Underfull \hbox (badness 10000) in paragraph at lines 3--45
 
  []
 
@@ -375,7 +436,7 @@ Underfull \vbox (badness 3428) has occurred while \output is active []
 
 
 ] [14]
-Overfull \hbox (1.9285pt too wide) in paragraph at lines 77--77
+Overfull \hbox (1.9285pt too wide) in paragraph at lines 76--76
  [][] [][]\OT1/cmr/m/n/10.95 Carbon re-source-ful-ness in dom-i-nant het-erotro
 phic bac- 
  []
@@ -434,7 +495,7 @@ l.18 \newpage
 
 
 ] [2] [3] (./intro_figures/vestfold_map.tex
-<intro_figures/vestfold_map.png, id=634, 380.01974pt x 406.51875pt>
+<intro_figures/vestfold_map.png, id=629, 380.01974pt x 406.51875pt>
 File: intro_figures/vestfold_map.png Graphic file (type png)
 
 <use intro_figures/vestfold_map.png>
@@ -463,62 +524,65 @@ although it is yet undefined on input line 167.
 Package acronym Info: Label `acro:DGGE' newly defined as it shall be overridden
 
 although it is yet undefined on input line 169.
- (./intro_figures/molecular_studies_lakes.tex
-<intro_figures/molecular_studies_lakes.pdf, id=739, 845.1575pt x 597.23125pt>
+ (./intro_figures/molecular_studies_lakes.tex [7] [8]
+<intro_figures/molecular_studies_lakes.pdf, id=788, 845.1575pt x 597.23125pt>
 File: intro_figures/molecular_studies_lakes.pdf Graphic file (type pdf)
 
 <use intro_figures/molecular_studies_lakes.pdf>
 Package pdftex.def Info: intro_figures/molecular_studies_lakes.pdf used on inpu
-t line 2.
+t line 5.
 (pdftex.def)             Requested size: 845.15544pt x 597.22978pt.
 
-Overfull \hbox (485.15544pt too wide) in paragraph at lines 2--3
-[][] 
+Overfull \hbox (249.35518pt too wide) in paragraph at lines 5--7
+[][]
  []
 
 
-LaTeX Warning: Float too large for page by 40.7587pt on input line 6.
+LaTeX Warning: Float too large for page by 271.56311pt on input line 7.
 
-) [7] [8] [9 <./intro_figures/molecular_studies_lakes.pdf>] [10]
+[9 <./intro_figures/molecular_studies_lakes.pdf>]) [10
+
+
+]
 Package acronym Info: Label `acro:GSB' newly defined as it shall be overridden
 although it is yet undefined on input line 214.
+ [11]
 
-
-Package natbib Warning: Citation `Inman2005' on page 11 undefined on input line
+Package natbib Warning: Citation `Inman2005' on page 12 undefined on input line
  229.
 
 
-Package natbib Warning: Citation `Wingham2006' on page 11 undefined on input li
+Package natbib Warning: Citation `Wingham2006' on page 12 undefined on input li
 ne 229.
 
 
-Package natbib Warning: Citation `Lukin2011' on page 11 undefined on input line
+Package natbib Warning: Citation `Lukin2011' on page 12 undefined on input line
  229.
 
 
-Package natbib Warning: Citation `Gramling2012' on page 11 undefined on input l
+Package natbib Warning: Citation `Gramling2012' on page 12 undefined on input l
 ine 229.
 
 
-Package natbib Warning: Citation `Jones2012' on page 11 undefined on input line
+Package natbib Warning: Citation `Jones2012' on page 12 undefined on input line
  229.
 
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 
-Package natbib Warning: Citation `Lavire2007' on page 11 undefined on input lin
+Package natbib Warning: Citation `Lavire2007' on page 12 undefined on input lin
 e 233.
 
-[11] [12] [13]
-Package acronym Info: Label `acro:DMSO' newly defined as it shall be overridden
-
-although it is yet undefined on input line 303.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [14]
-[15]
+ [12]
+[13] [14]
+Package acronym Info: Label `acro:DMSO' newly defined as it shall be overridden
+
+although it is yet undefined on input line 303.
+ [15]
 
 Package natbib Warning: Citation `Danavoro2011' on page 16 undefined on input l
 ine 335.
@@ -552,19 +616,19 @@ Underfull \vbox (badness 1087) has occurred while \output is active []
 [20]
 
 Package natbib Warning: Citation `Rankin1999' on page 21 undefined on input lin
-e 46.
+e 41.
 
-Package acronym Info: Label `acro:SSU' overridden on input line 49.
+Package acronym Info: Label `acro:SSU' overridden on input line 44.
 
 Package natbib Warning: Citation `Rankin1999' on page 21 undefined on input lin
-e 55.
+e 50.
 
 Package acronym Info: Label `acro:SRB' newly defined as it shall be overridden
-although it is yet undefined on input line 57.
+although it is yet undefined on input line 52.
 Package acronym Info: Label `acro:GOS' newly defined as it shall be overridden
-although it is yet undefined on input line 63.
+although it is yet undefined on input line 58.
 
-Overfull \hbox (5.42334pt too wide) in paragraph at lines 66--74
+Overfull \hbox (5.42334pt too wide) in paragraph at lines 61--69
 []\OT1/cmr/m/n/10.95 Microbial and vi-ral com-mu-nity com-po-si-tion was as-ses
 sed from the metage-
  []
@@ -572,135 +636,136 @@ sed from the metage-
 [21]
 Package acronym Info: Label `acro:NCBI' newly defined as it shall be overridden
 
-although it is yet undefined on input line 75.
+although it is yet undefined on input line 70.
 Package acronym Info: Label `acro:NR' newly defined as it shall be overridden
-although it is yet undefined on input line 75.
+although it is yet undefined on input line 70.
 
 
-Package natbib Warning: Citation `2010b' on page 22 undefined on input line 75.
+Package natbib Warning: Citation `2010b' on page 22 undefined on input line 70.
 
 
-Package acronym Info: Label `acro:GSB' overridden on input line 79.
+Package acronym Info: Label `acro:GSB' overridden on input line 74.
 
 Underfull \vbox (badness 5077) has occurred while \output is active []
 
  [22]
 Package acronym Info: Label `acro:CAMERA' newly defined as it shall be overridd
 en
-although it is yet undefined on input line 111.
+although it is yet undefined on input line 106.
 
-Underfull \vbox (badness 7832) has occurred while \output is active []
-
- [23]
+[23]
 Package acronym Info: Label `acro:BLAST' newly defined as it shall be overridde
 n
-although it is yet undefined on input line 115.
+although it is yet undefined on input line 110.
 
 
 Package natbib Warning: Citation `Morgulis2006' on page 24 undefined on input l
-ine 118.
+ine 113.
 
 
 Package natbib Warning: Citation `Huse2007' on page 24 undefined on input line 
-119.
+114.
 
 
 Package natbib Warning: Citation `Huse2007' on page 24 undefined on input line 
-121.
+116.
 
 
 Package natbib Warning: Citation `Miller2008' on page 24 undefined on input lin
-e 124.
+e 119.
 
 
 Package natbib Warning: Citation `Chou2001' on page 24 undefined on input line 
-124.
+119.
 
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 
 Package natbib Warning: Citation `Gomez-Alvarez2009' on page 24 undefined on in
-put line 125.
+put line 120.
 
 Package acronym Info: Label `acro:COG' newly defined as it shall be overridden
-although it is yet undefined on input line 127.
-[24]
+although it is yet undefined on input line 122.
 Package acronym Info: Label `acro:WGS' newly defined as it shall be overridden
-although it is yet undefined on input line 131.
+although it is yet undefined on input line 126.
 
-
-Package natbib Warning: Citation `Myers2000' on page 25 undefined on input line
- 131.
+Package natbib Warning: Citation `Myers2000' on page 24 undefined on input line
+ 126.
 
 Missing character: There is no ‚ in font cmtt10!
 Missing character: There is no Å in font cmtt10!
 Missing character: There is no Ñ in font cmtt10!
 Package acronym Info: Label `acro:ORF' newly defined as it shall be overridden
-although it is yet undefined on input line 137.
-Package acronym Info: Label `acro:rRNA' overridden on input line 137.
+although it is yet undefined on input line 132.
+Package acronym Info: Label `acro:rRNA' overridden on input line 132.
 Package acronym Info: Label `acro:KEGG' newly defined as it shall be overridden
 
-although it is yet undefined on input line 138.
+although it is yet undefined on input line 133.
 Package acronym Info: Label `acro:HMMER' newly defined as it shall be overridde
 n
-although it is yet undefined on input line 138.
+although it is yet undefined on input line 133.
 Package acronym Info: Label `acro:TIGRFAM' newly defined as it shall be overrid
 den
-although it is yet undefined on input line 138.
+although it is yet undefined on input line 133.
 
-Package natbib Warning: Citation `Haft2001' on page 25 undefined on input line 
-138.
-
-
-Package natbib Warning: Citation `Tatusov1997' on page 25 undefined on input li
-ne 138.
+Package natbib Warning: Citation `Haft2001' on page 24 undefined on input line 
+133.
 
 
-Package natbib Warning: Citation `Tatusov2003' on page 25 undefined on input li
-ne 138.
+Package natbib Warning: Citation `Tatusov1997' on page 24 undefined on input li
+ne 133.
 
 
-Package natbib Warning: Citation `von Mering2007' on page 25 undefined on input
- line 138.
+Package natbib Warning: Citation `Tatusov2003' on page 24 undefined on input li
+ne 133.
 
 
-Overfull \hbox (2.66733pt too wide) in paragraph at lines 131--140
+Package natbib Warning: Citation `von Mering2007' on page 24 undefined on input
+ line 133.
+
+
+Overfull \hbox (2.66733pt too wide) in paragraph at lines 126--135
 []$\OT1/cmtt/m/n/10.95 (http : / / sourceforge . net / apps / mediawiki / wgs-[
 ]assembler / index . php ?
  []
 
-Package acronym Info: Label `acro:VLP' overridden on input line 144.
 
-LaTeX Warning: Command \textregistered invalid in math mode on input line 149.
+Underfull \vbox (badness 1502) has occurred while \output is active []
+
+ [24]
+Package acronym Info: Label `acro:VLP' overridden on input line 139.
 
 
-LaTeX Warning: Command \textcircled invalid in math mode on input line 149.
+LaTeX Warning: Command \textregistered invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \textcircled invalid in math mode on input line 149.
+LaTeX Warning: Command \textcircled invalid in math mode on input line 144.
+
+
+LaTeX Warning: Command \textcircled invalid in math mode on input line 144.
 
 [25]
 Package acronym Info: Label `acro:1D-SDS PAGE' newly defined as it shall be ove
 rridden
-although it is yet undefined on input line 155.
+although it is yet undefined on input line 150.
 Package acronym Info: Label `acro:MS' newly defined as it shall be overridden
-although it is yet undefined on input line 155.
+although it is yet undefined on input line 150.
 Package acronym Info: Label `acro:MS-MS' newly defined as it shall be overridde
 n
-although it is yet undefined on input line 155.
+although it is yet undefined on input line 150.
 
 
 Package natbib Warning: Citation `Keller2002' on page 26 undefined on input lin
-e 159.
+e 154.
 
 
 Package natbib Warning: Citation `Florens2006' on page 26 undefined on input li
-ne 169.
+ne 164.
 
 
 Package natbib Warning: Citation `Zybailov2006' on page 26 undefined on input l
-ine 169.
+ine 164.
 
 [26]
 Missing character: There is no ‚ in font cmr10!
@@ -711,66 +776,63 @@ Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
 Package acronym Info: Label `acro:STAMP' newly defined as it shall be overridde
 n
-although it is yet undefined on input line 179.
+although it is yet undefined on input line 174.
 
 
 Package natbib Warning: Citation `Parks2010' on page 27 undefined on input line
- 179.
+ 174.
 
 
 Package natbib Warning: Citation `Suttle2005' on page 27 undefined on input lin
-e 194.
+e 189.
 
 [27]
 
 Package natbib Warning: Citation `Hennes1995' on page 28 undefined on input lin
-e 201.
+e 196.
 
 Package acronym Info: Label `acro:PCTE' newly defined as it shall be overridden
 
-although it is yet undefined on input line 206.
+although it is yet undefined on input line 202.
 
 Package natbib Warning: Citation `Hara1991' on page 28 undefined on input line 
-210.
+206.
 
 
 Package natbib Warning: Citation `Proctor1992' on page 28 undefined on input li
-ne 210.
-
-[28]
-
-Package natbib Warning: Citation `Hobbie1977' on page 29 undefined on input lin
-e 211.
-
-[29]
-
-Package natbib Warning: Citation `Lauro2009' on page 30 undefined on input line
- 257.
+ne 206.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Package natbib Warning: Citation `Hobbie1977' on page 28 undefined on input lin
+e 207.
 
- [30]
+[28] [29] [30]
 Package acronym Info: Label `acro:CRISPR' newly defined as it shall be overridd
 en
-although it is yet undefined on input line 273.
+although it is yet undefined on input line 269.
 Package acronym Info: Label `acro:CAS' newly defined as it shall be overridden
-although it is yet undefined on input line 273.
+although it is yet undefined on input line 269.
 Package acronym Info: Label `acro:ABC' newly defined as it shall be overridden
-although it is yet undefined on input line 281.
+although it is yet undefined on input line 277.
 Package acronym Info: Label `acro:DOC' newly defined as it shall be overridden
-although it is yet undefined on input line 286.
+although it is yet undefined on input line 282.
 Missing character: There is no ¬ in font cmr10!
 Missing character: There is no ñ in font cmr10!
 
-[31]
+Underfull \vbox (badness 5077) has occurred while \output is active []
+
+ [31]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [32]
-[33]) [34]
+ [32])
+[33]
 \openout2 = `olv.aux'.
 
- (./olv.tex
+ (./olv.tex [34
+
+
+
+]
 Chapter 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 8--9
@@ -787,11 +849,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--16
 
  []
 
-[35
-
-
-
-] [36] [37]
+[35] [36] [37]
 
 Package natbib Warning: Citation `Suttle1990' on page 38 undefined on input lin
 e 47.
@@ -864,15 +922,10 @@ Package acronym Info: Label `acro:AAnP' newly defined as it shall be overridden
 although it is yet undefined on input line 57.
 Package acronym Info: Label `acro:DMS' overridden on input line 62.
 
-
-Package natbib Warning: Citation `Curran1998' on page 53 undefined on input lin
-e 63.
-
-Package acronym Info: Label `acro:DMSP' overridden on input line 68.
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [53]
+Package acronym Info: Label `acro:DMSP' overridden on input line 68.
 Package acronym Info: Label `acro:DNA' newly defined as it shall be overridden
 although it is yet undefined on input line 89.
 
@@ -946,14 +999,9 @@ Package acronym Info: Label `acro:BLAST' overridden on input line 147.
 Package acronym Info: Label `acro:KOBAS' newly defined as it shall be overridde
 n
 although it is yet undefined on input line 149.
-
-
-Package natbib Warning: Citation `Xie2011' on page 57 undefined on input line 1
-49.
-
 Package acronym Info: Label `acro:KO' newly defined as it shall be overridden
 although it is yet undefined on input line 149.
-[57]
+ [57]
 Package acronym Info: Label `acro:SO' newly defined as it shall be overridden
 although it is yet undefined on input line 158.
 Package acronym Info: Label `acro:GOS' overridden on input line 158.
@@ -962,53 +1010,22 @@ Package acronym Info: Label `acro:CAMERA' overridden on input line 161.
 Underfull \vbox (badness 1502) has occurred while \output is active []
 
  [58]
-
-Package natbib Warning: Citation `Ferris1999' on page 59 undefined on input lin
-e 179.
-
-
-Package natbib Warning: Citation `Redfield1963' on page 59 undefined on input l
-ine 189.
-
-[59]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [60]
-
-Package natbib Warning: Citation `Williams2012b' on page 61 undefined on input 
-line 221.
-
+[59] [60]
 
 Package natbib Warning: Citation `Kirchman2002' on page 61 undefined on input l
 ine 221.
 
+[61]
 
-Package natbib Warning: Citation `Williams2012b' on page 61 undefined on input 
-line 221.
-
-
-Package natbib Warning: Citation `James1994' on page 61 undefined on input line
- 223.
-
-
-Package natbib Warning: Citation `Teeling2012' on page 61 undefined on input li
+Package natbib Warning: Citation `Teeling2012' on page 62 undefined on input li
 ne 232.
 
-[61]
 Package acronym Info: Label `acro:DMSO' overridden on input line 242.
- [62]
-
-Package natbib Warning: Citation `Yamane2011' on page 63 undefined on input lin
-e 248.
-
-
-Package natbib Warning: Citation `James1994' on page 63 undefined on input line
- 252.
-
+[62]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
-[63]
+ [63]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
@@ -1037,17 +1054,10 @@ Underfull \vbox (badness 1502) has occurred while \output is active []
 Underfull \vbox (badness 5077) has occurred while \output is active []
 
  [67]
-
-Package natbib Warning: Citation `Williams2012b' on page 68 undefined on input 
-line 349.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 5077) has occurred while \output is active []
 
  [68]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [69]
+[69]
 Overfull \hbox (0.56992pt too wide) in paragraph at lines 364--373
 \OT1/cmr/m/it/10.95 Gammapro-teobac-te-ria\OT1/cmr/m/n/10.95 . Den-i-tri-fi-ca-
 tion genes are phy-lo-ge-net-i-cally widespread
@@ -1068,10 +1078,10 @@ r/m/it/10.95 Mari-nobac-ter \OT1/cmr/m/n/10.95 and \OT1/cmr/m/it/10.95 Roseobac
  []
 
 
-Underfull \vbox (badness 1502) has occurred while \output is active []
+Underfull \vbox (badness 5077) has occurred while \output is active []
 
  [71]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 5077) has occurred while \output is active []
 
  [72]
 
@@ -1130,42 +1140,45 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
  [86] [87] [88] [89] [90] [91] [92]
+Missing character: There is no ¬ in font cmr10!
+Missing character: There is no ∞ in font cmr10!
+ [93]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
-) [93]
+)
+[94]
 \openout2 = `appendices.aux'.
 
-
-(./appendices.tex [94
+ (./appendices.tex
+Chapter 6.
+) [95
 
 
 ]
-Chapter 6.
-) [95]
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 81.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 81.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 84.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 84.
 (./thesis.aux (./title.aux) (./originality.aux) (./copyright.aux)
 (./authenticity.aux) (./acknowledgements.aux) (./publist.aux) (./abstract.aux)
 (./acronyms.aux) (./intro.aux) (./acelake.aux) (./olv.aux) (./orglake.aux)
 (./viruses.aux) (./conc.aux) (./appendices.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 81.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 81.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 84.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 84.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 315D028A7C8F14A8C23D45A3AAA7AC75;6293.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 81.
+(rerunfilecheck)             Checksum: 689EABF322E25A7431585040FA80D215;6218.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 84.
  ) 
 Here is how much of TeX's memory you used:
- 7283 strings out of 493488
- 104679 string characters out of 3141347
- 198886 words of memory out of 3000000
- 9912 multiletter control sequences out of 15000+200000
+ 8450 strings out of 493488
+ 121695 string characters out of 3141347
+ 223924 words of memory out of 3000000
+ 11031 multiletter control sequences out of 15000+200000
  11196 words of font info for 39 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 29i,10n,33p,908b,754s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,10n,39p,908b,789s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
@@ -1181,10 +1194,10 @@ ive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
 ve/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
 /2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/
 2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on thesis.pdf (119 pages, 628857 bytes).
+Output written on thesis.pdf (119 pages, 634286 bytes).
 PDF statistics:
- 2438 PDF objects out of 2487 (max. 8388607)
- 2268 compressed objects within 23 object streams
- 521 named destinations out of 1000 (max. 500000)
- 627 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2472 PDF objects out of 2487 (max. 8388607)
+ 2301 compressed objects within 24 object streams
+ 528 named destinations out of 1000 (max. 500000)
+ 619 words of extra memory for PDF output out of 10000 (max. 10000000)
 
