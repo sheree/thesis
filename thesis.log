@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.21)  16 JAN 2013 17:07
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.21)  16 JAN 2013 23:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -409,10 +409,10 @@ Examine \huge starts \@setfontsize size may be \@xxpt.
 Examine \Huge starts \@setfontsize size may be \@xxvpt. )
 \AC@clearlist=\toks19
 ) (./thesis.aux
-(./title.aux) (./originality.aux) (./copyright.aux) (./authenticity.aux)
-(./acknowledgements.aux) (./publist.aux) (./abstract.aux) (./acronyms.aux)
-(./intro.aux) (./acelake.aux) (./olv.aux) (./orglake.aux) (./viruses.aux)
-(./conc.aux) (./appendices.aux))
+(./abstract.aux) (./title.aux) (./originality.aux) (./authenticity.aux)
+(./acknowledgements.aux) (./publist.aux) (./acronyms.aux) (./intro.aux)
+(./acelake.aux) (./olv.aux) (./orglake.aux) (./viruses.aux) (./conc.aux)
+(./appendices.aux))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
@@ -518,21 +518,64 @@ LaTeX Info: Redefining \nameref on input line 38.
 \@outlinefile=\write3
 \openout3 = `thesis.out'.
 
+\openout2 = `abstract.aux'.
+
+ (./abstract.tex
+<abstract_figures/thesisdissertation_SY.pdf, id=311, page=1, 597.23125pt x 845.
+1575pt>
+File: abstract_figures/thesisdissertation_SY.pdf Graphic file (type pdf)
+ <use abstract_figures/thesisdissertation_SY.pdf, page 1>
+Package pdftex.def Info: abstract_figures/thesisdissertation_SY.pdf, page1 used
+ on input line 1.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: abstract_figures/thesisdissertation_SY.pdf Graphic file (type pdf)
+
+<use abstract_figures/thesisdissertation_SY.pdf, page 1>
+Package pdftex.def Info: abstract_figures/thesisdissertation_SY.pdf, page1 used
+ on input line 1.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: abstract_figures/thesisdissertation_SY.pdf Graphic file (type pdf)
+
+<use abstract_figures/thesisdissertation_SY.pdf, page 1>
+Package pdftex.def Info: abstract_figures/thesisdissertation_SY.pdf, page1 used
+ on input line 1.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: abstract_figures/thesisdissertation_SY.pdf Graphic file (type pdf)
+
+<use abstract_figures/thesisdissertation_SY.pdf, page 1>
+Package pdftex.def Info: abstract_figures/thesisdissertation_SY.pdf, page1 used
+ on input line 1.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: abstract_figures/thesisdissertation_SY.pdf Graphic file (type pdf)
+
+<use abstract_figures/thesisdissertation_SY.pdf, page 1>
+Package pdftex.def Info: abstract_figures/thesisdissertation_SY.pdf, page1 used
+ on input line 1.
+(pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [1
+
+
+ <./abstract_figures/thesisdissertation_SY.pdf>])
 \openout2 = `title.aux'.
 
- (./title.tex [1
+ (./title.texpdfTeX warning (ext4): destination with the same identifier (name{
+page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.25 \end{titlepage}
+                     [1
 
 
 {/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
 \openout2 = `originality.aux'.
 
  (./originality.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 3--48
+Underfull \hbox (badness 10000) in paragraph at lines 3--52
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--48
+Underfull \hbox (badness 10000) in paragraph at lines 3--52
 
  []
 
@@ -541,31 +584,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--48
 
 
 ]
-\openout2 = `copyright.aux'.
+\openout2 = `authenticity.aux'.
 
- (./copyright.tex [2
+ (./authenticity.tex [2
 
 
 
 ]) [3]
-\openout2 = `authenticity.aux'.
+\openout2 = `acknowledgements.aux'.
 
- (./authenticity.tex [4
+ (./acknowledgements.tex [4
 
 
 
 ]) [5]
-\openout2 = `acknowledgements.aux'.
-
-
-(./acknowledgements.tex [6
-
-
-
-]) [7]
 \openout2 = `publist.aux'.
 
- (./publist.tex [8
+
+(./publist.tex [6
 
 
 
@@ -587,30 +623,23 @@ Overfull \hbox (12.2885pt too wide) in paragraph at lines 35--41
 \OT1/cmr/m/n/10.95 tic al-gal host--virus dy-nam-ics. $[]$
  []
 
-) [9]
-\openout2 = `abstract.aux'.
-
- (./abstract.tex [10
+) [7] [8
 
 
-
-]) [11] [12
-
-
-] (./thesis.toc [13] [14])
+] (./thesis.toc [9] [10])
 \tf@toc=\write4
 \openout4 = `thesis.toc'.
 
- [15] [16
+ [11] [12
 
-]
-(./thesis.lof)
+] (./thesis.lof)
 \tf@lof=\write5
 \openout5 = `thesis.lof'.
 
- [17] [18
+ [13] [14
 
-] (./thesis.lot
+]
+(./thesis.lot
 Package acronym Info: Label `acro:VLP' newly defined as it shall be overridden
 although it is yet undefined on input line 6.
 
@@ -623,10 +652,10 @@ Overfull \hbox (5.39076pt too wide) in paragraph at lines 6--6
 \tf@lot=\write6
 \openout6 = `thesis.lot'.
 
- [19]
+ [15]
 \openout2 = `acronyms.aux'.
 
- (./acronyms.tex [20
+ (./acronyms.tex [16
 
 
 ]
@@ -635,7 +664,7 @@ Overfull \hbox (7.65158pt too wide) in paragraph at lines 5--6
 e gel elec-trophore-
  []
 
-[21] [22]) [23]
+[17] [18]) [19]
 \openout2 = `intro.aux'.
 
  (./intro.tex
@@ -660,7 +689,7 @@ l.18 \newpage
 
 
 ] [2] (./intro_figures/vestfold_map.tex
-<intro_figures/vestfold_map.png, id=630, 380.01974pt x 406.51875pt>
+<intro_figures/vestfold_map.png, id=629, 380.01974pt x 406.51875pt>
 File: intro_figures/vestfold_map.png Graphic file (type png)
 
 <use intro_figures/vestfold_map.png>
@@ -678,7 +707,7 @@ Package acronym Info: Label `acro:DGGE' newly defined as it shall be overridden
 
 although it is yet undefined on input line 169.
  (./intro_figures/molecular_studies_lakes.tex [6] [7]
-<intro_figures/molecular_studies_lakes.pdf, id=788, 845.1575pt x 597.23125pt>
+<intro_figures/molecular_studies_lakes.pdf, id=787, 845.1575pt x 597.23125pt>
 File: intro_figures/molecular_studies_lakes.pdf Graphic file (type pdf)
 
 <use intro_figures/molecular_studies_lakes.pdf>
@@ -1154,7 +1183,7 @@ Overfull \hbox (10.40388pt too wide) in paragraph at lines 158--163
  []
 
 [44] (./orglake_figures/physico_chem_profiles.tex
-<orglake_figures/physico_chem.pdf, id=1636, 440.0605pt x 338.86601pt>
+<orglake_figures/physico_chem.pdf, id=1635, 440.0605pt x 338.86601pt>
 File: orglake_figures/physico_chem.pdf Graphic file (type pdf)
 
 <use orglake_figures/physico_chem.pdf>
@@ -1297,30 +1326,30 @@ Chapter 6.
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 87.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 87.
-(./thesis.aux (./title.aux) (./originality.aux) (./copyright.aux)
-(./authenticity.aux) (./acknowledgements.aux) (./publist.aux) (./abstract.aux)
-(./acronyms.aux) (./intro.aux) (./acelake.aux) (./olv.aux) (./orglake.aux)
-(./viruses.aux) (./conc.aux) (./appendices.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 87.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 87.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 90.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 90.
+(./thesis.aux (./abstract.aux) (./title.aux) (./originality.aux)
+(./authenticity.aux) (./acknowledgements.aux) (./publist.aux) (./acronyms.aux)
+(./intro.aux) (./acelake.aux) (./olv.aux) (./orglake.aux) (./viruses.aux)
+(./conc.aux) (./appendices.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 90.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 90.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 8276339112A5FD789043A4340FDB968F;6218.
+(rerunfilecheck)             Checksum: 116BCBE6D5898E459501BDCE70775274;6218.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 87.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 90.
  ) 
 Here is how much of TeX's memory you used:
- 9489 strings out of 493488
- 137188 string characters out of 3141347
- 261978 words of memory out of 3000000
- 12042 multiletter control sequences out of 15000+200000
+ 9483 strings out of 493488
+ 137297 string characters out of 3141347
+ 261623 words of memory out of 3000000
+ 12045 multiletter control sequences out of 15000+200000
  13103 words of font info for 45 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 37i,13n,39p,908b,777s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,18n,47p,908b,777s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
@@ -1344,10 +1373,10 @@ f-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2012/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2012/texmf-
 dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2012/texmf-di
 st/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on thesis.pdf (99 pages, 774148 bytes).
+Output written on thesis.pdf (96 pages, 819175 bytes).
 PDF statistics:
- 2501 PDF objects out of 2984 (max. 8388607)
- 2310 compressed objects within 24 object streams
- 521 named destinations out of 1000 (max. 500000)
- 624 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2499 PDF objects out of 2984 (max. 8388607)
+ 2304 compressed objects within 24 object streams
+ 515 named destinations out of 1000 (max. 500000)
+ 639 words of extra memory for PDF output out of 10000 (max. 10000000)
 
