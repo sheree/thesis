@@ -87,7 +87,7 @@ Samples were collected for metagenomics, microscopy and chemical analyses at 1.7
 For metagenomics, lake water was passed through a 20 \textmu{}m pore size pre-filter, and microbial biomass captured by sequential filtration onto 3.0 \textmu{}m, 0.8 \textmu{}m and 0.1 \textmu{}m pore size 293 mm polyethersulfone membrane filters, and samples immediately preserved in buffer and cryogenically frozen in liquid nitrogen, as described previously \cite{Ng2010a, Lauro2011}. 
 Between 1--2 L of lake water was sufficient to saturate the holding capacity of the filters. 
 \ac{DNA} was extracted from the filters, samples sequenced using the Roche GS-FLX titanium sequencer, and reads processed to remove low quality bases, assembled and annotated, as previously described \cite{Ng2010a, Lauro2011}. 
-A summary of the 2.4 Gbp of metagenomic data isprovided in Supplementary Table S1.
+A summary of the 2.4 Gbp of metagenomic data isprovided in Supplementary TableS1.
 
 \subsection{Physical and chemical analyses}
 An \emph{in situ} profile of pH, conductivity, turbidity, \ac{DO} and pressure was measured using a submersible probe (YSI sonde model V6600). 
@@ -126,11 +126,11 @@ Diversity of \emph{Bacteria}, \emph{Archaea} and \emph{Eucarya} was assessed usi
 Metagenomic reads that matched the 16S and 18S \ac{rRNA} genes were retrieved using Metaxa \cite{Bengtsson2011}. 
 Only sequences longer than 200 bp were accepted for downstream analysis. 
 
-The \ac{QIIME} pipeline (version 1.4.0) \cite{Caporaso2010} implementing UCLUST, was used to group \ac{SSU} sequences into \acp{OTU} at 97\% percent identity against the SILVA \ac{SSU} reference database (release 108)
+The \ac{QIIME} pipeline (version 1.4.0) \cite{Caporaso2010} implementing \textsc{UCLUST}, was used to group \ac{SSU} sequences into \acp{OTU} at 97\% percent identity against the SILVA \ac{SSU} reference database (release 108)
 \url{(www.arb-silva.de)}. 
 \ac{SSU} sequences that did not cluster with sequences from SILVA were allowed to form new \acp{OTU} (no suppression). 
 A representative sequence from each \ac{OTU} was chosen and classified to the genus level using \ac{QIIME} implementing the \ac{RDP} classifier \cite{Wang2007} trained against SILVA. 
-Assignments were accepted to the lowest taxonomic rank with bootstrap value $leq$85\%. 
+Assignments were accepted to the lowest taxonomic rank with bootstrap value $\leq$85\%. 
 
 To allow comparison of the relative abundance of taxa, the number of \ac{SSU} matches per sample filter was normalized to the average number of reads (403 577). 
 Statistical analysis on the relative \ac{SSU} abundances was performed using the PRIMER Version 6 package \cite{Clarke2006}. 
@@ -172,7 +172,8 @@ Node support was tested with bootstrap analysis (500 replicates).
 \section{Results and discussion}
 
 \subsection{Abiotic properties and water column structure}
-\emph{In situ} physico-chemical profiles (Supplementary Figure S2) measured over the deepest point in the lake (Supplementary Figure S3) determined the existence of two zones: an upper mixed zone above 5.7 m and a suboxic deep zone below 5.7 m (Figure 1A). 
+\emph{In situ} physico-chemical profiles (Supplementary Figure S2) measured over the deepest point in the lake (Supplementary Figure S3) determined the existence of two zones: an upper mixed zone above 5.7 m and a suboxic deep zone below 5.7 m \figref{fig:vert_struc}.
+\input{orglake_figures/physico_chem_profiles.tex} 
 The separation of the two zones was indicated by a pycnocline and oxycline starting at 5.7 m. 
 The pH also decreased with \ac{DO}, likely due to fermentation products such as acetic, formic and lactic acids that have been reported in the bottom waters \cite{Franzmann1987b, Gibson1994}. 
 The deep zone was not completely anoxic (Supplementary Figure S2). 
@@ -181,13 +182,13 @@ In comparison to meromictic lakes such as Ace Lake that have strong pycnoclines 
 
 Samples were collected from the upper mixed (1.7, 4.2 and 5.7 m) and deep (6.5 m and 6.7 m) zones. 
 All nutrients, except for nitrate and nitrite reached maximum concentrations at 6.5 m \tabref{tab:physico-chem} suggestive of a layer of high biological activity above the lake bottom. 
-\input{orglake_figures/table1.tex}
+\input{orglake_figures/physico-chem_table.tex}
 Consistent with this, cell and \ac{VLP} counts were highest at 6.5 m. 
-However, turbidity was lowest at this depth demonstrating turbidity was not principally determined by cell density (Figure 1B). 
+However, turbidity was lowest at this depth demonstrating turbidity was not principally determined by cell density \figref{fig:vert_struc}. 
 Microscopy images did not show a shift in cell morphology that could account for the large drop in turbidity (Supplementary Figure S4), which suggests particulate matter primarily contributed to turbidity readings. 
 The low turbidity and peak in cell counts and nutrients at the oxycline at 6.5 m may be caused by an active microbial community degrading particulate matter. 
 This inference is supported by the report of high concentrations of dissolved organic acids and free amino acids in the deep zone \cite{Gibson1994} as these nutrients are indicative of the breakdown of high molecular weight carbohydrates, lipids and proteins. 
-Furthermore, the C:N and C:P ratios throughout the lake were high compared to the Redfield ratio \cite{Redfield1963} except at 6.5 m indicating this was the only depth where dissolved nitrogen and phosphorus were not relatively limited (Table 1).
+Furthermore, the C:N and C:P ratios throughout the lake were high compared to the Redfield ratio \cite{Redfield1963} except at 6.5 m indicating this was the only depth where dissolved nitrogen and phosphorus were not relatively limited \tabref{tab:physico-chem}.
  
 \ac{PCA} analysis of physico-chemical parameters showed all samples, except the 6.5 m sample, separated with depth along the PC1 axis (Supplementary Figure S5). 
 Accordingly, turbidity, \ac{TS} and cell density were the strongest explanatory variables for the separation of the 6.5 m sample from the other deep sample, indicating that increased activity at 6.5 m was related to breakdown of particulate matter and sulphur chemistry.
@@ -349,7 +350,7 @@ Nitrogen cycling potential throughout the lake was dominated by assimilation and
 Glutamate dehydrogenase (GDH) genes (\emph{gdhA}) were abundant (Figure 4B), and linked predominantly to \emph{Alpha}- and \emph{Gammaproteobacteria} and to a lesser extent \emph{Bacteroidetes} (Table 2). 
 However, the functional significance of the readily reversible GDH depends on its origin; \emph{Bacteroidetes} are likely to use GDH in the oxidative direction for glutamate catabolism \cite{Williams2012}, whereas the use of GDH in the oxidative or reductive directions by \emph{Proteobacteria} is likely to depend upon the source of reduced nitrogen (ammonia vs amino acids). 
 Glutamine synthetase (\emph{glnB}) and glutamate synthase genes (\emph{gltBS}), were predominantly linked to \emph{Alpha}- and\emph{Gammaproteobacteria} (Table 2), indicating the potential for high-affinity ammonia assimilation by these groups in Organic Lake. 
-The high ammonia concentration in the deep zone (Figure 1B; Table 1) would result from a higher rate of mineralisation (ammonification) than assimilation. 
+The high ammonia concentration in the deep zone \figref{fig:vert_struc}\tabref{tab:physico-chem} would result from a higher rate of mineralisation (ammonification) than assimilation. 
 This is consistent with abundant \acp{OTU} for \emph{Psychroflexus}(\emph{Bacteroidetes}) in this zone, and due to either turnover of organic matter or lysis of \emph{Bacteroidetes} cells after sedimentation in anoxic water. 
 In addition, the gene for ammonia-generating nitrite reductase (\emph{nrfA}) was linked to \emph{Bacteroidetes} and \emph{Planctomycetes} (Table 2), indicating ammonia may also be produced by these putative aerobic heterotrophs. 
 Overall, the data suggest that ammonia is actively assimilated in the aerobic upper mixed zone, but is permitted to accumulate in the anaerobic deep zone.
@@ -363,7 +364,7 @@ In the genomes of sulphate-reducing \emph{Deltaproteobacteria} thehao gene is in
 Collectively these data indicate an inability for nitrification to occur in the upper mixed zone and no potential for ammonia loss in the deep zone.
 
 Denitrification genes (\emph{norCB} and \emph{nozB}) and genes for nitrate assimilation (\emph{nasA}) were present throughout the water column (Figure 4B) and were linked primarily to \emph{Gammaproteobacteria} (Table 2). 
-Low nitrate and nitrite in the deep zone (Figure 1B, Table 1) indicates oxidized nitrogen has been depleted by dissimilatory or assimilitory reduction by heterotrophic \emph{Gammaproteobacteria}. 
+Low nitrate and nitrite in the deep zone \figref{fig:vert_struc}\tabref{tab:physico-chem} indicates oxidized nitrogen has been depleted by dissimilatory or assimilitory reduction by heterotrophic \emph{Gammaproteobacteria}. 
 Denitrification genes are phylogenetically widespread and usually induced by low oxygen or oxidized nitrogen species \cite{Kraft2011} and thus expected to be active in the deep zone or oxycline. 
 However, denitrification may be inhibited even if conditions appear appropriate. 
 For example, in Lake Bonney, Antarctica, denitrification occurs in the west lobe, but not in the east lobe of the lake despite the presence of anoxia, nitrate and denitrifying \emph{Marinobacter} species \cite{Ward1997, Ward2005}.

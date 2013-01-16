@@ -22,8 +22,8 @@ Only these parts of the publication are included in the results and discussion o
 Analyses performed by others that support the work presented in this chapter are as follows:
 Research was designed by Federico Lauro, Mark Brown, Torsten Thomas, John Gibson and Ricardo Cavicchioli.
 Sample collection was performed by Federico Lauro, Mark Brown, Torsten Thomas, Jeffery Hoffman and Ricardo Cavicchioli.
-DNA extraction and clone library preparation of 2006 samples was performed by Cynthia Andrews-Pfannkoch and Jeffery Hoffman of the \ac{JCVI}.
-DNA sequencing quality control was performed by Matthew Lewis of the \ac{JCVI}.
+\textsc{DNA} extraction and clone library preparation of 2006 samples was performed by Cynthia Andrews-Pfannkoch and Jeffery Hoffman of the \ac{JCVI}.
+\textsc{DNA} sequencing quality control was performed by Matthew Lewis of the \ac{JCVI}.
 Metagenomic sequence filtering, mosaic assembly and annotation was performed by Matthew DeMaere.
 Protein extraction, one-dimensional sodium dodecyl sulphate-polyacrylamide gel electrophoresis and liquid chromatography mass spectrometry performed by Charmaine Ng.
 Assistance in mass spectra analysis was provided by Mark Raftery.
@@ -99,10 +99,10 @@ the simplest explanation for the \ac{GSB} signature at 5 m is carry-over from sa
 A sonde probe (YSI model 6600, YSI Inc., Yellow Springs, OH, USA) was used to record depth, dissolved oxygen content, pH, salinity, temperature and turbidity throughout the water column of the lake. 
 Total organic carbon was determined using a total organic carbon analyzer, TOC-5000A (Shimadzu, Kyoto, Japan) equipped with a ASI-5000A auto sampler (Shimadzu), and particulate organic carbon by standard protocols 
 \url{(http://www.epa.gov/glnpo/lmmb/methods/about.html)} 
-at the Centre for Water and Waste Technology, UNSW.
+at the Centre for Water and Waste Technology, \textsc{UNSW}.
 
-\subsection{DNA sequencing and data cleanup}
-DNA extraction and Sanger sequencing was performed on 3730xl capillary sequencers (Applied Biosystems, Carlsbad, CA, USA) and pyrosequencing on GS20 FLX Titanium (Roche, Branford, CT, USA) at the \acl{JCVI} in Rockville, MD, USA \cite{Rusch2007}. 
+\subsection{\textsc{DNA} sequencing and data cleanup}
+\textsc{DNA} extraction and Sanger sequencing was performed on 3730xl capillary sequencers (Applied Biosystems, Carlsbad, CA, USA) and pyrosequencing on GS20 FLX Titanium (Roche, Branford, CT, \textsc{USA}) at the \acl{JCVI} in Rockville, \textsc{MD}, \textsc{USA} \cite{Rusch2007}. 
 The scaffolds and annotations will be available via \ac{CAMERA} and public sequence repositories such as the \ac{NCBI} and the reads will be available via the \ac{NCBI} Trace Archive. 
 
 Sanger reads were trimmed according to quality clear ranges.
@@ -110,7 +110,7 @@ The quality of pyrosequencing reads was assessed as follows:
 a \ac{BLAST} nucleotide database was created from the Sanger reads of the 0.1 \textmu{}m fraction of samples GS230, GS231 and GS232 (see Table of metagenomic data). %%Add link to table of metagenomic data. Change sample IDs to depths?
 After blasting the corresponding pyrosequencing reads against each database with a minimum bitscore of 80 and maximum e-value of 0.1, reads were binned according to length.
 The percentage of reads for each bin lacking a match to the Sanger read database was recorded. 
-The percentage reads at least 25\% repetitive after MDUST \cite{Morgulis2006} analysis at default settings, and the percentage of reads containing N's, were assessed. 
+The percentage reads at least 25\% repetitive after \textsc{MDUST} \cite{Morgulis2006} analysis at default settings, and the percentage of reads containing N's, were assessed. 
 In contrast to earlier pyrosequencers \cite{Huse2007}, no length-dependent bias in reads containing N's was observed. 
 However, short reads had a disproportionately high number of repeats. 
 Moreover, based on the proportion of reads with no match to the Sanger data set, both very short and very long reads had a disproportionately high number of errors; an observation that was previously reported \cite{Huse2007}.
@@ -129,7 +129,7 @@ For each assembly, the runtime parameters used were as outlined for 454 sequenci
 As none of the samples can be considered clonal, these are regarded as stringent assemblies \cite{Rusch2007}. 
 Each 0.1 \textmu{}m fraction assembly was a hybrid of Sanger and 454 read data, wherein the estimated genome size was manually set to minimize the number of unitigs from abundant organisms being falsely classified as degenerate \cite{Rusch2007}. 
 Annotation of each sample fraction assembly was carried out using an in-house pipeline, wherein the pipeline stages consisted of genomic feature detection and subsequent annotation. 
-Detected features consisted of \acp{ORF}, transfer \acs{RNA} and \ac{rRNA}. 
+Detected features consisted of \acp{ORF}, transfer \textsc{RNA} and \ac{rRNA}. 
 Each detected \ac{ORF} was further annotated by \ac{BLAST} comparison against \ac{NR}, Swissprot and \ac{KEGG}-peptide sequence databases and by \ac{HMMER} comparison against \ac{TIGRFAM} \cite{Haft2001}, \ac{COG} \cite{Tatusov1997, Tatusov2003} and known marker genes \cite{von Mering2007}.
 In all cases the cut-off e-value was a maximum of 1e$-$5. 
 
@@ -139,9 +139,9 @@ Samples of unfiltered lake water and the flow-through from 3.0 and 0.8 \textmu{}
 The samples were stored at $-$80$^{\circ}$C for subsequent direct counts of cells and \acp{VLP}. 
 Enumeration was performed according to the method of \citet{Patel2007} with modifications. 
 %desribe the set up of the filter apparatus!
-Lake water samples were filtered onto 0.01 \textmu{}m pore-size polycarbonate filters (25 mm Poretics, GE Osmonics, Minnetonka, MN,USA). 
+Lake water samples were filtered onto 0.01 \textmu{}m pore-size polycarbonate filters (25 mm Poretics, GE Osmonics, Minnetonka, \textsc{MN}, \textsc{USA}). 
 Filters were air dried, then placed with the back of the filter on top of a 30 ml aliquot of 0.1\% (w/v) molten low-gelling-point agarose and allowed to dry at 30$^{\circ}$C. 
-Samples were stained by the addition of 1 ml working solution (1 in 400 dilution in 0.02 \textmu{}m filtered sterile Milli-Q) of SYBR Gold$^{\textregistered}$ (Molecular Probes, Eugene, OR, USA) to 25 ml of mounting medium (VECTASHIELD HardSet, Vector Laboratories, Burlingame, CA, USA). 
+Samples were stained by the addition of 1 ml working solution (1 in 400 dilution in 0.02 \textmu{}m filtered sterile Milli-Q) of SYBR Gold$^{\textregistered}$ (Molecular Probes, Eugene, \textsc{OR}, \textsc{USA}) to 25 ml of mounting medium (VECTASHIELD HardSet, Vector Laboratories, Burlingame, \textsc{CA}, \textsc{USA}). 
 Stained samples were counted immediately, or stored at $-$20$^{\circ}$C for up to a week before counting. 
 Samples were visualised under wide-blue filter set (excitation 460--495 nm, emission 510--550 nm) with an epifluorescence microscope (Olympus BX61, Hamburg, Germany).
 
@@ -166,7 +166,7 @@ In order to compare the relative abundance of proteins between depths, the norma
 
 If $>$90\% of a scaffold’s length consisted of surrogate (highly degenerate unitig) sequence, the average read depth of the surrogate was used. 
 For identified proteins that were part of a protein group the longest protein length and largest read depth value in the group was used. 
-Pairwise comparisons of each zone were conducted on COG assigned proteins. 
+Pairwise comparisons of each zone were conducted on \ac{COG} assigned proteins. 
 The normalized spectral counts from each protein was aggregated based on their \ac{COG} annotation. 
 All proteins that were part of an ambiguity group were confirmed to share the same \ac{COG} annotation to ensure counts were not biased because of the common spectra.
 
