@@ -34,11 +34,11 @@
 \contentsline {subsection}{\numberline {2.3.5}Metaproteomic analysis}{20}{subsection.2.3.5}
 \contentsline {section}{\numberline {2.4}Results and discussion}{22}{section.2.4}
 \contentsline {subsection}{\numberline {2.4.1}Epifluorescence microscopy methodology}{22}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}Community stratification supported by cell and VLP densities}{23}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.2}Community stratification supported by cell and \ac {VLP} densities}{23}{subsection.2.4.2}
 \contentsline {subsection}{\numberline {2.4.3}Development of metaproteomic methodology}{24}{subsection.2.4.3}
 \contentsline {section}{\numberline {2.5}Conclusions}{26}{section.2.5}
 \contentsline {chapter}{\numberline {3}Virophage control of Antarctic algal host--virus dynamics}{27}{chapter.3}
-\contentsline {section}{Co-authorship statement}{27}{section*.47}
+\contentsline {section}{Co-authorship statement}{27}{section*.48}
 \contentsline {section}{\numberline {3.1}Abstract}{28}{section.3.1}
 \contentsline {section}{\numberline {3.2}Introduction}{29}{section.3.2}
 \contentsline {section}{\numberline {3.3}Materials and methods}{30}{section.3.3}
@@ -69,9 +69,9 @@
 \contentsline {subsection}{\numberline {4.4.1}Abiotic properties and water column structure}{45}{subsection.4.4.1}
 \contentsline {subsection}{\numberline {4.4.2}Overall microbial diversity}{47}{subsection.4.4.2}
 \contentsline {subsection}{\numberline {4.4.3}Variation of microbial composition according to size and depth}{48}{subsection.4.4.3}
-\contentsline {subsubsection}{20--3.0 \textmu {}m fraction community composition}{48}{section*.90}
-\contentsline {subsubsection}{3--0.8 \textmu {}m size fraction community composition}{49}{section*.91}
-\contentsline {subsubsection}{0.8--0.1 \textmu {}m size fraction community composition}{50}{section*.93}
+\contentsline {subsubsection}{20--3.0 \textmu {}m fraction community composition}{48}{section*.108}
+\contentsline {subsubsection}{3--0.8 \textmu {}m size fraction community composition}{49}{section*.109}
+\contentsline {subsubsection}{0.8--0.1 \textmu {}m size fraction community composition}{50}{section*.111}
 \contentsline {subsection}{\numberline {4.4.4}Organic Lake functional potential}{51}{subsection.4.4.4}
 \contentsline {subsection}{\numberline {4.4.5}Carbon resourcefulness in dominant heterotrophic bacteria}{51}{subsection.4.4.5}
 \contentsline {subsection}{\numberline {4.4.6}Regenerated nitrogen is predominant in the nitrogen cycle}{54}{subsection.4.4.6}
