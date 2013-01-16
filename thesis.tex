@@ -2,6 +2,7 @@
 
 \documentclass[11pt,a4paper,twoside,openright]{report}
 
+\usepackage{textcomp} %This package formats the greek symbol mu properly.
 
 \usepackage[round,authoryear]{natbib} %This package is to make nice author date citations.
 \renewcommand\cite{\citep} %in the natlab package cite is citep so change command to cite.
@@ -9,6 +10,8 @@
 
 \usepackage{lscape} %This package is meant to let you turn a single page into a landscape view by writing the section in the landscape environment.
 
+\usepackage{tabularx} %This package makes writing tables easier. It does some magic with the column widths.
+\usepackage{booktabs} %This package allows some more fancy formatting with tables such as thicker header lines.
 \usepackage{pdfpages} %This package is meant to let you insert multiple pdf page into your latex document.
 
 \usepackage[hidelinks]{hyperref} %this package makes hyperlinks between citations and figures and the body of the text.

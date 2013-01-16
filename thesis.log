@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.21)  16 JAN 2013 00:00
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.21)  16 JAN 2013 13:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -34,6 +34,87 @@ File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
 (/usr/local/texlive/2012/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip43
@@ -66,6 +147,45 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count89
 )))
+(/usr/local/texlive/2012/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen103
+\extrarowheight=\dimen104
+\NC@list=\toks14
+\extratabsurround=\skip45
+\backup@length=\skip46
+)
+\TX@col@width=\dimen105
+\TX@old@table=\dimen106
+\TX@old@col=\dimen107
+\TX@target=\dimen108
+\TX@delta=\dimen109
+\TX@cols=\count90
+\TX@ftn=\toks15
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen110
+\lightrulewidth=\dimen111
+\cmidrulewidth=\dimen112
+\belowrulesep=\dimen113
+\belowbottomsep=\dimen114
+\aboverulesep=\dimen115
+\abovetopsep=\dimen116
+\cmidrulesep=\dimen117
+\cmidrulekern=\dimen118
+\defaultaddspace=\dimen119
+\@cmidla=\count91
+\@cmidlb=\count92
+\@aboverulesep=\dimen120
+\@belowrulesep=\dimen121
+\@thisruleclass=\count93
+\@lastruleclass=\count94
+\@thisrulewidth=\dimen122
+)
 (/usr/local/texlive/2012/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2012/08/31 v0.4t Insert pages of external PDF documents (AM)
 
@@ -74,16 +194,16 @@ Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
 (/usr/local/texlive/2012/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count90
-\calc@Bcount=\count91
-\calc@Adimen=\dimen103
-\calc@Bdimen=\dimen104
-\calc@Askip=\skip45
-\calc@Bskip=\skip46
+\calc@Acount=\count95
+\calc@Bcount=\count96
+\calc@Adimen=\dimen123
+\calc@Bdimen=\dimen124
+\calc@Askip=\skip47
+\calc@Bskip=\skip48
 LaTeX Info: Redefining \setlength on input line 76.
 LaTeX Info: Redefining \addtolength on input line 77.
-\calc@Ccount=\count92
-\calc@Cskip=\skip47
+\calc@Ccount=\count97
+\calc@Cskip=\skip49
 )
 (/usr/local/texlive/2012/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2010/10/06 v2.0c eso-pic (RN)
@@ -97,7 +217,7 @@ Package ifpdf Info: pdfTeX in PDF mode is detected.
 ))
 (/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
-\KV@toks@=\toks14
+\KV@toks@=\toks16
 )
 (/usr/local/texlive/2012/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
@@ -118,15 +238,15 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 ))
 (/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
-\Gin@req@height=\dimen105
-\Gin@req@width=\dimen106
+\Gin@req@height=\dimen125
+\Gin@req@width=\dimen126
 )
 (/usr/local/texlive/2012/texmf-dist/tex/latex/pdfpages/pppdftex.def
 File: pppdftex.def 2012/08/31 v0.4t Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box26
-\AM@toc@title=\toks15
-\c@AM@survey=\count93
+\AM@toc@title=\toks17
+\c@AM@survey=\count98
 \AM@templatesizebox=\box27
 )
 (/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/hyperref.sty
@@ -185,14 +305,14 @@ Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 (/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
-\@linkdim=\dimen107
-\Hy@linkcounter=\count94
-\Hy@pagecounter=\count95
+\@linkdim=\dimen127
+\Hy@linkcounter=\count99
+\Hy@pagecounter=\count100
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/08/21 v6.83c Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count96
+\Hy@SavedSpaceFactor=\count101
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -204,17 +324,17 @@ Package hyperref Info: Plain pages OFF on input line 4278.
 Package hyperref Info: Backreferencing OFF on input line 4283.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4501.
-\c@Hy@tempcnt=\count97
+\c@Hy@tempcnt=\count102
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4854.
-\XeTeXLinkMargin=\dimen108
-\Fld@menulength=\count98
-\Field@Width=\dimen109
-\Fld@charsize=\dimen110
+\XeTeXLinkMargin=\dimen128
+\Fld@menulength=\count103
+\Field@Width=\dimen129
+\Fld@charsize=\dimen130
 Package hyperref Info: Hyper figures OFF on input line 6094.
 Package hyperref Info: Link nesting OFF on input line 6099.
 Package hyperref Info: Hyper index ON on input line 6102.
@@ -224,24 +344,24 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6119.
 Package hyperref Info: PDF/A mode OFF on input line 6124.
 LaTeX Info: Redefining \ref on input line 6164.
 LaTeX Info: Redefining \pageref on input line 6168.
-\Hy@abspage=\count99
-\c@Item=\count100
-\c@Hfootnote=\count101
+\Hy@abspage=\count104
+\c@Item=\count105
+\c@Hfootnote=\count106
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2012/08/21 v6.83c Hyperref driver for pdfTeX
-\Fld@listcount=\count102
-\c@bookmark@seq@number=\count103
+\Fld@listcount=\count107
+\c@bookmark@seq@number=\count108
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip48
+\Hy@SectionHShift=\skip50
 )
 (/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/hypcap.sty
 Package: hypcap 2011/02/16 v1.11 Adjusting the anchors of captions (HO)
@@ -268,7 +388,7 @@ Examine \scriptsize starts \@setfontsize size may be \@viiipt.
 Examine \tiny starts \@setfontsize size may be \@vipt. 
 Examine \huge starts \@setfontsize size may be \@xxpt. 
 Examine \Huge starts \@setfontsize size may be \@xxvpt. )
-\AC@clearlist=\toks16
+\AC@clearlist=\toks18
 ) (./thesis.aux
 (./title.aux) (./originality.aux) (./copyright.aux) (./authenticity.aux)
 (./acknowledgements.aux) (./publist.aux) (./abstract.aux) (./acronyms.aux)
@@ -276,34 +396,41 @@ Examine \Huge starts \@setfontsize size may be \@xxvpt. )
 (./conc.aux) (./appendices.aux))
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 38.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
 
 (/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count104
-\scratchdimen=\dimen111
+\scratchcounter=\count109
+\scratchdimen=\dimen131
 \scratchbox=\box28
-\nofMPsegments=\count105
-\nofMParguments=\count106
-\everyMPshowfont=\toks17
-\MPscratchCnt=\count107
-\MPscratchDim=\dimen112
-\MPnumerator=\count108
-\makeMPintoPDFobject=\count109
-\everyMPtoPDFconversion=\toks18
+\nofMPsegments=\count110
+\nofMParguments=\count111
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count112
+\MPscratchDim=\dimen132
+\MPnumerator=\count113
+\makeMPintoPDFobject=\count114
+\everyMPtoPDFconversion=\toks20
 ) (/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -320,7 +447,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box29
-Package hyperref Info: Link coloring OFF on input line 35.
+Package hyperref Info: Link coloring OFF on input line 38.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/07/31 v2.42 Cross-referencing by name of section
@@ -328,11 +455,11 @@ Package: nameref 2012/07/31 v2.42 Cross-referencing by name of section
 (/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count110
+\c@section@level=\count115
 )
-LaTeX Info: Redefining \ref on input line 35.
-LaTeX Info: Redefining \pageref on input line 35.
-LaTeX Info: Redefining \nameref on input line 35.
+LaTeX Info: Redefining \ref on input line 38.
+LaTeX Info: Redefining \pageref on input line 38.
+LaTeX Info: Redefining \nameref on input line 38.
 
 (./thesis.out) (./thesis.out)
 \@outlinefile=\write3
@@ -347,12 +474,12 @@ LaTeX Info: Redefining \nameref on input line 35.
 \openout2 = `originality.aux'.
 
  (./originality.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 3--45
+Underfull \hbox (badness 10000) in paragraph at lines 3--48
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--45
+Underfull \hbox (badness 10000) in paragraph at lines 3--48
 
  []
 
@@ -390,13 +517,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--45
 
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 10.
-
-(/usr/local/texlive/2012/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 12.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -453,7 +573,10 @@ phic bac-
 
  [17] [18
 
-] (./thesis.lot)
+] (./thesis.lot
+Package acronym Info: Label `acro:VLP' newly defined as it shall be overridden
+although it is yet undefined on input line 6.
+)
 \tf@lot=\write6
 \openout6 = `thesis.lot'.
 
@@ -495,7 +618,7 @@ l.18 \newpage
 
 
 ] [2] [3] (./intro_figures/vestfold_map.tex
-<intro_figures/vestfold_map.png, id=629, 380.01974pt x 406.51875pt>
+<intro_figures/vestfold_map.png, id=636, 380.01974pt x 406.51875pt>
 File: intro_figures/vestfold_map.png Graphic file (type png)
 
 <use intro_figures/vestfold_map.png>
@@ -512,8 +635,6 @@ Overfull \hbox (10.53786pt too wide) in paragraph at lines 128--128
  []
 
 [6]
-Package acronym Info: Label `acro:VLP' newly defined as it shall be overridden
-although it is yet undefined on input line 142.
 Package acronym Info: Label `acro:PCR' newly defined as it shall be overridden
 although it is yet undefined on input line 165.
 Package acronym Info: Label `acro:SSU' newly defined as it shall be overridden
@@ -525,7 +646,7 @@ Package acronym Info: Label `acro:DGGE' newly defined as it shall be overridden
 
 although it is yet undefined on input line 169.
  (./intro_figures/molecular_studies_lakes.tex [7] [8]
-<intro_figures/molecular_studies_lakes.pdf, id=788, 845.1575pt x 597.23125pt>
+<intro_figures/molecular_studies_lakes.pdf, id=793, 845.1575pt x 597.23125pt>
 File: intro_figures/molecular_studies_lakes.pdf Graphic file (type pdf)
 
 <use intro_figures/molecular_studies_lakes.pdf>
@@ -740,11 +861,9 @@ Package acronym Info: Label `acro:VLP' overridden on input line 139.
 LaTeX Warning: Command \textregistered invalid in math mode on input line 144.
 
 
-LaTeX Warning: Command \textcircled invalid in math mode on input line 144.
+LaTeX Warning: Command \textregistered invalid in math mode on input line 144.
 
-
-LaTeX Warning: Command \textcircled invalid in math mode on input line 144.
-
+Missing character: There is no Æ in font cmr8!
 [25]
 Package acronym Info: Label `acro:1D-SDS PAGE' newly defined as it shall be ove
 rridden
@@ -957,22 +1076,18 @@ although it is yet undefined on input line 115.
 LaTeX Warning: Command \textregistered invalid in math mode on input line 120.
 
 
-LaTeX Warning: Command \textcircled invalid in math mode on input line 120.
+LaTeX Warning: Command \textregistered invalid in math mode on input line 120.
 
-
-LaTeX Warning: Command \textcircled invalid in math mode on input line 120.
-
+Missing character: There is no Æ in font cmr8!
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ó in font cmr10!
 
 LaTeX Warning: Command \textregistered invalid in math mode on input line 120.
 
 
-LaTeX Warning: Command \textcircled invalid in math mode on input line 120.
+LaTeX Warning: Command \textregistered invalid in math mode on input line 120.
 
-
-LaTeX Warning: Command \textcircled invalid in math mode on input line 120.
-
+Missing character: There is no Æ in font cmr8!
 Package acronym Info: Label `acro:VLP' overridden on input line 122.
 Package acronym Info: Label `acro:SSU' overridden on input line 125.
 Package acronym Info: Label `acro:rRNA' overridden on input line 126.
@@ -1010,68 +1125,127 @@ Package acronym Info: Label `acro:CAMERA' overridden on input line 161.
 Underfull \vbox (badness 1502) has occurred while \output is active []
 
  [58]
-[59] [60]
+(./orglake_figures/table1.tex
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+[]|\OT1/cmr/m/n/9 dissolved C:N:P
+ []
 
-Package natbib Warning: Citation `Kirchman2002' on page 61 undefined on input l
-ine 221.
 
-[61]
+Underfull \hbox (badness 1852) in paragraph at lines 30--30
+[]|\OT1/cmr/m/n/9 1.0$\OMS/cmsy/m/n/9 ^^F\OT1/cmr/m/n/9 0\OML/cmm/m/it/9 :\OT1/
+cmr/m/n/9 4 \OMS/cmsy/m/n/9 ^^B
+ []
 
-Package natbib Warning: Citation `Teeling2012' on page 62 undefined on input li
-ne 232.
 
-Package acronym Info: Label `acro:DMSO' overridden on input line 242.
+Underfull \hbox (badness 1852) in paragraph at lines 30--30
+[]|\OT1/cmr/m/n/9 1.2$\OMS/cmsy/m/n/9 ^^F\OT1/cmr/m/n/9 0\OML/cmm/m/it/9 :\OT1/
+cmr/m/n/9 3 \OMS/cmsy/m/n/9 ^^B
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 30--30
+[]|\OT1/cmr/m/n/9 1.8$\OMS/cmsy/m/n/9 ^^F\OT1/cmr/m/n/9 0\OML/cmm/m/it/9 :\OT1/
+cmr/m/n/9 5 \OMS/cmsy/m/n/9 ^^B
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 30--30
+[]|\OT1/cmr/m/n/9 2.3$\OMS/cmsy/m/n/9 ^^F\OT1/cmr/m/n/9 0\OML/cmm/m/it/9 :\OT1/
+cmr/m/n/9 8 \OMS/cmsy/m/n/9 ^^B
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 30--30
+[]|\OT1/cmr/m/n/9 1.1$\OMS/cmsy/m/n/9 ^^F\OT1/cmr/m/n/9 0\OML/cmm/m/it/9 :\OT1/
+cmr/m/n/9 4 \OMS/cmsy/m/n/9 ^^B
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 30--30
+[]|\OT1/cmr/m/n/9 5.2$\OMS/cmsy/m/n/9 ^^F\OT1/cmr/m/n/9 2\OML/cmm/m/it/9 :\OT1/
+cmr/m/n/9 1 \OMS/cmsy/m/n/9 ^^B
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 30--30
+[]|\OT1/cmr/m/n/9 7.1$\OMS/cmsy/m/n/9 ^^F\OT1/cmr/m/n/9 1\OML/cmm/m/it/9 :\OT1/
+cmr/m/n/9 3 \OMS/cmsy/m/n/9 ^^B
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 30--30
+[]|\OT1/cmr/m/n/9 8.8$\OMS/cmsy/m/n/9 ^^F\OT1/cmr/m/n/9 3\OML/cmm/m/it/9 :\OT1/
+cmr/m/n/9 4 \OMS/cmsy/m/n/9 ^^B
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 30--30
+[]|\OT1/cmr/m/n/9 8.6$\OMS/cmsy/m/n/9 ^^F\OT1/cmr/m/n/9 3\OML/cmm/m/it/9 :\OT1/
+cmr/m/n/9 3 \OMS/cmsy/m/n/9 ^^B
+ []
+
+) [59] [60] [61]
+
+Package natbib Warning: Citation `Kirchman2002' on page 62 undefined on input l
+ine 222.
+
 [62]
+
+Package natbib Warning: Citation `Teeling2012' on page 63 undefined on input li
+ne 233.
+
+Package acronym Info: Label `acro:DMSO' overridden on input line 243.
+[63]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
- [63]
+ [64]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
- [64]
+ [65]
 Package acronym Info: Label `acro:RuBisCO' newly defined as it shall be overrid
 den
-although it is yet undefined on input line 285.
+although it is yet undefined on input line 286.
 Package acronym Info: Label `acro:rTCA' newly defined as it shall be overridden
 
-although it is yet undefined on input line 294.
+although it is yet undefined on input line 295.
 Package acronym Info: Label `acro:WL' newly defined as it shall be overridden
-although it is yet undefined on input line 296.
- [65]
+although it is yet undefined on input line 297.
+ [66]
 Package acronym Info: Label `acro:BchlA' newly defined as it shall be overridde
 n
-although it is yet undefined on input line 314.
-Package acronym Info: Label `acro:PR' newly defined as it shall be overridden
 although it is yet undefined on input line 315.
+Package acronym Info: Label `acro:PR' newly defined as it shall be overridden
+although it is yet undefined on input line 316.
 
 Underfull \vbox (badness 1502) has occurred while \output is active []
-
- [66]
-Underfull \vbox (badness 5077) has occurred while \output is active []
 
  [67]
 Underfull \vbox (badness 5077) has occurred while \output is active []
 
  [68]
-[69]
-Overfull \hbox (0.56992pt too wide) in paragraph at lines 364--373
+Underfull \vbox (badness 5077) has occurred while \output is active []
+
+ [69]
+[70]
+Overfull \hbox (0.56992pt too wide) in paragraph at lines 365--374
 \OT1/cmr/m/it/10.95 Gammapro-teobac-te-ria\OT1/cmr/m/n/10.95 . Den-i-tri-fi-ca-
 tion genes are phy-lo-ge-net-i-cally widespread
  []
 
-[70]
-Overfull \hbox (29.47504pt too wide) in paragraph at lines 380--388
+[71]
+Overfull \hbox (29.47504pt too wide) in paragraph at lines 381--389
 \OT1/cmr/m/n/10.95 wa-ter col-umn (Fig-ure 4C) and linked pri-mar-ily to \OT1/c
 mr/m/it/10.95 Al-pha\OT1/cmr/m/n/10.95 - and\OT1/cmr/m/it/10.95 Gammaproteobact
 eria
  []
 
 
-Overfull \hbox (10.1749pt too wide) in paragraph at lines 380--388
+Overfull \hbox (10.1749pt too wide) in paragraph at lines 381--389
 \OT1/cmr/m/n/10.95 heterotrophs as they were re-lated to het-erotrophic \OT1/cm
 r/m/it/10.95 Mari-nobac-ter \OT1/cmr/m/n/10.95 and \OT1/cmr/m/it/10.95 Roseobac
 -
@@ -1080,43 +1254,43 @@ r/m/it/10.95 Mari-nobac-ter \OT1/cmr/m/n/10.95 and \OT1/cmr/m/it/10.95 Roseobac
 
 Underfull \vbox (badness 5077) has occurred while \output is active []
 
- [71]
-Underfull \vbox (badness 5077) has occurred while \output is active []
-
  [72]
-
-Package natbib Warning: Citation `R. pomeroyi' on page 73 undefined on input li
-ne 420.
-
-
-Underfull \vbox (badness 5077) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [73]
-Overfull \hbox (10.98808pt too wide) in paragraph at lines 437--441
+
+Package natbib Warning: Citation `R. pomeroyi' on page 74 undefined on input li
+ne 421.
+
+
+Underfull \vbox (badness 5077) has occurred while \output is active []
+
+ [74]
+Overfull \hbox (10.98808pt too wide) in paragraph at lines 438--442
 \OT1/cmr/m/n/10.95 `thrifty' demethy-la-tion path-way. This is par-tic-u-larly 
 per-ti-nent to the \OT1/cmr/m/it/10.95 Roseobac-
  []
 
-[74]
+[75]
 Underfull \vbox (badness 5077) has occurred while \output is active []
 
- [75])
-[76]
+ [76])
+[77]
 \openout2 = `viruses.aux'.
 
 
 No file viruses.tex.
 \openout2 = `conc.aux'.
 
-(./conc.tex
+(./conc.tex [78
+
+
+
+
+
+]
 Chapter 5.
-) [77
-
-
-
-
-
-] (./thesis.bbl [78
+) [79] (./thesis.bbl [80
 
 
 ]
@@ -1124,80 +1298,87 @@ Underfull \hbox (badness 2035) in paragraph at lines 57--61
 \OT1/cmr/m/n/10.95 ANTARC-TIC PHYTOFLAG-EL-LATE , PYRA-MI-MONAS GE-LIDI-
  []
 
-[79]
+[81]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ñ in font cmr10!
 Missing character: There is no ¢ in font cmr10!
- [80] [81]
+ [82] [83]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ñ in font cmr10!
 Missing character: There is no ¢ in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ñ in font cmr10!
 Missing character: There is no ¢ in font cmr10!
- [82] [83] [84] [85]
+ [84] [85] [86] [87]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
- [86] [87] [88] [89] [90] [91] [92]
+ [88] [89] [90] [91] [92] [93] [94]
 Missing character: There is no ¬ in font cmr10!
 Missing character: There is no ∞ in font cmr10!
- [93]
+ [95]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
 )
-[94]
+[96]
 \openout2 = `appendices.aux'.
 
  (./appendices.tex
 Chapter 6.
-) [95
+) [97
 
 
 ]
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 84.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 84.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 87.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 87.
 (./thesis.aux (./title.aux) (./originality.aux) (./copyright.aux)
 (./authenticity.aux) (./acknowledgements.aux) (./publist.aux) (./abstract.aux)
 (./acronyms.aux) (./intro.aux) (./acelake.aux) (./olv.aux) (./orglake.aux)
 (./viruses.aux) (./conc.aux) (./appendices.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 84.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 84.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 87.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 87.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 689EABF322E25A7431585040FA80D215;6218.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 84.
+(rerunfilecheck)             Checksum: 8276339112A5FD789043A4340FDB968F;6218.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 87.
  ) 
 Here is how much of TeX's memory you used:
- 8450 strings out of 493488
- 121695 string characters out of 3141347
- 223924 words of memory out of 3000000
- 11031 multiletter control sequences out of 15000+200000
- 11196 words of font info for 39 fonts, out of 3000000 for 9000
+ 9033 strings out of 493488
+ 130247 string characters out of 3141347
+ 246921 words of memory out of 3000000
+ 11587 multiletter control sequences out of 15000+200000
+ 12495 words of font info for 43 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 37i,10n,39p,908b,789s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
-usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><
-/usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
-usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></us
-r/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
-local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/lo
-cal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/loca
-l/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/t
-exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texl
-ive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
-ve/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
-/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/
-2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on thesis.pdf (119 pages, 634286 bytes).
+ 37i,13n,39p,908b,789s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+}</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
+/usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></u
+sr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></
+usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
+sr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
+/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/l
+ocal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loc
+al/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local
+/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/t
+exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texl
+ive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive
+/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/20
+12/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/201
+2/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2012/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2012/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2012/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2012/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2012/texmf-
+dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2012/texmf-di
+st/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on thesis.pdf (121 pages, 697794 bytes).
 PDF statistics:
- 2472 PDF objects out of 2487 (max. 8388607)
- 2301 compressed objects within 24 object streams
- 528 named destinations out of 1000 (max. 500000)
+ 2549 PDF objects out of 2984 (max. 8388607)
+ 2349 compressed objects within 24 object streams
+ 532 named destinations out of 1000 (max. 500000)
  619 words of extra memory for PDF output out of 10000 (max. 10000000)
 

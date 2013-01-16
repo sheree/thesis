@@ -1,0 +1,31 @@
+\begin{table}
+\small
+\caption[Physico-chemical properties, cell counts and \ac{VLP} counts of Organic Lake 2008 samples]{Physico-chemical properties, cell counts and \ac{VLP} counts of Organic Lake 2008 samples}
+\label{tab:physico-chem}
+\smallskip
+\begin{tabularx}{\textwidth}{p{3.2cm}XXXXX}
+\toprule
+%\textbf{} & \textbf{} & \textbf{} & \textbf{sample depths (m)} & \textbf{} & \textbf{} & \\
+\textbf{} & \textbf{1.7} & \textbf{4.2} & \textbf{5.7} & \textbf{6.5} & \textbf{6.7}\\
+\midrule
+ammonia (mg l$^{-1}$) & 0.108 & ND & 1.22 & 5.29 & 2.32 \\
+nitrate (mg l$^{-1}$) & $<$0.002 & ND & 0.003 & $<$0.002 & 0.008 \\
+nitrite (mg l$^{-1}$) & $<$0.002 & ND & $<$0.002 & 0.010 & 0.010 \\
+\ac{SRP} (mg l$^{-1}$) & 0.08 & ND & 0.10 & 0.20 & 0.18 \\
+\ac{TOC} (mg l$^{-1}$) & 88 & 87 & 110 & 170 & 130 \\
+\ac{DOC} (mg l$^{-1}$) & 69 & ND & 97 & 150 & 120 \\
+\ac{TN} (mg l$^{-1}$) & 7.70 & 7.50 & 11 & 24 & 13 \\
+\ac{TDN} (mg l$^{-1}$) & 0.112 & ND & 1.225 & 5.302 & 2.338 \\
+\ac{TP} (mg l$^{-1}$) & 1.5 & 1.4 & 3.0 & 7.6 & 3.7 \\
+\ac{TDP} (mg l$^{-1}$) & 0.509 & ND & 0.805 & 4.5 & 2 \\
+\ac{TS} (mg l$^{-1}$) & 1010 & 974 & 1020 & 1410 & 950 \\
+\ac{TDS} (mg l$^{-1}$) & 996 & ND & 1250 & 1290 & 995 \\
+particulate C:N:P (molar ratios) & 49:7:1 & ND & 15:2:1 & 17:3:1 & 15:1:1 \\
+dissolved C:N:P (molar ratios) & 350:20:1 & ND & 311:26:1 & 86:10:1 & 155:13:1 \\
+practical salinity & 166 & 166 & 172 & 178 & 186 \\
+temperature ($^{\circ}$C) & $-$13 & $-$13.5 & $-$13 & $-$12.5 & $-$12 \\
+cells ml$^{-1}$ & 1.0$\pm0.4 \times 10^6$ & 1.2$\pm0.3 \times 10^6$ & 1.8$\pm0.5 \times 10^6$ & 2.3$\pm0.8 \times 10^6$ & 1.1$\pm0.4 \times 10^6$ \\
+\ac{VLP} ml$^{-1}$ & 5.2$\pm2.1 \times 10^5$ & 7.1$\pm1.3 \times 10^5$ & 8.8$\pm3.4 \times 10^5$ & 14.0$\pm3.0 \times 10^5$ & 8.6$\pm3.3 \times 10^5$ \\
+\bottomrule
+\end{tabularx}
+\end{table}
