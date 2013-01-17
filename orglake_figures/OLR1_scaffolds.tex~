@@ -1,0 +1,6 @@
+\begin{figure}
+\includegraphics{orglake_figures/OLR1_scaffolds.pdf}
+\caption[Genomic maps of Organic Lake scaffolds containing the OL-R1 rhodopsin homologue]{Genomic maps of Organic Lake scaffolds containing the OL-R1 rhodopsin homologue. All genes surrounding OL-R1 had best \ac{BLAST} matches to \emph{Octadecabacter} (\emph{Alphaproteobacteria}) sequences. The scale below shows the number of base pairs. The sample depth and filter from which the scaffold was assembled is shown in parentheses beside the scaffold ID.}
+\label{fig:OLR1_scaffolds}
+
+\end{figure}

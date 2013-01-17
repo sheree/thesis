@@ -1,23 +1,22 @@
 This is BibTeX, Version 0.99d (TeX Live 2012)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: abstract.aux
 A level-1 auxiliary file: title.aux
 A level-1 auxiliary file: originality.aux
-A level-1 auxiliary file: copyright.aux
 A level-1 auxiliary file: authenticity.aux
 A level-1 auxiliary file: acknowledgements.aux
 A level-1 auxiliary file: publist.aux
-A level-1 auxiliary file: abstract.aux
 A level-1 auxiliary file: acronyms.aux
 A level-1 auxiliary file: intro.aux
 A level-1 auxiliary file: acelake.aux
-White space in argument---line 68 of file acelake.aux
+White space in argument---line 67 of file acelake.aux
  : \citation{von
  :               Mering2007}
 I'm skipping whatever remains of this command
 A level-1 auxiliary file: olv.aux
 A level-1 auxiliary file: orglake.aux
-White space in argument---line 401 of file orglake.aux
+White space in argument---line 424 of file orglake.aux
  : \citation{R.
  :              pomeroyi}
 I'm skipping whatever remains of this command
@@ -53,6 +52,7 @@ Warning--I didn't find a database entry for "Hennes1995"
 Warning--I didn't find a database entry for "Hara1991"
 Warning--I didn't find a database entry for "Proctor1992"
 Warning--I didn't find a database entry for "Hobbie1977"
+Warning--I didn't find a database entry for "Hahn2003"
 Warning--I didn't find a database entry for "Suttle1990"
 Warning--I didn't find a database entry for "Kirchman2002"
 Warning--I didn't find a database entry for "Teeling2012"
@@ -73,45 +73,45 @@ You can't pop an empty literal stack for entry Torrice2009
 while executing---line 1411 of file mybibstyle.bst
 Warning--there's a number but no volume in Villaescusa2010
 Warning--there's a number but no volume in Ward1997
-You've used 159 entries,
+You've used 160 entries,
             2739 wiz_defined-function locations,
-            1901 strings with 53998 characters,
-and the built_in function-call counts, 92486 in all, are:
-= -- 8281
-> -- 7848
+            1909 strings with 54391 characters,
+and the built_in function-call counts, 93263 in all, are:
+= -- 8345
+> -- 7932
 < -- 36
-+ -- 2626
-- -- 2464
-* -- 9433
-:= -- 15147
-add.period$ -- 480
-call.type$ -- 159
-change.case$ -- 1295
-chr.to.int$ -- 156
-cite$ -- 329
-duplicate$ -- 2563
-empty$ -- 5017
-format.name$ -- 2661
-if$ -- 18139
++ -- 2654
+- -- 2491
+* -- 9518
+:= -- 15277
+add.period$ -- 483
+call.type$ -- 160
+change.case$ -- 1307
+chr.to.int$ -- 157
+cite$ -- 331
+duplicate$ -- 2579
+empty$ -- 5049
+format.name$ -- 2689
+if$ -- 18288
 int.to.chr$ -- 4
 int.to.str$ -- 1
-missing$ -- 155
-newline$ -- 803
-num.names$ -- 642
-pop$ -- 1877
+missing$ -- 156
+newline$ -- 808
+num.names$ -- 646
+pop$ -- 1896
 preamble$ -- 1
-purify$ -- 1137
+purify$ -- 1148
 quote$ -- 0
-skip$ -- 2478
+skip$ -- 2497
 stack$ -- 0
-substring$ -- 4101
-swap$ -- 190
+substring$ -- 4128
+swap$ -- 191
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1749
+type$ -- 1760
 warning$ -- 11
-while$ -- 784
+while$ -- 789
 width$ -- 0
-write$ -- 1915
+write$ -- 1927
 (There were 5 error messages)

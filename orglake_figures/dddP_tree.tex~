@@ -1,0 +1,6 @@
+\begin{figure}
+\includegraphics{orglake_figures/dddP_tree.pdf}
+\caption[Phylogenetic tree of DddP DMSP lyase homologues]{Phylogenetic tree of DddP DMSP demethylase homologues. The tree was computed from a 129 amino acid C-terminal region using the neighbour-joining algorithm. Organic Lake sequences from this study are shown in red and marked with an asterisk (*). Numbers in parentheses are counts of sequences that clustered with the Organic Lake homologue shown in the tree with 90\% amino acid identity. Sequences with confirmed DMSP lyase activity are shown in bold. Accession numbers from top to bottom are: ZP_01755203, YP_167522, YP_613011, YP_682809, EAP77700, ZP_01741265, ZP_01036399, ZP_01881042, ZP_05063825, AFO91571, YP_509721, ZP_01448542, AEQ39103, AEQ39091, XP_001823911, XP_389272 and ACF19795.}
+\label{fig:dddP_tree}
+
+\end{figure}

@@ -1,6 +1,6 @@
 \begin{table}
 \footnotesize
-\caption[Physico-chemical properties, cell counts and \ac{VLP} counts of Organic Lake 2008 samples]{Physico-chemical properties, cell counts and \ac{VLP} counts of Organic Lake 2008 samples. ND, data not determined.}
+\caption[Physico-chemical properties of Organic Lake 2008 vertical profile]{Physico-chemical properties, cell counts and \ac{VLP} counts of Organic Lake 2008 samples from a vertical profile. ND, data not determined.}
 \label{tab:physico-chem}
 \smallskip
 \begin{tabularx}{\textwidth}{p{2.6cm}XXXXX}
@@ -11,7 +11,7 @@
 ammonia (mg l$^{-1}$) & 0.108 & ND & 1.22 & 5.29 & 2.32 \\
 nitrate (mg l$^{-1}$) & $<$0.002 & ND & 0.003 & $<$0.002 & 0.008 \\
 nitrite (mg l$^{-1}$) & $<$0.002 & ND & $<$0.002 & 0.010 & 0.010 \\
-\ac{SRP} (mg l$^{-1}$) & 0.08 & ND & 0.10 & 0.20 & 0.18 \\
+\ac{DRP} (mg l$^{-1}$) & 0.08 & ND & 0.10 & 0.20 & 0.18 \\
 \ac{TOC} (mg l$^{-1}$) & 88 & 87 & 110 & 170 & 130 \\
 \ac{DOC} (mg l$^{-1}$) & 69 & ND & 97 & 150 & 120 \\
 \ac{TN} (mg l$^{-1}$) & 7.70 & 7.50 & 11 & 24 & 13 \\

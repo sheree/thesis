@@ -1,0 +1,77 @@
+\begingroup
+\footnotesize
+\begin{longtable}{p{2.7cm}p{7.5cm}p{1cm}p{1.8cm}}
+\caption[List of KEGG orthologs (KO) involved in nutrient cycles that were searched for in the Organic lake metagenome]{Full list of KEGG orthologs involved in carbon, nitrogen and sulphur conversions that were searched for in the Organic lake metagenome.}
+\label{tab:KO_table}
+\hline
+\textbf{Process} & \textbf{Gene} & \textbf{KO} & \textbf{Notes} \tabularnewline
+\hline
+\endfirsthead
+\multicolumn{4}{c}
+{\tablename\ \thetable\ -- \textit{Continued from previous page}} \tabularnewline
+\hline
+\textbf{Process} & \textbf{Gene} & \textbf{KO} & \textbf{Notes} \tabularnewline
+\hline
+\endhead
+\hline \multicolumn{4}{r} {\textit{Continued on next page}} \tabularnewline
+\endfoot
+\hline
+\endlastfoot
+ C fixation & ribulose-bisphosphate carboxylase large (\emph{cbbL}) & K01601  & Calvin cycle \tabularnewline
+ & ribulose-bisphosphate carboxylase small (\emph{cbbS}) & K01602 & Calvin cycle \tabularnewline
+ & phosphoribulokinase (\emph{prkB}) & K00855 & Calvin cycle \tabularnewline
+ & ATP-citrate lyase alpha (\emph{aclA}) & K15230 & rTCA cycle \tabularnewline
+ & ATP-citrate lyase beta (\emph{aclB}) & K15231 & rTCA cycle \tabularnewline
+ & citryl-CoA lyase (\emph{ccl}) & K15234 & rTCA cycle \tabularnewline
+ & citryl-CoA synthetase (\emph{ccsB}) & K15233 & rTCA cycle \tabularnewline
+ & carbon monoxide dehydrogenase/acetyl-CoA synthase alpha (\emph{cdhA}) & K14138 & WL  \tabularnewline
+ & carbon monoxide dehydrogenase/acetyl-CoA synthase beta (\emph{cdhB}) & K00190 & WL  \tabularnewline
+Respiration & cytochrome C oxidase subunit I (\emph{coxI}) & K02256 & Eucaryotic \tabularnewline
+ & cytochrome C oxidase subunit III (\emph{coxIII}) & K02262 & Eucaryotic \tabularnewline
+ & cytochrome C oxidase subunit I (\emph{coxA}) & K02274 & Bacterial \tabularnewline
+ & cytochrome C oxidase subunit III (\emph{coxC}) & K02276 & Bacterial \tabularnewline
+Fermentation & L-lactate dehydrogenase (\emph{ldh}) & K00016 &  \tabularnewline
+ & pyruvate:ferredoxinoxidoreductase alpha (\emph{porA}) & K00169 &  \tabularnewline
+ & pyruvate:ferredoxinoxidoreductase beta (\emph{porB}) & K00170 &  \tabularnewline
+CO oxidation & carbon-monoxide dehydrogenase large (\emph{coxL}) & K03520 &  \tabularnewline
+ & carbon-monoxide dehydrogenase medium (\emph{coxM}) & K03519 &  \tabularnewline
+ & carbon-monoxide dehydrogenase small (\emph{coxS}) & K03518 &  \tabularnewline
+AAnP & photosynthetic reaction center L (\emph{pufL}) & K08928 &  \tabularnewline
+ & photosynthetic reaction center M (\emph{pufM}) & K08929 &  \tabularnewline
+Methanogenesis & coenzyme M methyl reductase (\emph{mcrB}) & K00401 &  \tabularnewline
+ & methyl coenzyme M reductase system & K00400 &  \tabularnewline
+CH$_4$ oxidation & soluble methane monooxygenase & K08684 &  \tabularnewline
+N fixation & nitrogenase (\emph{anfG}) & K00531 &  \tabularnewline
+ & nitrogenase molybdenum-iron protein alpha (\emph{nifD}) & K02586 &  \tabularnewline
+ & nitrogenase iron protein (\emph{nifH}) & K02588 &  \tabularnewline
+ & nitrogenase  molybdenum-iron protein beta (\emph{nifK}) & K02591 &  \tabularnewline
+Denitrification & nitric oxide reductase (\emph{norB}) & K02305 &  \tabularnewline
+ & nitric oxide reductase (\emph{norC}) & K02305 &  \tabularnewline
+ & nitrous oxide reductase (\emph{nosZ}) & K00376 &  \tabularnewline
+DNRA & periplasmic cytochrome c-552 (\emph{nrfA}) & K03385 &  \tabularnewline
+N dissimilation & hydroxylamine oxidase (\emph{hao}) & K10535 & \emph{hzo}-like \tabularnewline
+N mineralization/ assimilation & glutamate dehydrogenase (\emph{gudB}, \emph{rocG}) & K00260 &  \tabularnewline
+ & glutamate dehydrogenase (NAD(P)+) & K00261 &  \tabularnewline
+ & glutamate dehydrogenase (\emph{gdhA}) & K00262 &  \tabularnewline
+N assimilation & assimilatory nitrate reductase & K00360 &  \tabularnewline
+ & assimilatory nitrate reductase (\emph{nasA}) & K00372 &  \tabularnewline
+ & assimilatory nitrate reductase (\emph{narG}) & K00367 &  \tabularnewline
+ & glutamine synthetase (\emph{glnA}) & K01915 &  \tabularnewline
+ & glutamate synthetase (NADPH/NADH)(\emph{gltB}) & K00265 &  \tabularnewline
+ & glutamate synthetase (ferredoxin) (\emph{gltS}) & K00284 &  \tabularnewline
+Nitrification & ammonia monooxygenase subunit A (\emph{amoA}) & K10944 &  \tabularnewline
+ & ammonia monooxygenase subunit B (\emph{amoB}) & K10945 &  \tabularnewline
+ & ammonia monooxygenase subunit C (\emph{amoC}) & K10946 &  \tabularnewline
+DSR & adenylylsulfatereductase subunit A (\emph{aprA}) & K00394 & SRB related \tabularnewline
+ & adenylylsulfatereductase subunit B (\emph{aprB}) & K00395 & SRB related \tabularnewline\
+ & sulfite reductase (\emph{dsrA}) & K11180 & SRB related \tabularnewline
+ & sulfite reductase (\emph{dsrB}) & K11181 & SRB related \tabularnewline
+ASR & adenylyl sulfate kinase (\emph{cysC}) & K00860 &  \tabularnewline
+ & sulfateadenylyltransferase (\emph{cysN}) & K00956 &  \tabularnewline
+ & sulfateadenylyltransferase (\emph{cysD}) & K00957 &  \tabularnewline
+S mineralisation & cysteine diogenase (\emph{cdoI}) & K00456 &  \tabularnewline
+ & thiosulfate/3-Mercaptopyruvate sulfurtransferase (\emph{sseA}) & K01011 &  \tabularnewline
+DMSP reduction & anaerobic dimethyl sulfoxidereductase A (\emph{dmsA}) & K07306 &  \tabularnewline
+%\hline
+\end{longtable}
+\endgroup

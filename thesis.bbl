@@ -1,4 +1,4 @@
-\begin{thebibliography}{159}
+\begin{thebibliography}{160}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -958,6 +958,14 @@ Sharma A.~K., Zhaxybayeva O., Papke R.~T., and Doolittle W.~F. (2008).
   predominantly in non-marine environments}.
 \newblock \emph{Environmental microbiology}, 10\penalty0 (4):\penalty0
   1039--1056.
+
+\bibitem[Sharma \emph{et~al.}(2009)Sharma, Sommerfeld, Bullerjahn, Matteson,
+  Wilhelm, Jezbera, Brandt, Doolittle, and Hahn]{Sharma2009}
+Sharma A.~K., Sommerfeld K., Bullerjahn G.~S., Matteson A.~R., Wilhelm S.~W.,
+  Jezbera J., Brandt U., Doolittle W.~F., and Hahn M.~W. (2009).
+\newblock {Actinorhodopsin genes discovered in diverse freshwater habitats and
+  among cultivated freshwater Actinobacteria}.
+\newblock \emph{The ISME journal}, 3\penalty0 (6):\penalty0 726--737.
 
 \bibitem[Siegert \emph{et~al.}(2001)Siegert, Ellis-Evans, Tranter, Mayer,
   Petit, Salamatin, and Priscu]{Siegert2001}

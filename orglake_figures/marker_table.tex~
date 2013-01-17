@@ -1,0 +1,46 @@
+\begin{table}
+\footnotesize
+\caption[List of query functional marker gene sequences]{Functional marker gene sequences used in this study as \ac{BLAST} queries for retrieving homologues in the Organic Lake metagenomes. \%ID, minimum amino acid identity for a match to be considered homologous.}
+\label{tab:marker_genes}
+\smallskip
+\begin{tabularx}{\textwidth}{p{1.6cm}Xp{1.8cm}p{4cm}}
+\toprule
+\textbf{Gene (\%ID)} & \textbf{Organism} & \textbf{Accession} & \textbf{Reference} \\
+\midrule
+\emph{dddD} (60) & \emph{Marinomonas} sp.MWYL1 & ABR72937.1 &  \citet{Todd2007}\\
+ & \emph{Pseudomonas} sp.J465 & ACY01992.1 & \citet{Curson2010}\\
+ & \emph{Psychrobacter} sp.J466 & ACY02894.1 & \citet{Curson2010}\\
+ & \emph{Halomonas} sp. HTNK1 & ACV84065.1 & \citet{Todd2010}\\
+\emph{dddL} (45) & \emph{Sulfitobacter} sp. EE36 & ADK55772.1 & \citet{Curson2008}\\
+ & \emph{Rhodobacter sphaeroides} 2.4.1 & ABA77574.1 & \citet{Curson2008}\\
+\emph{dddP} (55) & \emph{Roseovarius nubinhibens} ISM & EAP77700.1 & \citet{Todd2009}\\
+\emph{dddQ} & \emph{Ruegeria pomeroyi} DSS-3 & AAV94883.1 & \citet{}\\
+ & \emph{Roseovarius nubinhibens} ISM & EAP76001.1 & \citet{}\\
+ &  & EAP76002.1 & \citet{Todd2011}\\
+ & marine metagenome & GOS\_7860946 & \citet{Todd2011}\\
+ &  & GOS\_2632696 & \citet{Todd2011}\\
+ &  & GOS\_2469775 & \citet{Todd2011}\\
+\emph{dddW} & \emph{Ruegeria pomeroyi} DSS-3 & AAV93771.1 & \citet{Todd2012}\\
+\emph{dddY} & \emph{Alcaligenes faecalis} & ADT64689.1 & \citet{Curson2011}\\
+\emph{dmdA} (50) & \emph{Ruegeria pomeroyi} DSS-3 & AAV95190.1 & \citet{Howard2006}\\
+ & \emph{Pelagibacter ubique} HTCC1062 & YP\_265671.1 & \citet{Howard2006}\\
+rhodopsin & \emph{Dokdonia donghaensis} MED134 & EAQ40507.1 & \citet{Gomez-Consarnau2007}\\
+ & \emph{Vibrio} sp. AND4 & ZP\_02194911.1 & \citet{Gomez-Consarnau2010}\\
+ & \emph{Salinibacter ruber} DSM 13855 & YP\_445623.1 & \citet{Balashov2005}\\
+\emph{pufL} (45) & \emph{Roseovarius tolerans} & ABK88229.1 & \citet{Labrenz1999}\\
+ & \emph{Congregibacter litoralis} KT71 & ZP\_01104363.1 & \citet{Fuchs2006}\\
+\emph{pufM} (45) & \emph{Roseovarius tolerans} & ABK88230.1 & \citet{Labrenz1999}\\
+ & \emph{Congregibacter litoralis} KT71 & ZP\_01104362.1 & \citet{Fuchs2006}\\
+\emph{soxB} (45) & \emph{Sulfurimonas denitrificans} DSM 1251 & YP\_392780.1 & \citet{Sievert2008}\\
+ & \emph{Thiomicrospira crunogena} XCL-2 & ABB42141.1 & \citet{Scott2006}\\
+\emph{soxA} (45) & \emph{Sulfurimonas denitrificans} DSM 1251 & YP\_392780.1 & \citet{Sievert2008}\\
+ & \emph{Thiomicrospira crunogena} XCL-2 & YP\_390871.1 & \citet{Scott2006}\\
+\emph{soxC} (45) & \emph{Sulfurimonas denitrificans} DSM 1251 & YP\_394569.1 & \citet{Sievert2008}\\
+ & \emph{Thiomicrospira crunogena} XCL-2 & YP\_390427.1 & \citet{Scott2006}\\
+\emph{soxD} (45) & \emph{Sulfurimonas denitrificans} DSM 1251 & YP\_394568.1 & \citet{Sievert2008}\\
+ & \emph{Thiomicrospira crunogena} XCL-2 & YP\_390427.1 & \citet{Scott2006}\\
+\emph{sqr} (60)  & \emph{Sulfurimonas denitrificans} DSM 1251 & ABB43898.1 & \citet{Sievert2008}\\
+\emph{recA} & \emph{Escherichia coli} K12 & P0A7G6.2 & \citet{Howard2008}\\
+\bottomrule
+\end{tabularx}
+\end{table}
