@@ -87,7 +87,7 @@ Samples were collected for metagenomics, microscopy and chemical analyses at 1.7
 For metagenomics, lake water was passed through a 20 \textmu{}m pore size pre-filter, and microbial biomass captured by sequential filtration onto 3.0 \textmu{}m, 0.8 \textmu{}m and 0.1 \textmu{}m pore size 293 mm polyethersulfone membrane filters, and samples immediately preserved in buffer and cryogenically frozen in liquid nitrogen, as described previously \cite{Ng2010a, Lauro2011}. 
 Between 1--2 L of lake water was sufficient to saturate the holding capacity of the filters. 
 \textsc{DNA} was extracted from the filters, samples sequenced using the Roche GS-FLX titanium sequencer, and reads processed to remove low quality bases, assembled and annotated, as previously described \cite{Ng2010a, Lauro2011}. 
-A summary of the 2.4 Gbp of metagenomic data is provided in \tabref{tab:metag}.
+A summary of the 2.4 Gbp of metagenomic data is provided in \tabreft{tab:metag}.
 \input{orglake_figures/metag_table.tex}
 
 \subsection{Physical and chemical analyses}
@@ -203,14 +203,15 @@ Accordingly, turbidity, \ac{TS} and cell density were the strongest explanatory 
 \acp{OTU} for \emph{Bacteria} comprised 76.2\%, \emph{Eucarya} 16.3\% and 7.5\% of \ac{SSU} sequences could not be classified. 
 Only 2 reads, assigned to a deep sea hydrothermal clade of \emph{Halobacteriales} (Supplementary Table S4), were assigned to \emph{Archaea} indicating they were rare in Organic Lake.
  
-The most abundant bacterial classes, \emph{Gammaproteobacteria}, \emph{Alphaproteobacteria} and \emph{Flavobacteria}, were represented by \acp{OTU} on all filter sizes at all depths and each consisted of one dominant genus, \emph{Marinobacter}, \emph{Roseovarius} and \emph{Psychroflexus}, respectively \figref{fig:genus_barplots}. 
-\input{orglake_figures/genus_barplots.tex}
-Essentially all \acp{OTU} for \emph{Cyanobacteria}/chloroplasts were classified as chloroplasts \figref{fig:genus_barplots}, except for three reads that could not be assigned to any lower rank (Supplementary Table S4) indicating free-living \emph{Cyanobacteria} were rare or absent. 
+The most abundant bacterial classes, \emph{Gammaproteobacteria}, \emph{Alphaproteobacteria} and \emph{Flavobacteria}, were represented by \acp{OTU} on all filter sizes at all depths and each consisted of one dominant genus, \emph{Marinobacter}, \emph{Roseovarius} and \emph{Psychroflexus}, respectively \figref{fig:genus_barplots_bact}. 
+\input{orglake_figures/genus_barplots_bact.tex}
+Essentially all \acp{OTU} for \emph{Cyanobacteria}/chloroplasts were classified as chloroplasts \figref{fig:genus_barplots_bact}, except for three reads that could not be assigned to any lower rank (Supplementary Table S4) indicating free-living \emph{Cyanobacteria} were rare or absent. 
 \acp{OTU} for moderately abundant bacterial classes were \emph{Actinobacteria}, \emph{Deltaproteobacteria}, \emph{Epsilonproteobacteria}, and candidate divisions OD1 and RF3. 
 Lower abundance divisions included \acp{OTU} for \emph{Bacilli}, \emph{Clostridia}, \emph{Spirochaetes}, \emph{Lentisphaeria}, TM7, \emph{Opitutae}, \emph{Verrucomicrobia}, Bhi80-139, Bd1-5, SR1 and \emph{Chlamydiae} (Figure 2A).
 
- The dominant eucaryal \acp{OTU} were for photosynthetic \emph{Chlorophyta} (green algae) and \emph{Dictyochophyceae} (silicoflagellate algae) \figref{fig:genus_barplots} principally assigned to the genus \emph{Dunaliella} and the order \emph{Pedinellales}, respectively (Supplementary Table S4). 
+ The dominant eucaryal \acp{OTU} were for photosynthetic \emph{Chlorophyta} (green algae) and \emph{Dictyochophyceae} (silicoflagellate algae) \figref{fig:genus_barplots_euk} principally assigned to the genus \emph{Dunaliella} and the order \emph{Pedinellales}, respectively (Supplementary Table S4). 
 Lower abundance eucaryal \acp{OTU} included \emph{Bacillariophyta} (diatoms), \emph{Dinophyceae}, \emph{Fungi} and heterotrophic \emph{Choanoflagellida} and \emph{Ciliophora} (see Supplementary Table S4 for lower taxonomic rank assignments). 
+\input{orglake_figures/genus_barplots_euk.tex}
 
 
 \subsection{Variation of microbial composition according to size and depth}
@@ -293,7 +294,8 @@ Functional potential, taxonomic composition and the physico-chemical data were i
 In both the upper mixed and deep zones, potential for carbon fixation was much lower than for degradative processes, indicating potential for net carbon loss \figref{fig:c_cycle}.
 \input{orglake_figures/c_cycle.tex} 
 Potential for carbon fixation via the oxygen-tolerant Calvin cycle \figref{fig:c_cycle} was originally assessed by presence of the marker genes \ac{RuBisCO} and phosphoribulokinase (\emph{prkB}) \cite{Hugler2011}. 
-The majority of \ac{RuBisCO} homologs were related to \emph{Viridiplantae} (Table 2) supporting the ecological role of green algae as the principle photosynthetic organisms. 
+The majority of \ac{RuBisCO} homologs were related to \emph{Viridiplantae} \tabref{tab:c_cycle_sp} supporting the ecological role of green algae as the principle photosynthetic organisms. 
+\input{orglake_figures/c_cycle_sp}
 \ac{RuBisCO} was only associated with a small proportion of \emph{Gammaproteobacteria} (Table 2), principally from sulphur-oxidising \emph{Thiomicrospira}, indicating some \emph{Gammaproteobacteria} are autotrophs. 
 However, the majority of \emph{prkB} matched to \emph{Gammaproteobacteria} (Table 2), predominantly \emph{Marinobacter}. 
 Although deep-sea, iron-oxidising autotrophic members of \emph{Marinobacter} have been isolated \cite{Edwards2003}, all genomes reported for \emph{Marinobacter} have \emph{prkB} but lack \ac{RuBisCO} genes. 
@@ -309,13 +311,13 @@ Anaerobic carbon fixation was represented by potential for the \ac{WL} pathway \
 Potential for carbon loss by via respiration was indicated by an abundance of cytochrome C oxidase genes (\emph{coxAC}) throughout the water column. 
 In the deep zone, potential for fermentation was greatest at 6.5 m \figref{fig:c_cycle} and likely the main biological activity that was occurring at that depth. 
 Fermentation was indicated by the marker gene lactate dehydrogenase (\emph{ldh}).
-These genes were linked to\emph{Firmicutes} (Table 2), which was only present at 6.5 m and represented by the classes \emph{Clostridia} and \emph{Bacilli} \figref{fig:genus_barplots}. 
-As the related candidate division RF3 \cite{Tajima1999} also has relatively high abundance in this zone \figref{fig:genus_barplots}
+These genes were linked to\emph{Firmicutes} (Table 2), which was only present at 6.5 m and represented by the classes \emph{Clostridia} and \emph{Bacilli} \figref{fig:genus_barplots_bact}. 
+As the related candidate division RF3 \cite{Tajima1999} also has relatively high abundance in this zone \figref{fig:genus_barplots_bact}
 (see 0.8--3.0 \textmu{}m size fraction community composition above), %% add in section link
 there is circumstantial evidence that RF3 possesses fermentative metabolism and may therefore play an important ecological role in Organic Lake by degrading high molecular weight compounds to organic acids that other organisms can utilize. 
-Assimilation of fermentation products appears to play a greater role in Organic Lake rather than complete anaerobic oxidation involving methanogens or sulphate-reducing bacteria; the former were absent and the latter were present in low abundance \figref{fig:genus_barplots}. 
+Assimilation of fermentation products appears to play a greater role in Organic Lake rather than complete anaerobic oxidation involving methanogens or sulphate-reducing bacteria; the former were absent and the latter were present in low abundance \figref{fig:genus_barplots_bact}. 
 
-\emph{Alphaproteobacteria}, predominantly\emph{Roseovarius} \figref{fig:genus_barplots}, were implicated in CO oxidation (Table 2; Supplementary Figure S6A), which is used to generate energy for lithoheterotrophic growth \cite{Moran2007b}, although CO oxidation may also be involved in anaplerotic C fixation \cite{Moran2007b}. 
+\emph{Alphaproteobacteria}, predominantly\emph{Roseovarius} \figref{fig:genus_barplots_bact}, were implicated in CO oxidation (Table 2; Supplementary Figure S6A), which is used to generate energy for lithoheterotrophic growth \cite{Moran2007b}, although CO oxidation may also be involved in anaplerotic C fixation \cite{Moran2007b}. 
 The CO oxidation capacity was at a maximum at 6.5 m \figref{fig:c_cycle}, and therefore associated with the deep-zone\emph{Roseovarius} ecotype of Organic Lake. 
 CO oxidation can function as a strategy to limit oxidation of organic carbon for energy so that a greater proportion can be directed towards biosynthesis \cite{Moran2007b}.
 
@@ -388,7 +390,7 @@ Similar findings were also made for Ace Lake, although in this system the presen
 Several meromictic hypersaline lakes in the Vestfold Hills,including Organic Lake, with practical salinity $>$150 are characterized by an absence of hydrogen sulphide and photoautotrophic sulphur bacteria \cite{Burke1988}. 
 Although sulphate is present \cite{Franzmann1987b}, geochemical conditions of these lakes are not conducive to dissimilatory sulphur cycling between sulphur oxidising and sulphate reducing bacteria typical of other stratified systems such as Ace Lake \cite{Ng2010a, Lauro2011}. 
 Consistent with this, potential for dissimilatory sulphate reduction represented by dissimilatory sulfite reductase (\emph{dsrAB}) and adenylylsulphate reductase (\emph{aprAB})linked to sulphate-reducing \emph{Deltaproteobacteria} (Table 2) was lowin Organic Lake. 
-Sulphate-reduction potential was confined to the 6.7 m sample \figref{fig:s_cycle} where oxygen concentration was lowest and \emph{Deltaproteobacteria} were present \figref{fig:genus_barplots}.
+Sulphate-reduction potential was confined to the 6.7 m sample \figref{fig:s_cycle} where oxygen concentration was lowest and \emph{Deltaproteobacteria} were present \figref{fig:genus_barplots_bact}.
 \input{orglake_figures/s_cycle.tex} 
 
 Capacity for oxidation of reduced sulphur compounds, represented by the sulphur oxidation multienzyme genes (\emph{soxAB}), was present throughout the water column \figref{fig:s_cycle} and linked primarily to \emph{Alpha}- and\emph{Gammaproteobacteria} (Table 2). 
@@ -400,8 +402,8 @@ The sulphur dehydrogenase genes \emph{soxCD} linked to \emph{Alpha}- and \emph{G
 \emph{soxCD} are accessory components of the Sox enzyme system without which complete oxidation of thiosulphate cannot occur \cite{Friedrich2005}. 
 Thus the presence of \emph{soxCD} indicates complete oxidisation likely occurs, although the different distribution of \emph{soxAB} and \emph{soxCD} in the water column \figref{fig:s_cycle} suggests a proportion of the community may lack \emph{soxCD} and deposit sulphur. 
 
-Sulphur-oxidising \emph{Epsilonproteobacteria} possessing \emph{soxAB} genes (Table 2) were present only in the deep zone of Organic Lake \figref{fig:genus_barplots} and were related to autotrophic deep sea sulphur-oxidizers, some members of whichare capable of anaerobic sulphur oxidation using nitrate \cite{Yamamoto2011}. 
-It is unlikely that appreciable sulphur oxidation occurs in the deep zone as the known terminal electron acceptors, oxygen and nitrate, are deplete and the abundance of sulphur oxidising \emph{Epsilonproteobacteria} is low \figref{fig:genus_barplots}. 
+Sulphur-oxidising \emph{Epsilonproteobacteria} possessing \emph{soxAB} genes (Table 2) were present only in the deep zone of Organic Lake \figref{fig:genus_barplots_bact} and were related to autotrophic deep sea sulphur-oxidizers, some members of whichare capable of anaerobic sulphur oxidation using nitrate \cite{Yamamoto2011}. 
+It is unlikely that appreciable sulphur oxidation occurs in the deep zone as the known terminal electron acceptors, oxygen and nitrate, are deplete and the abundance of sulphur oxidising \emph{Epsilonproteobacteria} is low \figref{fig:genus_barplots_bact}. 
 \emph{Epsilonproteobacteria} were also linked to a capacity for oxidation of sulphide to elemental sulphur by utilising sulphide:quinone oxidoreductase (\emph{sqrA}) \figref{fig:s_cycle}(Table 2). 
 In this pathway, sulphur is released as polysulphides, which is a potential biological source of the abundant polysulphides that have been detected in the lake \cite{Roberts1993b}.
 

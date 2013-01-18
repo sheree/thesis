@@ -67,16 +67,16 @@
 \contentsline {subsection}{\numberline {4.3.5}Analysis of functional potential}{42}{subsection.4.3.5}
 \contentsline {section}{\numberline {4.4}Results and discussion}{46}{section.4.4}
 \contentsline {subsection}{\numberline {4.4.1}Abiotic properties and water column structure}{46}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Overall microbial diversity}{51}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.4.3}Variation of microbial composition according to size and depth}{52}{subsection.4.4.3}
-\contentsline {subsubsection}{20--3.0 \textmu {}m fraction community composition}{52}{section*.120}
-\contentsline {subsubsection}{3--0.8 \textmu {}m size fraction community composition}{54}{section*.121}
-\contentsline {subsubsection}{0.8--0.1 \textmu {}m size fraction community composition}{55}{section*.123}
-\contentsline {subsection}{\numberline {4.4.4}Organic Lake functional potential}{56}{subsection.4.4.4}
-\contentsline {subsection}{\numberline {4.4.5}Carbon resourcefulness in dominant heterotrophic bacteria}{56}{subsection.4.4.5}
-\contentsline {subsection}{\numberline {4.4.6}Regenerated nitrogen is predominant in the nitrogen cycle}{61}{subsection.4.4.6}
-\contentsline {subsection}{\numberline {4.4.7}Molecular basis for unusual sulphur chemistry}{62}{subsection.4.4.7}
-\contentsline {subsection}{\numberline {4.4.8}Conclusion}{70}{subsection.4.4.8}
-\contentsline {section}{\numberline {4.5}Acknowledgements}{72}{section.4.5}
-\contentsline {chapter}{\numberline {5}General discussion, conclusions and future work}{73}{chapter.5}
-\contentsline {chapter}{\numberline {6}Appendices}{87}{chapter.6}
+\contentsline {subsection}{\numberline {4.4.2}Overall microbial diversity}{50}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Variation of microbial composition according to size and depth}{53}{subsection.4.4.3}
+\contentsline {subsubsection}{20--3.0 \textmu {}m fraction community composition}{53}{section*.120}
+\contentsline {subsubsection}{3--0.8 \textmu {}m size fraction community composition}{55}{section*.121}
+\contentsline {subsubsection}{0.8--0.1 \textmu {}m size fraction community composition}{56}{section*.123}
+\contentsline {subsection}{\numberline {4.4.4}Organic Lake functional potential}{57}{subsection.4.4.4}
+\contentsline {subsection}{\numberline {4.4.5}Carbon resourcefulness in dominant heterotrophic bacteria}{57}{subsection.4.4.5}
+\contentsline {subsection}{\numberline {4.4.6}Regenerated nitrogen is predominant in the nitrogen cycle}{63}{subsection.4.4.6}
+\contentsline {subsection}{\numberline {4.4.7}Molecular basis for unusual sulphur chemistry}{65}{subsection.4.4.7}
+\contentsline {subsection}{\numberline {4.4.8}Conclusion}{73}{subsection.4.4.8}
+\contentsline {section}{\numberline {4.5}Acknowledgements}{74}{section.4.5}
+\contentsline {chapter}{\numberline {5}General discussion, conclusions and future work}{75}{chapter.5}
+\contentsline {chapter}{\numberline {6}Appendices}{89}{chapter.6}

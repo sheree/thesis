@@ -1,0 +1,100 @@
+%Preamble--------------------------------------------------------------------------------------------
+
+\documentclass[11pt,a4paper,twoside,openright]{report}
+
+\usepackage[ top=30mm, bottom=20mm ]{geometry} %This package lets you specify the margin widths.
+
+\usepackage{textcomp} %This package formats the greek symbol mu properly.
+
+\usepackage[round,authoryear]{natbib} %This package is to make nice author date citations.
+\renewcommand\cite{\citep} %in the natlab package cite is citep so change command to cite.
+\renewcommand{\bibname}{References} %This is make the bibliography be called references.
+
+\usepackage{pdflscape} %This package is meant to let you turn a single page into a landscape view by writing the section in the landscape environment. One option for tables.
+
+\usepackage{rotating} %This package also lets you make sideways tables.
+
+\usepackage{longtable} %This package should let me make long tables.
+
+\usepackage{tabularx} %This package makes writing tables easier. It does some magic with the column widths.
+
+\usepackage{booktabs} %This package allows some more fancy formatting with tables such as thicker lines and who knows what else?
+
+\usepackage{pdfpages} %This package is meant to let you insert multiple pdf page into your latex document.
+
+\usepackage[hidelinks]{hyperref} %this package makes hyperlinks between citations and figures and the body of the text.
+\newcommand{\figref}[1]{(\autoref{#1})} %this command will correctly name a figure reference, surround with parentheses and make it a clickable link.
+\newcommand{\figreft}[1]{\autoref{#1}} %this command will correctly name a figure reference and make it a clickable link.
+\newcommand{\tabref}[1]{(\autoref{#1})} %this command will correctly name a table reference, surround with parentheses and make it a clickable link.
+\newcommand{\tabreft}[1]{\autoref{#1}} %this command will correctly name a table reference and make it a clickable link.
+
+\usepackage[all]{hypcap} %This package should make it so that when you click on a link to a table or figure, the page is oriented to the figure/table, not the the caption.
+
+\usepackage{caption} %using this package to hopefully make all my captions normal sized.
+
+\usepackage{setspace} %this package is to set the line space easily
+\onehalfspacing %set to one and a half spacing
+
+\usepackage[printonlyused]{acronym} %This package helps manage a list of acronyms
+\usepackage{relsize} %This package supports the acronym package by making the acronyms appear smaller in the text.
+
+\usepackage{graphicx} %This is some package for including figures images.
+
+\usepackage{url} %This package helps format the urls over the line breaks.
+
+
+%End-preamble----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%Frontmatter-----------------------------------------------------------------------------------------
+
+% Thesis/dissertation sheet goes in the inside cover of the thesis. This doc contains the abstract
+
+\include{abstract}
+
+%Title page
+\include{title}
+
+%number the front matter with roman numerals
+\pagenumbering{roman}
+
+\include{originality}
+%\include{copyright}
+\include{authenticity}
+\include{acknowledgements}
+\include{publist}
+
+\tableofcontents
+\listoffigures
+\listoftables
+\include{acronyms}
+
+%End-frontmatter-------------------------------------------------------------------------------------
+
+%Mainmatter-----------------------------------------------------------------------------------------
+
+%Number the main text in arabic numerals
+\pagenumbering{arabic}
+
+\include{intro}
+\include{acelake}
+\include{olv}
+\include{orglake}
+\include{viruses}
+\include{conc}
+
+%Endmainmatter-------------------------------------------------------------------------------------
+
+%Endmatter-----------------------------------------------------------------------------------------
+
+\singlespacing
+\bibliographystyle{mybibstyle}
+\bibliography{Thesis}
+
+
+\include{appendices}
+
+%End-endmatter-------------------------------------------------------------------------------------
+
+\end{document}
