@@ -1,0 +1,66 @@
+\begingroup
+\footnotesize
+\begin{longtable}{p{2.6cm}p{0.5cm}p{1.2cm}p{1cm}p{1cm}p{1.4cm}p{1.4cm}p{1.2cm}p{0.5cm}}
+\caption[Counts of genes involved in \ac{DMSP} catabolism and photoheterotrophy in aquatic metagenomes]{Counts of genes involved in \ac{DMSP} catabolism and photoheterotrophy in aquatic metagenomes (normalised to 100 Mbp). 
+\% $=$ cells containing marker gene. 
+The sample ID for each site is shown in parentheses after the site description. 
+Values marked with an asterisk are $>$0 but $<$0.5. 
+Counts for the following sites are averages of several samples: Ace Lake mixolimnion (GS232, GS231); Southern Ocean SZ (GS349, GS351--GS353, GS356--GS360); Southern Ocean NZ (GS363, GS346, GS364, GS366–GS368); GOS coastal (GS002--GS004, GS007--GS010, GS012--GS016, GS019, GS021, GS027--GS029, GS034--GS036); GOS open ocean (GS017, GS018, GS022, GS023, GS026, GS037, GS047); GOS estuary (GS006, GS011, GS012). Values shown in bold are the highest for that marker gene. SZ, Southern Zone; NZ, Northern Zone; GOS, Global Ocean Sampling.
+}
+\label{tab:metag_compare}
+\\
+\toprule
+\textbf{Site} & \textbf{Size (\textmu{}m)} & \textbf{\emph{dddD} (\%)} & \textbf{\emph{dddL} (\%)} & \textbf{\emph{dddP} (\%)} & \textbf{\emph{dmdA} (\%)} & \textbf{Rho. (\%)} & \textbf{\emph{pufLM} (\%)} & \textbf{\emph{recA}} \\
+\midrule
+\endfirsthead
+\multicolumn{9}{c}
+{\tablename\ \thetable\ -- \textit{Continued from previous page}} \\
+\toprule
+\textbf{Site} & \textbf{Size (\textmu{}m)} & \textbf{\emph{dddD} (\%)} & \textbf{\emph{dddL} (\%)} & \textbf{\emph{dddP} (\%)} & \textbf{\emph{dmdA} (\%)} & \textbf{Rho. (\%)} & \textbf{\emph{pufLM} (\%)} & \textbf{\emph{recA}} \\
+\midrule
+\endhead
+\bottomrule \multicolumn{4}{r} {\textit{Continued on next page}} \\
+\endfoot
+\bottomrule
+\endlastfoot
+Organic Lake 1.7 m & 0.1 & 2 (9) & 4 (19) & 0 & 0* (2) & 1 (5) & 0* (1) & 21 \\
+(GS374) & 0.8 & 10 (36) & 10 (39) & 1 (2) & 2 (7) & 5 (20) & 4 (14) & 26 \\
+ & 3.0 & 11 (50) & 5 (21) & 2 (7) & 9 (43) & 12 (57) & 13 (61) & 21 \\
+Organic Lake 4.2 m & 0.1 & 5 (34) & 5 (34) & 0 & 1 (10) & 1 (10) & 2 (16) & 14 \\
+(GS375) & 0.8 & 15 (54) & 9 (31) & 0 & 2 (6) & 7 (23) & 3 (11) & 28 \\
+ & 3.0 & 23 (75) & 2 (8) & 1 (2.5) & 20 (68) & 14 (45) & 16 (53) & 30 \\
+Organic Lake 5.7 m & 0.1 & 4 (43) & 1 (7) & 0 & 1 (14) & 2 (21) & 0* (4) & 10 \\
+(GS376)  & 0.8 & 6 (20) & 9 (32) & 0 & 2 (7) & 6 (22) & 3 (12) & 29 \\
+ & 3.0 & 19 (68) & 3 (12) & 0 & 13 (47) & 6 (21) & 11 (38) & 28 \\
+Organic Lake 6.5 m  & 0.1 & 10 (51) & 0* (2) & 0 & 3 (15) & 1 (7) & 4 (22) & 20 \\
+(GS377) & 0.8 & 14 (38) & 9 (23) & 1 (2) & 7 (20) & 6 (16) & 7 (20) & 28 \\
+ & 3.0 & 42 (106) & 5 (13) & 0 & 20 (52) & 6 (16) & 22 (55) & 29 \\
+Organic Lake 6.7 m  & 0.1 & 1 (7) & 0* (4) & 0 & 0 & 1 (7) & 2 (13) & 13 \\
+(GS378) & 0.8 & 12 (26) & 8 (17) & 0 & 2 (5) & 8 (16) & 4 (9) & 47 \\
+ & 3.0 & 50 (174) & 5 (17) & 4 (13) & 12 (43) & 12 (43) & 14 (48) & 29 \\
+Ace Lake & 0.1 & 0* (2) & 0 & 1 (2) & 15 (56) & 15 (53) & 0* (1) & 28 \\
+mixolimnion  & 0.8 & 2 (3) & 1 (2) & 0 & 2 (4) & 12 (27) & 3 (12) & 45 \\
+ & 3.0 & 0 & 0 & 0* (4) & 0 & 5 (42) & 0 & 11 \\
+Newcomb Bay & 0.1 & 6 (14) & 0 & 3 (7) & 50 (111) & 89 (196) & 0 & 45 \\
+(GS235)  & 0.8 & 5 (12) & 0 & 0 & 18 (41) & 55 (123) & 0 & 45 \\
+ & 3.0 & 0 & 0 & 0 & 2 (17) & 4 (33) & 0 & 11 \\
+Southern Ocean & 0.1 & 2 (3) & 0 & 6 (9) & 71 (101) & 98 (139) & 0 & 70 \\
+SZ  & 0.8 & 3 (6) & 0* (0*) & 5 (12) & 32 (81) & 43 (108) & 0 & 39 \\
+ & 3.0 & 0* (7) & 0 & 0* (4) & 4 (66) & 5 (84) & 0 & 6 \\
+Southern Ocean & 0.1 & 0* (1) & 0 & 5 (7) & 124 (159) & 111 (142) & 1 (1) & 78 \\
+NZ  & 0.8 & 0* (2) & 0 & 9 (30) & 28 (84) & 35 (107) & 2 (7) & 33 \\
+ & 3.0 & 0* (3) & 0 & 1 (9) & 7 (54) & 11 (89) & 0* (4) & 12 \\
+GOS coastal & 0.1 & 0* (0) & 0 & 5 (6) & 44 (52) & 74 (87) & 5 (6) & 85 \\
+GOS open ocean & 0.1 & 0 & 0 & 7 (8) & 45 (50) & 66 (74) & 5 (5) & 90 \\
+GOS estuary & 0.1 & 0 & 0 & 1 (1) & 29 (36) & 61 (77) & 2 (3) & 80 \\
+GOS embayment \\(GS005) & 0.1 & 4 (8) & 0 & 6 (12) & 28 (54) & 58 (112) & 3 (6) & 52 \\
+GOS Lake Gatun \\(GS020) & 0.1 & 0 & 0 & 0 & 4 (4) & 48 (53) & 2 (2) & 90 \\
+GOS fringing reef \\(GS025) & 0.1 & 0 & 0 & 0 & 0 & 7 (39) & 0 & 18 \\
+GOS warm seep \\(GS030) & 0.1 & 0 & 0 & 7 (6) & 75 (63) & 83 (69) & 6 (5) & 120 \\
+GOS upwelling \\(GS031) & 0.1 & 0 & 0 & 4 (4) & 81 (77) & 81 (76) & 4 (4) & 106 \\
+GOS mangrove \\(GS032) & 0.1 & 0 & 0 & 2(3) & 24(34) & 25(36) & 1(1) & 71 \\
+GOS Punta Cor-\\morant (GS033) & 0.1 & 0 & 11 (15) & 14 (21) & 4 (6) & 31 (43) & 15 (21) & 72 \\
+GOS Rangirora \\Atoll (GS051) & 0.1 & 0 & 0 & 11(15) & 38 (49) & 73 (94) & 3 (4) & 77 \\
+\end{longtable}
+\endgroup
+

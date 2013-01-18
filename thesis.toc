@@ -1,5 +1,5 @@
 \contentsline {chapter}{\numberline {1}General introduction}{1}{chapter.1}
-\contentsline {section}{Co-authorship statement}{1}{section*.11}
+\contentsline {section}{Co-authorship statement}{1}{section*.12}
 \contentsline {section}{\numberline {1.1}Introduction}{2}{section.1.1}
 \contentsline {section}{\numberline {1.2}Antarctic lakes}{2}{section.1.2}
 \contentsline {subsection}{\numberline {1.2.1}Ice-bound lakes}{2}{subsection.1.2.1}
@@ -12,9 +12,9 @@
 \contentsline {section}{\numberline {1.6}Molecular approaches used in Antarctic lake systems}{6}{section.1.6}
 \contentsline {section}{\numberline {1.7}Insights from Antarctic molecular studies}{7}{section.1.7}
 \contentsline {subsection}{\numberline {1.7.1}Bacterial diversity: adaptation to unique physical and chemical conditions}{7}{subsection.1.7.1}
-\contentsline {subsubsection}{Bacterial diversity defined by nutrients}{7}{section*.16}
-\contentsline {subsubsection}{Bacterial biogeography}{8}{section*.17}
-\contentsline {subsubsection}{Bacterial diversity of Lake Vostok}{8}{section*.19}
+\contentsline {subsubsection}{Bacterial diversity defined by nutrients}{7}{section*.17}
+\contentsline {subsubsection}{Bacterial biogeography}{8}{section*.18}
+\contentsline {subsubsection}{Bacterial diversity of Lake Vostok}{8}{section*.20}
 \contentsline {subsection}{\numberline {1.7.2}\emph {Archaea}: methanogens and haloarchaea}{9}{subsection.1.7.2}
 \contentsline {subsection}{\numberline {1.7.3}\emph {Eucarya} perform multiple ecosystem roles}{10}{subsection.1.7.3}
 \contentsline {subsection}{\numberline {1.7.4}Functional gene studies of Antarctic lakes}{11}{subsection.1.7.4}
@@ -23,7 +23,7 @@
 \contentsline {section}{\numberline {1.9}`-omics' approaches}{11}{section.1.9}
 \contentsline {section}{\numberline {1.10}Objectives}{12}{section.1.10}
 \contentsline {chapter}{\numberline {2}Development of methods to complement metagenomic analysis of Ace Lake}{13}{chapter.2}
-\contentsline {section}{Co-authorship statement}{13}{section*.21}
+\contentsline {section}{Co-authorship statement}{13}{section*.22}
 \contentsline {section}{\numberline {2.1}Abstract}{15}{section.2.1}
 \contentsline {section}{\numberline {2.2}Introduction}{15}{section.2.2}
 \contentsline {section}{\numberline {2.3}Materials and methods}{16}{section.2.3}
@@ -38,7 +38,7 @@
 \contentsline {subsection}{\numberline {2.4.3}Development of metaproteomic methodology}{22}{subsection.2.4.3}
 \contentsline {section}{\numberline {2.5}Conclusions}{24}{section.2.5}
 \contentsline {chapter}{\numberline {3}Virophage control of Antarctic algal host--virus dynamics}{25}{chapter.3}
-\contentsline {section}{Co-authorship statement}{25}{section*.49}
+\contentsline {section}{Co-authorship statement}{25}{section*.50}
 \contentsline {section}{\numberline {3.1}Abstract}{26}{section.3.1}
 \contentsline {section}{\numberline {3.2}Introduction}{27}{section.3.2}
 \contentsline {section}{\numberline {3.3}Materials and methods}{28}{section.3.3}
@@ -69,14 +69,14 @@
 \contentsline {subsection}{\numberline {4.4.1}Abiotic properties and water column structure}{46}{subsection.4.4.1}
 \contentsline {subsection}{\numberline {4.4.2}Overall microbial diversity}{50}{subsection.4.4.2}
 \contentsline {subsection}{\numberline {4.4.3}Variation of microbial composition according to size and depth}{53}{subsection.4.4.3}
-\contentsline {subsubsection}{20--3.0 \textmu {}m fraction community composition}{53}{section*.120}
-\contentsline {subsubsection}{3--0.8 \textmu {}m size fraction community composition}{55}{section*.121}
-\contentsline {subsubsection}{0.8--0.1 \textmu {}m size fraction community composition}{56}{section*.123}
+\contentsline {subsubsection}{20--3.0 \textmu {}m fraction community composition}{53}{section*.121}
+\contentsline {subsubsection}{3--0.8 \textmu {}m size fraction community composition}{55}{section*.122}
+\contentsline {subsubsection}{0.8--0.1 \textmu {}m size fraction community composition}{56}{section*.124}
 \contentsline {subsection}{\numberline {4.4.4}Organic Lake functional potential}{57}{subsection.4.4.4}
 \contentsline {subsection}{\numberline {4.4.5}Carbon resourcefulness in dominant heterotrophic bacteria}{57}{subsection.4.4.5}
-\contentsline {subsection}{\numberline {4.4.6}Regenerated nitrogen is predominant in the nitrogen cycle}{63}{subsection.4.4.6}
-\contentsline {subsection}{\numberline {4.4.7}Molecular basis for unusual sulphur chemistry}{65}{subsection.4.4.7}
-\contentsline {subsection}{\numberline {4.4.8}Conclusion}{73}{subsection.4.4.8}
-\contentsline {section}{\numberline {4.5}Acknowledgements}{74}{section.4.5}
-\contentsline {chapter}{\numberline {5}General discussion, conclusions and future work}{75}{chapter.5}
-\contentsline {chapter}{\numberline {6}Appendices}{89}{chapter.6}
+\contentsline {subsection}{\numberline {4.4.6}Regenerated nitrogen is predominant in the nitrogen cycle}{64}{subsection.4.4.6}
+\contentsline {subsection}{\numberline {4.4.7}Molecular basis for unusual sulphur chemistry}{67}{subsection.4.4.7}
+\contentsline {subsection}{\numberline {4.4.8}Conclusion}{77}{subsection.4.4.8}
+\contentsline {section}{\numberline {4.5}Acknowledgements}{78}{section.4.5}
+\contentsline {chapter}{\numberline {5}General discussion, conclusions and future work}{79}{chapter.5}
+\contentsline {chapter}{\numberline {6}Appendices}{93}{chapter.6}
