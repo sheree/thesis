@@ -1,0 +1,13 @@
+\begin{landscape}
+\begin{centering}
+\begin{figure}
+\includegraphics{olv_figures/18s.pdf}
+\caption[Phylogeny of the 18S rRNA genes from the 2006 Organic Lake metagenome]{Phylogeny of the 18S rRNA genes from the 2006 Organic Lake metagenome. 
+Organic Lake sequences are shown in red.
+Ace Lake sequences are shown in blue.
+}
+\label{fig:18s}
+
+\end{figure}
+\end{centering}
+\end{landscape}

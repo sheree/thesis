@@ -1,4 +1,4 @@
-\begin{thebibliography}{160}
+\begin{thebibliography}{155}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -30,12 +30,6 @@ Alekhina I.~A., Marie D., Petit J.~R., Lukin V.~V., Zubkov V.~M., and Bulat
 Altschul S.~F., Gish W., Miller W., Myers E.~W., and Lipman D.~J. (1990).
 \newblock {Basic local alignment search tool}.
 \newblock \emph{Journal of molecular biology}, 215:\penalty0 403--410.
-
-\bibitem[Anesio and Bellas(2011)]{Anesio2011}
-Anesio A.~M. and Bellas C.~M. (2011).
-\newblock {Are low temperature habitats hot spots of microbial evolution driven
-  by viruses?}
-\newblock \emph{Trends in microbiology}, 19\penalty0 (2):\penalty0 52--57.
 
 \bibitem[Balashov \emph{et~al.}(2005)Balashov, Imasheva, Boichenko, Ant\'{o}n,
   Wang, and Lanyi]{Balashov2005}
@@ -226,6 +220,13 @@ Curson A.~R., Rogers R., Todd J.~D., Brearley C., and Johnston A.~W. (2008).
   alpha-proteobacteria and Rhodobacter sphaeroides.}
 \newblock \emph{Environmental microbiology}, 10\penalty0 (3):\penalty0
   757--767.
+
+\bibitem[Curson \emph{et~al.}(2010)Curson, J, Sullivan, Todd, and
+  Johnston]{Curson2010}
+Curson A.~R., J~, Sullivan M.~J., Todd J.~D., and Johnston A.~W. (2010).
+\newblock {Identification of genes for dimethyl sulfide production in bacteria
+  in the gut of Atlantic Herring (Clupea harengus)}.
+\newblock \emph{The ISME journal}, 4\penalty0 (1):\penalty0 144--146.
 
 \bibitem[Curson \emph{et~al.}(2011)Curson, Todd, Sullivan, and
   Johnston]{Curson2011b}
@@ -582,12 +583,6 @@ Karr E.~A., Ng~J.~M., Belchik S.~M., Matthew W.~M., Madigan M.~T., Achenbach
   Frozen Lake Fryxell , Antarctica}.
 \newblock 72\penalty0 (2):\penalty0 1663--1666.
 
-\bibitem[Kepner \emph{et~al.}(1998)Kepner, Wharton, and Suttle]{Kepner1998}
-Kepner R.~L., Wharton R.~A., and Suttle C.~A. (1998).
-\newblock {Viruses in Antarctic lakes}.
-\newblock \emph{Limnology and oceanography}, 43\penalty0 (7):\penalty0
-  1754--1761.
-
 \bibitem[Kraft \emph{et~al.}(2011)Kraft, Strous, and Tegetmeyer]{Kraft2011}
 Kraft B., Strous M., and Tegetmeyer H.~E. (2011).
 \newblock {Microbial nitrate respiration – Genes, enzymes and environmental
@@ -641,19 +636,6 @@ Laybourn-Parry J.
   \emph{Ecosystem Dynamics in a Antarctic Ice-Free Landscapes}, pages 231--240.
   Rotterdam, 1997.
 
-\bibitem[Laybourn-Parry and Pearce(2007)]{Laybourn-Parry2007}
-Laybourn-Parry J. and Pearce D.~A. (2007).
-\newblock {The biodiversity and ecology of Antarctic lakes: models for
-  evolution}.
-\newblock \emph{Philosophical transactions of the Royal Society of London.
-  Series B, Biological sciences}, 362\penalty0 (1488):\penalty0 2273--2289.
-
-\bibitem[Laybourn-Parry \emph{et~al.}(2001)Laybourn-Parry, Hofer, and
-  Sommaruga]{Laybourn-Parry2001}
-Laybourn-Parry J., Hofer J.~S., and Sommaruga R. (2001).
-\newblock {Viruses in the plankton of freshwater and saline Antarctic lakes}.
-\newblock \emph{Freshwater Biology}, 46\penalty0 (9):\penalty0 1279--1287.
-
 \bibitem[Laybourn-Parry \emph{et~al.}(2005)Laybourn-Parry, Marshall, and
   Marchant]{Laybourn-Parry2005}
 Laybourn-Parry J., Marshall W.~A., and Marchant H.~J. (2005).
@@ -677,13 +659,6 @@ L\'{o}pez-Bueno A., Tamames J., Vel\'{a}zquez D., Moya A., Quesada A., and
 Lovelock J.~E. and Maggs R. (1972).
 \newblock {Atmospheric dimethyl sulphide and the natural sulphur cycle}.
 \newblock \emph{Nature}, 237:\penalty0 452--453.
-
-\bibitem[Madan \emph{et~al.}(2005)Madan, Marshall, and
-  Laybourn-Parry]{Madan2005}
-Madan N.~J., Marshall W.~A., and Laybourn-Parry J. (2005).
-\newblock {Virus and microbial loop dynamics over an annual cycle in three
-  contrasting Antarctic lakes}.
-\newblock \emph{Freshwater B}, 50:\penalty0 1291--1300.
 
 \bibitem[Man \emph{et~al.}(2003)Man, Wang, Sabehi, Aravind, Post, Massana,
   Spudich, Spudich, and B\'{e}j\`{a}]{Man2003}
@@ -918,14 +893,6 @@ Samsudin A.~A., Evans P.~N., Wright A.-D.~G., and {Al Jassim} R. (2011).
 \newblock \emph{Environmental microbiology}, 13\penalty0 (11):\penalty0
   3024--3035.
 
-\bibitem[S\"{a}wstr\"{o}m \emph{et~al.}(2007)S\"{a}wstr\"{o}m, Anesio,
-  Gran\'{e}li, and Laybourn-Parry]{Sawstrom2007}
-S\"{a}wstr\"{o}m C., Anesio A.~M., Gran\'{e}li W., and Laybourn-Parry J.
-  (2007).
-\newblock {Seasonal viral loop dynamics in two large ultraoligotrophic
-  Antarctic freshwater lakes}.
-\newblock \emph{Microbial ecology}, 53:\penalty0 1--11.
-
 \bibitem[Sch\"{a}fer \emph{et~al.}(2010)Sch\"{a}fer, Myronova, and
   Boden]{Schafer2010}
 Sch\"{a}fer H., Myronova N., and Boden R. (2010).
@@ -974,12 +941,6 @@ Siegert M.~J., Ellis-Evans J.~C., Tranter M., Mayer C., Petit J.-R., Salamatin
 \newblock {Physical, chemical and biological processes in Lake Vostok and other
   Antarctic subglacial lakes.}
 \newblock \emph{Nature}, 414\penalty0 (6864):\penalty0 603--609.
-
-\bibitem[Siegert \emph{et~al.}(2005)Siegert, Carter, Tabacco, Popov, and
-  Blankenship]{Siegert2005}
-Siegert M.~J., Carter S., Tabacco I., Popov S., and Blankenship D.~D. (2005).
-\newblock {A revised inventory of Antarctic subglacial lakes}.
-\newblock \emph{Antarctic Science}, 17\penalty0 (03):\penalty0 453--460.
 
 \bibitem[Tajima \emph{et~al.}(1999)Tajima, Aminov, Nagamine, Ogata, Nakamura,
   Matsui, and Benno]{Tajima1999}
@@ -1048,6 +1009,13 @@ Todd J.~D., Curson A.~R., Kirkwood M., Sullivan M.~J., Green R.~T., and
   marine roseobacters and in uncultured marine bacteria}.
 \newblock \emph{Environmental microbiology}, 13\penalty0 (2):\penalty0
   427--438.
+
+\bibitem[Todd \emph{et~al.}(2012)Todd, Kirkwood, Newton-Payne, and
+  Johnston]{Todd2012}
+Todd J.~D., Kirkwood M., Newton-Payne S., and Johnston A.~W. (2012).
+\newblock {DddW , a third DMSP lyase in a model Roseobacter marine bacterium ,
+  Ruegeria pomeroyi DSS-3}.
+\newblock \emph{The ISME Journal}, 6\penalty0 (1):\penalty0 223--226.
 
 \bibitem[Torrice(2009)]{Torrice2009}
 Torrice M.

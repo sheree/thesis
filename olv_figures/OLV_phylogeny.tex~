@@ -1,0 +1,8 @@
+\begin{figure}
+\centering
+\includegraphics[width=100mm]{olv_figures/OLV_phylogeny.jpg}
+\caption[Phylogeny of virophage capsid proteins]{Maximum likelihood phylogenetic tree of a conserved 103 aa region of the \ac{MCP} from Organic Lake, Ace Lake and \ac{GOS} metagenome data and Sputnik. 
+}
+\label{fig:OLV_phylogeny}
+
+\end{figure}

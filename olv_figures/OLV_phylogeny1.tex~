@@ -1,0 +1,9 @@
+\begin{figure}
+\includegraphics[width=\textwidth]{olv_figures/OLV_phylogeny.jpg}
+\caption[Phylogeny of virophage capsid proteins]{Abundance and diversity of virophage capsid proteins in environmental samples. 
+(\textbf{A}) Number of \acp{ORF} from metagenomic reads that match to \ac{OLV} \ac{MCP} (\textsc{BLASTp} e-value cut-off 1e$-$5, abundance normalised to 100,000), and the proportion of virophage capsid types, for the Organic Lake 0.1 \textmu{}m and Ace Lake 0.1, 0.8 and 3.0 \textmu{}m fractions. 
+(\textbf{B}) Maximum likelihood tree of a conserved 103 aa region of the \ac{MCP} from Organic Lake, Ace Lake and \ac{GOS} metagenome data, and Sputnik genome. 
+}
+\label{fig:OLV_phylogeny}
+
+\end{figure}

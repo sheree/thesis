@@ -1,29 +1,22 @@
 \contentsline {chapter}{\numberline {1}General introduction}{1}{chapter.1}
-\contentsline {section}{Co-authorship statement}{1}{section*.13}
-\contentsline {section}{\numberline {1.1}Introduction}{2}{section.1.1}
-\contentsline {section}{\numberline {1.2}Antarctic lakes}{2}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Ice-bound lakes}{2}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}Rock-bound lakes}{3}{subsection.1.2.2}
-\contentsline {section}{\numberline {1.3}Coastal oases}{3}{section.1.3}
-\contentsline {section}{\numberline {1.4}The Vestfold Hills, East Antarctica}{4}{section.1.4}
-\contentsline {subsection}{\numberline {1.4.1}Biology of the Vestfold Hills}{4}{subsection.1.4.1}
-\contentsline {section}{\numberline {1.5}Cultivation and microscopy-based Antarctic microbiology}{4}{section.1.5}
-\contentsline {subsection}{\numberline {1.5.1}Viruses}{4}{subsection.1.5.1}
-\contentsline {section}{\numberline {1.6}Molecular approaches used in Antarctic lake systems}{6}{section.1.6}
-\contentsline {section}{\numberline {1.7}Insights from Antarctic molecular studies}{7}{section.1.7}
-\contentsline {subsection}{\numberline {1.7.1}Bacterial diversity: adaptation to unique physical and chemical conditions}{7}{subsection.1.7.1}
-\contentsline {subsubsection}{Bacterial diversity defined by nutrients}{7}{section*.18}
-\contentsline {subsubsection}{Bacterial biogeography}{8}{section*.19}
-\contentsline {subsubsection}{Bacterial diversity of Lake Vostok}{8}{section*.21}
-\contentsline {subsection}{\numberline {1.7.2}\emph {Archaea}: methanogens and haloarchaea}{9}{subsection.1.7.2}
-\contentsline {subsection}{\numberline {1.7.3}\emph {Eucarya} perform multiple ecosystem roles}{10}{subsection.1.7.3}
-\contentsline {subsection}{\numberline {1.7.4}Functional gene studies of Antarctic lakes}{11}{subsection.1.7.4}
-\contentsline {subsection}{\numberline {1.7.5}Integrative studies to derive whole ecosystem function}{11}{subsection.1.7.5}
-\contentsline {section}{\numberline {1.8}Limitations of taxonomic surveys}{11}{section.1.8}
-\contentsline {section}{\numberline {1.9}`-omics' approaches}{11}{section.1.9}
-\contentsline {section}{\numberline {1.10}Objectives}{12}{section.1.10}
+\contentsline {section}{Co-authorship statement}{1}{section*.14}
+\contentsline {section}{\numberline {1.1}Antarctic lakes}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}The Vestfold Hills, East Antarctica}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}Molecular approaches used in Antarctic lake systems}{3}{section.1.3}
+\contentsline {section}{\numberline {1.4}Insights from Antarctic molecular studies}{5}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Salinity affects bacterial diversity}{5}{subsection.1.4.1}
+\contentsline {subsubsection}{Nutrients affect bacterial diversity}{6}{section*.19}
+\contentsline {subsubsection}{Bacterial biogeography}{6}{section*.20}
+\contentsline {subsubsection}{Bacterial diversity of Lake Vostok}{7}{section*.22}
+\contentsline {subsection}{\numberline {1.4.2}\emph {Archaea}: methanogens and haloarchaea}{7}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}\emph {Eucarya} perform multiple ecosystem roles}{8}{subsection.1.4.3}
+\contentsline {section}{\numberline {1.5}Limitations of taxonomic surveys}{9}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Functional gene studies of Antarctic lakes}{9}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}Integrative studies to derive whole ecosystem function}{10}{subsection.1.5.2}
+\contentsline {section}{\numberline {1.6}`-omics' approaches}{10}{section.1.6}
+\contentsline {section}{\numberline {1.7}Objectives}{10}{section.1.7}
 \contentsline {chapter}{\numberline {2}Development of methods to complement metagenomic analysis of Ace Lake}{13}{chapter.2}
-\contentsline {section}{Co-authorship statement}{13}{section*.23}
+\contentsline {section}{Co-authorship statement}{13}{section*.24}
 \contentsline {section}{\numberline {2.1}Abstract}{15}{section.2.1}
 \contentsline {section}{\numberline {2.2}Introduction}{15}{section.2.2}
 \contentsline {section}{\numberline {2.3}Materials and methods}{16}{section.2.3}
@@ -38,7 +31,7 @@
 \contentsline {subsection}{\numberline {2.4.3}Development of metaproteomic methodology}{22}{subsection.2.4.3}
 \contentsline {section}{\numberline {2.5}Conclusions}{24}{section.2.5}
 \contentsline {chapter}{\numberline {3}Virophage control of Antarctic algal host--virus dynamics}{25}{chapter.3}
-\contentsline {section}{Co-authorship statement}{25}{section*.51}
+\contentsline {section}{Co-authorship statement}{25}{section*.52}
 \contentsline {section}{\numberline {3.1}Abstract}{26}{section.3.1}
 \contentsline {section}{\numberline {3.2}Introduction}{27}{section.3.2}
 \contentsline {section}{\numberline {3.3}Materials and methods}{28}{section.3.3}
@@ -51,32 +44,32 @@
 \contentsline {subsection}{\numberline {3.3.7}Algal Host--Virus and Virophage Dynamics}{30}{subsection.3.3.7}
 \contentsline {section}{\numberline {3.4}Results and discussion}{31}{section.3.4}
 \contentsline {subsection}{\numberline {3.4.1}Dominance of phycodnaviruses in Organic Lake}{31}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Complete genome of an Organic Lake virophage}{32}{subsection.3.4.2}
-\contentsline {subsection}{\numberline {3.4.3}Gene exchange between virophage and phycodnaviruses}{34}{subsection.3.4.3}
-\contentsline {subsection}{\numberline {3.4.4}Virophage in algal host--phycodnavirus dynamics}{35}{subsection.3.4.4}
-\contentsline {subsection}{\numberline {3.4.5}Ecological relevance of virophages in aquatic systems}{35}{subsection.3.4.5}
-\contentsline {section}{\numberline {3.5}Acknowledgements}{36}{section.3.5}
-\contentsline {chapter}{\numberline {4}Strategies of carbon conservation and unusual sulphur biogeochemistry in a hypersaline Antarctic Lake}{37}{chapter.4}
-\contentsline {section}{\numberline {4.1}Abstract}{38}{section.4.1}
-\contentsline {section}{\numberline {4.2}Introduction}{39}{section.4.2}
-\contentsline {section}{\numberline {4.3}Materials and methods}{40}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Characteristics of the lake and sample collection}{40}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Physical and chemical analyses}{40}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}Epifluorescence microscopy}{41}{subsection.4.3.3}
-\contentsline {subsection}{\numberline {4.3.4}Cellular diversity analyses}{42}{subsection.4.3.4}
-\contentsline {subsection}{\numberline {4.3.5}Analysis of functional potential}{42}{subsection.4.3.5}
-\contentsline {section}{\numberline {4.4}Results and discussion}{46}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Abiotic properties and water column structure}{46}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Overall microbial diversity}{50}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.4.3}Variation of microbial composition according to size and depth}{53}{subsection.4.4.3}
-\contentsline {subsubsection}{20--3.0 \textmu {}m fraction community composition}{53}{section*.123}
-\contentsline {subsubsection}{3--0.8 \textmu {}m size fraction community composition}{55}{section*.124}
-\contentsline {subsubsection}{0.8--0.1 \textmu {}m size fraction community composition}{56}{section*.126}
-\contentsline {subsection}{\numberline {4.4.4}Organic Lake functional potential}{57}{subsection.4.4.4}
-\contentsline {subsection}{\numberline {4.4.5}Carbon resourcefulness in dominant heterotrophic bacteria}{57}{subsection.4.4.5}
-\contentsline {subsection}{\numberline {4.4.6}Regenerated nitrogen is predominant in the nitrogen cycle}{64}{subsection.4.4.6}
-\contentsline {subsection}{\numberline {4.4.7}Molecular basis for unusual sulphur chemistry}{67}{subsection.4.4.7}
-\contentsline {subsection}{\numberline {4.4.8}Conclusion}{77}{subsection.4.4.8}
-\contentsline {section}{\numberline {4.5}Acknowledgements}{78}{section.4.5}
-\contentsline {chapter}{\numberline {5}General discussion, conclusions and future work}{79}{chapter.5}
-\contentsline {chapter}{\numberline {6}Appendices}{93}{chapter.6}
+\contentsline {subsection}{\numberline {3.4.2}Complete genome of an Organic Lake virophage}{36}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Gene exchange between virophage and phycodnaviruses}{38}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Virophage in algal host--phycodnavirus dynamics}{40}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3.4.5}Ecological relevance of virophages in aquatic systems}{42}{subsection.3.4.5}
+\contentsline {section}{\numberline {3.5}Acknowledgements}{44}{section.3.5}
+\contentsline {chapter}{\numberline {4}Strategies of carbon conservation and unusual sulphur biogeochemistry in a hypersaline Antarctic Lake}{45}{chapter.4}
+\contentsline {section}{\numberline {4.1}Abstract}{46}{section.4.1}
+\contentsline {section}{\numberline {4.2}Introduction}{47}{section.4.2}
+\contentsline {section}{\numberline {4.3}Materials and methods}{48}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Characteristics of the lake and sample collection}{48}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Physical and chemical analyses}{48}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Epifluorescence microscopy}{49}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Cellular diversity analyses}{50}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}Analysis of functional potential}{50}{subsection.4.3.5}
+\contentsline {section}{\numberline {4.4}Results and discussion}{54}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Abiotic properties and water column structure}{54}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Overall microbial diversity}{58}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Variation of microbial composition according to size and depth}{61}{subsection.4.4.3}
+\contentsline {subsubsection}{20--3.0 \textmu {}m fraction community composition}{61}{section*.138}
+\contentsline {subsubsection}{3--0.8 \textmu {}m size fraction community composition}{63}{section*.139}
+\contentsline {subsubsection}{0.8--0.1 \textmu {}m size fraction community composition}{64}{section*.141}
+\contentsline {subsection}{\numberline {4.4.4}Organic Lake functional potential}{65}{subsection.4.4.4}
+\contentsline {subsection}{\numberline {4.4.5}Carbon resourcefulness in dominant heterotrophic bacteria}{65}{subsection.4.4.5}
+\contentsline {subsection}{\numberline {4.4.6}Regenerated nitrogen is predominant in the nitrogen cycle}{72}{subsection.4.4.6}
+\contentsline {subsection}{\numberline {4.4.7}Molecular basis for unusual sulphur chemistry}{75}{subsection.4.4.7}
+\contentsline {subsection}{\numberline {4.4.8}Conclusion}{85}{subsection.4.4.8}
+\contentsline {section}{\numberline {4.5}Acknowledgements}{86}{section.4.5}
+\contentsline {chapter}{\numberline {5}General discussion, conclusions and future work}{87}{chapter.5}
+\contentsline {chapter}{\numberline {6}Appendices}{101}{chapter.6}

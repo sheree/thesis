@@ -54,7 +54,7 @@ Low complexity Antarctic lake systems are amenable to whole community based mole
 Attesting to this, a metagenomic study of Lake Limnopolar, West Antarctica uncovered a dominance of eucaryotic viruses and ss\textsc{DNA} viruses previously unknown in aquatic systems (16). 
 
 We established a metaproteogenomic program for Organic Lake, which is located in the Vestfold Hills, East Antarctica, in order to functionally characterize its microbial community. 
-Organic Lake is a shallow (7 m) hypersaline ($\sim$230 g L$^{-1}$ maximum salinity) meromictic lake with a high concentration of \ac{DMS} ($\sim$120 \textmu{}g $^{-1}$) in its monimolimnion (17, 18). 
+Organic Lake is a shallow ($\sim$7 m) hypersaline ($\sim$230 g L$^{-1}$ maximum salinity) meromictic lake with a high concentration of \ac{DMS} ($\sim$120 \textmu{}g $^{-1}$) in its monimolimnion (17, 18). 
 Water temperature at the surface of the lake can vary from $-$14 to $+$15$^{\circ}$C while remaining sub-zero at depth (19, 20). 
 The lake is eutrophic, with organic material sourced both from autochthonous production and input from penguins and terrestrial algae. 
 The high concentrations of organic material reflect slow breakdown in the highly saline lake water. 
@@ -62,7 +62,7 @@ The salt in the lake was trapped along with the marine biota when the lake was f
 The lake sediment has both low species diversity (Shannon-Weaver diversity: 1.01) and richness (Chao non-parametric index: 32 $\pm$ 12) (23). 
 Unlike high latitude lakes, viral abundance has been reported to increase with trophic status (15) and with salinity in Antarctic lakes (24). 
 
-Here we report the analysis of the surface water of Organic Lake, highlighting the presence of a relative of the recently described Sputnik virophage, a small eucaryotic virus that requires a helper \ac{APMV} to replicate (25). 
+Here we report the analysis of the surface water of Organic Lake, highlighting the presence of a relative of the recently described Sputnik virophage, a small eucaryotic virus that requires a helper \ac{ApMV} to replicate (25). 
 From metagenomic \textsc{DNA}, a complete \ac{OLV} genome was constructed (the second virophage genome to be described), and near-complete genomes of its probable helper \ac{OLPV}.
 
 %------------------------------------------------------------------------------------------
@@ -92,12 +92,12 @@ The sample was visualised using a \textsc{JEOL1400} transmission electron micros
 Mosaic metagenomic assemblies were generated as previously described (1, 2). 
 For the 0.1 \textmu{}m Organic Lake 2006 sample, assembly was a hybrid of Sanger and 454 read data (Table S1). 
 For all other sample size fractions, runtime parameters used were standard for 454 sequencing data. 
-Low GC ($\ge$51\%) scaffolds $>$10 kb from the 0.1 \textmu{}m 2006 assembly had high coverage ($>$45 $\times$) indicating these were from the dominant taxa. 
+Low GC ($\ge$51\%) scaffolds $>$10 kbp from the 0.1 \textmu{}m 2006 assembly had high coverage ($>$45 $\times$) indicating these were from the dominant taxa. 
 One of these scaffolds was binned as virophage and the rest as \ac{PV}. 
 
 To further separate the \ac{OLPV} types and assess the completeness of their genomic content, highly conserved single copy PV orthologues were identified as follows. 
 An all against all \ac{BLAST}p search was conducted with protein sequences from the ten available \ac{PV} genomes 
-(\emph{Acanthocystis turfacea Chlorella} virus 1, PbCV-1, PbCV AR158, PbCV FR483, PbCV NY2A, \emph{Emiliania huxleyi} virus 86, \emph{Ectocarpus siliculosus} virus 1, \emph{Feldmannia} sp. virus, \emph{Ostreococcus} virus 5, \emph{Ostreococcus tauri} virus 1) and \ac{APMV} (which was included as a close \ac{PV} relative). 
+(\emph{Acanthocystis turfacea Chlorella} virus 1, PbCV-1, PbCV AR158, PbCV FR483, PbCV NY2A, \emph{Emiliania huxleyi} virus 86, \emph{Ectocarpus siliculosus} virus 1, \emph{Feldmannia} sp. virus, \emph{Ostreococcus} virus 5, \emph{Ostreococcus tauri} virus 1) and \ac{ApMV} (which was included as a close \ac{PV} relative). 
 \ac{BLAST}p results were parsed and clustered using \textsc{orthoMCL} V1.4 (3, 4). 
 
 Pairs of each orthologue were located on eight of the \ac{PV} scaffolds. 
@@ -136,12 +136,12 @@ To model the effect a virophage would have on algal \emph{Pyramimonas} algal hos
 The original equations are given by:
 
 \begin{equation}
-\frac{\mathrm{d}A}{\mathrm{d}t}=\alpha A - \varepsilon PA
+\frac{dA}{dt}=\alpha A - \varepsilon PA
 \label{eqn:lokprey}
 \end{equation}
 
 \begin{equation}
-\frac{\mathrm{d}P}{\mathrm{d}t}= \theta PA - \mu P
+\frac{dP}{dt}= \theta PA - \mu P
 \label{eqn:lokpred}
 \end{equation}
 
@@ -159,11 +159,11 @@ Equation \ref{eqn:lokprey} describes the change in \emph{Pyramimonas} abundance 
 In the presence of \ac{OLV}, \emph{Pyramimonas}, \ac{OLPV} and \ac{OLV} dynamics are described by the following equations:
 
 \begin{equation}
-\frac{\mathrm{d}P}{\mathrm{d}t}= \theta PA - \mu P - \omega PV
+\frac{dP}{dt}= \theta PA - \mu P - \omega PV
 \label{eqn:pred}
 \end{equation}
 \begin{equation}
-\frac{\mathrm{d}V}{\mathrm{d}t}=\beta PV - \gamma V
+\frac{dV}{dt}=\beta PV - \gamma V
 \label{eqn:viro}
 \end{equation}
 
@@ -177,7 +177,7 @@ Where:
 
 Equation \ref{eqn:pred} is a modified version of equation \ref{eqn:lokpred} which includes the effect of \ac{OLV} on the change in abundance of \ac{OLPV}.
 Equation \ref{eqn:viro} describes the growth properties of \ac{OLV} as a predator of \ac{OLPV}.
-Values for the variables for the solution shown (Fig. 4) were as follows: initial prey (10), predator (1) and predator of predator (10) numbers, ~$\alpha=$ 0.1, ~$\theta=$ 0.0015, ~$\varepsilon=$ 0.01, ~$\mu=$ 0.01, ~$\omega=$ 0.01, ~$\beta=$ 0.015 and ~$\gamma=$ 0.15. 
+Values for the variables for the solution shown \figref{fig:LV} were as follows: initial prey (10), predator (1) and predator of predator (10) numbers, ~$\alpha=$ 0.1, ~$\theta=$ 0.0015, ~$\varepsilon=$ 0.01, ~$\mu=$ 0.01, ~$\omega=$ 0.01, ~$\beta=$ 0.015 and ~$\gamma=$ 0.15. 
 COmplex PAthway Simulator (\textsc{COPASI}) software (11) was used to simulate prey, predator and predator of predator dynamics using the deterministic (\textsc{LSODA}) method.
 %-----------------------------------------------------------------------------------------
 
@@ -189,15 +189,17 @@ Water samples from Organic Lake were collected December 2006 and November and De
 A large proportion of shotgun sequencing reads (96.2\%) from the 0.1 \textmu{}m size fraction of the 2006 Organic Lake metagenome (Table S1) had no significant hits to sequences in the RefSeq database 
 (\textsc{tBLASTx} with e-value $<$1.0e$-$3, minimum alignment length: 60 bp, minimum identity: 60\%). 
 The degree of assembly was high, with 77\% of reads forming part of a scaffold, indicating the sample contained a few abundant taxa of minimal diversity. 
-Forty-five scaffolds were longer than 10 kb; the five longest ranged from 70 to 171 kb. 
-GC content and coverage were used to separate scaffolds into taxonomic groups (Fig. S1). 
+Forty-five scaffolds were longer than 10 kbp; the five longest ranged from 70 to 171 kbp. 
+GC content and coverage were used to separate scaffolds into taxonomic groups \figref{fig:olv_GC_plot}.
+\input{olv_figures/olv_GC_plot.tex} 
 A broad division was evident between low ($\le$41\%) and high ($\ge$51\%) GC scaffolds suggesting they constituted two taxonomic groups. 
 All scaffolds in the high GC group that could be assigned contained phage homologues, as did the one exceptional low GC scaffold. 
 The low coverage in the high GC group showed bacteriophages were not abundant in the 0.1 \textmu{}m fraction. 
 These scaffolds were not analyzed further. 
-The low GC scaffolds with confident assignments contained sequences matching conserved \ac{PV} or \ac{APMV} proteins. 
+The low GC scaffolds with confident assignments contained sequences matching conserved \ac{PV} or \ac{ApMV} proteins. 
 These \ac{PV}-related scaffolds comprised 60\% of assembled reads demonstrating that \acp{OLPV} were numerically dominant in the 0.1 \textmu{}m fraction. 
-\ac{TEM} revealed the presence of virus-like particles with the dimensions and structure typical of PVs (Fig. 1A).
+\ac{TEM} revealed the presence of virus-like particles with the dimensions and structure typical of PVs (\figreft{fig:TEM}A).
+\input{olv_figures/TEM.tex}
 
 Within the low GC group, scaffolds separated into a high coverage ($>$45$\times$) group, including the five longest scaffolds, and a low coverage ($<$22$\times$) group. 
 Two of the scaffolds in the high coverage group and one in the low coverage group contained the \ac{PV} marker \ac{DPOB}. 
@@ -205,90 +207,105 @@ The two high coverage \ac{DPOB} share 76\% amino acid identity and both share $\
 \ac{DPOB} is single-copy throughout the \ac{NCLDV} family to which \acp{PV} belong (26,27), 
 demonstrating that the Organic Lake surface waters contained two closely related abundant \ac{PV} types (\ac{DPOB}1) and (\ac{DPOB}2), and a more distantly related lower abundance type (\ac{DPOB}3). 
 
-Phylogenetic analysis clustered Organic Lake \ac{DPOB} with unclassified lytic marine \ac{PV} isolates that infect the prymnesiophytes \emph{Chrysochromulina ericina} (CeV1) and \emph{Phaeocystis pouchetii} (PpV),
- the prasinophyte \emph{Pyramimonas orientalis} (PoV) (4,28), and uncultured marine \acp{PV} related to \ac{APMV} (29, 30) \figref{fig:OLPV_full_dpo}. 
+Phylogenetic analysis clustered Organic Lake \ac{DPOB} with unclassified lytic marine \ac{PV} isolates that infect the prymnesiophytes \emph{Chrysochromulina ericina} (CeV1) and \emph{Phaeocystis pouchetii} (PpV), the prasinophyte \emph{Pyramimonas orientalis} (PoV) (4,28), and uncultured marine \acp{PV} related to \ac{ApMV} (29, 30) \figref{fig:OLPV_full_dpo}. 
 \input{olv_figures/OLPV_full_dpo.tex}
-As the host range of \acp{PV} broadly correlates with \ac{DPOB} phylogeny (31, 32), \ac{OLPV} would infect prasinophytes or prymnesiophytes. 
-The most probable host is the prasinophyte, \emph{Pyramimonas} (no prymnesiophyte 18S \ac{rRNA} gene sequences were present in any size fraction of the Organic Lake metagenome) (Fig. S3).
+As the host range of \acp{PV} broadly correlates with \ac{DPOB} phylogeny (31, 32), \acp{OLPV} would infect prasinophytes or prymnesiophytes. 
+The most probable host is the prasinophyte, \emph{Pyramimonas} as no prymnesiophyte 18S \ac{rRNA} gene sequences were present in any size fraction of the Organic Lake metagenome \figref{fig:18s}.
+\input{olv_figures/18s.tex}
 
 Supporting the presence of more than one \ac{PV}, pairs of single-copy \ac{PV} orthologues 
-(ribonucleotide reductase alpha and beta subunits, VV A32R virion packaging helicase, \textsc{PBCV1} A482R-like putative transcription factor, VV D5 ATPase and VLTF2 family transcription factor) 
+(ribonucleotide reductase \textalpha{} and \textbeta{} subunits, VV A32R virion packaging helicase, \textsc{PBCV1} A482R-like putative transcription factor, VV D5 ATPase and VLTF2 family transcription factor) 
 were identified in the high coverage scaffolds that shared an average of 81\% percent amino acid identity.
  Based on the positions of single copy genes on the scaffolds and the percent identity between them, the high coverage scaffolds were grouped into two strains designated \ac{OLPV}-1 and \ac{OLPV}-2 according to their \ac{DPOB} phylogeny \figref{fig:OLPV_full_dpo}.
- The remaining high coverage scaffolds were assigned to either strain, resulting in two near-complete genomes of $\sim$300 kb each (Fig. 2C), 
-that are within the range of other sequenced \ac{PV} genomes (155-407 kb). 
+ The remaining high coverage scaffolds were assigned to either strain, resulting in two near-complete genomes of $\sim$300 kbp each \figref{fig:OLPV_genome}, that are within the range of other sequenced \ac{PV} genomes (155--407 kbp). 
 In addition, several \ac{OLPV} genomic fragments contained \ac{PV} homologues in high coverage scaffolds that could not be confidently assigned to either strain. 
+\input{olv_figures/OLPV_genome.tex}
 
-Both \ac{OLPV} strains contain a PpV-like \ac{MCP} designated \ac{MCP}1 and another unique \ac{MCP} designated \ac{MCP}2 (Fig. 2B and Fig. S4). 
-Both \ac{OLPV} \ac{MCP}1s were identified in the metaproteome (Fig. 2C and Table S2) but \ac{MCP}2 was not. 
-In addition to \acp{MCP}, the metaproteome contained a range of abundant structural proteins and others more likely to be packaged in the virion (e.g. chaperone), that were expressed by \ac{OLPV}-1, \ac{OLPV}-2 and/or an \ac{OLPV} genomic fragment (Fig. 2C and Table S2). 
+Both \ac{OLPV} strains contain a PpV-like \ac{MCP} designated \ac{MCP}1 and another unique \ac{MCP} designated \ac{MCP}2 \figref{fig:OLPV_full_mcp}.
+\input{olv_figures/OLPV_full_mcp.tex}
+Both \ac{OLPV} \ac{MCP}1s were identified in the metaproteome (\figreft{fig:OLPV_genome} and Table S2) but \ac{MCP}2 was not. 
+In addition to \acp{MCP}, the metaproteome contained a range of abundant structural proteins and others more likely to be packaged in the virion (e.g. chaperone), that were expressed by \ac{OLPV}-1, \ac{OLPV}-2 and/or an \ac{OLPV} genomic fragment (Table S2). 
 These data suggest that \ac{MCP}1 is the major structural protein, and that both \ac{OLPV}-1 and \ac{OLPV}-2 were in a productive cycle in the lake at the time of sampling. 
 
 \subsection{Complete genome of an Organic Lake virophage}
-Sputnik is a small (50 nm) icosahedral satellite virus of Mamavirus (a new strain of \ac{APMV}). 
-It was termed a ``virophage'' because co-infection with Sputnik is deleterious to the Mamavirus, resulting in abnormal virions and a decrease in Mamavirus infectivity (25). 
-One 28 kb scaffold in the low GC high coverage group had six out of 38 predicted proteins homologous to Sputnik virophage proteins (Fig. 3 and Table S3), and one \ac{PV} homologue. 
-The scaffold had a low GC content (~$\sim$30\%), similar to the Sputnik genome, and was larger in size (28 kb vs 18 kb for Sputnik). 
-Using \ac{PCR} and sequencing, the scaffold was found to represent a complete circular virophage genome (the Sputnik genome is also circular). Virus-like particles resembling Sputnik in size and morphology were identified by \ac{TEM} (Fig. 1B).
+Sputnik is a small (50 nm) icosahedral satellite virus of mamavirus (a new strain of \ac{ApMV}). 
+It was termed a virophage because co-infection with Sputnik is deleterious to the mamavirus, resulting in abnormal virions and a decrease in mamavirus infectivity (25). 
+One 28 kbp scaffold in the low GC high coverage group had six out of 38 predicted proteins homologous to Sputnik virophage proteins (\figreft{fig:OLV_genome} and Table S3), and one \ac{PV} homologue. 
+The scaffold had a low GC content ($\sim$30\%), similar to the Sputnik genome, and was larger in size (28 kbp vs 18 kbp for Sputnik). 
+Using \ac{PCR} and sequencing, the scaffold was found to represent a complete circular virophage genome.
+This shows the Organic Lake genome has the same circular topology as the Sputnik genome. 
+Virus-like particles resembling Sputnik in size and morphology were identified by \ac{TEM} (\figreft{fig:TEM}B).
+\input{olv_figures/OLV_genome.tex}
 
-Sputnik homologues present in the Organic Lake scaffold included the V20 \ac{MCP}, V3 \textsc{DNA} packaging \textsc{ATP}ase, V13 putative \textsc{DNA} polymerase/primase and others of unknown function (V9, V18, V21 and V32) (Fig. 3 and Table S3). 
+Sputnik homologues present in the Organic Lake scaffold included the V20 \ac{MCP}, V3 \textsc{DNA} packaging \textsc{ATP}ase, V13 putative \textsc{DNA} polymerase/primase and others of unknown function (V9, V18, V21 and V32) (\figreft{fig:OLV_genome} and Table S3). 
 The \ac{OLV} is distinct to Sputnik as proteins share 27--42\% amino acid identity (28\% \ac{MCP} identity). 
-\ac{OLV} proteins include OLV9, the homologue of Sputnik V20 \ac{MCP}, and OLV8, a fusion of the uncharacterised V18 and minor virion protein V19 from Sputnik (Fig. 3 and Table S3). 
+\ac{OLV} proteins include OLV9, the homologue of Sputnik V20 \ac{MCP}, and OLV8, a fusion of the uncharacterised V18 and minor virion protein V19 from Sputnik (\figreft{fig:OLV_genome} and Table S3). 
 The large number of homologues, including genes that fulfill essential functions in Sputnik (V20, V3 and V13), indicate that \ac{OLV} and Sputnik have physiological similarities. 
 
 \subsection{Gene exchange between virophage and phycodnaviruses}
 
-As \acp{PV} are related to \ac{APMV} (27) and are abundant in Organic Lake, it stands to reason that \ac{OLPV} is the helper of \ac{OLV}. 
-In the \ac{OLV} genome, OLV12 is a \emph{Chlorella} virus-derived gene, indicating that gene exchange has occurred between \ac{OLV} and \acp{PV} (the function of OLV12 is discussed below). %put in link
-Similar observations were made for Sputnik, which carries four genes (V6, V7, V12 and V13) in common with the Mamavirus, indicative of gene exchange between the viruses and possible co-evolution (25). 
+As \acp{PV} are related to \ac{ApMV} (27) and are abundant in Organic Lake, it stands to reason that \ac{OLPV} is the helper of \ac{OLV}. 
+In the \ac{OLV} genome, OLV12 is a chlorella virus-derived gene, indicating that gene exchange has occurred between \ac{OLV} and \acp{PV} (the function of OLV12 is discussed below). %put in link
+Similar observations were made for Sputnik, which carries four genes (V6, V7, V12 and V13) in common with the mamavirus, indicative of gene exchange between the viruses and possible co-evolution (25). 
 As the V6, V7, V12 and V13 proteins have been associated with virophage--helper specificity, we reasoned that the functional analogues in \ac{OLV} would have highest identity to proteins from its helper virus, rather than Sputnik. 
 
-By comparing \ac{OLV} and \ac{OLPV}, a 7,408 bp region was identified in \ac{OLV} encoding five proteins (OLV17-22) with identity (32--65\%) to sequences in both \ac{OLPV}-1 and \ac{OLPV}-2 (Fig. 2C, Fig. S5 and Table S3). 
-OLV20 and OLV13 are collagen triple-helix-repeat-containing proteins, analogous to Sputnik collagen-like proteins (V6 and V7) involved in protein--protein interactions in the \ac{APMV} virus factory. 
-Sputnik can replicate with either Mamavirus or \ac{APMV} as a helper, although coinfection rates are higher with the Mamavirus. 
-V6 is the only protein with higher identity (69\%) to Mamavirus than \ac{APMV} (42\%) (25). 
+By comparing \ac{OLV} and \ac{OLPV}, a 7,408 bp region was identified in \ac{OLV} encoding five proteins (OLV17--22) with identity (32--65\%) to sequences in both \ac{OLPV}-1 and \ac{OLPV}-2 (\figreft{fig:OLPV_genome}, \figreft{fig:OLV_OLPV_compare} and Table S3). 
+\input{olv_figures/OLV_OLPV_compare.tex}
+OLV20 and OLV13 are collagen triple-helix-repeat-containing proteins, analogous to Sputnik collagen-like proteins (V6 and V7) involved in protein--protein interactions in the \ac{ApMV} virus factory. 
+Sputnik can replicate with either mamavirus or \ac{ApMV} as a helper, although coinfection rates are higher with the mamavirus. 
+V6 is the only protein with higher identity (69\%) to mamavirus than \ac{ApMV} (42\%) (25). 
 Since OLV20 has equivalent identity (63\%) with \ac{OLPV}-1 and \ac{OLPV}-2, it appears that \ac{OLV} may be capable of interacting with both \ac{OLPV} strains. 
 Also within the conserved region, OLV22, is a 141 aa protein of unknown function that only matches sequences from \ac{OLPV} and the \ac{GOS} expedition (Table S3). 
-Similar to OLV22, Sputnik V12 is a small protein (152 aa) of unknown function with high identity to \ac{APMV}, and both may mediate a specific helper--virophage interaction. 
+Similar to OLV22, Sputnik V12 is a small protein (152 aa) of unknown function with high identity to \ac{ApMV}, and both may mediate a specific helper--virophage interaction. 
 Other genes in this region of \ac{OLV} can be mapped to \ac{OLPV}, including a putative transmembrane protein (OLV17) and paralogous phage tail fibre repeat containing proteins, OLV18 and OLV19. 
 Analogous to the collagen-like proteins, OLV19 and OLV20 probably facilitate interactions between helper and virophage. 
 
-OLV12 (which is unique to \ac{OLV}) consists of a C-terminal domain present in conserved hypothetical \emph{Chlorella} virus proteins and an N-terminal domain most closely related to class 3 lipases that may confer \ac{OLV} selectivity to a \ac{PV}. 
-OLV12 may function similarly to the Sputnik V15 membrane protein in modifying the \ac{APMV} membrane (25). 
+OLV12, which is unique to \ac{OLV}, consists of a C-terminal domain present in conserved hypothetical chlorella virus proteins and an N-terminal domain most closely related to class 3 lipases that may confer \ac{OLV} selectivity to a \ac{PV}. 
+OLV12 may function similarly to the Sputnik V15 membrane protein in modifying the \ac{ApMV} membrane (25). 
 The Sputnik V13 consists of a primase domain and SF3 helicase domain related to \ac{NCLDV} homologues, involved in \textsc{DNA} replication. 
 The helicase domain of OLV25 and V13 are similar, although the primase domain is more similar to a protein from \emph{Ostreococcus lucimarinus}, implying a past association of \ac{OLV} with a prasinophyte alga host. 
 
-Genes unique to \ac{OLV} point to adaptations specific to its helper-host system. 
+Genes unique to \ac{OLV} point to adaptations specific to its helper--host system. 
 Most notably, \ac{OLV} possesses a N6 adenine-specific \textsc{DNA} methyltransferase, as does \ac{OLPV}. 
 In \ac{OLPV}-1, genes for a bacterial type I \ac{RM} system are adjacent to a gene encoding a type I methylase-S target recognition domain protein, and upstream of a \textsc{DNA} helicase distantly related to type III \ac{RE} subunits. 
-A large number of \emph{Chlorella} virus genomes have both 5mC and 6mA methylation (33), and several contain functional \ac{RM} systems (34). 
-The prototype \emph{Chlorella} virus PbCV-1 possesses REs packaged in the virion for degrading host \textsc{DNA} soon after infection (35). 
-In contrast to \ac{OLV} and \ac{OLPV}, \textsc{DNA} methyltransferases are absent in both Sputnik and \textsc{APMV}, indicating that the N6 adenine-specific \textsc{DNA} methyltransferase has been selected in \ac{OLV} to reduce endonucleolytic attack mediated by \ac{OLPV}. 
+A large number of chlorella virus genomes have both 5mC and 6mA methylation (33), and several contain functional \ac{RM} systems (34). 
+The prototype chlorella virus PbCV-1 possesses REs packaged in the virion for degrading host \textsc{DNA} soon after infection (35). 
+In contrast to \ac{OLV} and \ac{OLPV}, \textsc{DNA} methyltransferases are absent in both Sputnik and \textsc{ApMV}, indicating that the N6 adenine-specific \textsc{DNA} methyltransferase has been selected in \ac{OLV} to reduce endonucleolytic attack mediated by \ac{OLPV}. 
 
 \subsection[Virophage in algal host--phycodnavirus dynamics]{Role of virophage in algal host--phycodnavirus dynamics}
 The presence of the virophage adds an additional consideration to the microbial loop dynamics. 
-In batch amoeba cultures, co-infection of amoeba with \ac{APMV} and Sputnik causes a 70\% decrease in infective \ac{APMV} particles and a 3-fold decrease in lysis (25). 
-To test how \ac{OLV} affects \ac{OLPV} and host population dynamics, we modelled the \ac{OLV} as an additional predator of a predator in a Lotka-Volterra simulation (Fig. 4). 
-In the model, the effect of virophage is robust, with equilibrium solutions across a wide range of parameter values (Fig. 4 shows one equilibrium solution). 
-By decreasing the number of infective \acp{OLPV}, the presence of \ac{OLV} shortens the recovery time of the host population (Fig. 4C) and shifts the orbit away from the axis (Fig. 4D). 
+In batch amoeba cultures, co-infection of amoeba with \ac{ApMV} and Sputnik causes a 70\% decrease in infective \ac{ApMV} particles and a 3-fold decrease in lysis (25). 
+To test how \ac{OLV} affects \ac{OLPV} and host population dynamics, we modelled the \ac{OLV} as an additional predator of a predator in a Lotka-Volterra simulation \figref{fig:LV}.
+ 
+The classic Lotka-Volterra model \cite{Lotka1910} is based on a pair of first-order, non-linear, differential equations that can be used to describe the periodic oscillation of the populations of a predator and its prey \cite{Volterra1926}. 
+An example of how predator (virus) populations follows that of its prey (host) populations over time is shown in \figreft{fig:LV}A where the populations are at equilibrium.
+The extended model shown (\figreft{fig:LV}C) is based on three equations describing the host (prey), virus (predator) and virophage (predator of predator) interactions. 
+In this model, the effect of virophage is robust, with equilibrium solutions across a wide range of parameter values (\figreft{fig:LV}C shows one equilibrium solution).
+It shows the virus population following that of it host and the virophage population in turn following that of its helper virus or ``host''. While the absolute number of hosts do not increase greatly as a result of \ac{OLV} preying on \ac{OLPV}, the frequency of host blooms increases in the presence of \ac{OLV}. 
+\input{olv_figures/LV.tex}
+This is due to \ac{OLV} decreasing the number of infective \acp{OLPV}, thereby shortening the recovery time of the host population (\figreft{fig:LV}C).
+This is evident in the orbit plot (\figreft{fig:LV}D) as the shift of the orbit away from the axis. 
+
 The model reveals that the virophage stimulates the flux of secondary production through the microbial loop by reducing overall mortality of the host algal cell following a bloom, and by increasing the frequency of blooms during the summer light periods. 
 Antarctic lake systems have evolved mechanisms to cope with long light-dark cycles (14) and shortened trophic chains. 
 In Organic Lake and similar systems, a decrease in \ac{PV} virulence may be instrumental in maintaining stability of the microbial food web. 
+In other words, the increased turnover in the microbial loop during the extended light periods of the polar summer may help to maintain microbial populations in the lake.
 
 \subsection{Ecological relevance of virophages in aquatic systems}
-Metagenomic analysis of Organic Lake samples taken two years later in November (when the lake was ice covered) and December 2008 (partially ice-free) revealed sequences with 99\% amino acid identity to \ac{OLV} \ac{MCP} indicating persistence of \ac{OLV} in the ecosystem (Fig. 5 and Table S4). 
+Metagenomic analysis of Organic Lake samples taken two years later in November (when the lake was ice covered) and December 2008 (partially ice-free) revealed sequences with 99\% amino acid identity to \ac{OLV} \ac{MCP} indicating persistence of \ac{OLV} in the ecosystem (\figreft{fig:OLV_time} and Table S4). 
 In addition, sequences with lower identity (25--90\%) were detected, particularly in December, demonstrating Organic Lake virophages are highly diverse but \ac{OLV} remained the dominant type. 
-
-From surface water samples of nearby Ace Lake (meromictic, surface 2\% salinity), a large number of sequences were obtained that matched both the \ac{OLV} \ac{MCP} (Fig. 5 and Table S4) and PVs (14). 
-All Ace Lake size fractions contained matches to \ac{OLV} \ac{MCP}, some with high identity (80--100\%) and the majority with greater variation (25--80\% identity) (Fig. 5 and Table S4). 
-In contrast to Organic Lake where the largest number of matches was to the 0.1 \textmu{}m size fraction, the majority of Ace Lake sequences were from the larger fractions (Fig. 5 and Table S4). 
+\input{olv_figures/OLV_time.tex}
+From surface water samples of nearby Ace Lake (meromictic, surface 2\% salinity), a large number of sequences were obtained that matched both the \ac{OLV} \ac{MCP} (\figreft{fig:OLV_time}, \figreft{fig:OLV_phylogeny} and Table S4) and \acp{PV} (14). 
+All Ace Lake size fractions contained matches to \ac{OLV} \ac{MCP}, some with high identity (80--100\%) and the majority with greater variation (25--80\% identity) (\figreft{fig:OLV_phylogeny} and Table S4). 
+In contrast to Organic Lake where the largest number of matches was to the 0.1 \textmu{}m size fraction, the majority of Ace Lake sequences were from the larger fractions (\figreft{fig:OLV_time} and Table S4). 
 This indicates the Ace Lake virophages were associated with host cells during sampling, or possibly with helper viruses that are larger than the \acp{OLPV}. 
+\input{olv_figures/OLV_phylogeny.tex}
 
 Extending the \ac{OLV} \ac{MCP} search to the \ac{GOS} data revealed matches (25--28\% identity) to sequences from the hypersaline Punta Cormorant Lagoon (Floreana Island, Galapagos), an oceanic upwelling near Fernandina Island (Galapagos), Delaware Bay estuary (\textsc{NJ}, \textsc{USA}), and freshwater Lake Gatun (Panama) (Table S4). 
-The phylogenetic analysis of a conserved 103 amino acid region of the \acp{MCP} revealed a number of clusters, with Sputnik clustering with virophage sequences from Ace Lake that had low identity (22\%) to \ac{OLV} \ac{MCP} (Fig. 5 and Fig. S4). 
+The phylogenetic analysis of a conserved 103 amino acid region of the \acp{MCP} revealed a number of clusters, with Sputnik clustering with virophage sequences from Ace Lake that had low identity (22\%) to \ac{OLV} \ac{MCP} \figref{fig:OLV_phylogeny}. 
 To improve searches for virophages and better understand their physiology and evolution, it will be valuable to target more genomes (e.g. the Ace Lake 167858124 relative with 40\% MCP identity to Sputnik) and determine which genes are core to virophages and what relationship exists between genome complement and \ac{MCP} identity.
  
-In view of the implications of the virophage modelling (Fig. 4), the abundance and persistence of \ac{OLV} in Organic Lake (Fig. 5, Table S4), and the presence of diverse virophage signatures in a variety of lake systems (fresh to hypersaline), an estuary, an ocean upwelling site and a water cooling tower (Sputnik), our study indicates that numerous types of virophages exist and play a previously unrecognised role in regulating host--virus interactions and influencing ecosystem function in aquatic environments. 
+In view of the implications of the virophage modelling \figref{fig:LV}, the abundance and persistence of \ac{OLV} in Organic Lake and the presence of diverse virophage signatures in a variety of lake systems (fresh to hypersaline), an estuary, an ocean upwelling site and a water cooling tower (Sputnik), our study indicates that numerous types of virophages exist and play a previously unrecognised role in regulating host--virus interactions and influencing ecosystem function in aquatic environments. 
 
 %------------------------------------------------------------------------------------------------------
 
