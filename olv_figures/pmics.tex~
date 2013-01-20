@@ -1,23 +1,13 @@
 \begingroup
+\begin{table}
 \footnotesize
-\begin{longtable}{p{1.3cm}p{1.2cm}p{1cm}p{2cm}p{4.7cm}p{0.6cm}p{1cm}}
 \caption[OLPV and OLV proteins identified in the metaproteome]{OLPV and OLV proteins identified in the December 2006 0.1 \textmu{}m size fraction metaproteome. Peptide sequences by which the proteins were identified are shown in Appendix \tabreft{tab:peptides}. NSA, normalised spectral abundance; Acc, GenBank accession; Desc., description; Cov., coverage.}
 \label{tab:pmics}
-\\
+\smallskip
+\begin{tabularx}{\textwidth}{p{1.3cm}p{1.2cm}p{1cm}p{2cm}p{4.7cm}p{0.6cm}p{1cm}}
 \toprule
 \textbf{Gene ID} & \textbf{Source} & \textbf{NSA} & \textbf{Acc.} & \textbf{Desc.} & \textbf{Cov. (\%)} & \textbf{No. pep. (unique)} \\
 \midrule
-\endfirsthead
-\multicolumn{7}{c}
-{\tablename\ \thetable\ -- \textit{Continued from previous page}} \\
-\toprule
-\textbf{Gene ID} & \textbf{Source} & \textbf{NSA} & \textbf{Acc.} & \textbf{Desc.} & \textbf{Cov. (\%)} & \textbf{No. pep. (unique)} \\
-\midrule
-\endhead
-\bottomrule \multicolumn{7}{r} {\textit{Continued on next page}} \\
-\endfoot
-\bottomrule
-\endlastfoot
 162322530 & OLPV-1 & 0.000661 & A7U6F0 & Major capsid protein & 33 & 15 (4) \\
  &  &  &  & [\emph{Phaeocystis pouchetii} virus] &  & \\
 162322348 & OLPV-1 & 0.000120 & - & - & 11.3 & 2 (2) \\
@@ -33,14 +23,19 @@
  &  &  &  & \emph{bursaria} chlorella virus 1] & &  \\
 162300108 & OLPV-2 & 0.000046 & ZP\_01471812 & BNR containing hypothetical protein RS9916\_28494 & 7.66 & 5 (5) \\
  &  &  &  & [\emph{Synechococcus} sp. RS9916] &  &  \\
-162319393 & OLPV-2 & 0.000016 & A7U6F0 & Major capsid protein [\emph{Phaeocystis pouchetii} virus] & 26.3 & 13 (2) \\
-162300134 & OLPV-1/2 & 0.00010 & AAR21578 & Heat shock protein 70 [\emph{Phytophthora nicotianae}] & 6.97 & 3 (3) \\
+162319393 & OLPV-2 & 0.000016 & A7U6F0 & Major capsid protein & 26.3 & 13 (2) \\
+ &  &  &  & [\emph{Phaeocystis pouchetii} virus] &  &  \\
+162300134 & OLPV-1/2 & 0.00010 & AAR21578 & Heat shock protein 70 & 6.97 & 3 (3) \\
+ &  &  &  & [\emph{Phytophthora nicotianae}] &  &  \\
 162286324 & OLPV & 0.000176 & NP\_048575 & Hypothetical protein & 14.7 & 2 (2) \\
  &  &  &  & PBCV1\_A227L [\emph{Paramecium} &  &  \\
  &  &  &  & \emph{bursaria} chlorella virus 1] &  &  \\
-OLV9 & OLV & 0.001681 & YP\_002122381 & Capsid protein V20 [Sputnik virophage] & 31.1 & 15 (15) \\
-OLV8 & OLV & 0.000334 & YP\_002122379/ & N-term: hypothetical protein V18 [Sputnik virophage]   & 19.1 & 8 (8) \\
+OLV9 & OLV & 0.001681 & YP\_002122381 & Capsid protein V20 & 31.1 & 15 (15) \\
+ &  &  &  & [Sputnik virophage] &  &  \\
+OLV8 & OLV & 0.000334 & YP\_002122379 & N-term: hypothetical protein V18 [Sputnik virophage]   & 19.1 & 8 (8) \\
  &  &  & YP\_002122380 &  C-term: minor capsid protein V19 [Sputnik virophage]  &  &  \\
-\end{longtable}
+\bottomrule
+\end{tabularx}
+\end{table}
 \endgroup
 
