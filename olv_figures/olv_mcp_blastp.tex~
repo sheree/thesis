@@ -1,0 +1,31 @@
+\begingroup
+\begin{table}
+\footnotesize
+\caption[]{ \textsc{BLASTp} matches for \ac{OLV} \ac{MCP} in predicted \acp{ORFs} of Organic Lake and Ace Lake contigs and \ac{CAMERA} metagenomic reads \ac{ORF} peptide database. (E-value cut-off 1e$-$5, alignment length $>$100aa). Aln., alignment length; Cov., coverage.}
+\label{tab:olv_mcp_blastp}
+\smallskip
+\begin{tabularx}{\textwidth}{p{3.5cm}p{0.5cm}p{1.5cm}Xp{0.5cm}p{0.5cm}p{1cm}p{0.8cm}}
+\toprule
+\textbf{Sample} & \textbf{Size (\textmu{}m)} & \textbf{GeneID} & \textbf{Scaffold ID} & \textbf{Id. (\%)} & \textbf{Aln. (aa)} & \textbf{E-value} & \textbf{Cov. ($\times$)} \\
+\midrule
+Organic Lake December 2006 & 0.1 & OLV9 & - & - & - & - & 77.12 \\
+ & 0.8 & 176157210 & scf7180000034275 & 98.61 & 575 & 0.0 & 16.03 \\
+ & 3.0 & 181703798 & deg7180000108904 & 98.96 & 575 & 0.0 & 48.65 \\
+
+Organic Lake November 2008 & 0.1 & 192841413 & deg7180000116398 & 99.64 & 555 & 0.0 & 16.03 \\
+ & 0.8 & 193037024 & scf7180000086663 & 93.98 & 133 & 2e-61 & 2.5 \\
+ & 3.0 & 192638971 & deg7180000028400 & 99.36 & 156 & 1e-76 & 1.86 \\
+ &  & 192955191 & deg7180000024244 & 93.98 & 133 & 1e-61 & 3.10 \\
+
+Organic Lake December 2008 & 0.1 & 192709908 & scf7180000109753 & 99.01 & 304 & 9e-173 & 4.38 \\
+ &  & 192709920 & scf7180000109753 & 99.59 & 244 & 1e-120 & 4.38 \\
+ &  & 192712009 & deg7180000067104 & 54.70 & 117 & 3e-30 & 1.58 \\
+ &  & 192890551 & deg7180000061276 & 36.89 & 122 & 2e-13 & 3.15 \\
+ & 0.8 & 193060302 & deg7180000053149 & 53.75 & 160 & 6e-43 & 2.30 \\
+ & 3.0 & - & - & - & - & - & - \\
+
+\bottomrule
+\end{tabularx}
+\end{table}
+\endgroup
+

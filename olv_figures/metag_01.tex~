@@ -3,9 +3,10 @@
 \caption[Summary of metagenomic data for Organic Lake 0.1 \textmu{}m samples used in this study]{Summary of metagenomic data for Organic Lake 0.1 \textmu{}m fraction samples used in this study. SCF, scaffolds.}
 \label{tab:metag_01}
 \smallskip
-\begin{tabularx}{\textwidth}{p{0.8cm}p{2.5cm}p{2.5cm}p{2.5cm}p{2.5cm}}
+\begin{tabularx}{\textwidth}{p{0.8cm}p{2.4cm}p{2.8cm}p{2.8cm}X}
 \toprule
-\textbf{ID} & \textbf{Date} & \textbf{Trimmed reads} & \textbf{SCFs $>$10 kbp (reads in SCFs)} & \textbf{Annotated \acp{ORF} from SCFs (total \acp{ORF})}\\
+\textbf{ID} & \textbf{Date} & \textbf{Trimmed reads} & \textbf{SCFs $>$10 kbp} & \textbf{Annotated \acp{ORF} in}\\
+ &  &  & \textbf{(reads in SCFs)} & \textbf{SCFs (total \acp{ORF})}\\
 \midrule
 GS233 & December 2006 & 418,265 & 45 (221,573) & 7,318 (21,961)\\
  &  & (Sanger: 28,481, 454: 389,784) &  & \\
