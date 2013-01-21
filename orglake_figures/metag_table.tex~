@@ -1,12 +1,15 @@
 \begin{table}
 \footnotesize
-\caption[Summary of metagenomic data for Organic Lake profile]{Summary of metagenomic data for Organic Lake November 2008 profile. scf, scaffolds.}
+\caption[Summary of metagenomic data for Organic Lake profile]{Summary of metagenomic data for Organic Lake November 2008 profile.}
 \label{tab:metag}
 \smallskip
 \begin{tabularx}{\textwidth}{p{0.7cm}p{0.8cm}p{0.6cm}p{1.2cm}p{1.8cm}Xp{1.8cm}X}
-\hline
-\textbf{ID} & \textbf{Depth (m)} & \textbf{Size (\textmu{}m)} & \textbf{Trimmed reads} & \textbf{Predicted \acp{ORF} (\%\ac{KEGG} matches)} & \textbf{Scaffolds (reads)} & \textbf{Scaffolds $>$10 kbp (reads)} & \textbf{Annotated scf \acp{ORF} (total scf \acp{ORF})} \\
-\hline
+\toprule
+\textbf{ID} & \textbf{Depth} & \textbf{Size}         & \textbf{Trimmed}      & \textbf{Predicted} & \textbf{Scaffolds} & \textbf{$>$10 kbp} & \textbf{Annotated} \\
+            & \textbf{(m)}   & \textbf{(\textmu{}m)} & \textbf{reads}        & \textbf{\acp{ORF}} & \textbf{(reads)}   & \textbf{scaffolds} & \textbf{scaffold} \\
+            &                &                       & (\textbf{\%\ac{KEGG}} & \textbf{Scaffolds} &                    & \textbf{(reads)}   & \textbf{\acp{ORF} (total} \\
+            &                &                       & \textbf{matches)}     & \textbf{(reads)}   &                    &                    & \textbf{ \acp{ORF}) } \\
+\midrule
 GS374 & 1.7 & 0.1 & 494,573 & 533,468 (31) & 4,318 (63,194) & 5 (771) & 33,262 (83,684)\\
  &  & 0.8 & 472,635 & 470,949 (52) & 4,161 (126,519) & 68 (17,061) & 37,857 (63,140)\\
  &  & 3.0 & 158,121 & 158,573 (50) & 2,584 (39,591) & 4 (520) & 18,126 (28,425)\\
@@ -22,6 +25,6 @@ GS377 & 6.5 & 0.1 & 497,363 & 572,892 (29) & 5,029 (80,520) & 14 (2,711) & 36,68
 GS378 & 6.7 & 0.1 & 516,870 & 586,375 (26) & 3,694 (58,618) & 14 (3,422) & 33,243 (96,334)\\
  &  & 0.8 & 548,253 & 626,115 (57) & 6,957 (161,202) & 136 (32,889) & 56,452 (88,738)\\
  &  & 3.0 & 202,310 & 219,992 (58) & 2,304 (66,389) & 57 (11,167) & 22,786 (35,034)\\
-\hline
+\bottomrule
 \end{tabularx}
 \end{table}

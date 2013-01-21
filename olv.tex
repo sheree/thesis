@@ -70,14 +70,9 @@ From metagenomic \textsc{DNA}, a complete \ac{OLV} genome was constructed (the s
 \section{Materials and methods}
 
 \subsection{Samples and DNA sequencing}
-Water samples collected from Organic Lake were: 
-
-\begin{enumerate}
-\item Surface water from the eastern side of the ice-free lake (68$^{\circ}$27$'$25.48$''$S, 78$^{\circ}$11$'$28.06$''$E) December 24, 2006.
-\item A depth profile collected through a 30 cm hold drilled through the surface ice above the deepest point in the lake (68$^{\circ}$27$'$22.15$''$S, 78$^{\circ}$11$'$23.95$''$E), November 10, 2008. 
-\item surface water from the north-east side of the partially ice-covered lake (68$^{\circ}$27$'$21.02$''$S, 78$^{\circ}$11$'$42.42$''$E), December 12, 2008. 
-\end{enumerate}
-
+Water samples collected from Organic Lake were: 1) Surface water from the eastern side of the ice-free lake (68$^{\circ}$27$'$25.48$''$S, 78$^{\circ}$11$'$28.06$''$E) December 24, 2006.
+2) A depth profile collected through a 30 cm hold drilled through the surface ice above the deepest point in the lake (68$^{\circ}$27$'$22.15$''$S, 78$^{\circ}$11$'$23.95$''$E), November 10, 2008. 
+3) Surface water from the north-east side of the partially ice-covered lake (68$^{\circ}$27$'$21.02$''$S, 78$^{\circ}$11$'$42.42$''$E), December 12, 2008. 
 Samples were sequentially filtered through a 20 \textmu{}m pre-filter and biomass captured onto 3.0, 0.8 and 0.1 \textmu{}m membrane filters as described previously (1, 2). 
 The samples from 2008 also included 50\% (v/v) \textsc{RNA}later. 
 DNA extraction, sequencing and quality validation was performed as previously described (1, 2). 
@@ -86,7 +81,7 @@ DNA sequencing was performed at the J. Craig Venter Institute in Rockville, \tex
 \subsection{Transmission electron microscopy}
 Unfiltered Organic Lake surface water from December 24, 2006 (fixed on-site in 1\% (v/v) formalin) was concentrated and a solvent exchange performed with sterile filtered ammonium acetate solution 1\% (w/v) using a 50 kDa cut-off Microcon centrifugal filter device (Millipore) according to the manufacturer’s instructions. 
 Formvar coated 200 mesh copper grids were floated on a droplet of sample for 30 min, excess liquid wicked off and the grid negatively stained for 30 s with uranyl acetate 2\% (w/v). 
-The sample was visualised using a \textsc{JEOL1400} transmission electron microscope at 100 kV at 150,000 to 250,000 $\times$ magnification.
+The sample was visualised using a \textsc{JEOL1400} transmission electron microscope at 100 kV at 150,000 to 250,000$\times$ magnification.
 
 \subsection{Metagenomic assembly and annotation}
 Mosaic metagenomic assemblies were generated as previously described (1, 2). 
@@ -111,7 +106,8 @@ Comparison of \ac{OLPV}-1 and \ac{OLPV}-2 scaffolds was performed using \textsc{
 \subsection[Genome completion and annotation]{Organic Lake virophage genome completion and annotation}
 The high coverage (77$\times$), large number of Sputnik homologues that encode essential functions and length of the putative \ac{OLV} scaffold from the 0.1 \textmu{}m 2006 hybrid assembly indicated it was a near-complete genome. 
 Reads from this scaffold were reassembled at high stringency and visualised using \textsc{Phred/Phrap/Consed} (6) to complete the sequence. 
-Mate-pair data indicated a circular molecule and primers were designed to span the ends of the scaffold and sequence across the gap (Table S5). 
+Mate-pair data indicated a circular molecule and primers were designed to span the ends of the scaffold and sequence across the gap \tabref{tab:olv_primers}.
+\input{olv_figures/olv_primers.tex} 
 Touch-down \ac{PCR} was performed with \textsc{DNA} from 0.1 \textmu{}m 2006 sample, the product used for nested \ac{PCR} and the final product was cloned and sequenced. 
 The complete genome was manually annotated and visualised using \textsc{Artemis} (7). 
 Translated \acp{ORF} (minimal size 120 amino acids) were compared (\textsc{BLASTp}) to GenBank, to the all metagenomic \ac{ORF} peptide database on \ac{CAMERA} \url{(http://web.camera.calit2.net)} and to predicted proteins from \textsc{OLPV}-1 and \textsc{OLPV}-2 scaffolds. 
@@ -123,7 +119,7 @@ Homologous sequences were aligned using \textsc{MUSCLE} v3.6 (8).
 Neighbour-joining analysis, test for clade support (bootstrap analysis 2000 replicates) and tree drawing was performed with \ac{MEGA} software v4 (9). 
 Maximum likelihood analysis (\textsc{JTT} substitution model) and test for clade support (aLRT analysis) was performed with \textsc{PhyML} (10) and the tree visualised using \ac{MEGA}. 
 18S \ac{rRNA} gene sequences were retrieved from reads of all filter sizes, compared (\textsc{BLASTn}, e-value $<$1.0e$-5$) to the \textsc{SILVA100} SSURef database, aligned and phylogeny performed using \textsc{ARB} as previously described (1, 2). 
-The abundance and similarity of virophages in all lake samples and filter sizes was estimated using \textsc{BLASTp} (evalue $<$ 1.0e$-$5) to search using the \ac{OLV} \ac{MCP} sequence against a database of proteins predicted from sequencing reads. 
+The abundance and similarity of virophages in all lake samples and filter sizes was estimated using \textsc{BLASTp} (evalue $<$1.0e$-$5) to search using the \ac{OLV} \ac{MCP} sequence against a database of proteins predicted from sequencing reads. 
 The database was generated as previously described (1) and the percent identity of the \textsc{BLAST} hit was used as a proxy for species similarity. 
 
 \subsection{Metaproteomic analysis}

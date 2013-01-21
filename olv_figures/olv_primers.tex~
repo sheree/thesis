@@ -1,0 +1,22 @@
+\begingroup
+\begin{table}
+\footnotesize
+\caption[List of primers used to close the OLV genome.]{List of primers used to close the OLV genome. Dir, direction.}
+\label{tab:olv_primers}
+\smallskip
+\begin{tabularx}{\textwidth}{p{3cm}p{0.5cm}p{1cm}Xp{1cm}}
+\toprule
+\textbf{Primer function} & \textbf{ID} & \textbf{Dir.} & \textbf{Sequence (5$'$--3$'$)} & \textbf{Length (bp)}  \\
+\midrule
+Outer gap spanning & SY11 & forward & TTG TCT TAT GTA TTA CAA ATC ATT GAA & 3,843 \\
+Outer gap spanning & SY12 & reverse & CGA CAT TAA TCG GTT GTT TT &  \\
+Nested gap spanning & SY13 & forward & GCA TTA CGA ATG TGT TCC AG & 3,403 \\
+Nested gap spanning & SY14 & reverse & TTC TCC GTG ATT GAT ATC GT &  \\
+Sequencing & SY23 & forward & TCC CTA TTG ATG TCA AAA CC & - \\
+Sequencing & SY24 & forward & GAT TCT GGT TGG AGC ATA TAT TT &  \\
+
+\bottomrule
+\end{tabularx}
+\end{table}
+\endgroup
+

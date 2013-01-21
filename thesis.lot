@@ -1,18 +1,20 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {3.1}{\ignorespaces Summary of metagenomic data for Organic Lake 0.1 \textmu {}m samples used in this study}}{29}{table.caption.59}
-\contentsline {table}{\numberline {3.2}{\ignorespaces OLPV and OLV proteins identified in the metaproteome}}{38}{table.caption.84}
-\contentsline {table}{\numberline {3.3}{\ignorespaces Top \textsc {BLASTp} matches of predicted coding sequences from the Organic Lake virophage genome }}{40}{table.3.3}
+\contentsline {table}{\numberline {3.1}{\ignorespaces Summary of metagenomic data for Organic Lake 0.1 \textmu {}m samples used in this study}}{30}{table.caption.64}
+\contentsline {table}{\numberline {3.2}{\ignorespaces List of primers used to close the OLV genome.}}{31}{table.caption.69}
+\contentsline {table}{\numberline {3.3}{\ignorespaces OLPV and OLV proteins identified in the metaproteome}}{40}{table.caption.90}
+\contentsline {table}{\numberline {3.4}{\ignorespaces Top \textsc {BLASTp} matches of predicted coding sequences from the Organic Lake virophage genome }}{42}{table.3.4}
+\contentsline {table}{\numberline {3.5}{\ignorespaces \textsc {BLASTp} matches for \ac {OLV} \ac {MCP} in predicted \acp {ORF} of Organic Lake and Ace Lake contigs and \ac {CAMERA} metagenomic read \ac {ORF} peptide database}}{49}{table.caption.103}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {4.1}{\ignorespaces Summary of metagenomic data for Organic Lake profile}}{53}{table.caption.106}
-\contentsline {table}{\numberline {4.2}{\ignorespaces List of KEGG orthologs (KO) involved in nutrient cycles that were searched for in the Organic lake metagenome}}{55}{table.4.2}
-\contentsline {table}{\numberline {4.3}{\ignorespaces List of query functional marker gene sequences}}{57}{table.caption.129}
-\contentsline {table}{\numberline {4.4}{\ignorespaces Physico-chemical properties of Organic Lake 2008 vertical profile}}{62}{table.caption.137}
-\contentsline {table}{\numberline {4.5}{\ignorespaces Contribution of different taxonomic groups to counts of marker genes involved in carbon conversions}}{70}{table.caption.149}
-\contentsline {table}{\numberline {4.6}{\ignorespaces Counts of genes involved in \ac {DMSP} catabolism and photoheterotrophy in aquatic metagenomes}}{75}{table.4.6}
-\contentsline {table}{\numberline {4.7}{\ignorespaces Contribution of different taxonomic groups to counts of marker genes involved in nitrogen conversions}}{78}{table.caption.157}
-\contentsline {table}{\numberline {4.8}{\ignorespaces Contribution of different taxonomic groups to counts of marker genes involved in sulphur conversions}}{82}{table.caption.159}
+\contentsline {table}{\numberline {4.1}{\ignorespaces Summary of metagenomic data for Organic Lake profile}}{57}{table.caption.111}
+\contentsline {table}{\numberline {4.2}{\ignorespaces List of KEGG orthologs (KO) involved in nutrient cycles that were searched for in the Organic lake metagenome}}{59}{table.4.2}
+\contentsline {table}{\numberline {4.3}{\ignorespaces List of query functional marker gene sequences}}{61}{table.caption.134}
+\contentsline {table}{\numberline {4.4}{\ignorespaces Physico-chemical properties of Organic Lake 2008 vertical profile}}{66}{table.caption.142}
+\contentsline {table}{\numberline {4.5}{\ignorespaces Contribution of different taxonomic groups to counts of marker genes involved in carbon conversions}}{74}{table.caption.154}
+\contentsline {table}{\numberline {4.6}{\ignorespaces Counts of genes involved in \ac {DMSP} catabolism and photoheterotrophy in aquatic metagenomes}}{79}{table.4.6}
+\contentsline {table}{\numberline {4.7}{\ignorespaces Contribution of different taxonomic groups to counts of marker genes involved in nitrogen conversions}}{82}{table.caption.162}
+\contentsline {table}{\numberline {4.8}{\ignorespaces Contribution of different taxonomic groups to counts of marker genes involved in sulphur conversions}}{86}{table.caption.164}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {6.1}{\ignorespaces Peptide data for Organic Lake metaproteomics analysis}}{105}{table.6.1}
+\contentsline {table}{\numberline {6.1}{\ignorespaces Peptide data for Organic Lake metaproteomics analysis}}{109}{table.6.1}
