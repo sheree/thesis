@@ -68,7 +68,7 @@ A dense, near clonal population of \acl{GSB} related to \emph{Chlorobium} termed
 Below, in the anoxic monimolimnion is a diverse, primarily heterotrophic community with abundant \ac{SRB} and methanogenic \emph{Archaea}.
 %How abundant were the methanogens??
 
-Preliminary work on the metaproteome down the vertical profile of Ace Lake has been performed using the \ac{NCBI} \ac{NR} database \cite{2010b}.
+Preliminary work on the metaproteome down the vertical profile of Ace Lake has been performed using the \ac{NCBI} \ac{NR} database \cite{Ng2010b}.
 However, there were few protein identifications were achieved using the unmatched genomic database \cite{Ng2010b}.
 %Put in a table of the rates of matches...
 Identification rate reduced as diversity of the sample increased.
@@ -84,7 +84,7 @@ To determine cellular and viral densities and validate the efficacy of size-frac
 %---------------------------------------------------------------------------------------------
 
 \section{Materials and methods}
-\label{ch:mm}
+\label{sec:ace_mm}
 \subsection{Ace Lake samples}
 Water samples were collected from Ace Lake (68$^{\circ}$28$'$23.2$''$S, 78$^{\circ}$11$'$20.8$''$E), Vestfold Hills, Antarctica on 21 and 22 December 2006. 
 A 2 m hole positioned above the deepest point (25 m depth) of the lake was drilled through the ice cover of Ace Lake to reach the lake surface.
@@ -131,7 +131,7 @@ As none of the samples can be considered clonal, these are regarded as stringent
 Each 0.1 \textmu{}m fraction assembly was a hybrid of Sanger and 454 read data, wherein the estimated genome size was manually set to minimize the number of unitigs from abundant organisms being falsely classified as degenerate \cite{Rusch2007}. 
 Annotation of each sample fraction assembly was carried out using an in-house pipeline, wherein the pipeline stages consisted of genomic feature detection and subsequent annotation. 
 Detected features consisted of \acp{ORF}, transfer \textsc{RNA} and \ac{rRNA}. 
-Each detected \ac{ORF} was further annotated by \ac{BLAST} comparison against \ac{NR}, Swissprot and \ac{KEGG}-peptide sequence databases and by \ac{HMMER} comparison against \ac{TIGRFAM} \cite{Haft2001}, \ac{COG} \cite{Tatusov1997, Tatusov2003} and known marker genes \cite{von Mering2007}.
+Each detected \ac{ORF} was further annotated by \ac{BLAST} comparison against \ac{NR}, Swissprot and \ac{KEGG}-peptide sequence databases and by \ac{HMMER} comparison against \ac{TIGRFAM} \cite{Haft2001}, \ac{COG} \cite{Tatusov1997, Tatusov2003} and known marker genes \cite{vonMering2007}.
 In all cases the cut-off e-value was a maximum of 1e$-$5. 
 
 
@@ -159,21 +159,21 @@ Proteins that contained similar peptides and could not be differentiated based o
 Spectral counting was used to semi-quantitively estimate protein abundance. 
 The total assigned spectra that matched to each identified protein were exported from \textsc{Scaffold} 2.0. 
 For similar proteins that have shared peptides (a protein ambiguity group), spectra were assigned to the protein with the most unique spectra. 
-To normalize for variation in total spectra acquired between sample replicates, the number of spectra of each protein was multiplied by the average total spectra divided by the total spectra of the individual replicate. 
+To normalise for variation in total spectra acquired between sample replicates, the number of spectra of each protein was multiplied by the average total spectra divided by the total spectra of the individual replicate. 
 The spectral count of each protein was averaged across the replicates. 
 As longer proteins are more likely to be detected, the average spectral counts were divided by the length of the protein. 
-This value is equivalent to the normalized spectral abundance factor \cite{Florens2006, Zybailov2006}. 
-In order to compare the relative abundance of proteins between depths, the normalized spectral abundance factor was divided by the average read depth of the contig (scaffold or degenerate) to which the protein mapped. 
+This value is equivalent to the normalised spectral abundance factor \cite{Florens2006, Zybailov2006}. 
+In order to compare the relative abundance of proteins between depths, the normalised spectral abundance factor was divided by the average read depth of the contig (scaffold or degenerate) to which the protein mapped. 
 
 If $>$90\% of a scaffold’s length consisted of surrogate (highly degenerate unitig) sequence, the average read depth of the surrogate was used. 
 For identified proteins that were part of a protein group the longest protein length and largest read depth value in the group was used. 
 Pairwise comparisons of each zone were conducted on \ac{COG} assigned proteins. 
-The normalized spectral counts from each protein was aggregated based on their \ac{COG} annotation. 
+The normalised spectral counts from each protein was aggregated based on their \ac{COG} annotation. 
 All proteins that were part of an ambiguity group were confirmed to share the same \ac{COG} annotation to ensure counts were not biased because of the common spectra.
 
 The summed spectral counts from 5 and 11.5 m (mixolimnion), and 14, 18 and 23 m (monimolimnion) were pooled. 
 Statistical significance of differences between each zone was assessed using Fisher's exact test, with confidence intervals at 99\% significance calculated by the Newcombe–Wilson method and Holm-Bonferroni correction (P-value cutoff of 1e$-$5) in \ac{STAMP} \cite{Parks2010}. 
-All proteins identified, including their gene identifier, normalized spectral abundance, \ac{COG} and \ac{KEGG} Orthology identifiers, \ac{KEGG} locus tag and matching \ac{COG} or \ac{KEGG} description are provided in Supplementary Table S1.
+All proteins identified, including their gene identifier, normalised spectral abundance, \ac{COG} and \ac{KEGG} Orthology identifiers, \ac{KEGG} locus tag and matching \ac{COG} or \ac{KEGG} description are provided in Supplementary Table S1.
 
 
 
@@ -198,13 +198,13 @@ Developing a revised method for the simultaneous counts of cells and \acp{VLP} w
 They were marked for discontinuation in December 2008 after the take over of Whatman by \textsc{GE} Healthcare and was the cause of a global shortage that was strongly opposed by the viral ecology community \cite{Torrice2009}.
 Since conducting this research, production of 25 mm Anodisc filters has resumed after the petitioning of \textsc{GE} Healthcare by the environmental virology community. 
 Cost of Anodiscs filters are relatively higher than they were previously. %%%Check!
-Nonetheless, the need for alternative methodolodies during the shortage was so great that alternative protocols were developed independently in other research groups \cite{Budinoff2011,Diemer2012} stressing the importance of an affordable method of direct viral counts and the utility of alternative methodologies. %Look up that poster with beads direct on slide.
+Nonetheless, the need for alternative methodolodies during the shortage was so great that alternative protocols were developed independently in other research groups \cite{Budinoff2011, Diemer2012} stressing the importance of an affordable method of direct viral counts and the utility of alternative methodologies. %Look up that poster with beads direct on slide.
 
 Clear \ac{PCTE} filters were selected for use as a viable alternative product for the following reasons. 
 \begin{enumerate}
 \item They have defined pore-size. %Look up track etch technology
 \item They are available in 0.015 \textmu{}m pore-size allowing capture of \acp{VLP}.
-\item They have previously been used for \acp{VLP} enumeration \cite{Hara1991,Proctor1992}.
+\item They have previously been used for \acp{VLP} enumeration \cite{Hara1991, Proctor1992}.
 \item They have a long history of use with cellular enumeration \cite{Hobbie1977} and can therefore be easily adopted for widespread use.
 \end{enumerate}
 
@@ -218,7 +218,7 @@ There are several disadvantages to using \ac{PCTE} membranes over Anodiscs which
 \item \ac{PCTE} filters have a much slower flow rate that Anodisc filters. %ref.
 \end{enumerate}
 
-The protocol used is detailled in the materials and methods \ref{ch:mm}.
+The protocol used is detailled in the materials and methods \ref{sec:ace_mm}.
 The main disadvantages of using \ac{PCTE} were overcome for the purposes required for this study.
 To counteract the fragility of the \ac{PCTE} filters, vacuum filtration was not performed above X pressure limit and filters.
 No cracks or tears were observed during visualisation.
@@ -279,7 +279,7 @@ The \ac{CAS} gene locus (cas3, cse1, cse2, cse3, cse4, cas5, cas1b), to which th
 3.1Same protein identifications as Charmaine except one or two.
 3.2 Able to quantify differences between mixolimnion and monimolimnion.
 The diversity and abundance of \ac{ABC} transporters was lowest in the 0.1 \textmu{}m fractions at 23 m (Fig. 3), and a correspondingly low number were detected in the metaproteome (Table S2). 
-In contrast, numerous transporters, predominately \ac{ABC} type, were identified in the metaproteome of the mixolimnion samples, with a high \ac{COG} representation of transporters for carbohydrates ($\sim$34\% of normalized spectra), amino acids ($\sim$32\%) and inorganic ions ($\sim$9\%) (Table S2 and Fig. S11).
+In contrast, numerous transporters, predominately \ac{ABC} type, were identified in the metaproteome of the mixolimnion samples, with a high \ac{COG} representation of transporters for carbohydrates ($\sim$34\% of normalised spectra), amino acids ($\sim$32\%) and inorganic ions ($\sim$9\%) (Table S2 and Fig. S11).
 All transporters in the metaproteome were of bacterial origin and conservative phylum level assignments of the normalised spectra showed the majority to originate from \emph{Proteobacteria} (69\%), 
 of which SAR11 comprised 46\% and \emph{Actinobacteria} 19\% (Table S2). 
 A high proportion of expressed genes with transport functions have also been reported for SAR11 from coastal (Poretsky et al. 2010) and open ocean waters (Sowell et al. 2009) (Morris et al. 2010?). 

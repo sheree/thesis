@@ -1,22 +1,22 @@
 \begin{landscape}
 \begingroup
 \footnotesize
-\begin{longtable}{p{1.6cm}p{1.2cm}p{1.5cm}p{1.5cm}p{2.8cm}p{13.5cm}}
-\caption[Proteins identitfied in the Ace Lake 5 m sample 0.1 \textmu{}m size-fraction proteome]{Proteins identitfied in the Ace Lake 5 m sample 0.1 \textmu{}m size-fraction proteome.
+\begin{longtable}{p{1.8cm}p{0.9cm}p{2.2cm}p{1cm}p{2.8cm}p{13.4cm}}
+\caption[Proteins identitfied in the Ace Lake 5 m sample 0.1 \textmu{}m size-fraction metaproteome]{Proteins identitfied in the Ace Lake 5 m sample 0.1 \textmu{}m size-fraction metaproteome.
 (*) Protein group identification: proteins that contain similar peptides that could not be differentiated by the mass spectral analysis were grouped. Only one gene number of that group is displayed.
 ($a$--$z$, $aa$--$pp$) Protein ambiguity groups: proteins that have some shared peptides with one or more other proteins from the same sample depth are marked with the same letters.
 }
-\label{tab:ace_protids_5m_cog}
+\label{tab:ace_protids_5m}
 \\
 \toprule
-\multicolumn{6}{c}{\textbf{ 5 m - COG annotated proteins }} \\
-\textbf{Gene ID} & \textbf{NSA} & \textbf{COG ID} & \textbf{KO ID} & \textbf{KEGG locus} & \textbf{COG description:KEGG description} \\
+\multicolumn{6}{c}{\textbf{ 5 m -- COG annotated proteins }} \\
+\textbf{Gene ID} & \textbf{NSA} & \textbf{COG/NR ID} & \textbf{KO} & \textbf{Locus} & \textbf{COG : KEGG/NR description} \\
 \midrule
 \endfirsthead
 \multicolumn{6}{c}
 {\tablename\ \thetable\ -- \textit{Continued from previous page}} \\
 \toprule
-\textbf{Gene ID} & \textbf{NSA} & \textbf{COG ID} & \textbf{KO ID} & \textbf{KEGG locus} & \textbf{COG description:KEGG description} \\
+\textbf{Gene ID} & \textbf{NSA} & \textbf{COG/NR ID} & \textbf{KO} & \textbf{Locus} & \textbf{COG : KEGG/NR description} \\
 \midrule
 \endhead
 \bottomrule \multicolumn{6}{r} {\textit{Continued on next page}} \\
@@ -153,8 +153,9 @@
 167719850&0.00002&COG0480&K02355&SAR11\_1119&translation elongation and release factors (GTPases) : fusA \\
 167816480&0.00002&COG0086&K03046&Krad\_0681&DNA-directed RNA polymerase beta' subunit/160 kD subunit (split gene in archaea and Syn) \\
 167866408&0.00001&COG1185&K00962&Lxx09030&polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase) \\
-\multicolumn{6}{c}{\textbf{ 5 m - KEGG and NR annotated proteins}} \\
-\textbf{Gene ID} & \textbf{NSA} & \textbf{NR ID} & \textbf{KO ID} & \textbf{KEGG/NR Locus} & \textbf{KEGG/NR description} \\
+\toprule
+\multicolumn{6}{c}{\textbf{ 5 m -- KEGG and NR annotated proteins}} \\
+\midrule
 167873078&0.03710&BAF91544&&&major capsid protein [uncultured Myoviridae] \\
 167771989$i$&0.02658&&&BTH\_I0914&hypothetical protein \\
 167723550$j$&0.01559&YP\_001648266&&OsV5\_190f&hypothetical protein [Ostreococcus virus OsV5] \\
@@ -308,7 +309,7 @@
 167918033$p$&0.00034&&&GDI3673&hypothetical protein \\
 167891224$p$&0.00033&&&GDI3673&hypothetical protein \\
 167867622&0.00033&&&Oant\_1504&peptidase U35 phage prohead HK97 \\
-167732430$ff$&0.00031&ZP\_02092868&&FAEPRAM212\_03171&hypothetical protein [Faecalibacterium prausnitzii M21/2] \\
+167732430$ff$&0.00031&ZP\_02092868&&FAEPRf212\_03171&hypothetical protein [Faecalibacterium prausnitzii M21/2] \\
 167684500s&0.00031&YP\_001648158&&OsV5\_081f&hypothetical protein [Ostreococcus virus OsV5] \\
 167824164*&0.00030&YP\_001648240&&OsV5\_163f&hypothetical protein [Ostreococcus virus OsV5] \\
 167765431&0.00030&&&CHU\_0173&gldM; gliding motility-related protein \\
@@ -352,7 +353,7 @@
 167910713&0.00014&&&Bd1641&hypothetical protein \\
 167910061$p$&0.00014&&&GDI3673&hypothetical protein \\
 167833358$s$&0.00013&YP\_001648158&&OsV5\_081f&hypothetical protein [Ostreococcus virus OsV5] \\
-167692314*w&0.00012&YP\_001498525&&AR158\_C444L&hypothetical protein [Paramecium bursaria Chlorella virus AR158] \\
+167692314*$w$&0.00012&YP\_001498525&&AR158\_C444L&hypothetical protein [Paramecium bursaria Chlorella virus AR158] \\
 167925393&0.00012&&&Oter\_3421&hypothetical protein \\
 167687436&0.00011&&K01999&azo3443&conserved hypothetical ABC-type branched-chain amino acid transport systems, periplasmic component \\
 167719658$hh$&0.00011&&K06907&Dde\_1889&hypothetical protein \\
@@ -384,7 +385,9 @@
 167690816&0.00002&YP\_001648190&&OsV5\_113r&hypothetical protein [Ostreococcus virus OsV5] \\
 167742884*&0.00001&&&Dvul\_0646&hypothetical protein \\
 167875342$j$&0.00001&YP\_001648145&&OsV5\_068f&hypothetical protein [Ostreococcus virus OsV5] \\
-\multicolumn{6}{c}{\textbf{5 m - Proteins with no annotation}}  \\
+\toprule
+\multicolumn{6}{c}{\textbf{5 m -- Proteins with no annotation}}  \\
+\midrule
 167699580*&0.01263&&&& \\
 167736790$ii$&0.01043&&&& \\
 167796769&0.00914&&&& \\
@@ -527,7 +530,6 @@
 167685654*&0.00003&&&& \\
 167719670*&0.00002&&&& \\
 167879450&0.00002&&&& \\
-&&&&& \\
 \end{longtable}
 \endgroup
 \end{landscape}

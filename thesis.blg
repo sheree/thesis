@@ -10,46 +10,19 @@ A level-1 auxiliary file: publist.aux
 A level-1 auxiliary file: acronyms.aux
 A level-1 auxiliary file: intro.aux
 A level-1 auxiliary file: acelake.aux
-White space in argument---line 67 of file acelake.aux
- : \citation{von
- :               Mering2007}
-I'm skipping whatever remains of this command
 A level-1 auxiliary file: olv.aux
 A level-1 auxiliary file: orglake.aux
-A level-1 auxiliary file: viruses.aux
 A level-1 auxiliary file: conc.aux
 The style file: mybibstyle.bst
 A level-1 auxiliary file: appendices.aux
+Reallocated field_info (elt_size=4) to 10668 items from 5000.
 Database file #1: Thesis.bib
-Warning--I didn't find a database entry for "Inman2005"
-Warning--I didn't find a database entry for "Wingham2006"
-Warning--I didn't find a database entry for "Lukin2011"
-Warning--I didn't find a database entry for "Gramling2012"
-Warning--I didn't find a database entry for "Jones2012"
-Warning--I didn't find a database entry for "Lavire2007"
-Warning--I didn't find a database entry for "Danavoro2011"
-Warning--I didn't find a database entry for "Rankin1999"
-Warning--I didn't find a database entry for "2010b"
-Warning--I didn't find a database entry for "Morgulis2006"
-Warning--I didn't find a database entry for "Huse2007"
-Warning--I didn't find a database entry for "Miller2008"
-Warning--I didn't find a database entry for "Chou2001"
-Warning--I didn't find a database entry for "Gomez-Alvarez2009"
-Warning--I didn't find a database entry for "Myers2000"
-Warning--I didn't find a database entry for "Haft2001"
-Warning--I didn't find a database entry for "Tatusov1997"
-Warning--I didn't find a database entry for "Tatusov2003"
-Warning--I didn't find a database entry for "Keller2002"
-Warning--I didn't find a database entry for "Florens2006"
-Warning--I didn't find a database entry for "Zybailov2006"
-Warning--I didn't find a database entry for "Parks2010"
-Warning--I didn't find a database entry for "Suttle2005"
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--I didn't find a database entry for "Hennes1995"
 Warning--I didn't find a database entry for "Hara1991"
 Warning--I didn't find a database entry for "Proctor1992"
 Warning--I didn't find a database entry for "Hobbie1977"
 Warning--I didn't find a database entry for "Hahn2003"
-Warning--I didn't find a database entry for "Suttle1990"
 Warning--I didn't find a database entry for ""
 Warning--I didn't find a database entry for "Curson2011"
 Warning--I didn't find a database entry for "Fuchs2006"
@@ -57,62 +30,53 @@ Warning--I didn't find a database entry for "Sievert2008"
 Warning--I didn't find a database entry for "Scott2006"
 Warning--I didn't find a database entry for "Kirchman2002"
 Warning--I didn't find a database entry for "Teeling2012"
-Warning--empty journal in Beja2002
 You can't pop an empty literal stack for entry Clarke2006
 while executing---line 1411 of file mybibstyle.bst
 You can't pop an empty literal stack for entry Diemer2012
 while executing---line 1411 of file mybibstyle.bst
-Warning--there's a number but no volume in Gauthier1992
-Warning--empty journal in Gomez-Consarnau2007
-Warning--empty journal in Humayoun2003
-Warning--there's a number but no volume in Huu1999
-Warning--empty journal in Karr2003
-Warning--empty journal in Karr2006
 Warning--empty publisher in Laybourn-Parry1997
 Warning--empty publisher in Redfield1963
 You can't pop an empty literal stack for entry Torrice2009
 while executing---line 1411 of file mybibstyle.bst
-Warning--there's a number but no volume in Villaescusa2010
-Warning--there's a number but no volume in Ward1997
-You've used 155 entries,
+You've used 206 entries,
             2739 wiz_defined-function locations,
-            1877 strings with 53133 characters,
-and the built_in function-call counts, 90961 in all, are:
-= -- 8116
-> -- 7800
-< -- 34
-+ -- 2610
-- -- 2452
-* -- 9298
-:= -- 14912
-add.period$ -- 468
-call.type$ -- 155
-change.case$ -- 1279
-chr.to.int$ -- 152
-cite$ -- 321
-duplicate$ -- 2501
-empty$ -- 4890
-format.name$ -- 2641
-if$ -- 17825
-int.to.chr$ -- 4
+            2179 strings with 66460 characters,
+and the built_in function-call counts, 121389 in all, are:
+= -- 10943
+> -- 10335
+< -- 51
++ -- 3458
+- -- 3248
+* -- 12028
+:= -- 19907
+add.period$ -- 625
+call.type$ -- 206
+change.case$ -- 1696
+chr.to.int$ -- 202
+cite$ -- 414
+duplicate$ -- 3411
+empty$ -- 6484
+format.name$ -- 3496
+if$ -- 23898
+int.to.chr$ -- 5
 int.to.str$ -- 1
-missing$ -- 151
-newline$ -- 783
-num.names$ -- 626
-pop$ -- 1865
+missing$ -- 202
+newline$ -- 1040
+num.names$ -- 834
+pop$ -- 2452
 preamble$ -- 1
-purify$ -- 1125
+purify$ -- 1491
 quote$ -- 0
-skip$ -- 2430
+skip$ -- 3332
 stack$ -- 0
-substring$ -- 3984
-swap$ -- 186
-text.length$ -- 4
+substring$ -- 5501
+swap$ -- 328
+text.length$ -- 12
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1705
-warning$ -- 11
-while$ -- 764
+type$ -- 2266
+warning$ -- 2
+while$ -- 1023
 width$ -- 0
-write$ -- 1867
-(There were 4 error messages)
+write$ -- 2497
+(There were 3 error messages)

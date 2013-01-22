@@ -1,5 +1,5 @@
 \contentsline {chapter}{\numberline {1}General introduction}{1}{chapter.1}
-\contentsline {section}{Co-authorship statement}{1}{section*.17}
+\contentsline {section}{Co-authorship statement}{1}{section*.16}
 \contentsline {section}{\numberline {1.1}Antarctic lakes}{2}{section.1.1}
 \contentsline {section}{\numberline {1.2}The Vestfold Hills, East Antarctica}{3}{section.1.2}
 \contentsline {section}{\numberline {1.3}Molecular approaches used in Antarctic lake systems}{3}{section.1.3}
@@ -24,7 +24,7 @@
 \contentsline {subsection}{\numberline {2.3.2}\textsc {DNA} sequencing and data cleanup}{17}{subsection.2.3.2}
 \contentsline {subsection}{\numberline {2.3.3}Metagenomic DNA assembly and annotation}{18}{subsection.2.3.3}
 \contentsline {subsection}{\numberline {2.3.4}Epifluorescence microscopy}{18}{subsection.2.3.4}
-\contentsline {subsection}{\numberline {2.3.5}Metaproteomic analysis}{18}{subsection.2.3.5}
+\contentsline {subsection}{\numberline {2.3.5}Metaproteomic analysis}{19}{subsection.2.3.5}
 \contentsline {section}{\numberline {2.4}Results and discussion}{20}{section.2.4}
 \contentsline {subsection}{\numberline {2.4.1}Epifluorescence microscopy methodology}{20}{subsection.2.4.1}
 \contentsline {subsection}{\numberline {2.4.2}Community stratification supported by cell and \ac {VLP} densities}{23}{subsection.2.4.2}
@@ -62,9 +62,9 @@
 \contentsline {subsection}{\numberline {4.4.1}Abiotic properties and water column structure}{62}{subsection.4.4.1}
 \contentsline {subsection}{\numberline {4.4.2}Overall microbial diversity}{67}{subsection.4.4.2}
 \contentsline {subsection}{\numberline {4.4.3}Variation of microbial composition according to size and depth}{67}{subsection.4.4.3}
-\contentsline {subsubsection}{20--3.0 \textmu {}m fraction community composition}{67}{section*.148}
-\contentsline {subsubsection}{3--0.8 \textmu {}m size fraction community composition}{71}{section*.149}
-\contentsline {subsubsection}{0.8--0.1 \textmu {}m size fraction community composition}{72}{section*.151}
+\contentsline {subsubsection}{20--3.0 \textmu {}m fraction community composition}{67}{section*.147}
+\contentsline {subsubsection}{3--0.8 \textmu {}m size fraction community composition}{71}{section*.148}
+\contentsline {subsubsection}{0.8--0.1 \textmu {}m size fraction community composition}{72}{section*.150}
 \contentsline {subsection}{\numberline {4.4.4}Organic Lake functional potential}{73}{subsection.4.4.4}
 \contentsline {subsection}{\numberline {4.4.5}Carbon resourcefulness in dominant heterotrophic bacteria}{73}{subsection.4.4.5}
 \contentsline {subsection}{\numberline {4.4.6}Regenerated nitrogen is predominant in the nitrogen cycle}{80}{subsection.4.4.6}
@@ -72,4 +72,4 @@
 \contentsline {subsection}{\numberline {4.4.8}Conclusion}{93}{subsection.4.4.8}
 \contentsline {section}{\numberline {4.5}Acknowledgements}{94}{section.4.5}
 \contentsline {chapter}{\numberline {5}General discussion, conclusions and future work}{95}{chapter.5}
-\contentsline {chapter}{\numberline {6}Appendices}{109}{chapter.6}
+\contentsline {chapter}{\numberline {6}Appendices}{113}{chapter.6}

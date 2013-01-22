@@ -1,6 +1,33 @@
-\begin{table}
-\includegraphics{intro_figures/molecular_studies_lakes.pdf}
-\caption[PCR-based studies of Antarctic Lakes]{Studies of Antarctic Lakes that have made use of PCR amplification and sequencing of marker genes.}
+\begin{landscape}
+\begingroup
+\footnotesize
+\begin{longtable}{p{3.5cm}p{3.5cm}p{3.5cm}p{5cm}p{2cm}p{5cm}p{2cm}}
+\caption[]{
+}
 \label{tab:pcr_lakes}
-
-\end{table}
+\\
+\toprule
+\textbf{Site} & \textbf{Environment} & \textbf{Techniques used} & \textbf{Organisms} & \textbf{Key metabolisms/processing} & \textbf{Notes} & \textbf{Reference}\\
+\midrule
+\endfirsthead
+\multicolumn{7}{c}
+{\tablename\ \thetable\ -- \textit{Continued from previous page}} \\
+\toprule
+\textbf{Site} & \textbf{Environment} & \textbf{Techniques used} & \textbf{Organisms} & \textbf{Key metabolisms/processing} & \textbf{Notes} & \textbf{Reference}\\
+\midrule
+\endhead
+\bottomrule \multicolumn{7}{r} {\textit{Continued on next page}} \\
+\endfoot
+\bottomrule
+\endlastfoot
+\caption[PCR-based studies of Antarctic Lakes]{Studies of Antarctic Lakes that have made use of PCR amplification and sequencing of marker genes.}
+Lakes Bonney, Hoare, Fryxell, Joyce, Miers and Vanda, McMurdo Dry Valleys & Fresh to hypersaline, permanently ice-covered & 16S and \emph{amoA} libraries & \emph{Betaproteobacteria} and \emph{Gammaproteobacteria} & Ammonia oxidation & Nitrifying bacterial \emph{amoA} detected in all lakes.
+In meromictic lakes, the population of Beta– and  Gammaproteobacteria vertically stratified. 
+Majority of nitrifying bacteria were Betaproteobacteria.
+ & \cite{Voytek1999}  \\
+ &  &  &  &  &  &   \\
+ &  &  &  &  &  &   \\
+ &  &  &  &  &  &   \\
+\end{longtable}
+\endgroup
+\end{landscape}

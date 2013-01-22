@@ -1,0 +1,158 @@
+\begin{landscape}
+\begingroup
+\footnotesize
+\begin{longtable}{p{1.8cm}p{2cm}p{2.2cm}p{1cm}p{2.8cm}p{12.3cm}}
+\caption[Proteins identitfied in the Ace Lake 23 m sample 0.1 \textmu{}m size-fraction metaproteome]{Proteins identitfied in the Ace Lake 23 m sample 0.1 \textmu{}m size-fraction metaproteome.
+(*) Protein group identification: proteins that contain similar peptides that could not be differentiated by the mass spectral analysis were grouped. Only one gene number of that group is displayed.
+($a$--$z$, $aa$--$pp$) Protein ambiguity groups: proteins that have some shared peptides with one or more other proteins from the same sample depth are marked with the same letters.
+}
+\label{tab:ace_protids_23m}
+\\
+\toprule
+\multicolumn{6}{c}{\textbf{ 23 m -- \ac{COG} annotated proteins }} \\
+\textbf{Gene ID} & \textbf{\ac{NSA}} & \textbf{\ac{COG}/\ac{NR} ID} & \textbf{\ac{KO}} & \textbf{Locus} & \textbf{\ac{COG} : \ac{KEGG}/\ac{NR} description} \\
+\midrule
+\endfirsthead
+\multicolumn{6}{c}
+{\tablename\ \thetable\ -- \textit{Continued from previous page}} \\
+\toprule
+\textbf{Gene ID} & \textbf{\ac{NSA}} & \textbf{\ac{COG}/\ac{NR} ID} & \textbf{\ac{KO}} & \textbf{Locus} & \textbf{\ac{COG} : \ac{KEGG}/\ac{NR} description} \\
+\midrule
+\endhead
+\bottomrule \multicolumn{6}{r} {\textit{Continued on next page}} \\
+\endfoot
+\bottomrule
+\endlastfoot
+184741277&0.0177260374&COG0776&&SYN\_02859&bacterial nucleoid DNA-binding protein : DNA-binding protein HU \\
+184609007&0.0163322511&COG1450&&Oter\_2851&general secretory pathway protein D : type II and III secretion system protein \\
+184630330&0.0120879409&COG1837&K06960&CLL\_A1247&predicted RNA-binding protein (KH domain) : hypothetical protein \\
+184814744&0.0077327225&COG3409&&&putative peptidoglycan-binding domain-containing protein \\
+184723188&0.0066459022&COG1653&&Noca\_3914&sugar-binding periplasmic proteins/domains : extracellular solute-binding protein, family 1 \\
+184729342&0.0051513355&COG0459&K04077&Oter\_2054&chaperonin GroEL (HSP60 family) \\
+184751721&0.0020388185&COG0776&K03530&azo0315&bacterial nucleoid DNA-binding protein :  hupB \\
+184834728&0.0019935223&COG0683&&SYN\_00789&ABC-type branched-chain amino acid transport systems, periplasmic component \\
+184819943&0.0019174738&COG0776&K03530&Plut\_1957&bacterial nucleoid DNA-binding protein : histone-like DNA-binding protein; HU-beta \\
+\toprule
+\multicolumn{6}{c}{\textbf{23 m -- KEGG and NR annotated proteins}} \\
+\midrule
+184829089&0.0475406733&&&Smed\_1892&hypothetical protein \\
+184693861$a$&0.0216206417&A7U6E7&&&putative major capsid protein [Chrysochromulina ericina virus] \\
+184663677$a$&0.0212217442&A7U6E7&&&putative major capsid protein [Chrysochromulina ericina virus] \\
+184759346&0.0207154065&YP\_001648266&&OsV5\_190f&hypothetical protein [Ostreococcus virus OsV5] \\
+184796349&0.0192247663&ZP\_03706494&&CLOSTMETH\_01228&hypothetical protein [Clostridium methylpentosum DSM 5476] \\
+184674523$a$&0.0187892597&A7U6E7&&&putative major capsid protein [Chrysochromulina ericina virus] \\
+184727907&0.0127809571&ZP\_03013728&&BACINT\_01287&hypothetical protein [Bacteroides intestinalis DSM 17393] \\
+184858354&0.0124452859&&&Bcep1808\_1173&hypothetical protein \\
+184615458$b$&0.0078367298&YP\_002299293&&RC1\_3116&hypothetical protein [Rhodospirillum centenum SW] \\
+184717784$a$&0.0076061482&A7U6F0&&&putative major capsid protein [Phaeocystis pouchetii virus] \\
+184783470$b$&0.0067095701&&&amb4267&hypothetical protein \\
+184677323*&0.0063474779&&&plu3036&hypothetical protein \\
+184765239*&0.0059538672&AAU84208&&GZ37D1\_55&hypothetical protein  [uncultured archaeon GZfos37D1] \\
+184728060*&0.0045225808&&&amb4267&hypothetical protein \\
+184610116&0.0041891092&&&Bd3266&cell wall surface anchor family protein \\
+184609428&0.0041019864&ZP\_02421392&&EUBSIR\_00216&hypothetical protein [Eubacterium siraeum DSM 15702] \\
+184762189$a$&0.0033887653&A7U6E7&&&putative major capsid protein [Chrysochromulina ericina virus] \\
+184616650*&0.0033268581&&K08945&Cvib\_0330&bacteriochlorophyll C binding protein; chlorosome envelope protein A \\
+184654290&0.0032936278&&&Plut\_0689&gas vesicle synthesis protein GvpA \\
+184683542&0.0032484407&&&Daci\_1946&putative phage major head protein \\
+184717084&0.002738548&AAU84208&&&hypothetical protein  [uncultured archaeon GZfos37D1] \\
+184761703&0.0024990088&&&Fjoh\_3203&Ig domain protein, group 2 domain protein \\
+184619854&0.0024860025&ACO64625&&&predicted protein [Micromonas sp. RCC299] \\
+184806079&0.0021551868&&&BTH\_I0914&hypothetical protein \\
+184598462&0.0020259568&&&Cthe\_1719&phage major capsid protein, HK97 family \\
+184636514&0.0015699028&&&PTH\_2189&hypothetical protein \\
+184699280&0.0015641493&&&HSM\_0907&hypothetical protein \\
+184785344&0.0015021373&&&nfa430&putative phage head \\
+184622093&0.001315815&&K08946&Cvib\_1647&chlorosome envelope protein B \\
+184698829&0.0012425497&&K08947&Cvib\_0329&chlorosome envelope protein C \\
+184699260&0.0010486715&&K08946&Cvib\_0367&chlorosome envelope protein B \\
+184602186&0.0009043858&&&NT01CX\_0836&phage capsid family protein, putative \\
+184619542&0.0008436094&ZP\_03544057&&CtesDRAFT\_PD3290&hypothetical protein  [Comamonas testosteroni KF-1] \\
+184693284&0.0005379065&&K06142&Cvib\_1549&outer membrane chaperone Skp (OmpH) \\
+184853817&0.0004762266&&&Cvib\_1511&hypothetical protein \\
+\toprule
+\multicolumn{6}{c}{\textbf{23 m -- Proteins with no annotation}} \\
+\midrule
+184639659&0.043948442&&&& \\
+184736526$c$&0.0410393566&&&& \\
+184780301&0.0345039918&&&& \\
+184816235&0.0320951789&&&& \\
+184703327&0.0281144943&&&& \\
+184757685&0.022912986&&&& \\
+184749374&0.0220139867&&&& \\
+184768326&0.0218597042&&&& \\
+184855542&0.0213743088&&&& \\
+184647188&0.0212601049&&&& \\
+184857022$d$&0.0195650245&&&& \\
+184844109$e$&0.0194066816&&&& \\
+184673540&0.0168790128&&&& \\
+184673891&0.0159922741&&&& \\
+184752115&0.0149669571&&&& \\
+184830016&0.0143696973&&&& \\
+184689526&0.0142884591&&&& \\
+184830014$c$&0.013541019&&&& \\
+184736969&0.0124982161&&&& \\
+184794003&0.0121750493&&&& \\
+184716841*$h$&0.0116730875&&&& \\
+184614058$e$&0.0116322781&&&& \\
+184843043&0.0114527624&&&& \\
+184606136&0.0109961608&&&& \\
+184701852&0.0098313448&&&& \\
+184689528$d$&0.0095741457&&&& \\
+184818291&0.0091862116&&&& \\
+184717128&0.009020845&&&& \\
+184634342&0.0088512597&&&& \\
+184632228$f$&0.0081738064&&&& \\
+184609952*&0.0081082036&&&& \\
+184743077$h$&0.0079540129&&&& \\
+184744668$f$&0.0070087865&&&& \\
+184693008&0.006893361&&&& \\
+184699860&0.0067135304&&&& \\
+184644432*&0.006647&&&& \\
+184624307&0.0066303306&&&& \\
+184717134$h$&0.0062908799&&&& \\
+184687320*&0.0060878247&&&& \\
+184609995$f$&0.0059803992&&&& \\
+184606128&0.0059392396&&&& \\
+184798514&0.0055080342&&&& \\
+184820885&0.005452628&&&& \\
+184774274&0.0052574756&&&& \\
+184634936$d$&0.0051381512&&&& \\
+184807615&0.0048919091&&&& \\
+184717137$f$&0.004760532&&&& \\
+184634670&0.0043741057&&&& \\
+184699106$g$&0.004352547&&&& \\
+184694334&0.0043236572&&&& \\
+184701357$g$&0.004288858&&&& \\
+184668292$f$&0.0042073202&&&& \\
+184616142&0.0041536143&&&& \\
+184705566*$i$&0.0040360086&&&& \\
+184656354&0.0038949394&&&& \\
+184699180&0.003299837&&&& \\
+184792136&0.0032690762&&&& \\
+184803016&0.0031682001&&&& \\
+184676233&0.0031358313&&&& \\
+184634894&0.0025039289&&&& \\
+184655451&0.0024076365&&&& \\
+184694448$i$&0.0020805881&&&& \\
+184616145&0.0019821169&&&& \\
+184693324&0.0019590879&&&& \\
+184708522&0.0018904341&&&& \\
+184651766&0.0018816493&&&& \\
+184654540&0.0015312301&&&& \\
+184705454$f$&0.0014295277&&&& \\
+184705654&0.001336639&&&& \\
+184805593&0.0013247477&&&& \\
+184716621&0.0013232094&&&& \\
+184743075$f$&0.0012215426&&&& \\
+184814882&0.0011662333&&&& \\
+184792312&0.0010937152&&&& \\
+184829092&0.0008401013&&&& \\
+184716837$f$&0.0007628766&&&& \\
+184796632&0.0004119362&&&& \\
+184845751&0.0002006189&&&& \\
+184730970*&0.0001861843&&&& \\
+184613774*&0.0001709224&&&& \\
+\end{longtable}
+\endgroup
+\end{landscape}

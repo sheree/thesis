@@ -109,8 +109,8 @@ All other nutrients were measured from water collected after filtration through 
  
 Ammonia, nitrate, nitrite, \ac{DRP}, \ac{TN}, \ac{TDN}, \ac{TP} and \ac{TDP} were measured in a Flow Injection Analyser (Lachat Instruments, Colorado, USA). 
 \ac{TOC} and \ac{DOC} were determined in the San$++$ Segmented Flow Analyser (Skalar, Breda, Netherlands). 
-\ac{TS} and \ac{TDS} were analyzed in the 730ES Inductively Coupled Plasma--Atomic Emission Spectrometer (Agilent Technologies, California, USA). 
-Principal component analysis \acs{PCA} was performed using the \textsc{Primer} Version 6 statistical package \cite{Clarke2006} on the normalized physical and chemical parameters.
+\ac{TS} and \ac{TDS} were analysed in the 730ES Inductively Coupled Plasma--Atomic Emission Spectrometer (Agilent Technologies, California, USA). 
+Principal component analysis \acs{PCA} was performed using the \textsc{Primer} Version 6 statistical package \cite{Clarke2006} on the normalised physical and chemical parameters.
 
 \subsection{Epifluorescence microscopy}
 Water samples collected for microscopy were preserved in formaldehyde (1\% v/v). 
@@ -130,14 +130,14 @@ The \ac{QIIME} pipeline (version 1.4.0) \cite{Caporaso2010} implementing \textsc
 A representative sequence from each \ac{OTU} was chosen and classified to the genus level using \ac{QIIME} implementing the \ac{RDP} classifier \cite{Wang2007} trained against \textsc{SILVA}. 
 Assignments were accepted to the lowest taxonomic rank with bootstrap value $\leq$85\%. 
 
-To allow comparison of the relative abundance of taxa, the number of \ac{SSU} matches per sample filter was normalized to the average number of reads (403,577). 
+To allow comparison of the relative abundance of taxa, the number of \ac{SSU} matches per sample filter was normalised to the average number of reads (403,577). 
 Statistical analysis on the relative \ac{SSU} abundances was performed using the \textsc{Primer} version 6 package \cite{Clarke2006}. 
 The \ac{SSU} counts of each sample filter were aggregated to the genus level and square root transformed to reduce the contribution of highly abundant taxa. 
 A resemblance matrix was computed using Bray-Curtis similarity. 
 The upper mixed zone (1.7, 4.2 and 5.7 m) and deep zone (6.5 and 6.7 m) samples were designated as separate groups and an analysis of similarity \ac{ANOSIM} performed to test for difference between the two groups. 
 BEST analysis was performed with the abiotic variables: conductivity, temperature, turbidity, \ac{DO}, pH, \ac{TOC}, \ac{TN}, \ac{TP}, \ac{TS}, total C:N, total C:P, total N:P, cell counts and \ac{VLP} counts. 
 The Bio-Env procedure in \textsc{BEST} looks at all the abiotic variables in combination and finds a subset sufficient to best explain the biotic structure. 
-A heat map with bi-clustering dendogram was generated using R and the package `seriation' \cite{Hahsler2008} on the normalized square-root transformed \ac{SSU} counts.
+A heat map with bi-clustering dendogram was generated using R and the package `seriation' \cite{Hahsler2008} on the normalised square-root transformed \ac{SSU} counts.
 
 \subsection{Analysis of functional potential}
 The relative abundance and taxonomic origin of functional marker genes was used to determine the potential for carbon, nitrogen and sulphur conversions.
@@ -152,8 +152,8 @@ Marker enzymes were assigned to taxonomic groups based on the species of origin 
 Marker genes not represented by a \ac{KO} group were assessed by \textsc{BLASTp} queries of marker gene sequences with experimentally confirmed function \tabref{tab:marker_genes} against a database of translated \acp{ORF} predicted from metagenomic reads. 
 Matches were accepted if the e-value was $<$1e$-$10 and sequence identity was within the range shared by homologs of the query sequence(s) \tabref{tab:marker_genes}.
 \input{orglake_figures/marker_table.tex}
-Matches to marker genes were normalized to 100 Mbp per sample and counted. 
-Normalized frequencies of markers from the same pathway were averaged and those from different pathways were summed. 
+Matches to marker genes were normalised to 100 Mbp per sample and counted. 
+Normalised frequencies of markers from the same pathway were averaged and those from different pathways were summed. 
 
 The same marker genes and \ac{BLAST} procedure was used to compare the \ac{DMSP} catabolism and photoheterotrophy potential of Organic Lake with nearby Ace Lake \cite{Lauro2011}, \ac{SO} \cite{Wilkins2012b} and \ac{GOS} metagenomes \cite{Rusch2007}. 
 Counts of single copy gene \emph{recA} were also determined to estimate the percentage of genomes containing each marker gene (percentage of marker genes relative to \emph{recA}). 
@@ -255,7 +255,7 @@ Analysis of functional potential linked to \emph{Marinobacter} revealed addition
 
 \acp{OTU} for RF3 and Halomonas were overrepresented at 6.5 m, and RF3 sequences were more abundant \figref{fig:heatmap}. 
 Their relative abundance in the deep zone indicates a role in microaerophilic processes. 
-The majority of RF3 sequences to date are from anaerobic environments including mammalian gut \cite{Tajima1999, Ley2006, Samsudin2011}, sediment \cite{Yanagibayashi1999, Roske2012}, municipal waste leachate \cite{Huang2005}, anaerobic sludge \cite{Chouari2005, Goberna2009, Riviere2009, Tang2011}, a subsurface oil well head \cite{Yamane2011}, and the anaerobic zone of saline lakes \cite{Humayoun2003, Schmidtova2009, Bowman2000}. 
+The majority of RF3 sequences to date are from anaerobic environments including mammalian gut \cite{Tajima1999, Ley2006, Samsudin2011}, sediment \cite{Yanagibayashi1999, Roske2012}, municipal waste leachate \cite{Huang2005}, anaerobic sludge \cite{Chouari2005, Goberna2009, Riviere2009, Tang2011}, a subsurface oil well head \cite{Yamane2011}, and the anaerobic zone of saline lakes \cite{Humayoun2003, Schmidtova2009, Bowman2000a}. 
 However, some members have been found in surface waters \cite{Demergasso2008, Xing2009, Yilmaz2012} suggesting not all members are strict anaerobes. 
 
 Several \emph{Halomonas} isolates have been sourced from Organic Lake including two described species \emph{Halomonas subglaciescola} and \emph{H. meridiana}, both of which grow as rods with dimensions consistent with capture on this size fraction \cite{Franzmann1987a, James1990}. 

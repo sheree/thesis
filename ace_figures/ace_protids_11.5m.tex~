@@ -1,0 +1,258 @@
+\begin{landscape}
+\begingroup
+\footnotesize
+\begin{longtable}{p{1.8cm}p{0.9cm}p{2.2cm}p{1cm}p{2.8cm}p{13.4cm}}
+\caption[Proteins identitfied in the Ace Lake 11.5 m sample 0.1 \textmu{}m size-fraction metaproteome]{Proteins identitfied in the Ace Lake 11.5 m sample 0.1 \textmu{}m size-fraction metaproteome.
+(*) Protein group identification: proteins that contain similar peptides that could not be differentiated by the mass spectral analysis were grouped. Only one gene number of that group is displayed.
+($a$--$z$, $aa$--$pp$) Protein ambiguity groups: proteins that have some shared peptides with one or more other proteins from the same sample depth are marked with the same letters.
+}
+\label{tab:ace_protids_11.5m}
+\\
+\toprule
+\multicolumn{6}{c}{\textbf{ 11.5 m -- \acs{COG} annotated proteins }} \\
+\textbf{Gene ID} & \textbf{\acs{NSA}} & \textbf{\acs{COG}/\acs{NR} ID} & \textbf{\acs{KO}} & \textbf{Locus} & \textbf{\acs{COG} : \acs{KEGG}/\acs{NR} description} \\
+\midrule
+\endfirsthead
+\multicolumn{6}{c}
+{\tablename\ \thetable\ -- \textit{Continued from previous page}} \\
+\toprule
+\textbf{Gene ID} & \textbf{\acs{NSA}} & \textbf{\acs{COG}/\acs{NR} ID} & \textbf{\acs{KO}} & \textbf{Locus} & \textbf{\acs{COG} : \acs{KEGG}/\acs{NR} description} \\
+\midrule
+\endhead
+\bottomrule \multicolumn{6}{r} {\textit{Continued on next page}} \\
+\endfoot
+\bottomrule
+\endlastfoot
+163207432&0.01734&COG0834&K09969&SAR11\_0953&ABC-type amino acid transport system, periplasmic component : yhdW \\
+163201696&0.01011&COG1879&&MSMEG\_1374&periplasmic sugar-binding proteins : ribose ABC transporter, periplasmic binding protein \\
+163136433&0.00671&COG3409&&Clos\_2845&putative peptidoglycan-binding domain-containing protein \\
+163539247&0.00629&COG1653&&Noca\_3914&sugar-binding periplasmic proteins/domains : extracellular solute-binding protein, family 1 \\
+163377029$a$&0.00566&COG0050&K02358&amb3148&GTPases - translation elongation factors : tuf \\
+163451248$b$&0.00541&COG0715&K02051&SAR11\_0807&ABC-type nitrate/sulfonate/taurine/bicarbonate transport systems, periplasmic components \\
+163135049$c$&0.00533&COG1638&&SAR11\_0266&dicarboxylate-binding periplasmic protein : TRAP dicarboxylate transporter - DctP subunit (mannitol/chloroaromatic compounds) \\
+163451084&0.00531&COG2113&K02002&SAR11\_1302&ABC-type proline/glycine betaine transport systems, periplasmic components : opuAC \\
+163117735&0.00526&COG2113&K02001&Plav\_1066&ABC-type proline/glycine betaine transport systems, periplasmic components \\
+163198494$d$&0.00415&COG0591&&SAR11\_0316&Na$+$/proline, Na$+$/panthothenate symporters and related permeases : yjcG \\
+163416423*&0.00371&COG0776&K03530&SAR11\_0817&bacterial nucleoid DNA-binding protein : hupA \\
+163442042&0.00364&COG0687&K02055&SAR11\_1336&spermidine/putrescine-binding periplasmic protein : potD \\
+163208342$e$&0.00356&COG0834&K09969&HCH\_05807&ABC-type amino acid transport system, periplasmic component \\
+163234668*&0.00338&COG0450&&SPO3383&peroxiredoxin : thiol-specific antioxidant protein \\
+163261506&0.00336&COG1638&&SAR11\_0864&dicarboxylate-binding periplasmic protein \\
+163104605&0.00336&COG2213&K02799&GK1948&phosphotransferase system, mannitol-specific IIBC component \\
+163357996$c$&0.00321&COG1638&&SAR11\_0266&dicarboxylate-binding periplasmic protein : TRAP dicarboxylate transporter - DctP subunit (mannitol/chloroaromatic compounds) \\
+163381848$f$&0.00314&COG0459&K04077&SAR11\_0162&chaperonin GroEL (HSP60 family) \\
+163145053&0.00312&COG0683&K01999&SAR11\_1361&ABC-type branched-chain amino acid transport systems, periplasmic component : livJ2; Leu/Ile/Val-binding protein precursor \\
+163388714&0.00282&COG1638&&RD1\_2185&dicarboxylate-binding periplasmic proteind : DctP; C4-dicarboxylate-binding periplasmic protein, putative  \\
+163450920&0.00247&COG0683&K01999&SAR11\_1361&ABC-type branched-chain amino acid transport systems, periplasmic component : livJ2; Leu/Ile/Val-binding protein precursor \\
+163240441&0.00246&COG1653&K02027&PflO1\_3630&sugar-binding periplasmic proteins/domains \\
+163275955&0.00241&COG1638&&TM1040\_0356&dicarboxylate-binding periplasmic protein : TRAP dicarboxylate transporter - DctP subunit \\
+163449626&0.00229&COG1638&&Dshi\_3326&dicarboxylate-binding periplasmic protein : TRAP dicarboxylate transporter, DctP subunit \\
+163450966&0.00228&COG0687&K02055&SAR11\_1336&spermidine/putrescine-binding periplasmic protein : potD \\
+163174786&0.00223&COG2358&&PBPRA0389&predicted periplasmic binding protein : putative immunogenic protein \\
+163120641&0.00219&COG1879&K02058&CMM\_0792&periplasmic sugar-binding proteins : putative sugar ABC transporter, solute-binding protein \\
+163416343&0.00204&COG3181&&Csal\_1767&uncharacterized BCR \\
+163441934&0.00198&COG2885&K03640&SAR11\_0598&outer membrane protein and related peptidoglycan-associated (lipo)proteins : ompA; OmpA family \\
+163320067&0.00176&COG2165&K02650&SAR11\_0054&general secretory pathway proteins G and H and related periplasmic/secreted proteins : pilA; pilin (bacterial filament) \\
+163274197$b$&0.00167&COG0715&K02051&SAR11\_0807&ABC-type nitrate/sulfonate/taurine/bicarbonate transport systems, periplasmic components \\
+163128105&0.00167&COG1012&K00128&AAur\_pTC20196&NAD-dependent aldehyde dehydrogenases \\
+163214443$e$&0.00161&COG0834&K09969&HCH\_05807&ABC-type amino acid transport system, periplasmic component \\
+163174178&0.00143&COG1879&&RHA1\_ro08504&periplasmic sugar-binding proteins : ABC sugar transporter, periplasmic substrate binding protein \\
+163134937$d$&0.00138&COG0591&&SAR11\_0316&Na$+$/proline, Na$+$/panthothenate symporters and related permeases : yjcG \\
+163451228&0.00132&COG2113&K02002&SAR11\_0797&ABC-type proline/glycine betaine transport systems, periplasmic components : proX \\
+163376697*&0.00129&COG0834&K10018&SAR11\_1210&ABC-type amino acid transport system, periplasmic component : octopine/nopaline transport system  substrate-binding protein \\
+163104625&0.00119&COG0683&K01999&AAur\_1271&ABC-type branched-chain amino acid transport systems, periplasmic component : braC \\
+163498557&0.00116&COG3181&K07795&Mmwyl1\_1799&uncharacterized BCR : putative tricarboxylic transport membrane protein \\
+163497259&0.00107&COG0747&&CMM\_2185&ABC-type dipeptide/oligopeptide/nickel transport systems, periplasmic components \\
+163296806&0.00075&COG0834&K02030&SAR11\_1068&ABC-type amino acid transport system, periplasmic componentp: pheC; cyclohexadienyl dehydratase; polar amino acid transport system substrate-binding protein \\
+163277703&0.00071&COG0055&K02112&Acel\_0653&F0F1-type ATP synthase beta subunit \\
+163152101*$f$&0.00066&COG0459&K04077&SAR11\_0162&chaperonin GroEL (HSP60 family) \\
+163296936a&0.00055&COG0050&K02358&SAR11\_1130&GTPases - translation elongation factors : tufB \\
+163117667&0.00043&COG0174&K01915&SAR11\_0747&glutamine synthase : glnA \\
+163154554$a$&0.00042&COG0050&K02358&Tfu\_2648&GTPases - translation elongation factors : tuf \\
+163450946&0.00036&COG0683&K01999&SAR11\_1346&ABC-type branched-chain amino acid transport systems, periplasmic component : livJ \\
+163208382&0.00035&COG0174&K01915&CMM\_1636&glutamine synthase : glnA \\
+163135037&0.00031&COG2133&K00540&Rsph17025\_1771&glucose/sorbosone dehydrogenases \\
+163150509&0.00028&COG0737&&Haur\_2906&5'-nucleotidase/2',3'-cyclic phosphodiesterase and related esterases \\
+163195194&0.00028&COG0086&K03046&Lxx20630&DNA-directed RNA polymerase beta' subunit/160 kD subunit (split gene in archaea and Syn) : rpoC \\
+163169240*&0.00027&COG0330&K04088&SAR11\_0008&membrane protease subunits, stomatin/prohibitin homologs : hflK \\
+163135897&0.00014&COG1185&K00962&SAR11\_0392&polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase) : pnp; polynucleotide phosphorylase/polyadenylase \\
+\toprule
+\multicolumn{6}{c}{\textbf{11.5 m -- KEGG and NR annotated proteins}} \\
+\midrule
+163498919$g$&0.04693&BAF91544&&&major capsid protein [uncultured Myoviridae] \\
+163303017$h$&0.03153&&&GDI3673&hypothetical protein \\
+163496543$i$&0.03095&YP\_001648158&&&hypothetical protein [Ostreococcus virus OsV5] \\
+163312513&0.02334&YP\_002590925&&&putative porin [Candidatus Pelagibacter sp. HTCC7211] \\
+163114028$g$&0.02078&YP\_214669&&&gp23 [Prochlorococcus phage P-SSM4] \\
+163447324$i$&0.01947&YP\_001648266&&&hypothetical protein OsV5\_190f [Ostreococcus virus OsV5] \\
+163104039$j$&0.01469&YP\_001498525&&AR158\_C444L&hypothetical protein [Paramecium bursaria Chlorella virus AR158] \\
+163299338&0.01058&&&Sputw3181\_2479&phage major capsid protein, HK97 family \\
+163431599$i$&0.01022&YP\_001648266&&OsV5\_190f&hypothetical protein [Ostreococcus virus OsV5] \\
+163486997$k$&0.00971&&&SG1188&hypothetical protein \\
+163200650&0.00948&&&mlr8524&phage major capsid protein, GP36 \\
+163146271*$l$&0.00930&&&BBta\_5785&putative phage major head protein \\
+163466160&0.00921&&&BBta\_5785&putative phage major head protein \\
+163111996$h$&0.00849&&&GDI3673&hypothetical protein \\
+163277976&0.00767&&&Neut\_1469&phage major capsid protein, HK97 family protein \\
+163276037&0.00762&&&mma\_2202&hypothetical protein \\
+163114610$i$&0.00717&A7U6E7&&&putative major capsid protein [Chrysochromulina ericina virus] \\
+163191828&0.00696&ZP\_03701413&&Flav3CDRAFT\_1333&hypothetical protein [Flavobacteria bacterium MS024-3C] \\
+163121725*&0.00678&YP\_001648124&&OsV5\_047f&hypothetical protein [Ostreococcus virus OsV5] \\
+163383538*&0.00611&&&Neut\_1469&phage major capsid protein, HK97 family protein \\
+163125121$g$&0.00600&YP\_214669&&&gp23 [Prochlorococcus phage P-SSM4] \\
+163161438&0.00539&ABW90951&&&gp23 major capsid protein [uncultured Myoviridae] \\
+163404994$m$&0.00493&&&Haur\_0657&hypothetical protein \\
+163115173*$n$&0.00467&YP\_001648182&&OsV5\_105r&hypothetical protein [Ostreococcus virus OsV5] \\
+163253040&0.00435&&&Bpro\_3745&hypothetical protein \\
+163519031&0.00433&YP\_002276820&&Gdia\_2460&hypothetical protein [Gluconacetobacter diazotrophicus PAl 5] \\
+163228214$o$&0.00413&&&Daci\_1946&putative phage major head protein \\
+163291274$h$&0.00407&&&GDI3673&hypothetical protein \\
+163206524*$i$&0.00403&YP\_001648266&&OsV5\_190f&hypothetical protein [Ostreococcus virus OsV5] \\
+163514201&0.00400&&&MAB\_1788&bacteriophage protein \\
+163498539&0.00399&&&SAR11\_1290&TRAP-type bacterial extracellular solute-binding protein \\
+163432666&0.00396&&&Oter\_3421&hypothetical protein \\
+163480087&0.00392&&&APECO1\_525&hypothetical protein \\
+163187860&0.00390&&&GDI3673&hypothetical protein \\
+163529078&0.00375&&&HM1\_2880&phage major capsid protein, hk97 family \\
+163526011$i$&0.00371&A7U6E9&&&putative major capsid protein [Pyramimonas orientalis virus] \\
+163180584&0.00369&BAE06835&&&hypothetical major capsid protein [Heterosigma akashiwo virus 01] \\
+163459594$i$&0.00364&BAE06835&&&hypothetical major capsid protein [Heterosigma akashiwo virus 01] \\
+163503842$h$&0.00357&&&GDI3673&hypothetical protein \\
+163495193&0.00351&&&MAB\_1788&bacteriophage protein \\
+163385358$p$&0.00324&&&GDI3673&hypothetical protein \\
+163489449&0.00313&&&SG1188&hypothetical protein \\
+163472957&0.00310&&&Asuc\_1240&phage major capsid protein, HK97 family \\
+163131623&0.00298&YP\_195142&&&major capsid protein gp23 [Synechococcus phage S-PM2] \\
+163118697$i$&0.00289&A7U6F0&&&putative major capsid protein [Phaeocystis pouchetii virus] \\
+163420549&0.00284&&&LGAS\_1485&predicted phage phi-C31 GP36 major capsid-like protein \\
+163142179&0.00279&ZP\_03643684&&BACCOPRO\_02057&hypothetical protein [Bacteroides coprophilus DSM 18228] \\
+163250350$q$&0.00277&YP\_214367&&&T4-like major capsid protein [Prochlorococcus phage P-SSM2] \\
+163541257&0.00271&&&Swit\_4452&hypothetical protein \\
+163478791&0.00261&&&amb4267&hypothetical protein \\
+163452556&0.00245&&&APECO1\_525&hypothetical protein \\
+163507581&0.00237&&&Cthe\_2848&phage major capsid protein, HK97 \\
+163409546*&0.00234&YP\_001648301&&OsV5\_225r&hypothetical protein [Ostreococcus virus OsV5] \\
+163412911&0.00233&ZP\_03724502&&ObacDRAFT\_9001&hypothetical protein [Opitutaceae bacterium TAV2] \\
+163544869&0.00230&&&Smed\_1334&phage major capsid protein, HK97 family \\
+163323331&0.00222&&&LGAS\_1485&predicted phage phi-C31 GP36 major capsid-like protein \\
+163235228*&0.00221&&&BBta\_5785&putative phage major head protein \\
+163494515$r$&0.00217&&&LGAS\_1485&predicted phage phi-C31 GP36 major capsid-like protein \\
+163372194&0.00216&ZP\_01017474&&&major capsid protein, HK97 family protein [Parvularcula bermudensis HTCC2503] \\
+163252031$i$&0.00210&A7U6F0&&&putative major capsid protein [Phaeocystis pouchetii virus] \\
+163390078$p$&0.00210&&&GDI3673&hypothetical protein \\
+163290252$m$&0.00201&&&Haur\_0657&hypothetical protein \\
+163157042$k$&0.00196&&&SG1188&hypothetical protein \\
+163199564$i$&0.00192&YP\_001648266&&OsV5\_190f&hypothetical protein [Ostreococcus virus OsV5] \\
+163490373$h$&0.00191&&&GDI3673&hypothetical protein \\
+163445182&0.00189&&&Acid\_4111&hypothetical protein \\
+163229276$i$&0.00187&YP\_001648266&&OsV5\_190f&hypothetical protein [Ostreococcus virus OsV5] \\
+163485571$i$&0.00185&YP\_001648158&&OsV5\_081f&hypothetical protein [Ostreococcus virus OsV5] \\
+163499762&0.00183&&&BBta\_5785&putative phage major head protein \\
+163227690$i$&0.00181&YP\_001648158&&OsV5\_081f&hypothetical protein [Ostreococcus virus OsV5] \\
+163168692&0.00179&&&M446\_5960&hypothetical protein \\
+163109620*&0.00175&YP\_001648249&&OsV5\_172f&hypothetical protein [Ostreococcus virus OsV5] \\
+163105813&0.00173&&&APECO1\_4044&hypothetical protein \\
+163141843*$i$&0.00172&YP\_001648266&&OsV5\_190f&hypothetical protein [Ostreococcus virus OsV5] \\
+163117897$h$&0.00163&&&GDI3673&hypothetical protein \\
+163173092&0.00163&&&Pmen\_3970&phage major capsid protein, HK97 family \\
+163491889&0.00161&&&CKO\_01864&hypothetical protein \\
+163453714$h$&0.00159&&&GDI3673&hypothetical protein \\
+163161098$q$&0.00157&YP\_214367&&&T4-like major capsid protein [Prochlorococcus phage P-SSM2] \\
+163177212&0.00156&&&BBta\_6597&putative peptidase S14, ClpP \\
+163352152&0.00154&&&BDI\_2873&putative outer membrane protein, probably involved in nutrient binding \\
+163372026$i$&0.00151&YP\_001648266&&OsV5\_190f&hypothetical protein [Ostreococcus virus OsV5] \\
+163287382$q$&0.00151&YP\_214367&&&T4-like major capsid protein [Prochlorococcus phage P-SSM2] \\
+163379834$h$&0.00151&&&GDI3673&hypothetical protein \\
+163124973&0.00148&&&BAV1464&major capsid protein \\
+163354170&0.00145&YP\_001648190&&OsV5\_113r&hypothetical protein [Ostreococcus virus OsV5] \\
+163115568*$s$&0.00143&YP\_001648153&&OsV5\_076f&hypothetical protein [Ostreococcus virus OsV5] \\
+163410122$s$&0.00140&YP\_001648315&&OsV5\_239r&hypothetical protein [Ostreococcus virus OsV5] \\
+163411861$r$&0.00138&&&LGAS\_1485&predicted phage phi-C31 GP36 major capsid-like protein \\
+163220019&0.00132&ZP\_00743477&&RBTH\_08297&hypothetical protein [Bacillus thuringiensis serovar israelensis ATCC 35646] \\
+163134239*&0.00132&YP\_001648234&&OsV5\_157f&hypothetical protein [Ostreococcus virus OsV5] \\
+163174626*&0.00130&&K06904&BL0376&hypothetical protein with similarity to putative maturation protease of prophage CP-9 33CE \\
+163154474&0.00125&&&gll0198&similar to bacterioopsin \\
+163467688$l$&0.00115&&&Daci\_1946&putative phage major head protein \\
+163256412&0.00111&ZP\_00743477&&RBTH\_08297&hypothetical protein [Bacillus thuringiensis serovar israelensis ATCC 35646] \\
+163389410&0.00111&&&Oant\_1504&peptidase U35 phage prohead HK97 \\
+163248889$i$&0.00110&YP\_001648266&&OsV5\_190f&hypothetical protein [Ostreococcus virus OsV5] \\
+163415470$i$&0.00104&A7U6F0&&&putative major capsid protein [Phaeocystis pouchetii virus] \\
+163191410*&0.00100&YP\_001648184&&OsV5\_107r&hypothetical protein [Ostreococcus virus OsV5] \\
+163142589&0.00093&&&Pmen\_3970&phage major capsid protein, HK97 family \\
+163327003$t$&0.00088&&K06907&Dde\_1889&hypothetical protein; K06907 \\
+163211634*$i$&0.00086&YP\_001648266&&OsV5\_190f&hypothetical protein [Ostreococcus virus OsV5] \\
+163393172$i$&0.00075&YP\_001648266&&OsV5\_190f&hypothetical protein [Ostreococcus virus OsV5] \\
+163161074$t$&0.00073&&K06907&Dde\_1889&hypothetical protein; K06907 \\
+163141653*$i$&0.00070&YP\_001648158&&OsV5\_081f&hypothetical protein [Ostreococcus virus OsV5] \\
+163110018&0.00068&YP\_001294637&&ORF044&hypothetical protein [Pseudomonas phage PA11] \\
+163249021$s$&0.00067&YP\_001648315&&OsV5\_239r&hypothetical protein [Ostreococcus virus OsV5] \\
+163445294*$j$&0.00062&YP\_001498525&&AR158\_C444L&hypothetical protein [Paramecium bursaria Chlorella virus AR158] \\
+163507277&0.00058&&&CHLREDRAFT\_186229&hypothetical protein \\
+163298764$i$&0.00058&YP\_001648158&&OsV5\_081f&hypothetical protein [Ostreococcus virus OsV5] \\
+163298596$i$&0.00055&YP\_001648266&&OsV5\_190f&hypothetical protein [Ostreococcus virus OsV5] \\
+163335150&0.00053&&&BAV1464&major capsid protein \\
+163327023*$q$&0.00046&YP\_214367&&&T4-like major capsid protein [Prochlorococcus phage P-SSM2] \\
+163287366$t$&0.00038&&K06907&Sfum\_3815&phage tail sheath protein; K06907 \\
+163475851$o$&0.00028&&&ZMO0387&major head protein \\
+163195236*s&0.00027&YP\_001648315&&OsV5\_239r&hypothetical protein [Ostreococcus virus OsV5] \\
+163184761&0.00027&YP\_001648134&&OsV5\_057f&hypothetical protein [Ostreococcus virus OsV5] \\
+163109424*$n$&0.00023&YP\_001648182&&OsV5\_105r&hypothetical protein [Ostreococcus virus OsV5] \\
+163368976&0.00020&YP\_001648211&&OsV5\_134r&hypothetical protein [Ostreococcus virus OsV5] \\
+163306940&0.00018&YP\_001648185&&OsV5\_108r&hypothetical protein [Ostreococcus virus OsV5] \\
+163162936*&0.00017&YP\_001648263&&OsV5\_187r&hypothetical protein [Ostreococcus virus OsV5] \\
+163151745$s$&0.00017&YP\_001648315&&OsV5\_239r&hypothetical protein [Ostreococcus virus OsV5] \\
+\toprule
+\multicolumn{6}{c}{\textbf{11.5 m -- Proteins with no annotation}} \\
+\midrule
+163171140&0.03385&&&& \\
+163345623$u$&0.03193&&&& \\
+163279609&0.01466&&&& \\
+163534693&0.00797&&&& \\
+163109584&0.00788&&&& \\
+163251027&0.00668&&&& \\
+163250059$u$&0.00668&&&& \\
+163386750$u$&0.00650&&&& \\
+163254426&0.00638&&&& \\
+163129699&0.00610&&&& \\
+163113296*&0.00528&&&& \\
+163129983&0.00511&&&& \\
+163395912&0.00471&&&& \\
+163346783&0.00446&&&& \\
+163246177$u$&0.00435&&&& \\
+163303354&0.00395&&&& \\
+163477113&0.00385&&&& \\
+163419181&0.00349&&&& \\
+163431790$v$&0.00331&&&& \\
+163502200&0.00289&&&& \\
+163456165&0.00285&&&& \\
+163397872&0.00285&&&& \\
+163490375&0.00278&&&& \\
+163502202&0.00250&&&& \\
+163453476*&0.00247&&&& \\
+163503840&0.00234&&&& \\
+163187858&0.00225&&&& \\
+163224309$v$&0.00211&&&& \\
+163117895&0.00204&&&& \\
+163285151$w$&0.00191&&&& \\
+163511023$u$&0.00182&&&& \\
+163156214&0.00160&&&& \\
+163311655&0.00157&&&& \\
+163286408$w$&0.00138&&&& \\
+163254680&0.00138&&&& \\
+163439545*&0.00133&&&& \\
+163123675&0.00131&&&& \\
+163199154$u$&0.00126&&&& \\
+163129981&0.00097&&&& \\
+163110772*&0.00096&&&& \\
+163211312&0.00094&&&& \\
+163207714&0.00092&&&& \\
+163342613&0.00074&&&& \\
+163217867*&0.00071&&&& \\
+163110016&0.00069&&&& \\
+163117805&0.00063&&&& \\
+163280533&0.00059&&&& \\
+163168938&0.00059&&&& \\
+163320197&0.00040&&&& \\
+\end{longtable}
+\endgroup
+\end{landscape}
