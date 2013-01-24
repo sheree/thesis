@@ -1,8 +1,8 @@
 %Preamble--------------------------------------------------------------------------------------------
 
-\documentclass[11pt,a4paper,twoside,openright]{report}
+\documentclass[11pt,a4paper,twoside,openright,notitlepage]{report}
 
-\usepackage[ top=30mm, bottom=20mm ]{geometry} %This package lets you specify the margin widths.
+\usepackage[ top=30mm, bottom=20mm, left=40mm, inner=20mm, outer=40mm, bindingoffset=5mm]{geometry} %This package lets you specify the margin widths.
 
 \usepackage{textcomp} %This package formats the greek symbol mu properly.
 
@@ -53,7 +53,7 @@
 
 % Thesis/dissertation sheet goes in the inside cover of the thesis. This doc contains the abstract
 
-\include{abstract}
+\include{dissert}
 
 %Title page
 \include{title}
@@ -62,8 +62,10 @@
 \pagenumbering{roman}
 
 \include{originality}
+%\include{authenticity}
 %\include{copyright}
-\include{authenticity}
+\setcounter{page}{2}
+\include{abstract}
 \include{acknowledgements}
 \include{publist}
 
