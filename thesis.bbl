@@ -1,4 +1,4 @@
-\begin{thebibliography}{206}
+\begin{thebibliography}{207}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -793,6 +793,13 @@ Laybourn-Parry J.
 \newblock In Howard-Willsiams C., Lyons W., and Hawes I., editors,
   \emph{Ecosystem Dynamics in a Antarctic Ice-Free Landscapes}, pages 231--240.
   Rotterdam, 1997.
+
+\bibitem[Laybourn-Parry and Pearce(2007)]{Laybourn-Parry2007}
+Laybourn-Parry J. and Pearce D.~A. (2007).
+\newblock {The biodiversity and ecology of Antarctic lakes: models for
+  evolution}.
+\newblock \emph{Philosophical Transactions of the Royal Society of London.
+  Series B, Biological sciences}, 362:\penalty0 2273--2289.
 
 \bibitem[Laybourn-Parry \emph{et~al.}(2001)Laybourn-Parry, Hofer, and
   Sommaruga]{Laybourn-Parry2001}

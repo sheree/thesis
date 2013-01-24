@@ -1,27 +1,27 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {3.1}{\ignorespaces Summary of metagenomic data for Organic Lake 0.1 \textmu {}m samples used in this study}}{30}{table.caption.61}
-\contentsline {table}{\numberline {3.2}{\ignorespaces List of primers used to close the OLV genome.}}{31}{table.caption.66}
-\contentsline {table}{\numberline {3.3}{\ignorespaces OLPV and OLV proteins identified in the metaproteome}}{40}{table.caption.87}
-\contentsline {table}{\numberline {3.4}{\ignorespaces Top \textsc {BLASTp} matches of predicted coding sequences from the Organic Lake virophage genome }}{42}{table.3.4}
-\contentsline {table}{\numberline {3.5}{\ignorespaces \textsc {BLASTp} matches for \ac {OLV} \ac {MCP} in predicted \acp {ORF} of Organic Lake and Ace Lake contigs and \ac {CAMERA} metagenomic read \ac {ORF} peptide database}}{49}{table.caption.99}
+\contentsline {table}{\numberline {3.1}{\ignorespaces Summary of metagenomic data for Organic Lake 0.1 \textmu {}m samples}}{32}{table.caption.61}
+\contentsline {table}{\numberline {3.2}{\ignorespaces List of primers used to close the OLV genome.}}{33}{table.caption.66}
+\contentsline {table}{\numberline {3.3}{\ignorespaces OLPV and OLV proteins identified in the metaproteome}}{42}{table.caption.87}
+\contentsline {table}{\numberline {3.4}{\ignorespaces Annotation of Organic Lake virophage genome }}{44}{table.3.4}
+\contentsline {table}{\numberline {3.5}{\ignorespaces \acs {OLV} \acs {MCP} in Organic Lake and Ace Lake and \ac {CAMERA}}}{51}{table.caption.99}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {4.1}{\ignorespaces Summary of metagenomic data for Organic Lake profile}}{57}{table.caption.107}
-\contentsline {table}{\numberline {4.2}{\ignorespaces List of KEGG orthologs (KO) involved in nutrient cycles that were searched for in the Organic lake metagenome}}{59}{table.4.2}
-\contentsline {table}{\numberline {4.3}{\ignorespaces List of query functional marker gene sequences}}{61}{table.caption.130}
-\contentsline {table}{\numberline {4.4}{\ignorespaces Physico-chemical properties of Organic Lake 2008 vertical profile}}{65}{table.caption.138}
-\contentsline {table}{\numberline {4.5}{\ignorespaces Contribution of different taxonomic groups to counts of marker genes involved in carbon conversions}}{75}{table.caption.150}
-\contentsline {table}{\numberline {4.6}{\ignorespaces Counts of genes involved in \ac {DMSP} catabolism and photoheterotrophy in aquatic metagenomes}}{79}{table.4.6}
-\contentsline {table}{\numberline {4.7}{\ignorespaces Contribution of different taxonomic groups to counts of marker genes involved in nitrogen conversions}}{83}{table.caption.158}
-\contentsline {table}{\numberline {4.8}{\ignorespaces Contribution of different taxonomic groups to counts of marker genes involved in sulphur conversions}}{86}{table.caption.160}
+\contentsline {table}{\numberline {4.1}{\ignorespaces Summary of metagenomic data for Organic Lake profile}}{59}{table.caption.107}
+\contentsline {table}{\numberline {4.2}{\ignorespaces List of \acs {KO} groups searched for in the Organic lake metagenome}}{61}{table.4.2}
+\contentsline {table}{\numberline {4.3}{\ignorespaces List of query functional marker gene sequences}}{63}{table.caption.130}
+\contentsline {table}{\numberline {4.4}{\ignorespaces Physico-chemical properties of Organic Lake profile}}{67}{table.caption.138}
+\contentsline {table}{\numberline {4.5}{\ignorespaces Taxonomic origin of genes involved carbon cycling}}{77}{table.caption.150}
+\contentsline {table}{\numberline {4.6}{\ignorespaces Counts of genes involved in \ac {DMSP} catabolism and photoheterotrophy in aquatic metagenomes}}{81}{table.4.6}
+\contentsline {table}{\numberline {4.7}{\ignorespaces Taxonomic origin of genes involved in nitrogen conversions}}{85}{table.caption.158}
+\contentsline {table}{\numberline {4.8}{\ignorespaces Taxonomic origin of genes involved in sulphur conversions}}{88}{table.caption.160}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {6.1}{\ignorespaces Peptide data for Organic Lake metaproteomics analysis}}{113}{table.6.1}
-\contentsline {table}{\numberline {6.2}{\ignorespaces PCR-based studies of Antarctic Lakes}}{115}{table.6.2}
-\contentsline {table}{\numberline {6.3}{\ignorespaces Proteins identitfied in the Ace Lake 5 m sample 0.1 \textmu {}m size-fraction metaproteome}}{116}{table.6.3}
-\contentsline {table}{\numberline {6.4}{\ignorespaces Proteins identitfied in the Ace Lake 11.5 m sample 0.1 \textmu {}m size-fraction metaproteome}}{133}{table.6.4}
-\contentsline {table}{\numberline {6.5}{\ignorespaces Proteins identitfied in the Ace Lake 12.7 m sample 0.1 \textmu {}m size-fraction metaproteome}}{141}{table.6.5}
-\contentsline {table}{\numberline {6.6}{\ignorespaces Proteins identitfied in the Ace Lake 14 m sample 0.1 \textmu {}m size-fraction metaproteome}}{159}{table.6.6}
-\contentsline {table}{\numberline {6.7}{\ignorespaces Proteins identitfied in the Ace Lake 18 m sample 0.1 \textmu {}m size-fraction metaproteome}}{172}{table.6.7}
-\contentsline {table}{\numberline {6.8}{\ignorespaces Proteins identitfied in the Ace Lake 23 m sample 0.1 \textmu {}m size-fraction metaproteome}}{176}{table.6.8}
+\contentsline {table}{\numberline {6.1}{\ignorespaces Peptide data for Organic Lake metaproteomics analysis}}{115}{table.6.1}
+\contentsline {table}{\numberline {6.2}{\ignorespaces PCR-based studies of Antarctic Lakes}}{117}{table.6.2}
+\contentsline {table}{\numberline {6.3}{\ignorespaces Proteins identitfied in the Ace Lake 5 m sample 0.1 \textmu {}m size-fraction metaproteome}}{118}{table.6.3}
+\contentsline {table}{\numberline {6.4}{\ignorespaces Proteins identitfied in the Ace Lake 11.5 m sample 0.1 \textmu {}m size-fraction metaproteome}}{135}{table.6.4}
+\contentsline {table}{\numberline {6.5}{\ignorespaces Proteins identitfied in the Ace Lake 12.7 m sample 0.1 \textmu {}m size-fraction metaproteome}}{143}{table.6.5}
+\contentsline {table}{\numberline {6.6}{\ignorespaces Proteins identitfied in the Ace Lake 14 m sample 0.1 \textmu {}m size-fraction metaproteome}}{161}{table.6.6}
+\contentsline {table}{\numberline {6.7}{\ignorespaces Proteins identitfied in the Ace Lake 18 m sample 0.1 \textmu {}m size-fraction metaproteome}}{174}{table.6.7}
+\contentsline {table}{\numberline {6.8}{\ignorespaces Proteins identitfied in the Ace Lake 23 m sample 0.1 \textmu {}m size-fraction metaproteome}}{178}{table.6.8}

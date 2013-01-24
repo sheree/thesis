@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.21)  24 JAN 2013 17:26
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.21)  25 JAN 2013 00:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -595,7 +595,7 @@ Package caption Info: End \AtBeginDocument code.
 \openout2 = `dissert.aux'.
 
  (./dissert.tex
-<dissert_figure/thesisdissertation_SY.pdf, id=283, page=1, 597.23125pt x 845.15
+<dissert_figure/thesisdissertation_SY.pdf, id=271, page=1, 597.23125pt x 845.15
 75pt>
 File: dissert_figure/thesisdissertation_SY.pdf Graphic file (type pdf)
  <use dissert_figure/thesisdissertation_SY.pdf, page 1>
@@ -699,37 +699,39 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 11.
-
-[5]) [6
+)
+[5] [6
 
 
 ] (./thesis.toc
 Package acronym Info: Label `acro:VLP' newly defined as it shall be overridden
 although it is yet undefined on input line 28.
- [7] [8])
+ [7])
 \tf@toc=\write4
 \openout4 = `thesis.toc'.
 
- [9] [10
-
-] (./thesis.lof
+ [8] (./thesis.lof
 Package acronym Info: Label `acro:OLPV' newly defined as it shall be overridden
 
-although it is yet undefined on input line 9.
-Package acronym Info: Label `acro:OLV' newly defined as it shall be overridden
-although it is yet undefined on input line 14.
- [11])
+although it is yet undefined on input line 11.
+)
 \tf@lof=\write5
 \openout5 = `thesis.lof'.
 
- [12] (./thesis.lot
-Package acronym Info: Label `acro:MCP' newly defined as it shall be overridden
-although it is yet undefined on input line 8.
-Package acronym Info: Label `acro:ORF' newly defined as it shall be overridden
-although it is yet undefined on input line 8.
+ [9
+
+] [10
+
+] (./thesis.lot
 Package acronym Info: Label `acro:CAMERA' newly defined as it shall be overridd
 en
 although it is yet undefined on input line 8.
+
+Overfull \hbox (6.18193pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/m/n/10.95 truc-ture for Ad-vanced Mi-cro-bial Ecol-ogy Re-search and 
+Anal-y-sis ([])[][] [][]  
+ []
+
 Package acronym Info: Label `acro:DMSP' newly defined as it shall be overridden
 
 although it is yet undefined on input line 15.
@@ -739,25 +741,23 @@ Overfull \hbox (11.01819pt too wide) in paragraph at lines 15--15
 o-pro-pri-on-ate ([])[] catabolism 
  []
 
-[13
-
-])
+)
 \tf@lot=\write6
 \openout6 = `thesis.lot'.
 
- [14]
+ [11]
 \openout2 = `acronyms.aux'.
 
- (./acronyms.tex
+ (./acronyms.tex [12
+
+
+]
 Overfull \hbox (1.75575pt too wide) in paragraph at lines 25--26
 []\OT1/cmr/m/n/10.95 Community Cy-ber-in-fras-truc-ture for Ad-vanced Mi-cro-bi
 al Ecol-ogy Re-search
  []
 
-[15
-
-
-] [16]) [17]
+[13] [14]) [15]
 \openout2 = `intro.aux'.
 
  (./intro.tex
@@ -765,12 +765,6 @@ Chapter 1.
 
 Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
- []
-
-
-Overfull \hbox (29.04375pt too wide) in paragraph at lines 11--15
-\OT1/cmr/m/n/10.95 Drivers in Antarc-tic Aquatic En-vi-ron-ments. $[]$ (doi: 10
-.1111/1574-
  []
 
 
@@ -788,7 +782,7 @@ l.18 \newpage
 
 
 ] [2] (./intro_figures/vestfold_map.tex
-<intro_figures/vestfold_map.png, id=724, 380.01974pt x 406.51875pt>
+<intro_figures/vestfold_map.png, id=690, 380.01974pt x 406.51875pt>
 File: intro_figures/vestfold_map.png Graphic file (type png)
 
 <use intro_figures/vestfold_map.png>
@@ -796,26 +790,41 @@ Package pdftex.def Info: intro_figures/vestfold_map.png used on input line 2.
 (pdftex.def)             Requested size: 380.01881pt x 406.51775pt.
 )
 Package acronym Info: Label `acro:PCR' newly defined as it shall be overridden
-although it is yet undefined on input line 131.
+although it is yet undefined on input line 83.
 Package acronym Info: Label `acro:SSU' newly defined as it shall be overridden
-although it is yet undefined on input line 131.
+although it is yet undefined on input line 83.
 Package acronym Info: Label `acro:rRNA' newly defined as it shall be overridden
 
-although it is yet undefined on input line 134.
+although it is yet undefined on input line 85.
 Package acronym Info: Label `acro:DGGE' newly defined as it shall be overridden
 
-although it is yet undefined on input line 136.
+although it is yet undefined on input line 87.
  [3] [4 <./intro_figures/vestfold_map.png>] [5]
 Package acronym Info: Label `acro:GSB' newly defined as it shall be overridden
-although it is yet undefined on input line 181.
+although it is yet undefined on input line 126.
+ [6]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [6] [7] [8]
+ [7] [8]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+
+
+Package natbib Warning: Citation `Mikucki 2009' on page 9 undefined on input li
+ne 213.
+
+[9]
 Package acronym Info: Label `acro:DMSO' newly defined as it shall be overridden
 
-although it is yet undefined on input line 263.
- [9] [10]) [11]
+although it is yet undefined on input line 223.
+
+
+Package natbib Warning: Citation `Yilmaz2010' on page 10 undefined on input lin
+e 233.
+
+[10]) [11]
 \openout2 = `acelake.aux'.
 
  (./acelake.tex [12
@@ -838,72 +847,87 @@ Package acronym Info: Label `acro:JCVI' newly defined as it shall be overridden
 
 although it is yet undefined on input line 26.
 [13] [14]
-Package acronym Info: Label `acro:SSU' overridden on input line 45.
+Package acronym Info: Label `acro:SSU' overridden on input line 44.
 Package acronym Info: Label `acro:SRB' newly defined as it shall be overridden
-although it is yet undefined on input line 53.
+although it is yet undefined on input line 52.
 Package acronym Info: Label `acro:GOS' newly defined as it shall be overridden
-although it is yet undefined on input line 59.
- [15]
+although it is yet undefined on input line 57.
+Package acronym Info: Label `acro:GSB' overridden on input line 70.
+
+Overfull \hbox (12.68802pt too wide) in paragraph at lines 68--74
+[]\OT1/cmr/m/n/10.95 The vi-ral com-mu-nity com-pris-ing Phy-cod-naviri-dae, My
+-oviri-dae, Siphoviri-dae, Podoviri-
+ []
+
+[15]
 Package acronym Info: Label `acro:NCBI' newly defined as it shall be overridden
 
-although it is yet undefined on input line 71.
+although it is yet undefined on input line 75.
 Package acronym Info: Label `acro:NR' newly defined as it shall be overridden
-although it is yet undefined on input line 71.
-Package acronym Info: Label `acro:GSB' overridden on input line 75.
+although it is yet undefined on input line 75.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [16]
+[17]
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
-(Font)              using `OT1/cmr/bx/n' instead on input line 105.
+(Font)              using `OT1/cmr/bx/n' instead on input line 110.
 
-Package acronym Info: Label `acro:CAMERA' overridden on input line 107.
+Package acronym Info: Label `acro:CAMERA' overridden on input line 112.
 Package acronym Info: Label `acro:BLAST' newly defined as it shall be overridde
 n
-although it is yet undefined on input line 111.
+although it is yet undefined on input line 116.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 Package acronym Info: Label `acro:COG' newly defined as it shall be overridden
-although it is yet undefined on input line 123.
-[17]
+although it is yet undefined on input line 128.
 Package acronym Info: Label `acro:WGS' newly defined as it shall be overridden
-although it is yet undefined on input line 127.
+although it is yet undefined on input line 132.
 Missing character: There is no ‚ in font cmtt10!
 Missing character: There is no Å in font cmtt10!
 Missing character: There is no Ñ in font cmtt10!
-Package acronym Info: Label `acro:ORF' overridden on input line 133.
-Package acronym Info: Label `acro:rRNA' overridden on input line 133.
+Package acronym Info: Label `acro:ORF' newly defined as it shall be overridden
+although it is yet undefined on input line 138.
+Package acronym Info: Label `acro:rRNA' overridden on input line 138.
 Package acronym Info: Label `acro:KEGG' newly defined as it shall be overridden
 
-although it is yet undefined on input line 134.
+although it is yet undefined on input line 139.
 Package acronym Info: Label `acro:HMMER' newly defined as it shall be overridde
 n
-although it is yet undefined on input line 134.
+although it is yet undefined on input line 139.
 Package acronym Info: Label `acro:TIGRFAM' newly defined as it shall be overrid
 den
-although it is yet undefined on input line 134.
+although it is yet undefined on input line 139.
 
-Overfull \hbox (13.3379pt too wide) in paragraph at lines 127--136
+Overfull \hbox (13.3379pt too wide) in paragraph at lines 132--141
 []$\OT1/cmtt/m/n/10.95 (http : / / sourceforge . net / apps / mediawiki / wgs-[
 ]assembler / index . php ? title14SFF _
  []
 
-Package acronym Info: Label `acro:VLP' overridden on input line 140.
 
-LaTeX Warning: Command \textregistered invalid in math mode on input line 145.
+Underfull \vbox (badness 1371) has occurred while \output is active []
+
+ [18]
+Package acronym Info: Label `acro:VLP' overridden on input line 145.
 
 
-LaTeX Warning: Command \textregistered invalid in math mode on input line 145.
+LaTeX Warning: Command \textregistered invalid in math mode on input line 150.
+
+
+LaTeX Warning: Command \textregistered invalid in math mode on input line 150.
 
 Missing character: There is no Æ in font cmr8!
 Package acronym Info: Label `acro:1D-SDS PAGE' newly defined as it shall be ove
 rridden
-although it is yet undefined on input line 151.
+although it is yet undefined on input line 156.
 Package acronym Info: Label `acro:MS' newly defined as it shall be overridden
-although it is yet undefined on input line 151.
+although it is yet undefined on input line 156.
 Package acronym Info: Label `acro:MS-MS' newly defined as it shall be overridde
 n
-although it is yet undefined on input line 151.
-[18]
+although it is yet undefined on input line 156.
+[19]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -912,74 +936,79 @@ Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
 Package acronym Info: Label `acro:STAMP' newly defined as it shall be overridde
 n
-although it is yet undefined on input line 175.
- [19]
-Overfull \hbox (0.28639pt too wide) in paragraph at lines 184--184
+although it is yet undefined on input line 180.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20]
+Overfull \hbox (0.28639pt too wide) in paragraph at lines 189--189
 []\OT1/cmr/bx/n/12 Development of epi-flu-o-res-cence mi-croscopy method-ol-ogy
  for cell
  []
 
 
-Package natbib Warning: Citation `Hennes1995' on page 20 undefined on input lin
-e 197.
+Package natbib Warning: Citation `Hennes1995' on page 21 undefined on input lin
+e 202.
 
 Package acronym Info: Label `acro:PCTE' newly defined as it shall be overridden
 
-although it is yet undefined on input line 203.
-[20]
+although it is yet undefined on input line 208.
+[21]
 
-Package natbib Warning: Citation `Hara1991' on page 21 undefined on input line 
-207.
-
-
-Package natbib Warning: Citation `Proctor1992' on page 21 undefined on input li
-ne 207.
+Package natbib Warning: Citation `Hara1991' on page 22 undefined on input line 
+212.
 
 
-Package natbib Warning: Citation `Hobbie1977' on page 21 undefined on input lin
-e 208.
+Package natbib Warning: Citation `Proctor1992' on page 22 undefined on input li
+ne 212.
+
+
+Package natbib Warning: Citation `Hobbie1977' on page 22 undefined on input lin
+e 213.
 
 (./ace_figures/ace_microscopy.tex
-<ace_figures/ace_microscopy.jpg, id=1296, 542.025pt x 722.7pt>
+<ace_figures/ace_microscopy.jpg, id=1275, 542.025pt x 722.7pt>
 File: ace_figures/ace_microscopy.jpg Graphic file (type jpg)
 
 <use ace_figures/ace_microscopy.jpg>
 Package pdftex.def Info: ace_figures/ace_microscopy.jpg used on input line 2.
 (pdftex.def)             Requested size: 412.56499pt x 550.10683pt.
 ) (./ace_figures/ace_counts.tex
-<ace_figures/ace_counts.pdf, id=1297, 262.10905pt x 391.39719pt>
+<ace_figures/ace_counts.pdf, id=1276, 262.10905pt x 391.39719pt>
 File: ace_figures/ace_counts.pdf Graphic file (type pdf)
 
 <use ace_figures/ace_counts.pdf>
 Package pdftex.def Info: ace_figures/ace_counts.pdf used on input line 3.
 (pdftex.def)             Requested size: 142.26378pt x 212.44424pt.
-) [21] [22 <./ace_figures/ace_microscopy.jpg>]
-[23 <./ace_figures/ace_counts.pdf>]
+) [22] [23 <./ace_figures/ace_microscopy.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Package natbib Warning: Citation `Hahn2003' on page 24 undefined on input line 
-271.
+ [24 <./ace_figures/ace_counts.pdf>]
+
+Package natbib Warning: Citation `Hahn2003' on page 25 undefined on input line 
+276.
 
 Package acronym Info: Label `acro:CRISPR' newly defined as it shall be overridd
 en
-although it is yet undefined on input line 273.
+although it is yet undefined on input line 278.
 Package acronym Info: Label `acro:CAS' newly defined as it shall be overridden
-although it is yet undefined on input line 273.
+although it is yet undefined on input line 278.
 Package acronym Info: Label `acro:ABC' newly defined as it shall be overridden
-although it is yet undefined on input line 281.
-Package acronym Info: Label `acro:DOC' newly defined as it shall be overridden
 although it is yet undefined on input line 286.
+Package acronym Info: Label `acro:DOC' newly defined as it shall be overridden
+although it is yet undefined on input line 291.
 Missing character: There is no ¬ in font cmr10!
 Missing character: There is no ñ in font cmr10!
 Package acronym Info: Label `acro:ASR' newly defined as it shall be overridden
-although it is yet undefined on input line 295.
+although it is yet undefined on input line 300.
 
-Package acronym Warning: Acronym `ASR' is not defined on input line 295.
+Package acronym Warning: Acronym `ASR' is not defined on input line 300.
 
 
-Package acronym Warning: Acronym `ASR' is not defined on input line 295.
+Package acronym Warning: Acronym `ASR' is not defined on input line 300.
 
-[24]
-Overfull \hbox (6.9422pt too wide) in paragraph at lines 305--317
+[25]
+Overfull \hbox (6.9422pt too wide) in paragraph at lines 310--322
 \OT1/cmr/m/n/10.95 Using com-ple-men-tary ap-proaches helps to val-i-date the r
 e-search method-ol-ogy and metage-
  []
@@ -987,11 +1016,15 @@ e-search method-ol-ogy and metage-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [25])
-[26]
+ [26])
+[27]
 \openout2 = `olv.aux'.
 
- (./olv.tex
+ (./olv.tex [28
+
+
+
+]
 Chapter 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 9--10
@@ -1003,11 +1036,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--17
 
  []
 
-[27
-
-
-
-] [28]
+[29] [30]
 Package acronym Info: Label `acro:PV' newly defined as it shall be overridden
 although it is yet undefined on input line 48.
 Package acronym Info: Label `acro:DOC' overridden on input line 49.
@@ -1016,9 +1045,10 @@ although it is yet undefined on input line 57.
 Package acronym Info: Label `acro:ApMV' newly defined as it shall be overridden
 
 although it is yet undefined on input line 65.
-Package acronym Info: Label `acro:OLV' overridden on input line 66.
+Package acronym Info: Label `acro:OLV' newly defined as it shall be overridden
+although it is yet undefined on input line 66.
 Package acronym Info: Label `acro:OLPV' overridden on input line 66.
- [29]
+ [31]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -1037,7 +1067,7 @@ Overfull \hbox (5.64056pt too wide) in paragraph at lines 17--17
 []|\OT1/cmr/m/n/10 GS379| 
  []
 
-) [30]
+) [32]
 Package acronym Info: Label `acro:BLAST' overridden on input line 95.
 Package acronym Info: Label `acro:ACT' newly defined as it shall be overridden
 although it is yet undefined on input line 103.
@@ -1099,14 +1129,15 @@ Overfull \hbox (2.42204pt too wide) in paragraph at lines 19--19
 
 )
 Package acronym Info: Label `acro:PCR' overridden on input line 111.
- [31]
+ [33]
 Package acronym Info: Label `acro:MEGA' newly defined as it shall be overridden
 
 although it is yet undefined on input line 119.
 Package acronym Info: Label `acro:rRNA' overridden on input line 121.
-Package acronym Info: Label `acro:MCP' overridden on input line 122.
- [32] (./olv_figures/olv_GC_plot.tex
-<olv_figures/olv_GC_plot.jpg, id=1645, 242.1045pt x 145.2627pt>
+Package acronym Info: Label `acro:MCP' newly defined as it shall be overridden
+although it is yet undefined on input line 122.
+ [34] (./olv_figures/olv_GC_plot.tex
+<olv_figures/olv_GC_plot.jpg, id=1626, 242.1045pt x 145.2627pt>
 File: olv_figures/olv_GC_plot.jpg Graphic file (type jpg)
 
 <use olv_figures/olv_GC_plot.jpg>
@@ -1119,14 +1150,14 @@ Package acronym Info: Label `acro:OLPV' overridden on input line 197.
 Package acronym Info: Label `acro:TEM' newly defined as it shall be overridden
 although it is yet undefined on input line 198.
  (./olv_figures/TEM.tex
-<olv_figures/TEM.jpg, id=1652, 239.89626pt x 412.54124pt>
+<olv_figures/TEM.jpg, id=1633, 239.89626pt x 412.54124pt>
 File: olv_figures/TEM.jpg Graphic file (type jpg)
 
 <use olv_figures/TEM.jpg>
 Package pdftex.def Info: olv_figures/TEM.jpg used on input line 3.
 (pdftex.def)             Requested size: 170.71652pt x 293.57988pt.
 Package acronym Info: Label `acro:VLP' overridden on input line 7.
- [33])
+ [35])
 Package acronym Info: Label `acro:DPOB' newly defined as it shall be overridden
 
 although it is yet undefined on input line 202.
@@ -1134,7 +1165,7 @@ Package acronym Info: Label `acro:NCLDV' newly defined as it shall be overridde
 n
 although it is yet undefined on input line 204.
  (./olv_figures/OLPV_full_dpo.tex
-<olv_figures/OLPV_full_dpo.jpg, id=1690, 370.986pt x 324.7332pt>
+<olv_figures/OLPV_full_dpo.jpg, id=1671, 370.986pt x 324.7332pt>
 File: olv_figures/OLPV_full_dpo.jpg Graphic file (type jpg)
 
 <use olv_figures/OLPV_full_dpo.jpg>
@@ -1142,8 +1173,8 @@ Package pdftex.def Info: olv_figures/OLPV_full_dpo.jpg used on input line 2.
 (pdftex.def)             Requested size: 412.56499pt x 361.1419pt.
 )
 Package acronym Info: Label `acro:rRNA' overridden on input line 210.
- (./olv_figures/18s.tex [34 <./olv_figures/olv_GC_plot.jpg>] [35 <./olv_figures
-/TEM.jpg>] [36 <./olv_figures/OLPV_full_dpo.jpg>] <olv_figures/18s.pdf, id=1734
+ (./olv_figures/18s.tex [36 <./olv_figures/olv_GC_plot.jpg>] [37 <./olv_figures
+/TEM.jpg>] [38 <./olv_figures/OLPV_full_dpo.jpg>] <olv_figures/18s.pdf, id=1715
 , 1707.17805pt x 1095.29195pt>
 File: olv_figures/18s.pdf Graphic file (type pdf)
 
@@ -1154,8 +1185,8 @@ Package pdftex.def Info: olv_figures/18s.pdf used on input line 4.
 
 LaTeX Warning: Float too large for page by 37.2pt on input line 11.
 
-[37 <./olv_figures/18s.pdf>]) (./olv_figures/OLPV_genome.tex
-<olv_figures/OLPV_genome.jpg, id=1798, 496.4949pt x 104.0688pt>
+[39 <./olv_figures/18s.pdf>]) (./olv_figures/OLPV_genome.tex
+<olv_figures/OLPV_genome.jpg, id=1779, 496.4949pt x 104.0688pt>
 File: olv_figures/OLPV_genome.jpg Graphic file (type jpg)
 
 <use olv_figures/OLPV_genome.jpg>
@@ -1164,7 +1195,7 @@ Package pdftex.def Info: olv_figures/OLPV_genome.jpg used on input line 2.
 Package acronym Info: Label `acro:MCP' overridden on input line 4.
 Package acronym Info: Label `acro:OLV' overridden on input line 4.
 ) (./olv_figures/OLPV_full_mcp.tex
-<olv_figures/OLPV_full_mcp.jpg, id=1817, 312.2064pt x 299.1978pt>
+<olv_figures/OLPV_full_mcp.jpg, id=1798, 312.2064pt x 299.1978pt>
 File: olv_figures/OLPV_full_mcp.jpg Graphic file (type jpg)
 
 <use olv_figures/OLPV_full_mcp.jpg>
@@ -1368,7 +1399,7 @@ Overfull \hbox (7.17757pt too wide) in alignment at lines 38--38
 )
 Package acronym Info: Label `acro:PCR' overridden on input line 233.
  (./olv_figures/OLV_genome.tex
-<olv_figures/OLV_genome.pdf, id=1848, 1406.53813pt x 929.58002pt>
+<olv_figures/OLV_genome.pdf, id=1829, 1406.53813pt x 929.58002pt>
 File: olv_figures/OLV_genome.pdf Graphic file (type pdf)
 
 <use olv_figures/OLV_genome.pdf>
@@ -1376,11 +1407,11 @@ Package pdftex.def Info: olv_figures/OLV_genome.pdf used on input line 2.
 (pdftex.def)             Requested size: 412.56499pt x 272.66345pt.
 Package acronym Info: Label `acro:NR' overridden on input line 4.
 Package acronym Info: Label `acro:GOS' overridden on input line 4.
-) (./olv_figures/olv_annotation.tex [38
+) (./olv_figures/olv_annotation.tex [40
 
 
- <./olv_figures/OLPV_genome.jpg>] [39 <./olv_figures/OLPV_full_mcp.jpg>] [40] [
-41 <./olv_figures/OLV_genome.pdf>]
+ <./olv_figures/OLPV_genome.jpg>] [41 <./olv_figures/OLPV_full_mcp.jpg>] [42] [
+43 <./olv_figures/OLV_genome.pdf>]
 Package acronym Info: Label `acro:CAMERA' overridden on input line 5.
 Package acronym Info: Label `acro:ORF' overridden on input line 5.
 
@@ -1788,25 +1819,25 @@ Overfull \hbox (5.77744pt too wide) in paragraph at lines 103--103
 []|\OT1/cmr/m/n/9 25,376| 
  []
 
-[42
+[44
 
-] [43] [44]) (./olv_figures/OLV_OLPV_compare.tex
-<olv_figures/OLV_OLPV_compare.jpg, id=1940, 512.1534pt x 328.5876pt>
+] [45] [46]) (./olv_figures/OLV_OLPV_compare.tex
+<olv_figures/OLV_OLPV_compare.jpg, id=1921, 512.1534pt x 328.5876pt>
 File: olv_figures/OLV_OLPV_compare.jpg Graphic file (type jpg)
 
 <use olv_figures/OLV_OLPV_compare.jpg>
 Package pdftex.def Info: olv_figures/OLV_OLPV_compare.jpg used on input line 2.
 
 (pdftex.def)             Requested size: 412.56499pt x 264.70549pt.
-) [45
+) [47
 
 ]
 Package acronym Info: Label `acro:RM' newly defined as it shall be overridden
 although it is yet undefined on input line 269.
 Package acronym Info: Label `acro:RE' newly defined as it shall be overridden
 although it is yet undefined on input line 269.
- [46 <./olv_figures/OLV_OLPV_compare.jpg>] (./olv_figures/LV.tex
-<olv_figures/LV.jpg, id=2025, 503.7219pt x 297.0297pt>
+ [48 <./olv_figures/OLV_OLPV_compare.jpg>] (./olv_figures/LV.tex
+<olv_figures/LV.jpg, id=2006, 503.7219pt x 297.0297pt>
 File: olv_figures/LV.jpg Graphic file (type jpg)
 
 <use olv_figures/LV.jpg>
@@ -1815,8 +1846,8 @@ Package pdftex.def Info: olv_figures/LV.jpg used on input line 2.
 )
 Underfull \vbox (badness 3068) has occurred while \output is active []
 
- [47 <./olv_figures/LV.jpg>] (./olv_figures/OLV_time.tex
-<olv_figures/OLV_time.jpg, id=2063, 253.6677pt x 227.6505pt>
+ [49 <./olv_figures/LV.jpg>] (./olv_figures/OLV_time.tex
+<olv_figures/OLV_time.jpg, id=2044, 253.6677pt x 227.6505pt>
 File: olv_figures/OLV_time.jpg Graphic file (type jpg)
 
 <use olv_figures/OLV_time.jpg>
@@ -2738,17 +2769,17 @@ Overfull \hbox (6.84294pt too wide) in paragraph at lines 69--69
  []
 
 ) (./olv_figures/OLV_phylogeny.tex
-<olv_figures/OLV_phylogeny.jpg, id=2095, 261.6174pt x 276.0714pt>
+<olv_figures/OLV_phylogeny.jpg, id=2076, 261.6174pt x 276.0714pt>
 File: olv_figures/OLV_phylogeny.jpg Graphic file (type jpg)
 
 <use olv_figures/OLV_phylogeny.jpg>
 Package pdftex.def Info: olv_figures/OLV_phylogeny.jpg used on input line 3.
 (pdftex.def)             Requested size: 284.52756pt x 300.27155pt.
-) [48 <./olv_figures/OLV_time.jpg>] [49]
-[50 <./olv_figures/OLV_phylogeny.jpg>]) [51]
+) [50 <./olv_figures/OLV_time.jpg>] [51]
+[52 <./olv_figures/OLV_phylogeny.jpg>]) [53]
 \openout2 = `orglake.aux'.
 
- (./orglake.tex [52
+ (./orglake.tex [54
 
 
 
@@ -2759,16 +2790,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
-[53]
+[55]
 Package acronym Info: Label `acro:DMS' overridden on input line 28.
 Package acronym Info: Label `acro:DMSP' overridden on input line 35.
- [54]
+ [56]
 Package acronym Info: Label `acro:AAnP' newly defined as it shall be overridden
 
 although it is yet undefined on input line 57.
 Package acronym Info: Label `acro:DMS' overridden on input line 62.
 Package acronym Info: Label `acro:DMSP' overridden on input line 68.
- [55] (./orglake_figures/metag_table.tex
+ [57] (./orglake_figures/metag_table.tex
 Overfull \hbox (6.25887pt too wide) in paragraph at lines 29--29
 []|\OT1/cmr/bx/n/9 Depth| 
  []
@@ -2926,7 +2957,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--29
 )
 Package acronym Info: Label `acro:DO' newly defined as it shall be overridden
 although it is yet undefined on input line 94.
- [56] [57]
+ [58] [59]
 Package acronym Info: Label `acro:TN' newly defined as it shall be overridden
 although it is yet undefined on input line 106.
 Package acronym Info: Label `acro:TDN' newly defined as it shall be overridden
@@ -2969,7 +3000,7 @@ Package acronym Info: Label `acro:OTU' newly defined as it shall be overridden
 although it is yet undefined on input line 127.
 Package acronym Info: Label `acro:RDP' newly defined as it shall be overridden
 although it is yet undefined on input line 130.
-[58]
+[60]
 Package acronym Info: Label `acro:ANOSIM' newly defined as it shall be overridd
 en
 although it is yet undefined on input line 137.
@@ -3224,7 +3255,7 @@ Overfull \hbox (5.3208pt too wide) in alignment at lines 41--61
  [] [] [] [] 
  []
 
-[59]
+[61]
 Overfull \hbox (1.8651pt too wide) in paragraph at lines 61--61
 []|\OT1/cmr/m/n/9 K00265| 
  []
@@ -3309,7 +3340,7 @@ Overfull \hbox (5.3208pt too wide) in alignment at lines 61--76
  [] [] [] [] 
  []
 
-[60]) (./orglake_figures/marker_table.tex
+[62]) (./orglake_figures/marker_table.tex
 Underfull \hbox (badness 10000) in paragraph at lines 45--45
 []|\OT1/cmr/bx/n/9 Gene
  []
@@ -3330,7 +3361,7 @@ Overfull \hbox (4.08125pt too wide) in paragraph at lines 45--45
  []
 
 
-Package natbib Warning: Citation `Curson2011' on page 61 undefined on input lin
+Package natbib Warning: Citation `Curson2011' on page 63 undefined on input lin
 e 45.
 
 
@@ -3344,7 +3375,7 @@ Overfull \hbox (8.25621pt too wide) in paragraph at lines 45--45
  []
 
 
-Package natbib Warning: Citation `Fuchs2006' on page 61 undefined on input line
+Package natbib Warning: Citation `Fuchs2006' on page 63 undefined on input line
  45.
 
 
@@ -3353,53 +3384,53 @@ Overfull \hbox (8.25621pt too wide) in paragraph at lines 45--45
  []
 
 
-Package natbib Warning: Citation `Fuchs2006' on page 61 undefined on input line
+Package natbib Warning: Citation `Fuchs2006' on page 63 undefined on input line
  45.
 
 
-Package natbib Warning: Citation `Sievert2008' on page 61 undefined on input li
+Package natbib Warning: Citation `Sievert2008' on page 63 undefined on input li
 ne 45.
 
 
-Package natbib Warning: Citation `Scott2006' on page 61 undefined on input line
+Package natbib Warning: Citation `Scott2006' on page 63 undefined on input line
  45.
 
 
-Package natbib Warning: Citation `Sievert2008' on page 61 undefined on input li
+Package natbib Warning: Citation `Sievert2008' on page 63 undefined on input li
 ne 45.
 
 
-Package natbib Warning: Citation `Scott2006' on page 61 undefined on input line
+Package natbib Warning: Citation `Scott2006' on page 63 undefined on input line
  45.
 
 
-Package natbib Warning: Citation `Sievert2008' on page 61 undefined on input li
+Package natbib Warning: Citation `Sievert2008' on page 63 undefined on input li
 ne 45.
 
 
-Package natbib Warning: Citation `Scott2006' on page 61 undefined on input line
+Package natbib Warning: Citation `Scott2006' on page 63 undefined on input line
  45.
 
 
-Package natbib Warning: Citation `Sievert2008' on page 61 undefined on input li
+Package natbib Warning: Citation `Sievert2008' on page 63 undefined on input li
 ne 45.
 
 
-Package natbib Warning: Citation `Scott2006' on page 61 undefined on input line
+Package natbib Warning: Citation `Scott2006' on page 63 undefined on input line
  45.
 
 
-Package natbib Warning: Citation `Sievert2008' on page 61 undefined on input li
+Package natbib Warning: Citation `Sievert2008' on page 63 undefined on input li
 ne 45.
 
-) [61]
+) [63]
 Package acronym Info: Label `acro:SO' newly defined as it shall be overridden
 although it is yet undefined on input line 158.
 Package acronym Info: Label `acro:GOS' overridden on input line 158.
 Package acronym Info: Label `acro:CAMERA' overridden on input line 161.
 Package acronym Info: Label `acro:MEGA' overridden on input line 165.
  (./orglake_figures/probe_profiles.tex
-<orglake_figures/probe_profiles.pdf, id=2576, 426.79135pt x 295.679pt>
+<orglake_figures/probe_profiles.pdf, id=2557, 426.79135pt x 295.679pt>
 File: orglake_figures/probe_profiles.pdf Graphic file (type pdf)
 
 <use orglake_figures/probe_profiles.pdf>
@@ -3407,14 +3438,14 @@ Package pdftex.def Info: orglake_figures/probe_profiles.pdf used on input line
 2.
 (pdftex.def)             Requested size: 412.56499pt x 285.82472pt.
 ) (./orglake_figures/bathymetry.tex
-<orglake_figures/bathymetry.jpg, id=2577, 812.03375pt x 591.20876pt>
+<orglake_figures/bathymetry.jpg, id=2558, 812.03375pt x 591.20876pt>
 File: orglake_figures/bathymetry.jpg Graphic file (type jpg)
 
 <use orglake_figures/bathymetry.jpg>
 Package pdftex.def Info: orglake_figures/bathymetry.jpg used on input line 2.
 (pdftex.def)             Requested size: 412.56499pt x 300.36679pt.
 ) (./orglake_figures/vert_struc.tex
-<orglake_figures/vert_struc.pdf, id=2578, 440.0605pt x 338.868pt>
+<orglake_figures/vert_struc.pdf, id=2559, 440.0605pt x 338.868pt>
 File: orglake_figures/vert_struc.pdf Graphic file (type pdf)
 
 <use orglake_figures/vert_struc.pdf>
@@ -3426,23 +3457,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--30
  []
 
 ) (./orglake_figures/microscopy.tex
-<orglake_figures/microscopy.pdf, id=2627, 426.79132pt x 488.40704pt>
+<orglake_figures/microscopy.pdf, id=2608, 426.79132pt x 488.40704pt>
 File: orglake_figures/microscopy.pdf Graphic file (type pdf)
 
 <use orglake_figures/microscopy.pdf>
 Package pdftex.def Info: orglake_figures/microscopy.pdf used on input line 2.
 (pdftex.def)             Requested size: 412.56499pt x 472.12962pt.
-) [62] [63 <./orglake_figures/probe_profiles.pdf> <./orglake_figures/bathymetry
-.jpg>] [64 <./orglake_figures/vert_struc.pdf>] (./orglake_figures/pca.tex
-<orglake_figures/pca.pdf, id=2830, 426.79135pt x 268.0287pt>
+) [64] [65 <./orglake_figures/probe_profiles.pdf> <./orglake_figures/bathymetry
+.jpg>] [66 <./orglake_figures/vert_struc.pdf>] (./orglake_figures/pca.tex
+<orglake_figures/pca.pdf, id=2811, 426.79135pt x 268.0287pt>
 File: orglake_figures/pca.pdf Graphic file (type pdf)
 
 <use orglake_figures/pca.pdf>
 Package pdftex.def Info: orglake_figures/pca.pdf used on input line 2.
 (pdftex.def)             Requested size: 412.56499pt x 259.09593pt.
-) [65] [66 <./orglake_figures/microscopy.pdf>]
+) [67] [68 <./orglake_figures/microscopy.pdf>]
 (./orglake_figures/genus_barplots_bact.tex
-<orglake_figures/genus_barplots3_1.pdf, id=2868, 408.74576pt x 446.75883pt>
+<orglake_figures/genus_barplots3_1.pdf, id=2851, 408.74576pt x 446.75883pt>
 File: orglake_figures/genus_barplots3_1.pdf Graphic file (type pdf)
 
 <use orglake_figures/genus_barplots3_1.pdf>
@@ -3451,7 +3482,7 @@ ne 2.
 (pdftex.def)             Requested size: 412.56499pt x 450.95699pt.
 )
 (./orglake_figures/genus_barplots_euk.tex
-<orglake_figures/genus_barplots3_2.pdf, id=2878, 426.79132pt x 284.52753pt>
+<orglake_figures/genus_barplots3_2.pdf, id=2861, 426.79132pt x 284.52753pt>
 File: orglake_figures/genus_barplots3_2.pdf Graphic file (type pdf)
 
 <use orglake_figures/genus_barplots3_2.pdf>
@@ -3459,7 +3490,7 @@ Package pdftex.def Info: orglake_figures/genus_barplots3_2.pdf used on input li
 ne 3.
 (pdftex.def)             Requested size: 412.56499pt x 275.0449pt.
 ) (./orglake_figures/heatmap.tex
-<orglake_figures/heatmap.pdf, id=2883, 426.8406pt x 437.99147pt>
+<orglake_figures/heatmap.pdf, id=2866, 426.8406pt x 437.99147pt>
 File: orglake_figures/heatmap.pdf Graphic file (type pdf)
 
 <use orglake_figures/heatmap.pdf>
@@ -3468,19 +3499,19 @@ Package pdftex.def Info: orglake_figures/heatmap.pdf used on input line 2.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [67 <./orglake_figures/pca.pdf>] [68 <./orglake_figures/genus_barplots3_1.pdf>
-] [69 <./orglake_figures/genus_barplots3_2.pdf>]
+ [69 <./orglake_figures/pca.pdf>] [70 <./orglake_figures/genus_barplots3_1.pdf>
+] [71 <./orglake_figures/genus_barplots3_2.pdf>]
 
-Package natbib Warning: Citation `Kirchman2002' on page 70 undefined on input l
+Package natbib Warning: Citation `Kirchman2002' on page 72 undefined on input l
 ine 231.
 
 
-Package natbib Warning: Citation `Teeling2012' on page 70 undefined on input li
+Package natbib Warning: Citation `Teeling2012' on page 72 undefined on input li
 ne 242.
 
-[70] [71 <./orglake_figures/heatmap.pdf>]
+[72] [73 <./orglake_figures/heatmap.pdf>]
 Package acronym Info: Label `acro:DMSO' overridden on input line 252.
- [72]
+ [74]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
@@ -3490,9 +3521,9 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
- [73]
+ [75]
 (./orglake_figures/c_cycle.tex
-<orglake_figures/c_cycle.pdf, id=3329, 426.79132pt x 204.86789pt>
+<orglake_figures/c_cycle.pdf, id=3311, 426.79132pt x 204.86789pt>
 File: orglake_figures/c_cycle.pdf Graphic file (type pdf)
 
 <use orglake_figures/c_cycle.pdf>
@@ -3529,7 +3560,7 @@ m/it/10.95 Thiomi-crospira\OT1/cmr/m/n/10.95 , in-di-cat-ing some \OT1/cmr/m/it
 /10.95 Gammapro-
  []
 
-[74 <./orglake_figures/c_cycle.pdf>] [75]
+[76 <./orglake_figures/c_cycle.pdf>] [77]
 Package acronym Info: Label `acro:rTCA' newly defined as it shall be overridden
 
 although it is yet undefined on input line 306.
@@ -3543,9 +3574,9 @@ although it is yet undefined on input line 327.
 
 Underfull \vbox (badness 5711) has occurred while \output is active []
 
- [76]
+ [78]
 (./orglake_figures/rhodopsin_tree.tex
-<orglake_figures/rhodopsin_tree.pdf, id=3469, 328.05196pt x 557.7413pt>
+<orglake_figures/rhodopsin_tree.pdf, id=3451, 328.05196pt x 557.7413pt>
 File: orglake_figures/rhodopsin_tree.pdf Graphic file (type pdf)
 
 <use orglake_figures/rhodopsin_tree.pdf>
@@ -3557,7 +3588,7 @@ Package pdftex.def Info: orglake_figures/rhodopsin_tree.pdf used on input line
 LaTeX Warning: Float too large for page by 14.55692pt on input line 6.
 
 ) (./orglake_figures/OLR1_scaffolds.tex
-<orglake_figures/OLR1_scaffolds.pdf, id=3486, 426.79135pt x 208.8768pt>
+<orglake_figures/OLR1_scaffolds.pdf, id=3468, 426.79135pt x 208.8768pt>
 File: orglake_figures/OLR1_scaffolds.pdf Graphic file (type pdf)
 
 <use orglake_figures/OLR1_scaffolds.pdf>
@@ -3686,18 +3717,18 @@ Overfull \hbox (8.41483pt too wide) in alignment at lines 25--46
  [] [] [] [] [] [] [] [] [] 
  []
 
-[77] [78 <./orglake_figures/rhodopsin_tree.pdf>]
+[79] [80 <./orglake_figures/rhodopsin_tree.pdf>]
 Overfull \hbox (8.41483pt too wide) in alignment at lines 46--61
  [] [] [] [] [] [] [] [] [] 
  []
 
-[79 <./orglake_figures/OLR1_scaffolds.pdf>]
+[81 <./orglake_figures/OLR1_scaffolds.pdf>]
 Overfull \hbox (8.41483pt too wide) in alignment at lines 61--64
  [] [] [] [] [] [] [] [] [] 
  []
 
-) [80] (./orglake_figures/n_cycle.tex
-<orglake_figures/n_cycle.pdf, id=3672, 426.79135pt x 219.85403pt>
+) [82] (./orglake_figures/n_cycle.tex
+<orglake_figures/n_cycle.pdf, id=3655, 426.79135pt x 219.85403pt>
 File: orglake_figures/n_cycle.pdf Graphic file (type pdf)
 
 <use orglake_figures/n_cycle.pdf>
@@ -3705,13 +3736,13 @@ Package pdftex.def Info: orglake_figures/n_cycle.pdf used on input line 2.
 (pdftex.def)             Requested size: 412.56499pt x 212.52681pt.
 )
 
-LaTeX Warning: Reference `n_cycle_sp' on page 81 undefined on input line 364.
+LaTeX Warning: Reference `n_cycle_sp' on page 83 undefined on input line 364.
 
 
-LaTeX Warning: Reference `n_cycle_sp' on page 81 undefined on input line 366.
+LaTeX Warning: Reference `n_cycle_sp' on page 83 undefined on input line 366.
 
 
-LaTeX Warning: Reference `n_cycle_sp' on page 81 undefined on input line 369.
+LaTeX Warning: Reference `n_cycle_sp' on page 83 undefined on input line 369.
 
 (./orglake_figures/n_cycle_sp.tex
 Overfull \hbox (20.52786pt too wide) in paragraph at lines 45--45
@@ -3768,22 +3799,22 @@ Overfull \hbox (1.86128pt too wide) in paragraph at lines 45--45
 []|\OT1/cmr/bx/n/9 0.32| 
  []
 
-[81 <./orglake_figures/n_cycle.pdf>])
+[83 <./orglake_figures/n_cycle.pdf>])
 
-LaTeX Warning: Reference `n_cycle_sp' on page 82 undefined on input line 374.
-
-
-LaTeX Warning: Reference `n_cycle_sp' on page 82 undefined on input line 376.
+LaTeX Warning: Reference `n_cycle_sp' on page 84 undefined on input line 374.
 
 
-LaTeX Warning: Reference `n_cycle_sp' on page 82 undefined on input line 381.
+LaTeX Warning: Reference `n_cycle_sp' on page 84 undefined on input line 376.
+
+
+LaTeX Warning: Reference `n_cycle_sp' on page 84 undefined on input line 381.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [82]
-[83] (./orglake_figures/s_cycle.tex
-<orglake_figures/s_cycle.pdf, id=3781, 426.79135pt x 322.89711pt>
+ [84]
+[85] (./orglake_figures/s_cycle.tex
+<orglake_figures/s_cycle.pdf, id=3764, 426.79135pt x 322.89711pt>
 File: orglake_figures/s_cycle.pdf Graphic file (type pdf)
 
 <use orglake_figures/s_cycle.pdf>
@@ -3819,15 +3850,15 @@ Overfull \hbox (11.71754pt too wide) in paragraph at lines 45--45
 []|[]| 
  []
 
-[84 <./orglake_figures/s_cycle.pdf>]) (./orglake_figures/dddD_tree.tex
-<orglake_figures/dddD_tree.pdf, id=3881, 426.79132pt x 327.89279pt>
+[86 <./orglake_figures/s_cycle.pdf>]) (./orglake_figures/dddD_tree.tex
+<orglake_figures/dddD_tree.pdf, id=3864, 426.79132pt x 327.89279pt>
 File: orglake_figures/dddD_tree.pdf Graphic file (type pdf)
 
 <use orglake_figures/dddD_tree.pdf>
 Package pdftex.def Info: orglake_figures/dddD_tree.pdf used on input line 2.
 (pdftex.def)             Requested size: 412.56499pt x 316.9649pt.
 ) (./orglake_figures/OLdddD_scaffolds.tex
-<orglake_figures/OLdddD_scaffolds.pdf, id=3897, 426.79132pt x 159.34117pt>
+<orglake_figures/OLdddD_scaffolds.pdf, id=3880, 426.79132pt x 159.34117pt>
 File: orglake_figures/OLdddD_scaffolds.pdf Graphic file (type pdf)
 
 <use orglake_figures/OLdddD_scaffolds.pdf>
@@ -3837,16 +3868,16 @@ e 2.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [85]
-[86] [87 <./orglake_figures/dddD_tree.pdf>] (./orglake_figures/dddL_tree.tex
-<orglake_figures/dddL_tree.pdf, id=3946, 426.79135pt x 358.8129pt>
+ [87]
+[88] [89 <./orglake_figures/dddD_tree.pdf>] (./orglake_figures/dddL_tree.tex
+<orglake_figures/dddL_tree.pdf, id=3929, 426.79135pt x 358.8129pt>
 File: orglake_figures/dddL_tree.pdf Graphic file (type pdf)
 
 <use orglake_figures/dddL_tree.pdf>
 Package pdftex.def Info: orglake_figures/dddL_tree.pdf used on input line 2.
 (pdftex.def)             Requested size: 412.56499pt x 346.85452pt.
 ) (./orglake_figures/dddP_tree.tex
-<orglake_figures/dddP_tree.pdf, id=3956, 426.79132pt x 365.98398pt>
+<orglake_figures/dddP_tree.pdf, id=3939, 426.79132pt x 365.98398pt>
 File: orglake_figures/dddP_tree.pdf Graphic file (type pdf)
 
 <use orglake_figures/dddP_tree.pdf>
@@ -3854,12 +3885,12 @@ Package pdftex.def Info: orglake_figures/dddP_tree.pdf used on input line 2.
 (pdftex.def)             Requested size: 412.56499pt x 353.78659pt.
 
 Underfull \hbox (badness 1067) in paragraph at lines 3--3
-\OT1/cmr/m/n/10.95 ZP[]01741265, ZP[]01036399, ZP[]01881042, ZP[]05063825, AFO9
-1571, YP[]509721,
+\OT1/cmr/m/n/10.95 ZP[]01036399, ZP[]01881042, ZP[]05063825, AFO91571, YP[]5097
+21, ZP[]01448542,
  []
 
 ) (./orglake_figures/dmdA_tree.tex
-<orglake_figures/dmdA_tree.pdf, id=3961, 426.79135pt x 318.06824pt>
+<orglake_figures/dmdA_tree.pdf, id=3944, 426.79135pt x 318.06824pt>
 File: orglake_figures/dmdA_tree.pdf Graphic file (type pdf)
 
 <use orglake_figures/dmdA_tree.pdf>
@@ -3875,40 +3906,40 @@ mdA \OT1/cmr/m/n/10.95 was iden-ti-fied. It clus-tered with \OT1/cmr/m/it/10.95
 
 Underfull \vbox (badness 4699) has occurred while \output is active []
 
- [88 <./orglake_figures/OLdddD_scaffolds.pdf>] [89 <./orglake_figures/dddL_tree
+ [90 <./orglake_figures/OLdddD_scaffolds.pdf>] [91 <./orglake_figures/dddL_tree
 .pdf>]
-[90 <./orglake_figures/dddP_tree.pdf>] [91 <./orglake_figures/dmdA_tree.pdf>]
-[92]) [93] [94]
+[92 <./orglake_figures/dddP_tree.pdf>] [93 <./orglake_figures/dmdA_tree.pdf>]
+[94]) [95] [96]
 \openout2 = `conc.aux'.
 
  (./conc.tex
 Chapter 5.
-) [95
+) [97
 
 
 
-] (./thesis.bbl [96
+] (./thesis.bbl [98
 
 
-] [97]
+] [99]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ñ in font cmr10!
 Missing character: There is no ¢ in font cmr10!
- [98] [99] [100] [101] [102]
+ [100] [101] [102] [103] [104]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
- [103] [104] [105]
-[106] [107] [108] [109] [110]
+ [105] [106]
+[107] [108] [109] [110] [111] [112]
 Missing character: There is no ¬ in font cmr10!
 Missing character: There is no ∞ in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
-) [111]
+) [113]
 \openout2 = `appendices.aux'.
 
- (./appendices.tex [112
+ (./appendices.tex [114
 
 
 ]
@@ -3978,7 +4009,7 @@ Overfull \hbox (7.54718pt too wide) in alignment at lines 61--62
  [] [] [] 
  []
 
-[113]) (./intro_figures/pcr_lakes.tex [114]
+[115]) (./intro_figures/pcr_lakes.tex [116]
 Overfull \hbox (7.17749pt too wide) in alignment at lines 4--12
  [] [] [] [] [] [] [] 
  []
@@ -4056,7 +4087,7 @@ Overfull \hbox (7.17749pt too wide) in alignment at lines 22--30
  [] [] [] [] [] [] [] 
  []
 
-[115
+[117
 
 ]) (./ace_figures/ace_protids_5m.tex
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 26--26
@@ -4553,7 +4584,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 85--85
 []|\OT1/cmr/m/n/9 0.00033| 
  []
 
-[116
+[118
 
 
 ]
@@ -4716,7 +4747,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 105--105
 []|\OT1/cmr/m/n/9 K02945| 
  []
 
-[117]
+[119]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 106--106
 []|\OT1/cmr/m/n/9 0.00015| 
  []
@@ -5051,7 +5082,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 145--145
 []|\OT1/cmr/m/n/9 K03043| 
  []
 
-[118]
+[120]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 146--146
 []|\OT1/cmr/m/n/9 0.00004| 
  []
@@ -5191,7 +5222,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 167--167
 []|\OT1/cmr/m/n/9 0.01103| 
  []
 
-[119]
+[121]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 168--168
 []|\OT1/cmr/m/n/9 0.00968| 
  []
@@ -5291,7 +5322,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 187--187
 []|\OT1/cmr/m/n/9 0.00409| 
  []
 
-[120]
+[122]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 188--188
 []|\OT1/cmr/m/n/9 0.00397| 
  []
@@ -5491,7 +5522,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 227--227
 []|\OT1/cmr/m/n/9 0.00143| 
  []
 
-[121]
+[123]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 228--228
 []|\OT1/cmr/m/n/9 0.00135| 
  []
@@ -5706,7 +5737,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 267--267
 []|\OT1/cmr/m/n/9 0.00070| 
  []
 
-[122]
+[124]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 268--268
 []|\OT1/cmr/m/n/9 0.00070| 
  []
@@ -5806,7 +5837,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 287--287
 []|\OT1/cmr/m/n/9 0.00049| 
  []
 
-[123]
+[125]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 288--288
 []|\OT1/cmr/m/n/9 0.00048| 
  []
@@ -6031,7 +6062,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 327--327
 []|\OT1/cmr/m/n/9 0.00024| 
  []
 
-[124]
+[126]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 328--328
 []|\OT1/cmr/m/n/9 0.00023| 
  []
@@ -6291,7 +6322,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 367--367
 []|\OT1/cmr/m/n/9 0.00007| 
  []
 
-[125]
+[127]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 368--368
 []|\OT1/cmr/m/n/9 0.00007| 
  []
@@ -6401,7 +6432,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 387--387
 []|\OT1/cmr/m/n/9 0.00001| 
  []
 
-[126]
+[128]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 391--391
 []|\OT1/cmr/m/n/9 0.01263| 
  []
@@ -6611,7 +6642,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 429--429
 []|\OT1/cmr/m/n/9 0.00124| 
  []
 
-[127]
+[129]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 430--430
 []|\OT1/cmr/m/n/9 0.00116| 
  []
@@ -6816,7 +6847,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 469--469
 []|\OT1/cmr/m/n/9 0.00043| 
  []
 
-[128]
+[130]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 470--470
 []|\OT1/cmr/m/n/9 0.00042| 
  []
@@ -6926,7 +6957,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 489--489
 []|\OT1/cmr/m/n/9 0.00027| 
  []
 
-[129]
+[131]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 490--490
 []|\OT1/cmr/m/n/9 0.00027| 
  []
@@ -7136,7 +7167,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 529--529
 []|\OT1/cmr/m/n/9 0.00004| 
  []
 
-[130]
+[132]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 530--530
 []|\OT1/cmr/m/n/9 0.00003| 
  []
@@ -7151,7 +7182,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 532--532
 []|\OT1/cmr/m/n/9 0.00002| 
  []
 
-[131] [132]) (./ace_figures/ace_protids_11.5m.tex
+[133] [134]) (./ace_figures/ace_protids_11.5m.tex
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 26--26
 []|\OT1/cmr/m/n/9 0.01734| 
  []
@@ -7631,7 +7662,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 87--87
 []|\OT1/cmr/m/n/9 0.01947| 
  []
 
-[133
+[135
 
 
 ]
@@ -7744,7 +7775,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 107--107
 []|\OT1/cmr/m/n/9 0.00433| 
  []
 
-[134]
+[136]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 108--108
 []|\OT1/cmr/m/n/9 0.00413| 
  []
@@ -7949,7 +7980,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 147--147
 []|\OT1/cmr/m/n/9 0.00189| 
  []
 
-[135]
+[137]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 148--148
 []|\OT1/cmr/m/n/9 0.00187| 
  []
@@ -8049,7 +8080,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 167--167
 []|\OT1/cmr/m/n/9 0.00145| 
  []
 
-[136]
+[138]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 168--168
 []|\OT1/cmr/m/n/9 0.00143| 
  []
@@ -8274,7 +8305,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 209--209
 []|\OT1/cmr/m/n/9 0.01466| 
  []
 
-[137]
+[139]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 210--210
 []|\OT1/cmr/m/n/9 0.00797| 
  []
@@ -8474,7 +8505,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 249--249
 []|\OT1/cmr/m/n/9 0.00074| 
  []
 
-[138]
+[140]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 250--250
 []|\OT1/cmr/m/n/9 0.00071| 
  []
@@ -8504,7 +8535,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 255--255
 []|\OT1/cmr/m/n/9 0.00040| 
  []
 
-[139] [140]) (./ace_figures/ace_protids_12.7m.tex
+[141] [142]) (./ace_figures/ace_protids_12.7m.tex
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 26--26
 []|\OT1/cmr/m/n/9 0.01035| 
  []
@@ -9069,7 +9100,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 85--85
 []|\OT1/cmr/m/n/9 K00688| 
  []
 
-[141
+[143
 
 
 ]
@@ -9248,7 +9279,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 105--105
 []|\OT1/cmr/m/n/9 0.00056| 
  []
 
-[142]
+[144]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 106--106
 []|\OT1/cmr/m/n/9 0.00053| 
  []
@@ -9639,7 +9670,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 145--145
 []|\OT1/cmr/m/n/9 K01895| 
  []
 
-[143]
+[145]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 146--146
 []|\OT1/cmr/m/n/9 0.00033| 
  []
@@ -9814,7 +9845,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 165--165
 []|\OT1/cmr/m/n/9 K00615| 
  []
 
-[144]
+[146]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 166--166
 []|\OT1/cmr/m/n/9 0.00027| 
  []
@@ -9984,7 +10015,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 185--185
 []|\OT1/cmr/m/n/9 0.00023| 
  []
 
-[145]
+[147]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 186--186
 []|\OT1/cmr/m/n/9 0.00022| 
  []
@@ -10339,7 +10370,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 225--225
 []|\OT1/cmr/m/n/9 K07568| 
  []
 
-[146]
+[148]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 226--226
 []|\OT1/cmr/m/n/9 0.00015| 
  []
@@ -10524,7 +10555,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 245--245
 []|\OT1/cmr/m/n/9 K02954| 
  []
 
-[147]
+[149]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 246--246
 []|\OT1/cmr/m/n/9 0.00012| 
  []
@@ -10900,7 +10931,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 285--285
 []|\OT1/cmr/m/n/9 K00615| 
  []
 
-[148]
+[150]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 286--286
 []|\OT1/cmr/m/n/9 0.00008| 
  []
@@ -11095,7 +11126,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 305--305
 []|\OT1/cmr/m/n/9 K06142| 
  []
 
-[149]
+[151]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 306--306
 []|\OT1/cmr/m/n/9 0.00007| 
  []
@@ -11286,7 +11317,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 325--325
 []|\OT1/cmr/m/n/9 0.00006| 
  []
 
-[150]
+[152]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 326--326
 []|\OT1/cmr/m/n/9 0.00006| 
  []
@@ -11656,7 +11687,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 365--365
 []|\OT1/cmr/m/n/9 K02897| 
  []
 
-[151]
+[153]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 366--366
 []|\OT1/cmr/m/n/9 0.00004| 
  []
@@ -11846,7 +11877,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 385--385
 []|\OT1/cmr/m/n/9 K02014| 
  []
 
-[152]
+[154]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 386--386
 []|\OT1/cmr/m/n/9 0.00003| 
  []
@@ -12186,7 +12217,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 425--425
 []|\OT1/cmr/m/n/9 K00059| 
  []
 
-[153]
+[155]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 426--426
 []|\OT1/cmr/m/n/9 0.00001| 
  []
@@ -12351,7 +12382,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 447--447
 []|\OT1/cmr/m/n/9 0.00148| 
  []
 
-[154]
+[156]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 448--448
 []|\OT1/cmr/m/n/9 0.00139| 
  []
@@ -12596,7 +12627,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 487--487
 []|\OT1/cmr/m/n/9 K07164| 
  []
 
-[155]
+[157]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 488--488
 []|\OT1/cmr/m/n/9 0.00014| 
  []
@@ -12711,7 +12742,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 507--507
 []|\OT1/cmr/m/n/9 K08940| 
  []
 
-[156]
+[158]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 508--508
 []|\OT1/cmr/m/n/9 0.00004| 
  []
@@ -12841,7 +12872,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 536--536
 []|\OT1/cmr/m/n/9 0.00002| 
  []
 
-[157] [158]) (./ace_figures/ace_protids_14m.tex
+[159] [160]) (./ace_figures/ace_protids_14m.tex
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 26--26
 []|\OT1/cmr/m/n/9 0.06300| 
  []
@@ -13407,7 +13438,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 85--85
 []|\OT1/cmr/m/n/9 K01596| 
  []
 
-[159
+[161
 
 
 ]
@@ -13600,7 +13631,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 105--105
 []|\OT1/cmr/m/n/9 K03043| 
  []
 
-[160]
+[162]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 106--106
 []|\OT1/cmr/m/n/9 0.00243| 
  []
@@ -13980,7 +14011,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 145--145
 []|\OT1/cmr/m/n/9 K01682| 
  []
 
-[161]
+[163]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 146--146
 []|\OT1/cmr/m/n/9 0.00118| 
  []
@@ -14175,7 +14206,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 165--165
 []|\OT1/cmr/m/n/9 K04088| 
  []
 
-[162]
+[164]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 166--166
 []|\OT1/cmr/m/n/9 0.00095| 
  []
@@ -14557,7 +14588,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 205--205
 []|\OT1/cmr/m/n/9 K01551| 
  []
 
-[163]
+[165]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 206--206
 []|\OT1/cmr/m/n/9 0.00049| 
  []
@@ -14732,7 +14763,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 225--225
 []|\OT1/cmr/m/n/9 K09812| 
  []
 
-[164]
+[166]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 226--226
 []|\OT1/cmr/m/n/9 0.00031| 
  []
@@ -15062,7 +15093,7 @@ Overfull \hbox (8.83376pt too wide) in paragraph at lines 267--267
 []|\OT1/cmr/m/n/9 CLOSTASPAR[]06273| 
  []
 
-[165]
+[167]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 268--268
 []|\OT1/cmr/m/n/9 0.00672| 
  []
@@ -15187,7 +15218,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 287--287
 []|\OT1/cmr/m/n/9 0.00160| 
  []
 
-[166]
+[168]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 288--288
 []|\OT1/cmr/m/n/9 0.00156| 
  []
@@ -15402,7 +15433,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 329--329
 []|\OT1/cmr/m/n/9 0.01745| 
  []
 
-[167]
+[169]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 330--330
 []|\OT1/cmr/m/n/9 0.01725| 
  []
@@ -15502,7 +15533,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 349--349
 []|\OT1/cmr/m/n/9 0.00744| 
  []
 
-[168]
+[170]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 350--350
 []|\OT1/cmr/m/n/9 0.00733| 
  []
@@ -15702,7 +15733,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 389--389
 []|\OT1/cmr/m/n/9 0.00085| 
  []
 
-[169]
+[171]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 390--390
 []|\OT1/cmr/m/n/9 0.00077| 
  []
@@ -15757,7 +15788,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 400--400
 []|\OT1/cmr/m/n/9 0.00023| 
  []
 
-[170] [171]) (./ace_figures/ace_protids_18m.tex
+[172] [173]) (./ace_figures/ace_protids_18m.tex
 Overfull \hbox (1.8651pt too wide) in paragraph at lines 30--30
 []|\OT1/cmr/m/n/9 K04077| 
  []
@@ -15777,10 +15808,10 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 42--42
 []|\OT1/cmr/m/n/9 K08944| 
  []
 
-[172
+[174
 
 
-] [173] [174] [175]) (./ace_figures/ace_protids_23m.tex
+] [175] [176] [177]) (./ace_figures/ace_protids_23m.tex
 Overfull \hbox (1.8651pt too wide) in paragraph at lines 28--28
 []|\OT1/cmr/m/n/9 K06960| 
  []
@@ -15835,10 +15866,10 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 71--71
 []|\OT1/cmr/m/n/9 K06142| 
  []
 
-[176
+[178
 
 
-] [177] [178] [179] [180]))
+] [179] [180] [181] [182]))
 
 Package natbib Warning: There were undefined citations.
 
@@ -15850,7 +15881,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 105.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 105.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 105.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 7825392F8CCE05CDD89AE72CB33B4A55;5713.
+(rerunfilecheck)             Checksum: B7AAADBD6668EC381A2622773EC977AB;5432.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -15861,13 +15892,13 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 105.
  ) 
 Here is how much of TeX's memory you used:
- 11518 strings out of 493488
- 175027 string characters out of 3141347
- 352864 words of memory out of 3000000
- 13697 multiletter control sequences out of 15000+200000
+ 11512 strings out of 493488
+ 175013 string characters out of 3141347
+ 350172 words of memory out of 3000000
+ 13695 multiletter control sequences out of 15000+200000
  14844 words of font info for 49 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 44i,18n,48p,1531b,869s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,18n,48p,1833b,867s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
@@ -15894,10 +15925,10 @@ st/fonts/type1/public/cbfonts/grmn1095.pfb></usr/local/texlive/2012/texmf-dist/
 fonts/type1/public/cm-super/sfbx0900.pfb></usr/local/texlive/2012/texmf-dist/fo
 nts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2012/texmf-dist/font
 s/type1/public/cm-super/sfrm1095.pfb>
-Output written on thesis.pdf (199 pages, 18803815 bytes).
+Output written on thesis.pdf (199 pages, 18806964 bytes).
 PDF statistics:
- 5286 PDF objects out of 6186 (max. 8388607)
- 4478 compressed objects within 45 object streams
- 721 named destinations out of 1000 (max. 500000)
- 728 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 5268 PDF objects out of 6186 (max. 8388607)
+ 4459 compressed objects within 45 object streams
+ 717 named destinations out of 1000 (max. 500000)
+ 704 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,21 +1,25 @@
 This is BibTeX, Version 0.99d (TeX Live 2012)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
-A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: dissert.aux
 A level-1 auxiliary file: title.aux
 A level-1 auxiliary file: originality.aux
-A level-1 auxiliary file: authenticity.aux
+A level-1 auxiliary file: abstract.aux
 A level-1 auxiliary file: acknowledgements.aux
 A level-1 auxiliary file: publist.aux
 A level-1 auxiliary file: acronyms.aux
 A level-1 auxiliary file: intro.aux
+White space in argument---line 104 of file intro.aux
+ : \citation{Mikucki
+ :                   2009}
+I'm skipping whatever remains of this command
 A level-1 auxiliary file: acelake.aux
 A level-1 auxiliary file: olv.aux
 A level-1 auxiliary file: orglake.aux
 A level-1 auxiliary file: conc.aux
 The style file: mybibstyle.bst
 A level-1 auxiliary file: appendices.aux
-Reallocated field_info (elt_size=4) to 10668 items from 5000.
+Reallocated field_info (elt_size=4) to 10694 items from 5000.
 Database file #1: Thesis.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--I didn't find a database entry for "Hennes1995"
@@ -38,45 +42,45 @@ Warning--empty publisher in Laybourn-Parry1997
 Warning--empty publisher in Redfield1963
 You can't pop an empty literal stack for entry Torrice2009
 while executing---line 1411 of file mybibstyle.bst
-You've used 206 entries,
+You've used 207 entries,
             2739 wiz_defined-function locations,
-            2179 strings with 66460 characters,
-and the built_in function-call counts, 121389 in all, are:
-= -- 10943
-> -- 10335
-< -- 51
-+ -- 3458
-- -- 3248
-* -- 12028
-:= -- 19907
-add.period$ -- 625
-call.type$ -- 206
-change.case$ -- 1696
-chr.to.int$ -- 202
-cite$ -- 414
-duplicate$ -- 3411
-empty$ -- 6484
-format.name$ -- 3496
-if$ -- 23898
+            2187 strings with 66827 characters,
+and the built_in function-call counts, 121829 in all, are:
+= -- 10989
+> -- 10356
+< -- 52
++ -- 3465
+- -- 3254
+* -- 12065
+:= -- 19976
+add.period$ -- 628
+call.type$ -- 207
+change.case$ -- 1701
+chr.to.int$ -- 203
+cite$ -- 416
+duplicate$ -- 3426
+empty$ -- 6516
+format.name$ -- 3505
+if$ -- 23988
 int.to.chr$ -- 5
 int.to.str$ -- 1
-missing$ -- 202
-newline$ -- 1040
-num.names$ -- 834
-pop$ -- 2452
+missing$ -- 203
+newline$ -- 1045
+num.names$ -- 838
+pop$ -- 2457
 preamble$ -- 1
-purify$ -- 1491
+purify$ -- 1495
 quote$ -- 0
-skip$ -- 3332
+skip$ -- 3346
 stack$ -- 0
-substring$ -- 5501
-swap$ -- 328
+substring$ -- 5534
+swap$ -- 329
 text.length$ -- 12
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 2266
+type$ -- 2277
 warning$ -- 2
-while$ -- 1023
+while$ -- 1028
 width$ -- 0
-write$ -- 2497
-(There were 3 error messages)
+write$ -- 2509
+(There were 4 error messages)

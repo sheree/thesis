@@ -240,7 +240,7 @@ Metagenomic sequencing is a powerful tool in understanding members of the commun
 
 \section{Objectives}
 This study aimed to use a primarily metagenomic approach combined with microscopy, metaproteomic and abiotic data to gain an integrative understanding of Antarctic lake ecosystems.
-Ace Lake and Organic Lake were chosen as the study sites because there are historic environmental data available for them.
+Ace Lake and Organic Lake were chosen as the study sites because there are historic physical and chemical data available for them.
 Also as they are meromictic lakes, differences in the microbial population can be examined across vertical gradients.
 Finally, as they are marine-derived systems, comparison between the lake system and the marine environment can be used to identify specific lake adaptations.
 
@@ -248,11 +248,13 @@ The objectives of the research were:
 
 \begin{enumerate}
 \item 
-  To develop and apply analyses to complementary to metagenomic sequencing.
+  To develop complementary analyses to metagenomic analysis.
 
 \item
-  To determine the microbial and viral composition of the lake communities, their functional potential and ecological roles.
+  To determine the microbial and viral composition of the lake communities and their functional potential.
 
+\item
+  To reconstruct genomic information of dominant taxa of interest.
 
 \item
   To integrate environmental and biological data to model the lake microbial interactions and geochemical processes.
