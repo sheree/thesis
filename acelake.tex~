@@ -1,4 +1,4 @@
-\chapter[Development and application of methodologies complementary to Ace Lake metagenomic analysis]{Development and application of methodologies complementary to Ace Lake metagenomic analysis}
+\chapter[Development and application of complementary methodologies to Ace Lake metagenomic analysis]{Development and application of complementary methodologies to Ace Lake metagenomic analysis}
 \label{ch:ace}
 \acresetall
 
@@ -6,7 +6,7 @@
 \section*{Co-authorship statement}
 \addcontentsline{toc}{section}{Co-authorship statement}
 
-Sections from this chapter~\ref{ch:ace} have been published as:\\
+Sections from this chapter have been published as:\\
 
 Federico M. Lauro, Matthew Z. DeMaere, \textbf{Sheree Yau}, Mark V. Brown, Charmaine Ng,
 David Wilkins, Mark J. Raftery, John A.E. Gibson, Cynthia Andrews-Pfannkoch, Matthew Lewis,
@@ -35,41 +35,37 @@ Ace Lake is a saline meromictic lake that is the most studied lake in the Vestfo
 As a system of moderate biological complexity with extensive historic physical and chemical data, it was chosen as a site to implement an integrative study of the whole lake ecosystem.
 Metagenomic analysis of Ace Lake revealed a strong separation of the microbial taxa and metabolic genes according to the lake's water column structure and inferred potential for nutrient cycling.
 The aerobic mixolimnion resembles a marine surface water microbial community, the oxic--anoxic interface contains a near-clonal population of \ac{GSB} while the anoxic monimolimnion contains an extremely diverse assemblage that includes methanogenic \emph{Archaea} and \ac{SRB}.
-The viral population comprises abundant bacteriophages as well as large phycodnaviruses that were detected at all depths of the lake, except for the \ac{GSB} layer.
-This study aimed to validate metagenomic inferences of the whole lake ecology using microscopy and metaproteomics.
-A method for visualising and enumerating cells and \acp{VLP} using epifluorescence microscopy was developed. 
-This method does not require use of the relatively expensive Anodisc filters that were the accepted method for direct counts of \acp{VLP} using epifluorescence microscopy.
+The viral population comprises abundant bacteriophages as well as large phycodnaviruses that were detected at all depths of the lake, except for the \ac{GSB} layer \cite{Lauro2011}.
+
+This study aimed to generate independent but complementary data to integrate with metagenomic analysis the whole lake ecology.
+A method for visualising and enumerating cells and \acp{VLP} using epifluorescence microscopy was developed that does not require use of the relatively expensive Anodisc filters.
 Microscopic examination provided confirmation that the sequential filtration procedure used to size fractionate the lake microbiota was effective. 
 Further, it determined the ratios of cells to \acp{VLP} and provided independent verification of the absence of \acp{VLP} associated with the lake's \ac{GSB}.
+
 Preliminary metaproteomic analysis of the Ace Lake depth profile using cross-species matching of mass spectra to the \ac{NR} database yeilded few protein identifications \cite{Ng2010b}.
 However, metaproteomic analysis of the \ac{GSB} layer using the matched metagenomic search database gave a 3-fold increase in protein identification and allowed detailled description of the metabolism of the \ac{GSB} \cite{Ng2010a,Ng2010b}.
 By similarly using a matching metagenomic database, significant improvements in metaproteomic identifications were made.
-Application of the software package \textsc{Scaffold} to protein mass spectral analysis further improved validity of protein identifications and allowed for approximate quantitative of protein abundance using spectral counts.
-Overall, integration of independant and complementary data with metagenomic information allowed for a comprehensive description of the entire Ace Lake microbial community. 
-
-
+Application of the software package \textsc{Scaffold} to protein mass spectral analysis further improved validity of protein identifications and allowed for approximations of protein abundance using spectral counts.
+These data were used to support a comprehensive description of the entire Ace Lake microbial community. 
 
 %---------------------------------------------------------------------------------------------
 \section{Introduction}
-Ace Lake is a meromictic saline lake in the Vestfold Hills, Antarctica. 
-It is possible the most intensively studied of all the meromictic lakes in the Vestfold Hills.
+Ace Lake is a meromictic saline lake in the Vestfold Hills that separated from the sea $\sim$5,000 BP. %ref.
 Extensive physical, chemical and biological data has been collected from Ace Lake in the last decades \cite{Rankin1999}.
 %This is summarised in the figure of the whole lake. %figure of lake.
-An analysis of the 16S \ac{SSU} diversity was completed of the sediment showed microbial diversity was reduced \cite{Bowman2000a}.
+The system is microbially-dominated and of reduced diversity \cite{Bowman2000a}.
 %What else? about the diversity from Bowman paper? Link to the intro.
-
+The only metazoan life present are callanoid copepods. %Look up
 Ace Lake is a highly stratified lake system, 25 m deep at its deepest point.
 It is ice-covered for approximately 9 months of the year and thaws some summers. %check
 Water is marine-derived and a largely neutral water balance has ensured salinity is close to that of seawater.
-Although a lens of fresher water from melted surface ice can be generated in the summer months, this only mixes when the lake is ice-free and not to great depth \cite{Rankin1999}.
 The lake is physically separated into an aerobic mixolimnion, a steep chemocline/oxycline at 12.7 m and an anoxic monimolimnion below.
 The monimolimnion is sulfidic and methanogenic; both compounds have presumably accumulated through activity from \ac{SRB} and methanogenic archaea respectively.
 
-As a physically and chemically well-characterised system of moderate diversity, Ace Lake was chosen as a model ecosystem to implement an integrated metagenomic and metaproteomic analysis.
-Combining both approaches would allow assessment of the metabolic potential of the system and identify the active members of the community and processes at time of sampling.
-Samples were obtained down the depth profile at 5, 11.5, 12.7, 18 and 23 m depths corresponding to each of the three zones.
+As a physically and chemically well-characterised system of moderate diversity, Ace Lake was chosen as a model ecosystem to implement a whole systems level analysis to piece together ecosystem functioning.
+Samples were obtained from the mixolimnion (5 and 11.5 m), the chemocline (12.7 m) and the monimolimnion (14, 18 and 23 m ).
 Sampling was conducted as part of the \ac{GOS} expedition \cite{Rusch2007} by using size fractionation of microbial biomass onto 3.0, 0.8 and 0.1 \textmu{}m membrane filters.
-%consider leaving above line out.
+Both metagenomic and metaproteomic analysis was conducted on these samples to assess the taxonomic composition, the metabolic potential and identify the active members of the community and processes at time of sampling.
 
 Microbial and viral community composition was assessed from the metagenomic dataset.
 Significant differences were found in taxonomic composition of each size fraction within each sample depth and stratification of the microbial community between the three zones of Ace Lake.
@@ -78,27 +74,20 @@ However, diversity is reduced by one order of magnitude reduced \cite{Lauro2011}
 Unlike Southern Ocean surface water, the mixolimnion is overrepresented in \emph{Cyanobacteria} related to \emph{Synechococcus} and \emph{Actinobacteria}, which may represent taxa that mark the transition of a marine to lake community.
 A dense, near clonal population of \acl{GSB} related to \emph{Chlorobium} termed C-ace reside at the chemo/oxycline at 12.7 m \cite{Ng2010a, Lauro2011}.
 Below, in the anoxic monimolimnion is a diverse, primarily heterotrophic community with abundant \ac{SRB} and methanogenic \emph{Archaea}.
-
 The viral community comprising Phycodnaviridae, Myoviridae, Siphoviridae, Podoviridae and unidentified viral families \cite{Lauro2011}. 
 Bacteriophage were abundant in the bottom waters, whereas the surface community, was dominated by phycodnaviruses \cite{Lauro2011}. 
 Most notably, no viral signatures were found at 12.7 m depth, which is a zone occupied by a near-clonal population of \ac{GSB}. 
-Mathematical modeling predicted that the absence of phage predation in the GSB could be due to an adaptation to longer cycles of growth and inactivity in response to the polar light regime. Phototrophs with faster growth rates, such as eucaryal algae and Cyanobacteria in the surface water, were predicted to be more susceptible to viral predation. 
-The viral susceptibility of these phototrophs was predicted to lead to increased host genetic variation, and this was borne out in the analysis of the metagenome data \cite{Lauro2011}. 
-%How abundant were the methanogens??
+Mathematical modeling predicted that the absence of phage predation in the GSB could be due to an adaptation to longer cycles of growth and inactivity in response to the polar light regime. Phototrophs with faster growth rates, such as eucaryal algae and \emph{Cyanobacteria} in the surface water, were predicted to be more susceptible to viral predation \cite{Lauro2011}. 
 
 Preliminary metaproteomic analysis down the vertical profile of Ace Lake has been performed using a cross species genomic database comprising the \ac{NCBI} \ac{NR} database to perform protein identifications \cite{Ng2010b}.
 A focused metaproteogeonomic analysis conducted on the dense \ac{GSB} layer using the matched metagenome as the database resulted in many more protein identifications compared to using the \ac{NR} database \cite{Ng2010b}.
 %Put in a table of the rates of matches...
 This indicates large gains in metaproteome coverage are possible using a matched metagenomic database \cite{Ng2010b}.
-Significantly, \ac{GSB} appeared to be crucial in the lake ecosystem as they had the greatest genetic potential for nitrogen and carbon fixation as well as sulphur cycling\cite{Ng2010b, Lauro2011}.
+Significantly, \ac{GSB} appeared to be crucial in the lake ecosystem as they had the greatest genetic potential for nitrogen and carbon fixation as well as sulphur cycling \cite{Ng2010b, Lauro2011}.
 Metaproteomic analysis was able to identify which proteins were actively expressed and thus the active pathways of the \ac{GSB} metabolism which are so crucial to the function of the lake \cite{Ng2010a}.
 
-This study aimed to expand on the metagenomic analysis of the water column of Ace Lake using complementary analyses.
-Metaproteomic analysis was used to identify expressed proteins of the 0.1 \textmu{}m size fraction Ace Lake using a matched metagenomic databases for protein identification to infer which taxa and metabolic processes were active at time of sampling.
-To determine cellular and viral densities and validate the efficacy of size-fractionation with a modified epifluorescence microscopy procedure was developed and implemented.
-
-A whole systems level approach was employed to piece together ecosystem functioning of a moderately complex lake system (Ng et al., 2010; Lauro et al., 2011). Ace Lake is a marine-derived meromictic saline lake in the Vestfold Hills that was isolated from the ocean ~5,000 ya. Utilizing both metagenomics and metaproteomics, a taxonomic profile of all three domains of life and viruses throughout the water column was determined as well as carbon, nitrogen and sulfur cycles. The upper oxic waters resemble a simplified marine planktonic community, below which a dense layer of GSB reside at the oxycline, while the anoxic bottom waters host a diverse assemblage of anaerobic bacteria and archaea. By adopting a whole ecosystem perspective, it was apparent that community structure and resource partitioning defined nutrient cycling. For example, a strictly-interdependent sulfur cycle was found to exist between the GSB and sulfate-reducing bacteria at the oxycline. The GSB were able to convert sulfide to sulfate but lacked assimilatory sulfate reduction capability (Ng et al., 2010; Lauro et al., 2011). It was also apparent that short circuiting of the nitrogen cycle was occurring. Nitrogen fixation proteins were not found in the metaproteome, likely due to preferential assimilation of ammonia (Ng et al., 2010; Lauro et al., 2011). Genes involved in nitrification and denitrification were underrepresented indicating the system had shifted away from nitrogen mineralization consistent with a mechanism to conserve bioavailable nitrogen (Lauro et al., 2011). It is noteworthy that these findings are in contrast to lakes in the Dry Valleys where ammonia monooxygenase genes were present in the aerobic zone of six lakes of various salinities and extents of stratification (Voytek et al., 1999).
-The Ace Lake study also identified the importance of the loss of pathways including nitrification,the expansion of gene families (such as transposons) and the selection of key species (in particular GSB) as important steps in transiting the microbial population from marine to a meromictic lake ecosystem (Lauro et al., 2011). To attempt to describe and predict the effects of ecosystem change on the lake, a mathematical model was developed that described the impact of fluctuations in environmental parameters on key microbial populations in the lake. One outcome of the model was the prediction that invasion (e.g. by introduction) by GSB-infecting phage would eliminate the population and leave the lake in an unstable condition, in terms of microbial processes, and unable to recover for many years into the future (Lauro et al., 2011).
+This study aimed to develop and apply methodologies which provide independant data to complement an integrative metagenomic analysis of the whole Ace Lake ecosystem.
+These were a modified epifluorescence microscopy procedure to determine cellular and viral densities and validate the efficacy of size-fractionation and metaproteomic analysis to identify and quantify expressed proteins.
 
 %---------------------------------------------------------------------------------------------
 
@@ -127,7 +116,8 @@ The scaffolds and annotations will be available via \ac{CAMERA} and public seque
 
 Sanger reads were trimmed according to quality clear ranges.
 The quality of pyrosequencing reads was assessed as follows: 
-a \ac{BLAST} nucleotide database was created from the Sanger reads of the 0.1 \textmu{}m fraction of samples GS230, GS231 and GS232 (see Table of metagenomic data). %%Add link to table of metagenomic data. Change sample IDs to depths?
+a \ac{BLAST} nucleotide database was created from the Sanger reads of the 0.1 \textmu{}m fraction of samples GS230, GS231 and GS232 (see \tabreft{tab:ace_metag} for summary of the metagenomic data).
+\input{ace_figures/ace_metag.tex}
 After blasting the corresponding pyrosequencing reads against each database with a minimum bitscore of 80 and maximum e-value of 0.1, reads were binned according to length.
 The percentage of reads for each bin lacking a match to the Sanger read database was recorded. 
 The percentage reads at least 25\% repetitive after \textsc{MDUST} \cite{Morgulis2006} analysis at default settings, and the percentage of reads containing N's, were assessed. 
@@ -170,8 +160,8 @@ Samples were visualised under wide-blue filter set (excitation 460--495 nm, emis
 Proteins were extracted from membrane filters from all 0.1 \textmu{}m fractions from the six depths (5, 11.5, 12.7, 14, 18 and 23 m), and \ac{1D-SDS PAGE} and in gel trypsin digestion, liquid chromatography and mass \ac{MS}, and \ac{MS-MS} data analysis and validation of protein identifications performed as previously described \cite{Ng2010a}, with minor modifications.
 The specta generated were searched against the protein sequence database corresponding to that depth constructed from the 0.1 \textmu{}m mosaic assemblies. 
 The number of protein sequences in each database were as follows: 5 m, 138,208; 11.5 m, 133,948; 12.7 m, 27,142; 14 m, 62,436; 18 m, 71,512; and 23 m, 128,878. 
-Scaffold (version Scaffold\_2\_05\_01, Proteome Software Inc., Portland, \textsc{OR}, \textsc{USA}) was used to validate \ac{MS-MS}-based peptide and protein identifications. 
-Peptide and protein identifications were accepted if they could be established at $>$95\% and 99\% probability, respectively, as specified by the Peptide Prophet algorithm \cite{Keller2002}. 
+\textsc{Scaffold} (version Scaffold\_2\_05\_01, Proteome Software Inc., Portland, \textsc{OR}, \textsc{USA}) was used to validate \ac{MS-MS}-based peptide and protein identifications. 
+Peptide and protein identifications were accepted if they could be established at $>$95\% and 99\% probability, respectively, as specified by the \textsc{Peptide Prophet} algorithm \cite{Keller2002}. 
 Protein identifications required the identification of at least two peptides.
  
 Proteins that contained similar peptides and could not be differentiated based on \ac{MS-MS} analysis alone were grouped to satisfy the principles of parsimony and are referred to as a protein group. 
@@ -192,7 +182,7 @@ All proteins that were part of an ambiguity group were confirmed to share the sa
 
 The summed spectral counts from 5 and 11.5 m (mixolimnion), and 14, 18 and 23 m (monimolimnion) were pooled. 
 Statistical significance of differences between each zone was assessed using Fisher's exact test, with confidence intervals at 99\% significance calculated by the Newcombe–Wilson method and Holm-Bonferroni correction (P-value cutoff of 1e$-$5) in \ac{STAMP} \cite{Parks2010}. 
-All proteins identified, including their gene identifier, normalised spectral abundance, \ac{COG} and \ac{KEGG} Orthology identifiers, \ac{KEGG} locus tag and matching \ac{COG} or \ac{KEGG} description are provided in Supplementary Table S1.
+All proteins identified, including their gene identifier, normalised spectral abundance, \ac{COG} and \ac{KEGG} Orthology identifiers, \ac{KEGG} locus tag and matching \ac{COG} or \ac{KEGG} description are provided in Appendix Tables \tabreft{tab:ace_protids_5m}--\tabref{tab:ace_protids_23m}.
 
 
 
@@ -202,63 +192,55 @@ All proteins identified, including their gene identifier, normalised spectral ab
 
 \subsection[Epifluorescence microscopy methodology]{Development of epifluorescence microscopy methodology for cell and \acp{VLP} enumeration}
 As part of the integrative study of Ace Lake, an epifluorescence microscopy methodology was developed.
-Motivation for visualising microbiota from size fractionated water samples was twofold. 
-Firstly, visualising microbiota from water samples allows examination of cellular morphologies and more importantly, enumeration of cells and \acp{VLP}.
-Absolute cellular and \ac{VLP} densities are not easily inferred from the metagenomic data and necessitates a complementary method of determination.
+There were several important outcomes expected from visualisation of microbiota from size fractionated water samples. 
+Firstly, visualising microbiota from water samples allows examination of cellular morphologies and enumeration of cells and \acp{VLP}.
+Absolute cellular and \ac{VLP} densities are not able to be inferred from the metagenomic data and necessitates an independent method of determination.
 Determining viral densities is extremely important as the first studies to do so found that viruses are the most numerous biological entities on the planet and likely play a large role in plankton mortality in the ocean \cite{Bergh1989,Proctor1990}. %Why is determining cellular densities important
 \ac{VLP} counts from marine environments vary with depth and trophic status ranging from 10$^6$ to 10$^8$ \acs{VLP} ml$^{-1}$ \cite{Suttle2005}. %cite Fuhrman review paper too.
 Viral counts from various aquatic environments have differed from site to site indicating a variable role of virally mediated mortality. %ref microbial ecology of the oceans.%cite Fuhrman review.
-
 Secondly, size fractionation of suspended microbial biomass from aquatic environments has been utilised as part of the landmark Sargasso Sea metagenomic study \cite{Venter2004} and subsequent \ac{GOS} expedition \cite{Rusch2007}.
 The Ace Lake samples were collected using the same sampling strategy as the \ac{GOS} dataset but has sequence information from all three filter sizes. 
-Thus, the visualisation of microbial morphologies from each stage of the filtration process would allow validation of the filtration process.
+Thus, the visualisation of microbial morphologies from each stage of the filtration process would determine efficacy of the filtration process.
 
-Developing a revised method for the simultaneous counts of cells and \acp{VLP} was necessary due to inability to source 25 mm diameter 0.02 \textmu{}m pore-size Anodisc filters (Whatman) that have been long used with fluorescent nucleic acid dyes for this purpose \cite{Hennes1995, Noble1998}. 
+Developing a revised method for the simultaneous counts of cells and \acp{VLP} was necessary due to inability to source 25 mm diameter 0.02 \textmu{}m pore-size Anodisc filters (Whatman) that have been long used with fluorescent nucleic acid dyes for this purpose \cite{Hennes1995, Noble1998, Patel2007}. 
 They were marked for discontinuation in December 2008 after the take over of Whatman by \textsc{GE} Healthcare and was the cause of a global shortage that was strongly opposed by the viral ecology community \cite{Torrice2009}.
-Since conducting this research, production of 25 mm Anodisc filters has resumed after the petitioning of \textsc{GE} Healthcare by the environmental virology community. 
-Cost of Anodiscs filters are relatively higher than they were previously. %%%Check!
-Nonetheless, the need for alternative methodolodies during the shortage was so great that alternative protocols were developed independently in other research groups \cite{Budinoff2011, Diemer2012} stressing the importance of an affordable method of direct viral counts and the utility of alternative methodologies. %Look up that poster with beads direct on slide.
+Since conducting this research, production of 25 mm Anodisc filters has resumed, albeit at much greater cost per filter. 
+The need to develop alternative methodolodies has been great enough that protocols were developed independently by research groups \cite{Budinoff2011, Diemer2012} stressing the utility of alternatives.
 
-Clear \ac{PCTE} filters were selected for use as a viable alternative product for the following reasons. 
-\begin{enumerate}
-\item They have defined pore-size. %Look up track etch technology
-\item They are available in 0.015 \textmu{}m pore-size allowing capture of \acp{VLP}.
-\item They have previously been used for \acp{VLP} enumeration \cite{Hara1991, Proctor1992}.
-\item They have a long history of use with cellular enumeration \cite{Hobbie1977} and can therefore be easily adopted for widespread use.
-\end{enumerate}
+Clear \ac{PCTE} membrane filters were selected for use as a viable alternative product as they have defined pore-size of a sufficiently small diameter (0.015 \textmu{}m) required to capture \acp{VLP}. 
+Furthermore, they have previously been used for \acp{VLP} enumeration \cite{Hara1991, Proctor1992} although using a different protocols, have a long history of use with cellular enumeration \cite{Hobbie1977} and therefore require no new materials to be easily adopted for use.
+Finally, they are approximately 10$\times$ cheaper than the use of Anodiscs and are not subject to drops in availability.
+However, \ac{PCTE} membranes have several reported shortcoming that have precluded their standard use for viral enumeration.
+The 0.01 \textmu{}m 25 mm \a{PCTE} filters are difficult to handle compared to 25 mm Anodisc filters that have a plastic support ring around the edge.
+Also, \ac{PCTE} filters appear to have higher background fluorescence, have a slow flow rate taking $\sim$1--1.5 hours to filter 2 ml \cite{Hara1991} and have been reported to give \ac{VLP} counts an order of magnitude lower than that of Anodiscs \cite{Budinoff2011}.%more ref?
 
-%get refs for hara1991 and Proctor1992.
-
-There are several disadvantages to using \ac{PCTE} membranes over Anodiscs which are as follows.
-\begin{enumerate}
-\item Polycarbonate is not as robust as 25 mm diameter Anodisc filters that have a built in plastic support ring around the edge.
-\item The polycarbonate of \ac{PCTE} filters cannot be blotted dry as the Al$_{2}$O$_{e}$ of Anodisc filters.
-\item \ac{PCTE} filters appear to have high background fluorescence. %ref
-\item \ac{PCTE} filters have a much slower flow rate that Anodisc filters. %ref.
-\end{enumerate}
-
-The protocol used is detailled in the materials and methods \ref{sec:ace_mm}.
-The main disadvantages of using \ac{PCTE} were overcome for the purposes required for this study.
-To counteract the fragility of the \ac{PCTE} filters, vacuum filtration was not performed above X pressure limit and filters.
-No cracks or tears were observed during visualisation.
-\ac{PCTE} filters also have a tendency to crinkle when mounted on the glass slide making visualisation of cells and \acp{VLP} on a single focal plane difficult.
+The protocol used is detailled in the materials and methods \ref{sec:ace_mm} where main challenges of using \ac{PCTE} were overcome for the purposes required for this study.
+0.01 \textmu{}m pore-size \ac{PCTE} filters can form creases or wrinkles when mounted in the glass vacuum filter.
+Good placement of the \ac{PCTE} filter was achieved by touching the edge of the \ac{PCTE} filter against the damp backing filter, making sure it was aligned and then gently and evenly releasing it in a single direction. 
+0.01 \textmu{}m pore-size \ac{PCTE} filters also easily become statically charged and will become attracted to surfaces so careful handling is required during transport and manipulation. 
+The greatest drawback in the use of \ac{PCTE} filters of such small pore-size is they similarly have a tendency to crinkle when mounted on the glass slide that can make visualisation of cells and \acp{VLP} on a single focal plane difficult.
 Agarose was used to embed the filters to help flatten the membrane and aid in mounting.
-However, this was not strictly necessary if filters were dried well and the membrane mounted carefully so that it was pressed flat against the glass slide.
-The back ground fluorescence of the clear filters was low when stain is only incorporated into the mountant after filtration rather than staining in the column before filtration.
+However, this was not strictly necessary if filters are dried well, the membrane is mounted in the same way as as described for mounting on the vacuum filter and pressed flat against the glass slide with a minimal volume of mountant.
+Even though careful handling is possible, this method likely requires more technical replicates that Anodisc filters because any \acp{VLP} outside the focal plane will not be counted.
+Furthermore, as similarly reported by \citet{Diemer2011} for 0.03 \textmu{}m \ac{PCTE} membranes, distribution of \acp{VLP} on the membrane appears more variable than for Anodiscs with local regions devoid of \acp{VLP} and others with \acp{VLP} pooling.
+The patchier \acp{VLP} distribution was attributed to greater irregularity in pores distribution compared to that of Anodisc filters and was considered to be the main contributing factor to variability in \ac{VLP} counts \cite{Diemer2011}
 
-Filtration onto very small pore-size also necessitated a very strong seal of the filter column against the glass, but the slow flow-rate was not a property of the \ac{PCTE} filters that could be overcome.
-As the filtration and visualisation was performed on fixed samples in the laboratory rather than in the field, the time taken for filtration of 2--3 hours for each sample, this was not deemed problematic for this study.
+High back ground fluorescence was not observed when stain is only incorporated into the mountant after filtration rather than staining in the column before filtration.
+This is one key difference between this protocol and others developed that use \ac{PCTE} membranes \citet{Hara1991, Proctor1992, Diemer2012}.
+Other protocols have used 0.08 \textmu{}m membranes pre-stained with Irgalan Black \cite{Proctor1992} or 0.03 \textmu{}m pre-stained with Sudan black B \cite{Diemer2012} to minimise background fluorescence.
+Filtration onto the \ac{PCTE} membranes with pore-size as small as this study was only found to be reported once \citet{Hara1991}.
+Such a small pore-size necessitates a very strong seal of the filter column against the glass with absolutely no air leaks.
+Leakage can be eliminated by sealing the fritted based to the column with laboratory film which ensures sample flow through the filter. 
+However, the slow flow-rate was not a property of the \ac{PCTE} filters that could be overcome.
+As the filtration and visualisation was performed on fixed samples in the laboratory rather than in the field, the time taken for filtration of 2--3 hours for each sample was not deemed problematic for the purposes of this study.
+Counts of \acp{VLP} have been shown to decrease dramatically with time even when preserved with aldehyde-based fixatives \cite{Wen2004}.
+Collecting larger sample volumes and flash freezing at $-$80$^{\circ}$C helps to slow this effect.
+Due to logistic contraints with working in Antarctic environments, counts in the field were not possible so \acp{VLP} counts are expected to be underestimated.
+However, all samples were processed within a similar time frame so the relative \acp{VLP} abundances down the depth profile and between size fractions are expected to be accurate as all samples would have undergone comparable amounts of \acp{VLP} loss. 
 
-
-Overall, a viable alternative methodology was successfully developed for visualisation and enumeration of cells and \acp{VLP} using \ac{PCTE} membrane filters was successful and could be used as an alternative to Anodisc-filters \figref{fig:ace_microscopy}.
+Overall, a viable alternative methodology was successfully developed for visualisation and enumeration of cells and \acp{VLP} using \ac{PCTE} membrane filters for use in this study was developed and could also be used as cheaper alternative to Anodisc-filters \figref{fig:ace_microscopy}.
 \input{ace_figures/ace_microscopy.tex}
-To be competitive alternative to Anodisc filters in terms of accuracy of counts, a comparison of this methodolody and Anodisc-based protocols using viral samples of known densities needs to be performed.
-
-\input{ace_figures/ace_counts.tex}
-No Anodisc filters could be obtained for such a comparative analysis to validate its use in this study.
-However, for the purposes of this study, which is to show the relative differences in morphotypes between sample depths and size fractions, this method was more than suitable.
-Other groups have since shown it to be comparable. %read papers and put in discussion.
-
+To be a competitive alternative to Anodisc filters in terms of accuracy requires a further work that compares counts using this methodolody and the current standard Anodisc-based protocol \cite{Patel2007} with viral samples of known densities.
 
 \subsection[Community stratification supported by cell and \ac{VLP} densities]{Size and depth stratification of the community supported by cell and \ac{VLP} densities}
 Development of fluorescence microscopy methodology using 0.01 \textmu{}m pore-size polycarbonate filters for simultaneous cellular and viral counts shows:
@@ -277,6 +259,8 @@ The ratio of bacteriophage to total viral population increased proportionally in
 The 23 m unfiltered lake water contained very high levels (1.3 $\times$ 10$^8$ \acp{VLP} ml$^{-1}$) of \acp{VLP}. 
 The high diversity of bacteria and archaea in all size fractions of the monimolimnion (Fig. 2) is consistent with the presence of a high viral population (Rodriguez-Valera et al., NRM, 2009).
 
+
+%---------------------------------------------------------------------------------------------
 
 \subsection[Development of methodology for protein identification of the metaproteome]{Development of methodology for protein identification of the metaproteome}
 
