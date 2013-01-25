@@ -1,4 +1,4 @@
-\chapter[Application of metaproteomics to complementary to Ace Lake metagenomic analysis]{Application of metaproteomics to complement Ace Lake metagenomic analysis}
+\chapter[Development and application of methodologies complementary to Ace Lake metagenomic analysis]{Development and application of methodologies complementary to Ace Lake metagenomic analysis}
 \label{ch:ace}
 \acresetall
 
@@ -12,7 +12,7 @@ Federico M. Lauro, Matthew Z. DeMaere, \textbf{Sheree Yau}, Mark V. Brown, Charm
 David Wilkins, Mark J. Raftery, John A.E. Gibson, Cynthia Andrews-Pfannkoch, Matthew Lewis,
 Jeffery M. Hoffman,Torsten Thomas, and Ricardo Cavicchioli. 
 An integrative study of a meromictic lake ecosystem in Antarctica.\\
-\emph{\underline{The ISME Journal}} \\
+\emph{\underline{The ISME Journal}} 
 5:879--895, 2011.\\
 
 I performed the metaproteomic mass spectra analysis, epifluorescence imaging,
@@ -31,17 +31,20 @@ Assistance in mass spectra analysis was provided by Mark Raftery.
 
 %----------------------------------------------------------------------------------------------
 \section{Abstract}
-Ace Lake is a saline meromictic lake in the Vestfold Hills, Antarctica.
+Ace Lake is a saline meromictic lake that is the most studied lake in the Vestfold Hills, Antarctica.
 As a system of moderate biological complexity with extensive historic physical and chemical data, it was chosen as a site to implement an integrative study of the whole lake ecosystem.
-Metagenomic analysis of Ace Lake revealed a strong separation of the microbial taxa and metabolic genes according to the lake's water column structure.
-The aerobic mixolimnion resembles a marine surface water microbial community with dominant members of the SAR11 clade, \emph{Synechococcus}-like \emph{Cyanobacteria}, \emph{Flavobacteria} and \emph{Actinobacteria}.
-At the oxic--anoxic interface resides a near-clonal population of \ac{GSB} termed C-ace while the anoxic monimolimnion contains an extremely diverse assemblage that includes methanogenic \emph{Archaea}, \ac{SRB} and diverse candidate divisions.
-The viral population comprises abundant bacteriophages as well as large phycodnaviruses.
-From the functional marker genes, the nutrient cycling capacity of the community was inferred.
-Metaproteomic analysis of the \ac{GSB} layer using the matched metagenomic information allowed detailled description of the metabolism of the \ac{GSB}.
-This study aimed to validate metagenomic inferences of the whole lake ecology and gain new insights into the expressed protein complement of the Ace Lake community.
-Preliminary metaproteomic analysis using cross-species matching of mass spectra to the \ac{NR} database had already shown few identifications.
-This was significantly improved by using assembled metagenomic sequence as the protein search database.
+Metagenomic analysis of Ace Lake revealed a strong separation of the microbial taxa and metabolic genes according to the lake's water column structure and inferred potential for nutrient cycling.
+The aerobic mixolimnion resembles a marine surface water microbial community, the oxic--anoxic interface contains a near-clonal population of \ac{GSB} while the anoxic monimolimnion contains an extremely diverse assemblage that includes methanogenic \emph{Archaea} and \ac{SRB}.
+The viral population comprises abundant bacteriophages as well as large phycodnaviruses that were detected at all depths of the lake, except for the \ac{GSB} layer.
+This study aimed to provide independent support of metagenomic inferences of the whole lake ecology using microscopy and metaproteomics.
+A method for visualising and enumerating cells and \acp{VLP} using epifluorescence microscopy was developed that does not require use of the relatively expensive Anodisc filters.
+Microscopic examination provided confirmation that the sequential filtration procedure used to size fractionate the lake microbiota was effective. 
+Further, it determined the ratios of cells to \acp{VLP} and provided independent verification of the absence of \acp{VLP} associated with the lake's \ac{GSB}.
+Preliminary metaproteomic analysis of the Ace Lake depth profile using cross-species matching of mass spectra to the \ac{NR} database yeilded few protein identifications \cite{Ng2010b}.
+However, metaproteomic analysis of the \ac{GSB} layer using the matched metagenomic search database gave a 3-fold increase in protein identification and allowed detailled description of the metabolism of the \ac{GSB} \cite{Ng2010a,Ng2010b}.
+By similarly using a matching metagenomic database, significant improvements in metaproteomic identifications were made.
+Application of the software package \textsc{Scaffold} to protein mass spectral analysis further improved validity of protein identifications and allowed for approximate quantitative of protein abundance using spectral counts.
+Overall, integration of independant and complementary data with metagenomic information allowed for a comprehensive description of the entire Ace Lake microbial community. 
 
 
 
@@ -274,8 +277,33 @@ The 23 m unfiltered lake water contained very high levels (1.3 $\times$ 10$^8$ \
 The high diversity of bacteria and archaea in all size fractions of the monimolimnion (Fig. 2) is consistent with the presence of a high viral population (Rodriguez-Valera et al., NRM, 2009).
 
 
-\subsection{Development of metaproteomic methodology}
+\subsection[Development of methodology for protein identification of the metaproteome]{Development of methodology for protein identification of the metaproteome}
 
+Identification of proteins from a biological sample (proteomics) indicates which portions of a genome are expressed under a set of given conditions.
+This information is particularly relevant in microbial ecology as the presence of a gene does not necessarily mean it is functional but its identification of in the enviromental proteome (metaproteome) indicates an active microbial process.
+However, the `shotgun' proteomics procedure using high sensitivity tandem mass spectrometry pioneered for use in metaproteomics \cite{Ram2005} presents significant methodological challenges.
+
+A general shotgun proteomics workflow is shown in \figreft{fig:workflow}.
+It shows that apart from successful sample preparation to simplify the complex protein mixture, successful protein identification depends greatly upon the genomic database, the search algorithm and criteria used to make the protein identification.
+\input{ace_figures/workflow.tex}
+This due to how the tandem mass spectra are used to identify proteins (see \citet{Marcotte2007} for a primer on shotgun proteomic identification).
+Briefly, proteins are extracted from the sample and enzymatically digested to generate peptides.
+The peptides are separated by \ac{LC} and subject to the first round of mass spectra acquisition where the mass of the peptides, the precursor ion spectra, are detected.
+Selected peptides undergo collision-induced dissociation where they fragment preferentially at the peptide bond.
+The second round of mass spectra is acquired of the peptide fragments, the fragment ion spectra, that represents to the amino acid sequence of the peptide.
+An \emph{in silico} enzymatic igestion is performed on the coding sequences of the genomic database to predict the precursor ion masses and their corresponding fragment ion spectra.
+The fragment ion spectrum and precursor ion mass is used to determine the most likely amino acid sequence of the peptide by comparison to the genomic database and infer the identity of the protein(s) of origin of the peptide.
+
+The challenges presented by protein identification are as follows.
+Firstly, since protein identification hinges on the quality of the search database, \emph{i.e.} availability of matching genomic sequences with sufficient coverage and to some extent, accurate \ac{ORF} prediction, can have a large effect on protein identification.
+This problem is compounded in metaproteomics as matching metagenomic sequences are not always available so cross-species matching using related genomes must be performed instead.
+The success of cross-species matching then varies with how related the protein sequences are as a single amino acid change is sufficient for a peptide to be not be matched.
+Furthermore, even if a corresponding metagenome is available, complete coverage of all genomic information from an environment is unlikely from all but the most simple of systems so it is expected that the rate of spectra matching will be lower in a metaproteome.
+
+Secondly, heterogeneity can cause ambiguity in protein identifications.
+
+
+Preliminary metaproteomic Total protein from the 0.1 \textmu{}m size fraction filters were extracted.
 1. Using a matched metagenome instead of \ac{NR} for protein identification greatly increased the number of identifications.
 1.1 Except at the bottom zone, likely because the community is too diverse so greater coverage of the metagenome is required. %see available good spectra vs good reads
 In parallel with taxonomic diversity increasing with depth (with the exception of the GSB layer), the rate of metaproteomic identification of proteins decreased with depth (Table S2). 

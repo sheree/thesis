@@ -1,4 +1,4 @@
-\begin{thebibliography}{207}
+\begin{thebibliography}{209}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -856,6 +856,11 @@ Man D., Wang W., Sabehi G., Aravind L., Post A.~F., Massana R., Spudich E.~N.,
 \newblock {Diversification and spectral tuning in marine proteorhodopsins}.
 \newblock \emph{The EMBO Journal}, 22:\penalty0 1725--1731.
 
+\bibitem[Marcotte(2007)]{Marcotte2007}
+Marcotte E.~M. (2007).
+\newblock {How do shotgun proteomics algorithms identify proteins?}
+\newblock \emph{Nature Biotechnology}, 25:\penalty0 755--757.
+
 \bibitem[Mart\'{\i}nez-Mart\'{\i}nez
   \emph{et~al.}(2007)Mart\'{\i}nez-Mart\'{\i}nez, Schroeder, Larsen, Bratbak,
   and Wilson]{Martinez-Martinez2007}
@@ -1089,6 +1094,13 @@ Raina J.-B., Dinsdale E.~A., Willis B.~L., and Bourne D.~G. (2010).
 \newblock {Do the organic sulfur compounds DMSP and DMS drive coral microbial
   associations?}
 \newblock \emph{Trends in Microbiology}, 18:\penalty0 101--108.
+
+\bibitem[Ram \emph{et~al.}(2008)Ram, Verberkmoes, Thelen, Tyson, Baker, {Blake
+  II}, Shah, Hettich, and Banfield]{Ram2005}
+Ram R.~J., Verberkmoes N.~C., Thelen M.~P., Tyson G.~W., Baker B.~J., {Blake
+  II} R.~C., Shah M., Hettich R.~L., and Banfield J.~F. (2008).
+\newblock {Community proteomics of a natural microbial biofilm}.
+\newblock \emph{Science}, \penalty0 (2005):\penalty0 1915--1920.
 
 \bibitem[Rankin \emph{et~al.}(1999)Rankin, Gibson, Franzmann, and
   Burton]{Rankin1999}
@@ -1337,13 +1349,6 @@ Unrein F., Izaguirre I., Massana R., Balagu\'{e} V., and Gasol J.~M. (2005).
 \newblock {Viruses and viruslike particles of eukaryotic algae}.
 \newblock \emph{Microbiological Reviews}, 55\penalty0 (4):\penalty0 586--620.
 
-\bibitem[Varin \emph{et~al.}(2012)Varin, Lovejoy, Jungblut, Vincent, and
-  Corbeil]{Varin2012}
-Varin T., Lovejoy C., Jungblut A.~D., Vincent W.~F., and Corbeil J. (2012).
-\newblock {Metagenomic analysis of stress genes in microbial mat communities
-  from Antarctica and the High Arctic.}
-\newblock \emph{Applied and Environmental Microbiology}, 78:\penalty0 549--59.
-
 \bibitem[Venter \emph{et~al.}(2004)Venter, Remington, Heidelberg, Halpern,
   Rusch, Eisen, Wu, Paulsen, Nelson, Nelson, Fouts, Levy, Knap, Lomas, Nealson,
   White, Peterson, Hoffman, Parsons, Baden-Tillson, Pfannkoch, Rogers, and
@@ -1488,6 +1493,13 @@ Yilmaz P., Iversen M.~H., Hankeln W., Kottmann R., Quast C., and Gl\"{o}ckner
 \newblock {Ecological structuring of bacterial and archaeal taxa in surface
   ocean waters}.
 \newblock \emph{FEMS Microbiology Ecology}, 81:\penalty0 373--385.
+
+\bibitem[Yilmaz \emph{et~al.}(2010)Yilmaz, Allgaier, and
+  Hugenholtz]{Yilmaz2010}
+Yilmaz S., Allgaier M., and Hugenholtz P. (2010).
+\newblock {Multiple displacement amplification compromises quantitative
+  analysis of metagenomes}.
+\newblock \emph{Nature Methods}, 7:\penalty0 943--944.
 
 \bibitem[Zwartz \emph{et~al.}(1998)Zwartz, Bird, Stone, and
   Lambeck]{Zwartz1998}
