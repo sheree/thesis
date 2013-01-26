@@ -9,31 +9,16 @@ A level-1 auxiliary file: acknowledgements.aux
 A level-1 auxiliary file: publist.aux
 A level-1 auxiliary file: acronyms.aux
 A level-1 auxiliary file: intro.aux
-White space in argument---line 107 of file intro.aux
- : \citation{Mikucki
- :                   2009}
-I'm skipping whatever remains of this command
 A level-1 auxiliary file: acelake.aux
 A level-1 auxiliary file: olv.aux
 A level-1 auxiliary file: orglake.aux
 A level-1 auxiliary file: conc.aux
 The style file: mybibstyle.bst
 A level-1 auxiliary file: appendices.aux
-Reallocated field_info (elt_size=4) to 10746 items from 5000.
+Reallocated field_info (elt_size=4) to 10824 items from 5000.
 Database file #1: Thesis.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
-Warning--I didn't find a database entry for "Hennes1995"
-Warning--I didn't find a database entry for "Hara1991"
-Warning--I didn't find a database entry for "Proctor1992"
-Warning--I didn't find a database entry for "Hobbie1977"
-Warning--I didn't find a database entry for "Hahn2003"
 Warning--I didn't find a database entry for ""
-Warning--I didn't find a database entry for "Curson2011"
-Warning--I didn't find a database entry for "Fuchs2006"
-Warning--I didn't find a database entry for "Sievert2008"
-Warning--I didn't find a database entry for "Scott2006"
-Warning--I didn't find a database entry for "Kirchman2002"
-Warning--I didn't find a database entry for "Teeling2012"
 You can't pop an empty literal stack for entry Clarke2006
 while executing---line 1411 of file mybibstyle.bst
 You can't pop an empty literal stack for entry Diemer2012
@@ -43,45 +28,45 @@ Warning--there's a number but no volume in Ram2005
 Warning--empty publisher in Redfield1963
 You can't pop an empty literal stack for entry Torrice2009
 while executing---line 1411 of file mybibstyle.bst
-You've used 209 entries,
+You've used 223 entries,
             2739 wiz_defined-function locations,
-            2201 strings with 67179 characters,
-and the built_in function-call counts, 122892 in all, are:
-= -- 11088
-> -- 10432
-< -- 53
-+ -- 3491
-- -- 3278
-* -- 12169
-:= -- 20149
-add.period$ -- 634
-call.type$ -- 209
-change.case$ -- 1715
-chr.to.int$ -- 205
-cite$ -- 421
-duplicate$ -- 3457
-empty$ -- 6581
-format.name$ -- 3531
-if$ -- 24197
-int.to.chr$ -- 5
+            2273 strings with 72173 characters,
+and the built_in function-call counts, 134111 in all, are:
+= -- 12013
+> -- 11660
+< -- 56
++ -- 3902
+- -- 3674
+* -- 13354
+:= -- 22037
+add.period$ -- 676
+call.type$ -- 223
+change.case$ -- 1889
+chr.to.int$ -- 218
+cite$ -- 449
+duplicate$ -- 3678
+empty$ -- 7027
+format.name$ -- 3945
+if$ -- 26349
+int.to.chr$ -- 6
 int.to.str$ -- 1
-missing$ -- 205
-newline$ -- 1055
-num.names$ -- 846
-pop$ -- 2477
+missing$ -- 219
+newline$ -- 1125
+num.names$ -- 902
+pop$ -- 2756
 preamble$ -- 1
-purify$ -- 1507
+purify$ -- 1667
 quote$ -- 0
-skip$ -- 3372
+skip$ -- 3645
 stack$ -- 0
-substring$ -- 5597
-swap$ -- 331
+substring$ -- 6016
+swap$ -- 347
 text.length$ -- 12
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 2299
+type$ -- 2453
 warning$ -- 3
-while$ -- 1038
+while$ -- 1107
 width$ -- 0
-write$ -- 2533
-(There were 4 error messages)
+write$ -- 2701
+(There were 3 error messages)

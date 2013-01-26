@@ -1,4 +1,4 @@
-\begin{thebibliography}{209}
+\begin{thebibliography}{223}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -268,7 +268,14 @@ Curson A.~R., J~, Sullivan M.~J., Todd J.~D., and Johnston A.~W. (2010).
   in the gut of Atlantic Herring (Clupea harengus)}.
 \newblock \emph{The ISME Journal}, 4:\penalty0 144--146.
 
-\bibitem[Curson \emph{et~al.}(2011)Curson, Todd, Sullivan, and
+\bibitem[Curson \emph{et~al.}(2011{\natexlab{a}})Curson, Sullivan, Todd, and
+  Johnston]{Curson2011a}
+Curson A.~R., Sullivan M.~J., Todd J.~D., and Johnston A.~W. (2011).
+\newblock {DddY, a periplasmic dimethylsulfoniopropionate lyase found in
+  taxonomically diverse species of Proteobacteria.}
+\newblock \emph{The ISME Journal}, 5:\penalty0 1191--200.
+
+\bibitem[Curson \emph{et~al.}(2011{\natexlab{b}})Curson, Todd, Sullivan, and
   Johnston]{Curson2011b}
 Curson A.~R., Todd J.~D., Sullivan M.~J., and Johnston A.~W. (2011).
 \newblock {Catabolism of dimethylsulphoniopropionate: microorganisms , enzymes
@@ -287,6 +294,12 @@ Davidson A.~T. and Marchant H.~J. (1992).
 \newblock {Protist abundance and carbon concentration during a
   Phaeocystis-dominated bloom at an Antarctic coastal site}.
 \newblock \emph{Polar Biology}, 12:\penalty0 387--395.
+
+\bibitem[DeMaere \emph{et~al.}(2011)DeMaere, Lauro, Thomas, Yau, and
+  Cavicchioli]{DeMaere2011}
+DeMaere M.~Z., Lauro F.~M., Thomas T., Yau S., and Cavicchioli R. (2011).
+\newblock {Simple high-throughput annotation pipeline (SHAP)}.
+\newblock \emph{Bioinformatics}, 27:\penalty0 2431--2432.
 
 \bibitem[Demergasso \emph{et~al.}(2008)Demergasso, Escudero, Casamayor, Chong,
   Balagu\'{e}, and Pedr\'{o}s-Ali\'{o}]{Demergasso2008}
@@ -397,6 +410,15 @@ Friedrich C.~G., Bardischewsky F., Rother D., Quentmeier A., and Fischer J.
   (2005).
 \newblock {Prokaryotic sulfur oxidation}.
 \newblock \emph{Current Opinion in Microbiology}, 8:\penalty0 253--259.
+
+\bibitem[Fuchs \emph{et~al.}(2007)Fuchs, Spring, Teeling, Quast, Wulf,
+  Schattenhofer, Yan, Ferriera, Johnson, Gl\"{o}ckner, and Amann]{Fuchs2007}
+Fuchs B.~M., Spring S., Teeling H., Quast C., Wulf J., Schattenhofer M., Yan
+  S., Ferriera S., Johnson J., Gl\"{o}ckner F.~O., and Amann R. (2007).
+\newblock {Characterization of a marine gammaproteobacterium capable of aerobic
+  anoxygenic photosynthesis}.
+\newblock \emph{Proceedings of the National Academy of Sciences USA},
+  104:\penalty0 2891--2896.
 
 \bibitem[Fuhrman \emph{et~al.}(2008)Fuhrman, Schwalbach, and
   Stingl]{Fuhrman2008}
@@ -534,6 +556,15 @@ Hahn M.~W. (2009).
 \newblock \emph{International Journal of Systematic and Evolutionary
   Microbiology}, 59:\penalty0 112--117.
 
+\bibitem[Hahn \emph{et~al.}(2003)Hahn, L\"{u}nsdorf, Wu, Schauer, H\"{o}fle,
+  Boenigk, and Stadler]{Hahn2003}
+Hahn M.~W., L\"{u}nsdorf H., Wu~Q., Schauer M., H\"{o}fle M.~G., Boenigk J.,
+  and Stadler P. (2003).
+\newblock {Isolation of novel ultramicrobacteria classified as Actinobacteria
+  from five freshwater habitats in Europe and Asia}.
+\newblock \emph{Applied and Environmental Microbiology}, 69:\penalty0
+  1442--1451.
+
 \bibitem[Hahn \emph{et~al.}(2004)Hahn, Stadler, Wu, and P\"{o}ckl]{Hahn2004}
 Hahn M.~W., Stadler P., Wu~Q.~L., and P\"{o}ckl M. (2004).
 \newblock {The filtration-acclimatization method for isolation of an important
@@ -546,10 +577,30 @@ Hahsler M., Hornik K., and Buchta C. (2007).
   seriation}.
 \newblock \emph{Journal of Statistical Software}, 25:\penalty0 1--34.
 
+\bibitem[Hara \emph{et~al.}(1991)Hara, Terauchi, and Koike]{Hara1991}
+Hara S., Terauchi K., and Koike I. (1991).
+\newblock {Abundance of viruses in marine waters: assessment by epifluorescence
+  and transmission electron microscopy}.
+\newblock \emph{Applied and Environmental Microbiology}, 57:\penalty0
+  2731--2734.
+
 \bibitem[Harris \emph{et~al.}(2004)Harris, Kelley, and Pace]{Harris2004}
 Harris J.~K., Kelley S.~T., and Pace N.~R. (2004).
 \newblock {New Perspective on Uncultured Bacterial Phylogenetic Division OP11}.
 \newblock \emph{Applied and Environmental Microbiology}, 70:\penalty0 845--849.
+
+\bibitem[Hennes and Suttle(1995)]{Hennes1995}
+Hennes K.~P. and Suttle C.~A. (1995).
+\newblock {Direct counts of viruses in natural waters and laboratory cultures
+  by epifluorescence microscopy}.
+\newblock \emph{Limnology and Oceanography}, 40:\penalty0 1050--1055.
+
+\bibitem[Hobbie \emph{et~al.}(1977)Hobbie, Daley, and Jasper]{Hobbie1977}
+Hobbie J., Daley R., and Jasper S. (1977).
+\newblock {Use of nuclepore filters for counting bacteria by fluorescence
+  microscopy}.
+\newblock \emph{Applied and Environmental Microbiology}, 33:\penalty0
+  1225--1228.
 
 \bibitem[Hodgson(2012)]{Hodgson2012}
 Hodgson D.~A.
@@ -702,6 +753,11 @@ Keller A., Nesvizhskii A.~I., Kolker E., and Aebersold R. (2002).
   identifications made by MS/MS and database search}.
 \newblock \emph{Analytical Chemistry}, 74:\penalty0 5383--5392.
 
+\bibitem[Kirchman(2002)]{Kirchman2002}
+Kirchman D.~L. (2002).
+\newblock {The ecology of Cytophaga-Flavobacteria in aquatic environments}.
+\newblock \emph{FEMS Microbiolgy Ecology}, 39:\penalty0 91--100.
+
 \bibitem[Kraft \emph{et~al.}(2011)Kraft, Strous, and Tegetmeyer]{Kraft2011}
 Kraft B., Strous M., and Tegetmeyer H.~E. (2011).
 \newblock {Microbial nitrate respiration – genes, enzymes and environmental
@@ -755,9 +811,9 @@ Larsen J.~B., Larsen A., Bratbak G., and Sandaa R.-A. (2008).
   3048--3057.
 
 \bibitem[Lauro \emph{et~al.}(2009)Lauro, Mcdougald, Thomas, Williams, Egan,
-  Rice, Demaere, Ting, Ertan, Johnson, Ferriera, Lapidus, Anderson, Kyrpides,
+  Rice, DeMaere, Ting, Ertan, Johnson, Ferriera, Lapidus, Anderson, Kyrpides,
   Munk, Detter, Han, Brown, Robb, Kjelleberg, and Cavicchioli]{Lauro2009}
-Lauro F.~M., Mcdougald D., Thomas T., Williams T.~J., Egan S., Rice S., Demaere
+Lauro F.~M., Mcdougald D., Thomas T., Williams T.~J., Egan S., Rice S., DeMaere
   M.~Z., Ting L., Ertan H., Johnson J., Ferriera S., Lapidus A., Anderson
   I.~J., Kyrpides N., Munk A.~C., Detter C., Han C.~S., Brown M.~V., Robb
   F.~T., Kjelleberg S., and Cavicchioli R. (2009).
@@ -765,10 +821,10 @@ Lauro F.~M., Mcdougald D., Thomas T., Williams T.~J., Egan S., Rice S., Demaere
 \newblock \emph{Proceedings of the National Academy of Sciences USA},
   106:\penalty0 15527--15533.
 
-\bibitem[Lauro \emph{et~al.}(2011)Lauro, Demaere, Yau, Brown, Ng, Wilkins,
+\bibitem[Lauro \emph{et~al.}(2011)Lauro, DeMaere, Yau, Brown, Ng, Wilkins,
   Raftery, Gibson, Andrews-Pfannkoch, Lewis, Hoffman, Thomas, and
   Cavicchioli]{Lauro2011}
-Lauro F.~M., Demaere M.~Z., Yau S., Brown M.~V., Ng~C., Wilkins D., Raftery
+Lauro F.~M., DeMaere M.~Z., Yau S., Brown M.~V., Ng~C., Wilkins D., Raftery
   M.~J., Gibson J.~A., Andrews-Pfannkoch C., Lewis M., Hoffman J.~M., Thomas
   T., and Cavicchioli R. (2011).
 \newblock {An integrative study of a meromictic lake ecosystem in Antarctica}.
@@ -1081,6 +1137,12 @@ Proctor L.~M. and Fuhrman J.~A. (1990).
 \newblock {Viral mortality of marine bacteria and cyanobacteria}.
 \newblock \emph{Nature}, 343:\penalty0 60--62.
 
+\bibitem[Proctor and Fuhrman(1992)]{Proctor1992}
+Proctor L.~M. and Fuhrman J.~A. (1992).
+\newblock {Mortality of marine bacteria in response to enrichments of the virus
+  size fraction from seawater}.
+\newblock \emph{Marine Ecology Progress Series}, 87:\penalty0 283--293.
+
 \bibitem[Purdy \emph{et~al.}(2003)Purdy, Nedwell, and Embley]{Purdy2003}
 Purdy K., Nedwell D., and Embley T. (2003).
 \newblock {Analysis of the sulfate-reducing bacterial and methanogenic archaeal
@@ -1188,6 +1250,14 @@ Sandaa R.-A., Heldal M., Castberg T., Thyrhaug R., and Bratbak G. (2001).
   orientalis (Prasinophyceae)}.
 \newblock \emph{Virology}, 290:\penalty0 272--280.
 
+\bibitem[Saunders \emph{et~al.}(2006)Saunders, Ng, Raftery, Guilhaus,
+  Goodchild, and Cavicchioli]{Saunders2006}
+Saunders N.~F.~W., Ng~C., Raftery M., Guilhaus M., Goodchild A., and
+  Cavicchioli R. (2006).
+\newblock {Proteomic and computational analysis of secreted proteins with type
+  I signal peptides from the Antarctic archaeon Methanococcoides burtonii}.
+\newblock \emph{Journal of Proteome Research}, 5:\penalty0 2457--2464.
+
 \bibitem[Sch\"{a}fer \emph{et~al.}(2010)Sch\"{a}fer, Myronova, and
   Boden]{Schafer2010}
 Sch\"{a}fer H., Myronova N., and Boden R. (2010).
@@ -1211,6 +1281,24 @@ Schmidtova J., Hallam S.~J., and Baldwin S.~A. (2009).
   communities within a near-shore anoxic basin: Nitinat Lake}.
 \newblock \emph{Environmental Microbiology}, 11:\penalty0 3233--3251.
 
+\bibitem[Scott \emph{et~al.}(2006)Scott, Sievert, Abril, Ball, Barrett, Blake,
+  Boller, Chain, Clark, Davis, Detter, Do, Dobrinski, Faza, Fitzpatrick,
+  Freyermuth, Harmer, Hauser, H\"{u}gler, Kerfeld, Klotz, Kong, Land, Lapidus,
+  Larimer, Longo, Lucas, Malfatti, Massey, Martin, McCuddin, Meyer, Moore,
+  Ocampo, Paul, Paulsen, Reep, Ren, Ross, Sato, Thomas, Tinkham, and
+  Zeruth]{Scott2006}
+Scott K.~M., Sievert S.~M., Abril F.~N., Ball L.~a., Barrett C.~J., Blake
+  R.~a., Boller A.~J., Chain P.~S.~G., Clark J.~a., Davis C.~R., Detter C.,
+  Do~K.~F., Dobrinski K.~P., Faza B.~I., Fitzpatrick K.~a., Freyermuth S.~K.,
+  Harmer T.~L., Hauser L.~J., H\"{u}gler M., Kerfeld C.~a., Klotz M.~G., Kong
+  W.~W., Land M., Lapidus A., Larimer F.~W., Longo D.~L., Lucas S., Malfatti
+  S.~a., Massey S.~E., Martin D.~D., McCuddin Z., Meyer F., Moore J.~L., Ocampo
+  L.~H., Paul J.~H., Paulsen I.~T., Reep D.~K., Ren Q., Ross R.~L., Sato P.~Y.,
+  Thomas P., Tinkham L.~E., and Zeruth G.~T. (2006).
+\newblock {The genome of deep-sea vent chemolithoautotroph Thiomicrospira
+  crunogena XCL-2}.
+\newblock \emph{PLoS Biology}, 4:\penalty0 e383.
+
 \bibitem[Sharma \emph{et~al.}(2008)Sharma, Zhaxybayeva, Papke, and
   Doolittle]{Sharma2008}
 Sharma A.~K., Zhaxybayeva O., Papke R.~T., and Doolittle W.~F. (2008).
@@ -1233,6 +1321,17 @@ Siegert M.~J., Ellis-Evans J.~C., Tranter M., Mayer C., Petit J.-R., Salamatin
 \newblock {Physical, chemical and biological processes in Lake Vostok and other
   Antarctic subglacial lakes.}
 \newblock \emph{Nature}, 414:\penalty0 603--609.
+
+\bibitem[Sievert \emph{et~al.}(2008)Sievert, Scott, Klotz, Chain, Hauser, Hemp,
+  H\"{u}gler, Land, Lapidus, Larimer, Lucas, Malfatti, Meyer, Paulsen, Ren, and
+  Simon]{Sievert2008}
+Sievert S.~M., Scott K.~M., Klotz M.~G., Chain P.~S., Hauser L.~J., Hemp J.,
+  H\"{u}gler M., Land M., Lapidus A., Larimer F.~W., Lucas S., Malfatti S.~A.,
+  Meyer F., Paulsen I.~T., Ren Q., and Simon J. (2008).
+\newblock {Genome of the epsilonproteobacterial chemolithoautotroph
+  Sulfurimonas denitrificans}.
+\newblock \emph{Applied and Environmental Microbiology}, 74:\penalty0
+  1145--1156.
 
 \bibitem[Suttle(2005)]{Suttle2005}
 Suttle C.~A. (2005).
@@ -1282,6 +1381,19 @@ Tatusov R.~L., Fedorova N.~D., Jackson J.~D., Jacobs A.~R., Kiryutin B., Koonin
   Natale D.~A. (2003).
 \newblock {The COG database: an updated version includes eukaryotes}.
 \newblock \emph{BMC Bioinformatics}, 4:\penalty0 41.
+
+\bibitem[Teeling \emph{et~al.}(2012)Teeling, Fuchs, Becher, Klockow,
+  Gardebrecht, Bennke, Kassabgy, Huang, Mann, Waldmann, Weber, Klindworth,
+  Otto, Lange, Bernhardt, Reinsch, Hecker, Peplies, Bockelmann, Callies,
+  Gerdts, Wichels, Wiltshire, Gl\"{o}ckner, Schweder, and Amann]{Teeling2012}
+Teeling H., Fuchs B.~M., Becher D., Klockow C., Gardebrecht A., Bennke C.~M.,
+  Kassabgy M., Huang S., Mann A.~J., Waldmann J., Weber M., Klindworth A., Otto
+  A., Lange J., Bernhardt J., Reinsch C., Hecker M., Peplies J., Bockelmann
+  F.~D., Callies U., Gerdts G., Wichels A., Wiltshire K.~H., Gl\"{o}ckner
+  F.~O., Schweder T., and Amann R. (2012).
+\newblock {Substrate-controlled succession of marine bacterioplankton
+  populations induced by a phytoplankton bloom}.
+\newblock \emph{Science}, 336:\penalty0 608--611.
 
 \bibitem[Thomsen(2007)]{Thomsen1988}
 Thomsen H.~A. (2007).
@@ -1414,10 +1526,17 @@ Ward B.~B., Granger J., Maldonado M., Casciotti K., Harris S., and Wells M.
   Bonney, Antarctica}.
 \newblock \emph{Aquatic Microbial Ecology}, 38:\penalty0 295--307.
 
-\bibitem[Wilkins \emph{et~al.}(2012)Wilkins, Lauro, Williams, Demaere, Brown,
+\bibitem[Wen \emph{et~al.}(2004)Wen, Ortmann, and Suttle]{Wen2004}
+Wen K., Ortmann A.~C., and Suttle C.~A. (2004).
+\newblock {Accurate estimation of viral abundance by epifluorescence
+  microscopy}.
+\newblock \emph{Applied and Environmental Microbiology}, 70:\penalty0
+  3862--3867.
+
+\bibitem[Wilkins \emph{et~al.}(2012)Wilkins, Lauro, Williams, DeMaere, Brown,
   Hoffman, Andrews-Pfannkoch, Mcquaid, Riddle, Rintoul, and
   Cavicchioli]{Wilkins2012b}
-Wilkins D., Lauro F.~M., Williams T.~J., Demaere M.~Z., Brown M.~V., Hoffman
+Wilkins D., Lauro F.~M., Williams T.~J., DeMaere M.~Z., Brown M.~V., Hoffman
   J.~M., Andrews-Pfannkoch C., Mcquaid J.~B., Riddle M.~J., Rintoul S.~R., and
   Cavicchioli R. (2012).
 \newblock {Biogeographic partitioning of Southern Ocean microorganisms revealed
@@ -1477,9 +1596,9 @@ Yanagibayashi M., Nogi Y., Li~L., and Kato C. (1999).
   depth of 6292 m during cultivation without decompression}.
 \newblock \emph{FEMS Microbiology Letters}, 170:\penalty0 271--279.
 
-\bibitem[Yau \emph{et~al.}(2011)Yau, Lauro, Demaere, Brown, Thomas, Raftery,
+\bibitem[Yau \emph{et~al.}(2011)Yau, Lauro, DeMaere, Brown, Thomas, Raftery,
   Andrews-Pfannkoch, Lewis, Hoffman, Gibson, and Cavicchioli]{Yau2011}
-Yau S., Lauro F.~M., Demaere M.~Z., Brown M.~V., Thomas T., Raftery M.~J.,
+Yau S., Lauro F.~M., DeMaere M.~Z., Brown M.~V., Thomas T., Raftery M.~J.,
   Andrews-Pfannkoch C., Lewis M., Hoffman J.~M., Gibson J.~A., and Cavicchioli
   R. (2011).
 \newblock {Virophage control of antarctic algal host – virus dynamics}.
