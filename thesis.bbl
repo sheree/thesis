@@ -1,4 +1,4 @@
-\begin{thebibliography}{223}
+\begin{thebibliography}{224}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -608,6 +608,13 @@ Hodgson D.~A.
 \newblock In Bengtsson L., Herschy R.~W., and Fairbridge R.~W., editors,
   \emph{Encyclopedia of Lakes and Reservoirs}, pages 26--31. Springer,
   Dordrecht, 2012.
+
+\bibitem[Hoops \emph{et~al.}(2006)Hoops, Sahle, Gauges, Lee, Pahle, Simus,
+  Singhal, Xu, Mendes, and Kummer]{Hoops2006}
+Hoops S., Sahle S., Gauges R., Lee C., Pahle J., Simus N., Singhal M., Xu~L.,
+  Mendes P., and Kummer U. (2006).
+\newblock {COPASI - a COmplex PAthway SImulator}.
+\newblock \emph{Bioinformatics}, 22:\penalty0 3067--3074.
 
 \bibitem[Howard \emph{et~al.}(2006)Howard, Henriksen, Buchan, Reisch,
   B\"{u}rgmann, Welsh, Ye, Gonz\'{a}lez, Mace, Joye, Kiene, Whitman, and

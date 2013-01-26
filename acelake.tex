@@ -31,9 +31,9 @@ Assistance in mass spectrometry was provided by Mark Raftery.
 \section{Abstract}
 Ace Lake is a saline meromictic lake that is the most studied lake in the Vestfold Hills, Antarctica.
 As a system of moderate biological complexity with extensive historic physical and chemical data, it was chosen as a site to implement an integrative study of the whole lake ecosystem.
-Metagenomic analysis of Ace Lake revealed microbial taxa and metabolic genes were stratified according to the lake's water column structure and also was able to infer potential for nutrient cycling.
-The aerobic mixolimnion resembles a marine surface water microbial community, the oxic--anoxic interface contains a near-clonal population of \ac{GSB} while the anoxic monimolimnion contains an extremely diverse assemblage that includes methanogenic \emph{Archaea} and \ac{SRB}.
-The viral population comprises abundant bacteriophages as well as large phycodnaviruses that were detected at all depths of the lake, except for the \ac{GSB} layer \cite{Lauro2011}.
+Metagenomic analysis of Ace Lake revealed microbial taxa and metabolic genes were stratified according to the lake's water column structure and also was able to infer potential for nutrient cycling \cite{Lauro2011}.
+%The aerobic mixolimnion resembles a marine surface water microbial community, the oxic--anoxic interface contains a near-clonal population of \ac{GSB} while the anoxic monimolimnion contains an extremely diverse assemblage that includes methanogenic \emph{Archaea} and \ac{SRB}.
+%The viral signatures were detected at all depths of the lake, except for the \ac{GSB} layer \cite{Lauro2011}.
 
 This study aimed to generate independent datasets complementary to metagenomic sequencing as part of the integrative analysis of the lake.
 A method for visualising and enumerating cells and \acp{VLP} using epifluorescence microscopy was developed that does not require use of the relatively expensive Anodisc filters.
@@ -42,9 +42,9 @@ Furthermore, it determined the densities of cells and \acp{VLP} and independentl
 
 Preliminary metaproteomic analysis of the Ace Lake depth profile using cross-species matching of mass spectra to the \ac{NR} yeilded few protein identifications \cite{Ng2010b}.
 However, metaproteomic analysis of the \ac{GSB} layer using matching \ac{GSB} metagenomic sequences as the search database gave a 3-fold increase in protein identifications and allowed detailled description of the metabolism of the \ac{GSB} \cite{Ng2010a,Ng2010b}.
-By similarly using metagenomes matched to the metaproteome samples as search databases, significant improvements in protein identifications were made.
-Application of the software package \textsc{Scaffold} to protein mass spectral analysis further improved validity of protein identifications and allowed for approximations of protein abundance using spectral counts.
-These data were provided crucial to support a comprehensive description of the  entire Ace Lake ecosystem function. 
+A metaproteomic analysis workflow was developed that similarly using metagenomes matched to the metaproteome samples as search databases and achieved significant improvements in protein identification rates.
+Application of the software package \textsc{Scaffold} 2.0 to protein mass spectral analysis further improved validity of protein identifications and allowed for approximations of protein abundance using spectral counts.
+These data provided crucial to support a comprehensive description of the  entire Ace Lake ecosystem function. 
 
 %---------------------------------------------------------------------------------------------
 \section{Introduction}
@@ -71,14 +71,14 @@ The mixolimnion community is similar to a marine surface water assemblage consis
 However, diversity is reduced by one order of magnitude \cite{Lauro2011}.
 Unlike Southern Ocean surface water, the mixolimnion is overrepresented in \emph{Cyanobacteria} related to \emph{Synechococcus} and \emph{Actinobacteria}, which may represent taxa that mark the transition from a marine to lake community.
 A dense, near-clonal population of \acl{GSB} related to \emph{Chlorobium} termed \emph{C}-ace reside at the chemo/oxycline at 12.7 m \cite{Ng2010a, Lauro2011}.
-Below, in the monimolimnion is a diverse, primarily heterotrophic community with abundant \ac{SRB} and methanogenic \emph{Archaea}.
+Below, in the monimolimnion is a highly diverse community that includes \ac{SRB} and methanogenic \emph{Archaea}.
 The viral community comprises \emph{Phycodnaviridae}, \emph{Myoviridae}, \emph{Siphoviridae}, \emph{Podoviridae} and unidentified viral families \cite{Lauro2011}. 
 Bacteriophage sequences were abundant in the bottom waters, whereas the surface community, was dominated by phycodnaviruses \cite{Lauro2011}. 
 Most notably, no viral signatures were found associated with the \ac{GSB} at the chemo/oxycline. 
 Mathematical modeling predicted that the absence of bacteriophage predation in the \ac{GSB} could be due to an adaptation to longer cycles of growth and inactivity in response to the polar light regime \cite{Lauro2011}. 
 %Phototrophs with faster growth rates, such as eucaryal algae and \emph{Cyanobacteria} in the surface water, were predicted to be more susceptible to viral predation \cite{Lauro2011}. 
 
-Preliminary metaproteomic analysis along the vertical profile of Ace Lake has been performed using a cross species genomic database comprising the \ac{NCBI} \ac{NR} to perform protein identifications \cite{Ng2010b}.
+Preliminary metaproteomic analysis along the vertical profile of Ace Lake has been performed using a cross species genomic database comprising the \ac{NCBI} \ac{NR} \cite{Ng2010b}.
 A focused metaproteogeonomic analysis conducted on the dense \ac{GSB} layer using the matched \ac{GSB} metagenome as the database resulted in 3-fold increase in protein identifications compared to using the \ac{NR} database \cite{Ng2010b}.
 %Put in a table of the rates of matches...
 This indicates large gains in metaproteome coverage are possible using a matched metagenomic database \cite{Ng2010b}.
@@ -94,10 +94,10 @@ These included a modified epifluorescence microscopy procedure to determine cell
 \label{sec:ace_mm}
 \subsection{Ace Lake samples}
 Water samples were collected from Ace Lake (68$^{\circ}$28$'$23.2$''$S, 78$^{\circ}$11$'$20.8$''$E), Vestfold Hills, Antarctica on 21 and 22 December 2006. 
-A 2 m hole positioned above the deepest point (25 m depth) of the lake was drilled through the ice cover of Ace Lake to reach the lake surface.
+A hole positioned above the deepest point (25 m depth) of the lake was drilled through the 2 m ice cover of Ace Lake to reach the lake surface.
 A volume of 1--10 L was collected by sequential size fractionation through a 20 \textmu{}m pre-filter directly onto 3.0, 0.8 and 0.1 \textmu{}m pore-size 293 mm polyethersulfone membrane filters \cite{Rusch2007}, along the depth profile.
 Two independent sets of filters were obtained, one set for metagenomics and one for metaproteomics.
-Filteres were placed into sterile 50 ml tubes containing a solution of 2.5 mM EGTA, 2.5 mM EDTA, 0.1 mM Tris-EDTA (pH 8), 1mM PMSF (freshly prepared), 50 \textmu{}l protease inhibitor cocktail VI (Calbiochem, San Diego, \textsc{CA}, \textsc{USA}) and the tubes placed in liquid nitrogen before storage at $-$80$^{\circ}$C.
+Filters were placed into sterile 50 ml tubes containing a solution of 2.5 mM EGTA, 2.5 mM EDTA, 0.1 mM Tris-EDTA (pH 8), 1mM PMSF (freshly prepared), 50 \textmu{}l protease inhibitor cocktail VI (Calbiochem, San Diego, \textsc{CA}, \textsc{USA}) and the tubes placed in liquid nitrogen before storage at $-$80$^{\circ}$C.
 The protease inhibitor cocktail has a broad specificity for inhibition of serine, cysteine, aspartic and metalloproteases within protein extracts.
 Samples were taken in the order, 23, 18, 14, 12.7, 5 and finally, 11.5 m.
 
@@ -161,40 +161,40 @@ Samples were visualised under wide-blue filter set (excitation 460--495 nm, emis
 Proteins were extracted from membrane filters from all 0.1 \textmu{}m fractions from the six depths (5, 11.5, 12.7, 14, 18 and 23 m) according to the protocol developed by \citet{Ng2010a}, which is as follows.
 The 0.1 \textmu{}m filters were allowed to thaw at room temperature and cut into quarters asceptically.
 Separate extractions were performed on each filter quarter which served as technical replicates.
-Each quarter filter was suspended in a lysis buffer containing 10mM Tris-EDTA (pH 8)(Univar), 20 \textmu{}l of protease inhibitor cocktail VI (Calbiochem), 0.1\% sodium dodecyl sulphate (Univar), and 1 mM dithiothreitol (Sigma-Aldrich).
+Each quarter filter was suspended in a lysis buffer containing 10mM Tris-EDTA (pH 8), 20 \textmu{}l of protease inhibitor cocktail VI (Calbiochem), 0.1\% sodium dodecyl sulphate, and 1 mM dithiothreitol.
 Three freeze-thaw cycles were performed using liquid nitrogen.
 The membrane was then removed, and the buffer was subject to five cycles of sonication of 40 s on a 30 \% duty cycle at power setting of 3, which serves to lyse any remaining cells and shear nucleic acids.
 The mixture was centrifuged at 5000 \emph{g} for 25 min at 4$^{\circ}$C to remove insoluble material.
-Smaller insoluble particles were removed by filtration through a 0.22 \textmu{}m syringe filter (Millipore).
+Smaller insoluble particles were removed by filtration through a 0.22 \textmu{}m syringe filter (Millipore, Sydney, NSW, Australia).
 Buffer exchange with 30 ml of 10 mM Tris-EDTA (pH 8) and concentration of soluble extracted proteins was performed in a 5 kDa cut-off Amicon Ultra-15 filter unit (Millipore).
-Protein concentration was determined using a bicinchoninic acid protein assay kit (Sigma-Aldrich).
+Protein concentration was determined using a bicinchoninic acid protein assay kit (Sigma-Aldrich, Sydney, NSW, Australia).
 
-\subsection{Metaproteome \acs{1D-SDS-PAGE} and \acs{LC}-\acs{MS-MS}}
-Extracted proteins were separated by \% \ac{1D-SDS-PAGE} containing 12 \% SDS using a Mini-PROTEAN system (Bio-Rad) as described previously \cite{Saunders2006}.
+\subsection{Metaproteomic \acs{1D-SDS PAGE} and \acs{LC}-\acs{MS-MS}}
+Extracted proteins were separated by \ac{1D-SDS-PAGE} containing 12 \% SDS using a Mini-PROTEAN system (Bio-Rad, Sydney, NSW, Australia) as described previously \cite{Saunders2006}.
 Trypsin digestion, \ac{LC} and mass spectrometry was conducted according to \citet{Ng2010a} as follows.
-The gels were silver stained and the images of the resulting gel acquired with a UMAX PowerLook 1000 flat-bed scanner (Fujifilm).
+The gels were silver stained and the images acquired with a UMAX PowerLook 1000 flat-bed scanner (Fujifilm, Berthold, Vic, Australia).
 Each lane containing the size separated proteins were excised and sliced according to size with a sterile scalpel.
 Gel slices were washed in sterile Milli-Q water followed by acetonitrile, then subject to a series of reductioin, alkylation and dehydration reactions.
-Digestion of proteins with trypsin was conducted by rehydrating gel pieces in a buffer of 200 ng trypsin (Promega) and 10 mM NH$_4$HCO$_3$ at 37$^{\circ}$C overnight. 
+Digestion of proteins with trypsin was conducted by rehydrating gel pieces in a buffer of 200 ng trypsin (Promega, Sydney, NSW, Australia) and 10 mM NH$_4$HCO$_3$ at 37$^{\circ}$C overnight. 
 Gel slices were dehydrated in acetonitrile in a centrifugal evaporator (SpeedVac).
 
-Peptides were rehydrated in 1 \% formic acid and 0.05 \% heptafluorobutyric acid and separated by nano \ac{LC} using an Ultimate 3000 \acs{HPLC} and autosampler system (Dionex).
-Samples of 2.5 \textmu{}l were concentrated and desalted onto a micro C18 precolumn (500 \textmu{}m $\times$ 2 mm; Michrom Bioresources) with H$_2$O:CH$_3$CN (98:2, water to 0.05\% heptafluorobutyric acid) at 20 \textmu{}l min$^{-1}$.
-After a 4 min wash, the precolumn was switched into line (Valco 10 port valve; Dionex) with a fritless nano column (75 \textmu{}m $\times$ 10 cm) containing C18 medium (5 \textmu{}, 200 \AA Magic, Michrom).
+Peptides were rehydrated in 1\% formic acid and 0.05\% heptafluorobutyric acid and separated by nano \ac{LC} using an Ultimate 3000 \acs{HPLC} and autosampler system (Dionex, Amsterdam, the Netherlands).
+Samples of 2.5 \textmu{}l were concentrated and desalted onto a micro C18 precolumn (500 \textmu{}m $\times$ 2 mm; Michrom Bioresources, Auburn, \textsc{CA}, \textsc{USA}) with H$_2$O:CH$_3$CN (98:2, water to 0.05\% heptafluorobutyric acid) at 20 \textmu{}l min$^{-1}$.
+After a 4 min wash, the precolumn was switched into line (Valco 10 port valve; Dionex) with a fritless nano column (75 \textmu{}m $\times$ 10 cm) containing C18 medium (5 \textmu{}, 200 \AA\ Magic, Michrom).
 Peptides were eluted using a linear gradient of H$_2$O:CH$_3$CN (98:2, 0.1\% formic acid) to H$_2$O:CH$_3$CN (63:36, 0.1\% formic acid) at 350 nl min$^{-1}$ over 30 min.
 
-1800 V was applied to the low volume tee (Upchurch Scientific) and the column tip was positioned $\sim$0.5 cm from the heated capillary (250$^{\circ}$C of an LTQ-FT Ultra mass spectrometer (Thermo Electron).
+1800 V was applied to the low volume tee (Upchurch Scientific, Oak Harbor, \textsc{WA}, \textsc{USA}) and the column tip was positioned $\sim$0.5 cm from the heated capillary (250$^{\circ}$C of an LTQ-FT Ultra mass spectrometer (Thermo Electron, Bremen, Germany).
 Positive ions were generated by electrospray and the LTQ-FT Ultra was operated in data-dependent acquisition mode.
 A survey scan \emph{m/z} 350--1,750 was acquired in the FT ICR cell (resolution $=$ 1,000,000 ions in the linear ion trap).
 Up to the six most abundant ions ($>$3,000 counts) with charge states of $+$2, $+$3 or $+$4 were sequentially isolated and fragmented within the linear ion trap using collision-induced dissociation with an activation $q$ $=$ 0.25 and activation time of 30 ms at a target mass value of 30,000 ions.
 \emph{m/z} ratios selected for \ac{MS-MS} were dynamically excluded for 30 s.
-Peak lists were generated using \textsc{extract\_msm} from \textsc{Mascot Daemon} (Matrix Science, Thermo) using the default parameters.
+Peak lists were generated using \textsc{extract\_msm} from \textsc{Mascot Daemon} (Matrix Science, Thermo, London, \textsc{UK}) using the default parameters.
 
 \subsection{Mass spectra analysis and validation of metaproteomic identifications}
-The specta generated from \ac{MS} were searched against the protein sequence database corresponding to that depth constructed from the 0.1 \textmu{}m mosaic assemblies using \textsc{Mascot} (Matrix Science).
+The specta generated from \ac{MS} were searched against the protein sequence database corresponding to that depth constructed from the 0.1 \textmu{}m mosaic assemblies using \textsc{Mascot} version 2.1 (Matrix Science).
 \textsc{Mascot Distiller} (Applied Biosystems) was used as the data import filter with the following criteria applied to the \ac{MS-MS} ion search: a maximum of one missed cleavage for trypsin, peptide mass tolerance of $\pm$ 4 ppm, a fragment mass tolerance of $\pm$0.6 Da and variable modifications of acrylamide, carbamidomethyl and oxidation.
 The number of protein sequences in each database were as follows: 5 m, 138,208; 11.5 m, 133,948; 12.7 m, 27,142; 14 m, 62,436; 18 m, 71,512; and 23 m, 128,878. 
-\textsc{Scaffold} (version Scaffold\_2\_05\_01, Proteome Software Inc., Portland, \textsc{OR}, \textsc{USA}) was used to validate \ac{MS-MS}-based peptide and protein identifications. 
+\textsc{Scaffold} 2.0 (version Scaffold\_2\_05\_01, Proteome Software Inc., Portland, \textsc{OR}, \textsc{USA}) was used to validate \ac{MS-MS}-based peptide and protein identifications. 
 Peptide and protein identifications were accepted if they could be established at $>$95\% and 99\% probability, respectively, as specified by the \textsc{Peptide Prophet} algorithm \cite{Keller2002}. 
 Protein identifications required the identification of at least two peptides.
  
@@ -215,8 +215,8 @@ The normalised spectral counts from each protein was aggregated based on their \
 All proteins that were part of an ambiguity group were confirmed to share the same \ac{COG} annotation to ensure counts were not biased because of the common spectra.
 
 The summed spectral counts from 5 and 11.5 m (mixolimnion), and 14, 18 and 23 m (monimolimnion) were pooled. 
-Statistical significance of differences between each zone was assessed using Fisher's exact test, with confidence intervals at 99\% significance calculated by the Newcombe–Wilson method and Holm-Bonferroni correction (P-value cutoff of 1e$-$5) in \ac{STAMP} \cite{Parks2010}. 
-All proteins identified, including their gene identifier, normalised spectral abundance, \ac{COG} and \ac{KEGG} Orthology identifiers, \ac{KEGG} locus tag and matching \ac{COG} or \ac{KEGG} description are provided in Appendix Tables \tabreft{tab:ace_protids_5m}--\tabref{tab:ace_protids_23m}.
+Statistical significance of differences between each zone was assessed using Fisher's exact test, with confidence intervals at 99\% significance calculated by the Newcombe–Wilson method and Holm-Bonferroni correction (p-value cutoff of 1e$-$5) in \ac{STAMP} \cite{Parks2010}. 
+All proteins identified, including their gene identifier, normalised spectral abundance, \ac{COG} and \ac{KEGG} Orthology identifiers, \ac{KEGG} locus tag and matching \ac{COG} or \ac{KEGG} description are provided in the Appendix \tabreft{tab:ace_protids_5m}--\tabreft{tab:ace_protids_23m}.
 
 
 
@@ -224,74 +224,69 @@ All proteins identified, including their gene identifier, normalised spectral ab
 
 \section{Results and discussion}
 
-\subsection[Epifluorescence microscopy methodology]{Development of epifluorescence microscopy methodology for cell and \acp{VLP} enumeration}
-As part of the integrative study of Ace Lake, an epifluorescence microscopy methodology was developed.
-There were several important outcomes expected from visualisation of microbiota from size fractionated water samples. 
-Firstly, visualising microbiota from water samples allows examination of cellular morphologies and enumeration of cells and \acp{VLP}.
-Absolute cellular and \ac{VLP} densities are not able to be inferred from the metagenomic data and necessitates an independent method of determination.
-Determining viral densities is extremely important as the first studies to do so found that viruses are the most numerous biological entities on the planet and likely play a large role in plankton mortality in the ocean \cite{Bergh1989,Proctor1990}. %Why is determining cellular densities important
-\ac{VLP} counts from marine environments vary with depth and trophic status ranging from 10$^6$ to 10$^8$ \acs{VLP} ml$^{-1}$ \cite{Suttle2005}. %cite Fuhrman review paper too.
-Viral counts from various aquatic environments have differed from site to site indicating a variable role of virally mediated mortality. %ref microbial ecology of the oceans.%cite Fuhrman review.
-Secondly, size fractionation of suspended microbial biomass from aquatic environments has been utilised as part of the landmark Sargasso Sea metagenomic study \cite{Venter2004} and subsequent \ac{GOS} expedition \cite{Rusch2007}.
-The Ace Lake samples were collected using the same sampling strategy as the \ac{GOS} dataset but has sequence information from all three filter sizes. 
-Thus, the visualisation of microbial morphologies from each stage of the filtration process would determine efficacy of the filtration process.
-
-Developing a revised method for the simultaneous counts of cells and \acp{VLP} was necessary due to inability to source 25 mm diameter 0.02 \textmu{}m pore-size Anodisc filters (Whatman) that have been long used with fluorescent nucleic acid dyes for this purpose \cite{Hennes1995, Noble1998, Patel2007}. 
+\subsection[Development of an epifluorescence microscopy methodology]{Development of an epifluorescence microscopy methodology}
+An epifluorescence microscopy methodology was developed to allow examination of cellular morphology and enumeration of cells and \acp{VLP} in Ace Lake.
+Development of a revised method was necessary due to inability to source 25 mm diameter 0.02 \textmu{}m pore-size Anodisc filters (Whatman) that have been long used with fluorescent nucleic acid dyes for this purpose \cite{Hennes1995, Noble1998, Patel2007}. 
 They were marked for discontinuation in December 2008 after the take over of Whatman by \textsc{GE} Healthcare and was the cause of a global shortage that was strongly opposed by the viral ecology community \cite{Torrice2009}.
 Since conducting this research, production of 25 mm Anodisc filters has resumed, albeit at much greater cost per filter. 
-The need to develop alternative methodolodies has been great enough that protocols were developed independently by research groups \cite{Budinoff2011, Diemer2012} stressing the utility of alternatives.
+The need to develop alternative methodolodies has been great enough that protocols were developed independently by other research groups \cite{Budinoff2011, Diemer2012} stressing the utility of alternatives.
 
-Clear \ac{PCTE} membrane filters were selected for use as a viable alternative product as they have defined pore-size of a sufficiently small diameter (0.015 \textmu{}m) required to capture \acp{VLP}. 
-Furthermore, they have previously been used for \acp{VLP} enumeration \cite{Hara1991, Proctor1992} although using a different protocols, have a long history of use with cellular enumeration \cite{Hobbie1977} and therefore require no new materials to be easily adopted for use.
+Clear \ac{PCTE} membrane filters were selected for use as a viable alternative product as they have defined pore-size of a sufficiently small diameter (0.01 \textmu{}m) required to capture \acp{VLP}. 
+Furthermore, they have been used in early studies for \acp{VLP} enumeration \cite{Hara1991, Proctor1992}, they have a long history of use with  the enumeration of cells \cite{Hobbie1977} and therefore require no new materials to be easily adopted for use.
 Finally, they are approximately 10$\times$ cheaper than the use of Anodiscs and are not subject to drops in availability.
 However, \ac{PCTE} membranes have several reported shortcoming that have precluded their standard use for viral enumeration.
 The 0.01 \textmu{}m 25 mm \ac{PCTE} filters are difficult to handle compared to 25 mm Anodisc filters that have a plastic support ring around the edge.
 Also, \ac{PCTE} filters appear to have higher background fluorescence, have a slow flow rate taking $\sim$1--1.5 hours to filter 2 ml \cite{Hara1991} and have been reported to give \ac{VLP} counts an order of magnitude lower than that of Anodiscs \cite{Budinoff2011}.%more ref?
 
-The protocol used is detailled in the materials and methods \ref{sec:ace_mm} where main challenges of using \ac{PCTE} were overcome for the purposes required for this study.
+The protocol used is detailled in section \ref{sec:ace_mm} \emph{Materials and methods} where the main challenges of using \ac{PCTE} were overcome for the purposes required for this study.
 0.01 \textmu{}m pore-size \ac{PCTE} filters can form creases or wrinkles when mounted in the glass vacuum filter.
 Good placement of the \ac{PCTE} filter was achieved by touching the edge of the \ac{PCTE} filter against the damp backing filter, making sure it was aligned and then gently and evenly releasing it in a single direction. 
-0.01 \textmu{}m pore-size \ac{PCTE} filters also easily become statically charged and will become attracted to surfaces so careful handling is required during transport and manipulation. 
+0.01 \textmu{}m pore-size \ac{PCTE} filters also easily become statically charged and will become attracted to surfaces so careful handling is required during manipulation. 
 The greatest drawback in the use of \ac{PCTE} filters of such small pore-size is they similarly have a tendency to crinkle when mounted on the glass slide that can make visualisation of cells and \acp{VLP} on a single focal plane difficult.
 Agarose was used to embed the filters to help flatten the membrane and aid in mounting.
-However, this was not strictly necessary if filters are dried well, the membrane is mounted in the same way as as described for mounting on the vacuum filter and pressed flat against the glass slide with a minimal volume of mountant.
+However, this was not strictly necessary if filters are dried well and pressed flat against the glass slide with a minimal volume of mountant.
 Even though careful handling is possible, this method likely requires more technical replicates that Anodisc filters because any \acp{VLP} outside the focal plane will not be counted.
-Furthermore, as similarly reported by \citet{Diemer2012} for 0.03 \textmu{}m \ac{PCTE} membranes, distribution of \acp{VLP} on the membrane appears more variable than for Anodiscs with local regions devoid of \acp{VLP} and others with \acp{VLP} pooling.
-The patchier \acp{VLP} distribution was attributed to greater irregularity in pores distribution compared to that of Anodisc filters and was considered to be the main contributing factor to variability in \ac{VLP} counts \cite{Diemer2012}
+Furthermore, as similarly reported by \citet{Diemer2012} for 0.03 \textmu{}m \ac{PCTE} membranes, distribution of \acp{VLP} on the membrane appears more variable than for Anodiscs with local regions devoid of \acp{VLP} and others with pooling of \acp{VLP}.
+The patchier \acp{VLP} distribution was attributed to greater irregularity in pore distribution compared to that of Anodisc filters and was considered to be the main contributing factor to variability in \ac{VLP} counts \cite{Diemer2012}
 
-High back ground fluorescence was not observed when stain is only incorporated into the mountant after filtration rather than staining in the column before filtration.
-This is one key difference between this protocol and others developed that use \ac{PCTE} membranes \citet{Hara1991, Proctor1992, Diemer2012}.
+Back ground fluorescence was at an acceptable level when the SYBR gold stain is only incorporated into the mountant after filtration rather than staining in the column.
+This is one key difference between this protocol and others that use \ac{PCTE} membranes \cite{Hara1991, Proctor1992, Diemer2012}.
 Other protocols have used 0.08 \textmu{}m membranes pre-stained with Irgalan Black \cite{Proctor1992} or 0.03 \textmu{}m pre-stained with Sudan black B \cite{Diemer2012} to minimise background fluorescence.
-Filtration onto the \ac{PCTE} membranes with pore-size as small as this study was only found to be reported once \citet{Hara1991}.
-Such a small pore-size necessitates a very strong seal of the filter column against the glass with absolutely no air leaks.
-Leakage can be eliminated by sealing the fritted based to the column with laboratory film which ensures sample flow through the filter. 
+
+Filtration onto the \ac{PCTE} membranes with pore-size as small as this study was only found to be reported once by \citet{Hara1991}.
+Such a small pore-size necessitates a very strong seal of the filter column against the glass base with no air leaks.
+Leakage can be eliminated by sealing the fritted based to the column with laboratory film. 
 However, the slow flow-rate was not a property of the \ac{PCTE} filters that could be overcome.
 As the filtration and visualisation was performed on fixed samples in the laboratory rather than in the field, the time taken for filtration of 2--3 hours for each sample was not deemed problematic for the purposes of this study.
 Counts of \acp{VLP} have been shown to decrease dramatically with time even when preserved with aldehyde-based fixatives \cite{Wen2004}.
-Collecting larger sample volumes and flash freezing at $-$80$^{\circ}$C helps to slow this effect.
-Due to logistic contraints with working in Antarctic environments, counts in the field were not possible so \acp{VLP} counts are expected to be underestimated.
-However, all samples were processed within a similar time frame so the relative \acp{VLP} abundances down the depth profile and between size fractions are expected to be accurate as all samples would have undergone comparable amounts of \acp{VLP} loss. 
+Collecting larger sample volumes and flash freezing in liquid nitrogen and storing at $-$80$^{\circ}$C helps to slow this effect \cite{Patel2007}.
+Due to logistic contraints with working in Antarctic environments, counts in the field were not possible so \ac{VLP} counts are expected to be underestimated.
+However, all samples were processed within a similar time frame so the relative \ac{VLP} abundances down the depth profile and between size fractions are expected to be accurate as all samples would have undergone comparable amounts of \ac{VLP} loss. 
 
 Overall, a viable alternative methodology was successfully developed for visualisation and enumeration of cells and \acp{VLP} using \ac{PCTE} membrane filters for use in this study \figref{fig:ace_microscopy}.
 \input{ace_figures/ace_microscopy.tex}
-To be a competitive alternative to Anodisc filters in terms of accuracy requires a further work that compares counts using this methodolody and the current standard Anodisc-based protocol \cite{Patel2007} with viral samples of known densities.
+To be a competitive alternative to Anodisc filters in terms of enumeration accuracy requires a further work that compares counts using this methodolody and the current standard Anodisc-based protocol \cite{Patel2007} with viral samples of known densities.
 
 \subsection[Community stratification supported by cell and \ac{VLP} densities]{Size and depth stratification of the community supported by cell and \ac{VLP} densities}
-Development of fluorescence microscopy methodology using 0.01 \textmu{}m pore-size polycarbonate filters for simultaneous cellular and viral counts shows:
 
-1. Size fractionation procedure appeared effective.
+Epifluorescence microscopy images of Ace Lake microbiota showed a clear decrease in larger and particularly filamentous cells between filter size fractions \figref{fig:ace_microscopy}.
+The sequential filtration of suspended microbial biomass from aquatic environments has been utilised as part of the landmark Sargasso Sea metagenomic study \cite{Venter2004} and \ac{GOS} expedition \cite{Rusch2007}.
+The Ace Lake samples were collected using the same sampling strategy as the \ac{GOS} dataset but has sequence information from all three filter sizes and is thus able determine if size fractionation is effective at separating the microbial community and if functional differences are associated with size.
+Both taxonomic and functional gene composition were shown in the metagenomic analysis to differ significantly with size fraction, particularly between the 0.1 \textmu{}m and the larger size fractions, indicating resource partitioning in the community \cite{Lauro2011}.
+For example, \emph{Flavobacteria} were only detected in the 3.0 \textmu{}m size fraction mixolimnion metagenomes and were inferred to be involved in mineralisation of particulate matter \cite{Lauro2011}.
+This correlates with the absence of larger, particularly long rod shaped cells, in the $>$0.8 \textmu{}m microscopic image \figref{fig:ace_microscopy} indicating these larger cells are likely to be copiotrophic \emph{Flavobacteria} involved in degradative processes.
+Depth was another variable by which strongly drove differences in the Ace Lake community \cite{Lauro2011}.
+This was again evident in the microscopy images that show the appearance of long filamentous cells only in the mixolimnion samples \figref{fig:ace_microscopy}.
 
-2. Morphological differences supports stratification of the community.
-
-3. Visualisation of the morphology supported the metagenomic data that saw size fractionated and taxonomically stratified community.
-
-4. Virus to bacteria ratios can give important information about the community.
-
-At 12.7m depth, the light levels, and the sharp transition in oxygen content and salinity (Fig. S2) favour the dominance of a very high-density (2.2 $\times$ 10$^8$ cells ml$^{-1}$) of a single type of \ac{GSB} of the genus \emph{Chlorobia}, refered to as C-Ace \cite{Ng2010a}. 
-Viral signatures were essentially devoid in this zone. 
-The ratio of bacteriophage to total viral population increased proportionally in the larger size fractions consistent with trophic analyses that indicate that the larger size fractions are mostly copiotrophic (Fig. S8) particle attached bacteria and therefore likely to be sensitive to lysogenic phage infection \cite{Lauro2009}. 
-The 23 m unfiltered lake water contained very high levels (1.3 $\times$ 10$^8$ \acp{VLP} ml$^{-1}$) of \acp{VLP}. 
-The high diversity of bacteria and archaea in all size fractions of the monimolimnion (Fig. 2) is consistent with the presence of a high viral population (Rodriguez-Valera et al., NRM, 2009).
+Absolute cellular and \ac{VLP} densities are not able to be inferred from the metagenomic data and necessitates an independent method of determination.
+The first studies to determine viral densities in natural systems found that viruses are the most numerous biological entities on the planet and likely play a large role in plankton mortality in the ocean \cite{Bergh1989,Proctor1990}. 
+\ac{VLP} counts from marine environments vary with depth and trophic status ranging from 10$^6$ to 10$^8$ \acs{VLP} ml$^{-1}$ \cite{Suttle2005}.
+Thus both cellular and \ac{VLP} counts can provide insight into environmental factors such as trophic status \cite{Lauro2009}. 
+Enumeration of cells and \acp{VLP} in Ace Lake showed the ratio of \acp{VLP} to cells remained fairly constant with depth, except at 12.7 m where there was an unusual lack of \acp{VLP} but a very high density of, presumably \ac{GSB} cells (2.2 $\times$ 10$^8$ cells ml$^{-1}$) \figref{fig:ace_counts}.
+\input{ace_figures/ace_counts.tex}
+These data corresponded with the metagenomic data from 12.7 m, which similarly did not detect any viral signatures associated with the \ac{GSB} \cite{Lauro2011}.
+\figreft{fig:virus_compare} contrasts the epifluorescence images of whole water from 5 m sample with the 12.7 m sample showing the lack of \acp{VLP} in the latter.
+\input{ace_figures/virus_compare.tex}
 
 
 %---------------------------------------------------------------------------------------------
@@ -305,18 +300,16 @@ However, the `shotgun' proteomics procedure using high sensitivity tandem mass s
 A general shotgun proteomics workflow is shown in \figreft{fig:workflow}.
 It shows that apart from successful sample preparation to simplify the complex protein mixture, successful protein identification depends greatly upon the genomic database, the search algorithm and criteria used to make the protein identification.
 \input{ace_figures/workflow.tex}
-This due to how the tandem mass spectra are used to identify proteins (see \citet{Marcotte2007} for a primer on shotgun proteomic identification).
-Briefly, proteins are extracted from the sample and enzymatically digested to generate peptides.
-The peptides are separated by \ac{LC} and subject to the first round of mass spectra acquisition where the mass of the peptides, the precursor ion spectra, are detected.
+This is due to how the tandem mass spectra are used to identify proteins (reviewed in \citet{Marcotte2007}).
+Briefly, peptides from digested proteins are separated by \ac{LC} and subject to the first round of mass spectra acquisition where the mass of the peptides (precursor ions) are detected.
 Selected peptides undergo collision-induced dissociation where they fragment preferentially at the peptide bond.
-The second round of mass spectra is acquired of the peptide fragments, the fragment ion spectra, that represents to the amino acid sequence of the peptide.
-An \emph{in silico} enzymatic igestion is performed on the coding sequences of the genomic database to predict the precursor ion masses and their corresponding fragment ion spectra.
+The second round of mass spectra is acquired of the peptide fragments (fragment ion spectra) that represents the amino acid sequence of the peptide.
+An \emph{in silico} enzymatic digestion is performed on the coding sequences of the genomic database to predict the precursor ion masses and their corresponding fragment ion spectra.
 The fragment ion spectrum and precursor ion mass is used to determine the most likely amino acid sequence of the peptide by comparison to the genomic database and infer the identity of the protein(s) of origin of the peptide.
 
-The challenges presented by protein identification are as follows.
-Firstly, since protein identification hinges on the quality of the search database, \emph{i.e.} availability of matching genomic sequences with sufficient coverage and to some extent, accurate \ac{ORF} prediction, can have a large effect on protein identification.
+Since protein identification hinges on the quality of the search database, \emph{i.e.} availability of matching genomic sequences with sufficient coverage, it has a large effect on ability to identify proteinsn.
 This problem is compounded in metaproteomics as matching metagenomic sequences are not always available so cross-species matching using related genomes must be performed instead.
-The success of cross-species matching then varies with how related the protein sequences are as a single amino acid change is sufficient for a peptide to be not be matched.
+The success of cross-species matching then varies with how related the protein sequences are to those in the metaproteomic sample as a single amino acid change is sufficient for a peptide to fail to be matched.
 Furthermore, even if a corresponding metagenome is available, complete coverage of all genomic information from an environment is unlikely from all but the most simple of systems so it is expected that the rate of spectra matching will be lower in a metaproteome.
 
 Secondly, heterogeneity can cause ambiguity in protein identifications.

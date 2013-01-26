@@ -16,12 +16,12 @@ Virophage control of antarctic algal host--virus dynamics.\\
 108:6163--6168, 2011.\\
 
 Contributions to this publication by other researchers is as follows.
-Research was designed by Federico Lauro, Mark Brown, Torsten Thomas, John Gibson and Ricardo Cavicchioli.
+Research was designed and the manuscript edited by Federico Lauro, Mark Brown, Torsten Thomas, John Gibson and Ricardo Cavicchioli.
 Sample collection was performed by Federico Lauro, Mark Brown, Torsten Thomas, Jeffery Hoffman and Ricardo Cavicchioli.
-\textsc{DNA} extraction and clone library preparation of 2006 samples was performed by Cynthia Andrews-Pfannkoch and Jeffery Hoffman of the J. Craig Venter Institute.
-\textsc{DNA} sequencing quality control was performed by Matthew Lewis of the J. Craig Venter Institute.
+\textsc{DNA} extraction and clone library preparation of 2006 samples was performed by Cynthia Andrews-Pfannkoch and Jeffery Hoffman.
+\textsc{DNA} sequencing quality control was performed by Matthew Lewis.
 Metagenomic sequence filtering, global assembly and annotation was performed by Matthew DeMaere.
-Assistance in mass spectronomy and mass spectra analysis was provided by Mark Raftery.
+Assistance in mass spectronomy was provided by Mark Raftery.
 Assistance in analysis of Eucarya taxonomy was provided by Mark Brown.
 Analysis of virophage abundance over time was performed by Federico Lauro.
 
@@ -44,6 +44,7 @@ These findings indicate that virophages regulate host--virus interactions and in
 
 %---------------------------------------------------------------------------------------------
 \section{Introduction}
+\acresetall
 It has been known for at least 20 years that viruses frequently infect and lyse marine primary producers causing up to 70\% of cyanobacterial mortality \cite{Proctor1990,Suttle1990}.
 Eucaryotic phytoplankton are preyed upon by large ds\textsc{DNA} \acp{PV} causing bloom termination in globally distributed species \cite{Nagasaki1994, Jacobsen1996, Wilson2002, Martinez-Martinez2007}.
 Elevated levels of \ac{DOC} \cite{Eberlein1985} and numbers of heterotrophic bacteria \cite{Davidson1992, Bratbak1998b, Castberg2001} occur during algal blooms indicating that viral lysis of eucaryotic algae stimulates secondary production. 
@@ -84,7 +85,7 @@ Formvar coated 200 mesh copper grids were floated on a droplet of sample for 30 
 The sample was visualised using a \textsc{JEOL1400} transmission electron microscope at 100 kV at 150,000 to 250,000$\times$ magnification.
 
 \subsection{Metagenomic assembly and annotation}
-Mosaic metagenomic assemblies were generated as previously described \cite{Ng2010a, Lauro2011}. 
+Mosaic metagenomic assemblies were generated as previously described (see Chapter 1, Materials and methods \ref{sec:ace_mm}) \cite{Ng2010a, Lauro2011}. 
 For the 0.1 \textmu{}m Organic Lake 2006 sample, assembly was a hybrid of Sanger and 454 read data \tabref{tab:metag_01}. 
 \input{olv_figures/metag_01.tex}
 For all other sample size fractions, runtime parameters used were standard for 454 sequencing data. 
@@ -92,8 +93,8 @@ Low GC ($\ge$51\%) scaffolds $>$10 kbp from the 0.1 \textmu{}m 2006 assembly had
 One of these scaffolds was binned as virophage and the rest as \ac{PV}. 
 
 To further separate the \ac{OLPV} types and assess the completeness of their genomic content, highly conserved single copy PV orthologues were identified as follows. 
-An all against all \ac{BLAST}p search was conducted with protein sequences from the ten available \ac{PV} genomes 
-(\emph{Acanthocystis turfacea Chlorella} virus 1, PbCV-1, PbCV AR158, PbCV FR483, PbCV NY2A, \emph{Emiliania huxleyi} virus 86, \emph{Ectocarpus siliculosus} virus 1, \emph{Feldmannia} sp. virus, \emph{Ostreococcus} virus 5, \emph{Ostreococcus tauri} virus 1) and \ac{ApMV} (which was included as a close \ac{PV} relative). 
+An all against all \ac{BLAST} search was conducted with protein sequences from the ten available \ac{PV} genomes 
+(\emph{Acanthocystis turfacea} chlorella virus 1, PbCV-1, PbCV AR158, PbCV FR483, PbCV NY2A, \emph{Emiliania huxleyi} virus 86, \emph{Ectocarpus siliculosus} virus 1, \emph{Feldmannia} sp. virus, \emph{Ostreococcus} virus 5, \emph{Ostreococcus tauri} virus 1 and \ac{ApMV} (which was included as a close \ac{PV} relative). 
 \ac{BLAST}p results were parsed and clustered using \textsc{orthoMCL} V1.4 \cite{Li2003, Chen2006}. 
 
 Pairs of each orthologue were located on eight of the \ac{PV} scaffolds. 
@@ -123,7 +124,7 @@ The abundance and similarity of virophages in all lake samples and filter sizes 
 The database was generated as previously described \cite{Proctor1990} and the percent identity of the \textsc{BLAST} hit was used as a proxy for species similarity. 
 
 \subsection{Metaproteomic analysis}
-Metaproteomics of proteins from the 0.1 \textmu{}m filter from 2006 was performed as previously described \cite{Ng2010a, Lauro2011}, with minor modifications (see Chapter 1, Materials and Methods \ref{sec:ace_mm}). 
+Metaproteomics of proteins from the 0.1 \textmu{}m filter from 2006 was performed as previously described \cite{Ng2010a, Lauro2011}, with minor modifications (see Chapter 1, Materials and methods \ref{sec:ace_mm}). 
 The protein sequence database was generated by combining ORFs from the 3.0, 0.8 and 0.1 \textmu{}m mosaic assemblies with 130,581 sequences in the database. 
 \textsc{Scaffold} 3.0 (Proteome Software Inc.) was used to validate MS/MS based peptide and protein identifications. 
 The peptide sequences by which the proteins were identified shown in Appendix \tabreft{tab:peptides}.
@@ -175,7 +176,7 @@ Where:
 Equation \ref{eqn:pred} is a modified version of equation \ref{eqn:lokpred} which includes the effect of \ac{OLV} on the change in abundance of \ac{OLPV}.
 Equation \ref{eqn:viro} describes the growth properties of \ac{OLV} as a predator of \ac{OLPV}.
 Values for the variables for the solution shown \figref{fig:LV} were as follows: initial prey (10), predator (1) and predator of predator (10) numbers, ~$\alpha=$ 0.1, ~$\theta=$ 0.0015, ~$\varepsilon=$ 0.01, ~$\mu=$ 0.01, ~$\omega=$ 0.01, ~$\beta=$ 0.015 and ~$\gamma=$ 0.15. 
-COmplex PAthway Simulator (\textsc{COPASI}) software (11) was used to simulate prey, predator and predator of predator dynamics using the deterministic (\textsc{LSODA}) method.
+COmplex PAthway Simulator (\textsc{COPASI}) software \cite{Hoops2006} was used to simulate prey, predator and predator of predator dynamics using the deterministic (\textsc{LSODA}) method.
 %-----------------------------------------------------------------------------------------
 
 
