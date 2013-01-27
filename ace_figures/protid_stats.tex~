@@ -1,0 +1,19 @@
+\begin{table}
+\footnotesize
+\caption[Comparison of peptides/proteins identified with \acs{NR} \emph{vs.} matched metagenomes]{Comparison of the number of peptides/proteins identified in the Ace Lake 0.1 \textmu{}m size fraction metaproteomes using \acs{NR} \emph{vs.} matched metagenomic databases. metag, metagenomic database.}
+\label{tab:protid_stats}
+\smallskip
+\begin{tabularx}{\textwidth}{XXXXXXX}
+\toprule
+\textbf{Depth (m)} & \textbf{Spectra} & \textbf{Spectra matched (\%) (metag)} &\textbf{Peptide IDs (metg)} & \textbf{Protein IDs (metag)} & \textbf{Peptide IDs (\acs{NR})} & \textbf{Protein IDs (\acs{NR})} \\
+\midrule
+5     & 71,201  & 10,843 (15) & 5,728  & 501     & 862    & 15 \\
+11.5  & 53,078  & 6,076 (11)  & 3,213  & 224     & 327    & 10 \\
+12.7  & 127,697 & 29,578 (23) & 12,718 & 505/504 & 4,611  & 169 \\
+14    & 100,650 & 9,008 (9)   & 3,427  & 369     & 2,124  & 102 \\
+18    & 131,800 & 1,520 (1)   & 725    & 101     & 935    & 11 \\
+23    & 232,797 & 3,648 (2)   & 1,602  & 124     & 1,584  & 1 \\
+TOTAL & 717,223 & 60,673 (8)  & 27,413 & 1,824   & 10,443 & 308 \\
+\bottomrule
+\end{tabularx}
+\end{table}

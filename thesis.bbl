@@ -1,4 +1,4 @@
-\begin{thebibliography}{224}
+\begin{thebibliography}{227}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -308,6 +308,14 @@ Demergasso C., Escudero L., Casamayor E.~O., Chong G., Balagu\'{e} V., and
 \newblock {Novelty and spatio-temporal heterogeneity in the bacterial diversity
   of hypersaline Lake Tebenquiche (Salar de Atacama)}.
 \newblock \emph{Extremophiles}, 12:\penalty0 491--504.
+
+\bibitem[Denef \emph{et~al.}(2007)Denef, Shah, Verberkmoes, Hettich, and
+  Banfield]{Denef2007}
+Denef V.~J., Shah M.~B., Verberkmoes N.~C., Hettich R.~L., and Banfield J.~F.
+  (2007).
+\newblock {Implications of strain- and species-level sequence divergence for
+  community and isolate shotgun proteomic analysis}.
+\newblock \emph{Journal of Proteome Research}, 6:\penalty0 3152--3161.
 
 \bibitem[Deprez \emph{et~al.}(1986)Deprez, Franzmann, and Burton]{Deprez1986}
 Deprez P.~P., Franzmann P.~D., and Burton H.~R. (1986).
@@ -1210,6 +1218,21 @@ Roberts N., Burton H.~R., and Pitson G. (1993).
   hypersaline, meromictic lake}.
 \newblock \emph{Antarctic Science}, 5:\penalty0 361--366.
 
+\bibitem[Rodriguez-Brito \emph{et~al.}(2010)Rodriguez-Brito, Li, Wegley,
+  Furlan, Angly, Breitbart, Buchanan, Desnues, Dinsdale, Edwards, Felts,
+  Haynes, Liu, Lipson, Mahaffy, Martin-Cuadrado, Mira, Nulton, Pa\v{s}i\'{c},
+  Rayhawk, Rodr\'{\i}guez-Mueller, Rodr\'{\i}guez-Valera, Salamon, Srinagesh,
+  Thingstad, Tran, Thurber, Willner, Youle, and Rohwer]{Rodriguez-Brito2010}
+Rodriguez-Brito B., Li~L., Wegley L., Furlan M., Angly F.~E., Breitbart M.,
+  Buchanan J., Desnues C., Dinsdale E.~A., Edwards R.~A., Felts B., Haynes M.,
+  Liu H., Lipson D., Mahaffy J., Martin-Cuadrado A.~B., Mira A., Nulton J.,
+  Pa\v{s}i\'{c} L., Rayhawk S., Rodr\'{\i}guez-Mueller J.,
+  Rodr\'{\i}guez-Valera F., Salamon P., Srinagesh S., Thingstad T.~F., Tran T.,
+  Thurber R.~V., Willner D., Youle M., and Rohwer F. (2010).
+\newblock {Viral and microbial community dynamics in four aquatic
+  environments}.
+\newblock \emph{The ISME Journal}, 4:\penalty0 739--751.
+
 \bibitem[R\"{o}ske \emph{et~al.}(2012)R\"{o}ske, Sachse, Scheerer, and
   R\"{o}ske]{Roske2012}
 R\"{o}ske K., Sachse R., Scheerer C., and R\"{o}ske I. (2012).
@@ -1339,6 +1362,14 @@ Sievert S.~M., Scott K.~M., Klotz M.~G., Chain P.~S., Hauser L.~J., Hemp J.,
   Sulfurimonas denitrificans}.
 \newblock \emph{Applied and Environmental Microbiology}, 74:\penalty0
   1145--1156.
+
+\bibitem[Sowell \emph{et~al.}(2009)Sowell, Wilhelm, Norbeck, Lipton, Nicora,
+  Barofsky, Carlson, Smith, and Giovanonni]{Sowell2009}
+Sowell S.~M., Wilhelm L.~J., Norbeck A.~D., Lipton M.~S., Nicora C.~D.,
+  Barofsky D.~F., Carlson C.~A., Smith R.~D., and Giovanonni S.~J. (2009).
+\newblock {Transport functions dominate the SAR11 metaproteome at low-nutrient
+  extremes in the Sargasso Sea.}
+\newblock \emph{The ISME Journal}, 3:\penalty0 93--105.
 
 \bibitem[Suttle(2005)]{Suttle2005}
 Suttle C.~A. (2005).
