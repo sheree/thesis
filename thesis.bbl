@@ -1,4 +1,4 @@
-\begin{thebibliography}{227}
+\begin{thebibliography}{230}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -734,6 +734,12 @@ Kang I., Lee K., Yang S.-J., Choi A., Kang D., Lee Y.~K., and Cho J.-C. (2012).
   marine member of the Actinobacteria isolated from an arctic fjord}.
 \newblock \emph{Journal of Bacteriology}, 194:\penalty0 3550--3551.
 
+\bibitem[Karginov and Hannon(2010)]{Karginov2010}
+Karginov F.~V. and Hannon G.~J. (2010).
+\newblock {The CRISPR system: small RNA-guided defense in bacteria and
+  archaea}.
+\newblock \emph{Molecular Cell}, 37:\penalty0 7--19.
+
 \bibitem[Karr \emph{et~al.}(2003)Karr, Sattley, Jung, Madigan, and
   Achenbach]{Karr2003}
 Karr E.~A., Sattley W.~M., Jung D.~O., Madigan M.~T., and Achenbach L.~A.
@@ -1019,6 +1025,14 @@ Morgulis A., Gertz E., Sch\"{a}fer A., and Agarwala R. (2006).
 \newblock {WindowMasker: window-based masker for sequenced genomes}.
 \newblock \emph{Bioinformatics}, 22:\penalty0 134--141.
 
+\bibitem[Morris \emph{et~al.}(2010)Morris, Nunn, Frazar, Goodlett, Ting, and
+  Rocap]{Morris2010}
+Morris R.~M., Nunn B.~L., Frazar C., Goodlett D.~R., Ting Y.~S., and Rocap G.
+  (2010).
+\newblock {Comparative metaproteomics reveals ocean-scale shifts in microbial
+  nutrient utilization and energy transduction}.
+\newblock \emph{The ISME Journal}, 4:\penalty0 673--685.
+
 \bibitem[Mosier \emph{et~al.}(2007)Mosier, Murray, and Fritsen]{Mosier2007}
 Mosier A.~C., Murray A.~E., and Fritsen C.~H. (2007).
 \newblock {Microbiota within the perennial ice cover of Lake Vida, Antarctica}.
@@ -1141,6 +1155,13 @@ Pickard J., Adamson D.~A., and Heath C.~W. (1986).
   marine inlet to freshwater lake}.
 \newblock \emph{Palaeogeography, Palaeoclimatology, Palaeoecology},
   53:\penalty0 271--288.
+
+\bibitem[Poretsky \emph{et~al.}(2010)Poretsky, Sun, Mou, and
+  Moran]{Poretsky2010}
+Poretsky R.~S., Sun S., Mou X., and Moran M.~A. (2010).
+\newblock {Transporter genes expressed by coastal bacterioplankton in response
+  to dissolved organic carbon.}
+\newblock \emph{Environmental Microbiology}, 12:\penalty0 616--627.
 
 \bibitem[Priscu(1999)]{Priscu1999}
 Priscu J.~C. (1999).

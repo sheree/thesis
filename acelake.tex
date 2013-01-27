@@ -303,93 +303,106 @@ Mathematical modeling predicted that the absence of bacteriophage predation in t
 
 \subsection[Development of a metaproteomic mass spectra analysis workflow ]{Development of a metaproteomic mass spectra analysis workflow }
 
-Identification of proteins from a microbial community (metaproteomics) indicates which populations or processes are active and is thus a powerful tool for understanding ecosystems.
-However, the `shotgun' proteomics procedure pioneered for use in metaproteomics that uses high sensitivity tandem mass spectrometry \cite{Ram2005} poses a significant computational challenge.
+Identification of proteins from a microbial community (metaproteomics) indicates which populations or processes are active in the environmenta and is thus a powerful tool for understanding ecosystems.
+However, the `shotgun' proteomics procedure pioneered for use in metaproteomics that couples \ac{HPLC} with \ac{MS-MS} \cite{Ram2005} poses a significant computational challenge.
 The general shotgun proteomics workflow in \figreft{fig:workflow} shows that apart from successful sample preparation to simplify the complex protein mixture, protein identification depends greatly upon the post-\ac{MS} bioinformatic analysis.
 \input{ace_figures/workflow.tex}
 This is due to how the \ac{MS-MS} data are used to identify proteins (see \citet{Marcotte2007} for a primer on shotgun proteomic identification).
-Briefly, the peptides from digested proteins are separated by \ac{LC} and subject to the first round of mass spectra acquisition where the mass of the peptides (precursor ions) are detected.
+
+Briefly, the peptides from digested proteins are separated by \ac{LC} and subject to a round of mass spectra acquisition where the mass of the peptides (precursor ions) are detected.
 Selected peptides undergo collision-induced dissociation where they fragment preferentially at the peptide bond.
-The second round of mass spectra is acquired of the peptide fragments (fragment ion spectra) that represents the amino acid sequence of the peptide.
+A second round of mass spectra is acquired of the peptide fragments (fragment ion spectra) that represents the amino acid sequence of the peptide.
 An \emph{in silico} enzymatic digestion is performed on a genomic database to predict the precursor ion masses and their corresponding fragment ion spectra.
 The fragment ion spectrum and precursor ion mass is used to determine the most likely amino acid sequence of the peptide by comparison to the genomic database and infer the identity of the protein(s) of origin.
+
 Since protein identification requires genomic sequences sufficiently similar to the proteome, the ideal genomic database contains complete coverage of sequences from the organism(s) from which the proteins originated. 
 A single amino acid change is sufficient for a peptide match to fail.
 However, it is often the case that matching genomic information is unavailable. 
-This necessitates the use of a cross-species databases of genomes of related species to identify proteins, but also a stringent comupational strategy that does not introduce false positive matches.
-%Furthermore, even if a corresponding metagenome is available, complete coverage of all genomic information from an environment is unlikely from all but the most simple of systems so it is expected that the rate of spectral matching will be lower in a metaproteome and this will be proportional to the diversity of the sample.
+This necessitates the use of a cross-species databases of genomes of related species to identify proteins along with stringent statistial cut-off to avoid false-positive matches.
 
 Preliminary metaproteomic analysis was conducted on the 0.1 \textmu{}m fraction samples along the depth profile of Ace Lake using sequences from \ac{NR} as the search database as metagenomic data were not yet available \cite{Ng2010b}.
 Across all six samples, a total of 10,443 peptides were identified corresponding to 308 proteins from $\sim$400,000 \ac{MS-MS} spectra \cite{Ng2010b}.
 Rates of protein identification were low compared to a similar metaproteomic analysis of the Sargasso Sea, which achieved  a total of 5,501 peptide identifications corresponding to 1,042 proteins from $\sim$30,000 \ac{MS-MS} spectra \cite{Sowell2009}. 
-This indicated that the Ace Lake metagenomes were sufficiently different from those in the \ac{NR} database for good rates of protein identification.
-A key difference in the Sargasso Sea study was the inclusion of Sargasso Sea metagenomic sequence in the search database from their target populations (SAR11, \emph{Synechoccocus}, and \emph{Prochlorococcus}) \cite{Sowell2009}.
+This indicated that the Ace Lake metagenomes were sufficiently different from those in the \ac{NR} database to achieve high rates of protein identification.
+A key difference in the Sargasso Sea study was the inclusion of Sargasso Sea metagenomic sequence in the search database from their target populations of SAR11, \emph{Synechoccocus}, and \emph{Prochlorococcus} \cite{Sowell2009}.
 The low identification rate is to be expected as it has been shown that only half the number of proteins are identifiable when using a genomic database that shares 90\% amino acid identity with the actual genome \cite{Denef2007}.
 
-Once the metagenomic sequence for the \ac{GSB} layer became available and it was clear that the \ac{GSB} population was near-clonal, re-analysis of the mass spectra to the matched \ac{GSB} metagenomic database was performed as this was the sample of lowest genomic complexity and was expected to obtain high identification rates.
+Once the metagenomic sequence for the \ac{GSB} layer became available, re-analysis of the mass spectra to the matched \ac{GSB} metagenomic database was performed as this was the sample of lowest genomic complexity and was expected to obtain high identification rates \cite{Ng2010a, Ng2010b}.
 In the re-analysis, 3,970 peptides were identified, mapping to 504 proteins from $\sim$100,000 spectra, which was a near 3-fold increase in the number of protein identifications \cite{Ng2010a, Ng2010b}.
 
 The large increase in the number of proteins identified with the matching metagenome indicated a similar increase could be achieved with the other Ace Lake samples.
 However, metagenomic sequence from more diverse communities adds additional bioinformatic considerations for protein matching due to their inherently greater heterogeneity.
 For a protein to be identified according to standard stringency cut-offs it requires at least two peptides to be mapped to it with at least one of those being unique. 
-The converse of this is that there are potentially non-unique peptides shared by other proteins.
-Although shared peptides occur in between proteins in single genomes, a typical metagenome will contain related species or strains and therefore many more copies of closely related proteins.
-This greatly decreases the probability of finding a unique peptide and thus can exclude proteins from identification.
-Protein identification scores in the focussed \ac{GSB} study was also set to be greater than a determined \ac{FDR}.
+The converse of this is that it allows for the fact there are potentially non-unique peptides shared by other proteins.
+Although shared peptides occur between proteins in single genomes, a typical metagenome will contain related species or strains and therefore many more copies of closely related proteins.
+%This greatly decreases the probability of finding a unique peptide and thus can exclude proteins from identification.
+Protein identification scores in the focussed \ac{GSB} study was also set to only accept identifications greater than a determined \ac{FDR}.
 This is the score given by peptide match to a randomised version of the genomic database \cite{Ng2010a, Ng2010b}.
 
-
-To address the additional challenges posed by higher diversity metagenomic data, the program \textsc{Scaffold} 2.0 was adopted for the filtering and validation of peptide matches generated when searched against matched metagenomic databases \figref{fig:workflow}. 
-Instead of setting a \ac{FDR} for each database, \textsc{Scaffold} 2.0 employs the \textsc{Peptide Prophet} algorithm \cite{Keller2002} for protein validation.
+To address the additional challenges posed by higher diversity metagenomic data, the program \textsc{Scaffold} 2.0 was adopted for the filtering and validation of peptide and protein matches \figref{fig:workflow}. 
+Instead of determining a \ac{FDR}, \textsc{Scaffold} 2.0 employs the \textsc{Peptide Prophet} algorithm \cite{Keller2002} for protein validation.
 This algorithm fits a distribution of scores from correct and in-correct peptide matches and from this calculates the probability that each result is a genuine match \cite{Keller2002}. 
-Also, it identifies and groups proteins that cannot be distinguished based on unique peptides but are nonetheless present in the sample.
-We defined two classes of such groups: (1) protein groups, which are proteins with shared peptides that are indistinguishable by mass spectral analysis and (2) protein ambiguity groups, which are proteins that have some shared peptides.
+Also, it identifies groups of proteins that cannot be distinguished based on unique peptides and so may be present in the sample.
+Two classes of these groups were defined: (1) protein groups, which are proteins with shared peptides that were indistinguishable from the mass spectral analysis and (2) protein ambiguity groups, which are proteins that have some shared peptides.
 This method was applied to all the Ace Lake metaproteomic mass specta datasets.
+Appendix \tabreft{tab:ace_protids_5m}, \tabreft{tab:ace_protids_11.5m}, \tabreft{tab:ace_protids_12.7m}, \tabreft{tab:ace_protids_14m}, \tabreft{tab:ace_protids_18m} and \tabreft{tab:ace_protids_23m} lists all proteins identified in Ace Lake using the modified workflow. 
 
-Identification rates were significantly higher using the modified bioinformatic workflow \tabref{tab:protid_stats}.
+Identification rates were significantly higher using the matched metagenomic database compared to \ac{NR} with a 6-fold increase in total proteins identified \tabref{tab:protid_stats}. 
+In parallel with taxonomic diversity increasing with depth, with the exception of the \ac{GSB} layer, the rate of metaproteomic identification of proteins decreased with depth \tabref{tab:protid_stats}.
+This is to be expected as complete coverage of all genomic information from an environment is unlikely from all but the most simple of systems which means that as diversity increases there is a greater chance a protein will map to fragmentary or absent metagenomic data and fail to be identified.
+The majority of the proteins that were detected (e.g. 67\% at 23 m) \tabref{tab:ace_protids_23m} were for hypothetical proteins that tended to lack orthologues in well-characterized organisms demonstrating the functional novelty of the anaerobic zone of the lake.
+These hypothetical proteins represent potential targets for protein expression studies to determine their biological function.
+
+Mass spectra re-analysed from the 12.7 m \ac{GSB} layer using the modified metaproteomic workflow showed only one additional protein identification \tabref{tab:protid_stats}.
 \input{ace_figures/protid_stats.tex}
+This indicates that the \textsc{Scaffold} 2.0 protein validation algorithm is as stringent as \ac{FDR} cut-offs when dealing with lower diversity samples.
+In addition, 125 of the 505 protein identifications were identified by \textsc{Scaffold} 2.0 to be protein groups \tabref{tab:ace_protids_12.7m}.
+In other words, the mass spectra data were not able to distinguish which of a possible set of two or more proteins were in the sample, or if all the possible proteins that shared those peptides were in the sample.
+11 proteins were also found to be part of an ambiguity group and thus shared peptides with other proteins in the sample \tabref{tab:ace_protids_12.7m}.
+For both groupings, annotated proteins had identical functional designation so this information did not affect the interpretation of the metaproteome data.
 
-Appendix \tabreft{tab:ace_protids_5m}, \tabreft{tab:ace_protids_11.5m}, \tabreft{tab:ace_protids_12.7m}, \tabreft{tab:ace_protids_14m}, \tabreft{tab:ace_protids_18m} and \tabreft{tab:ace_protids_23m} list all proteins identified in Ace Lake using the modified workflow. 
-
-
-1.1 Except at the bottom zone, likely because the community is too diverse so greater coverage of the metagenome is required. %see available g,ood spectra vs good reads
-In parallel with taxonomic diversity increasing with depth (with the exception of the GSB layer), the rate of metaproteomic identification of proteins decreased with depth (Table S2). 
-The majority of the proteins that were detected (e.g. 67\% at 23 m) were for hypothetical proteins that tended to lack orthologues in well-characterized organisms, highlighting both the functional importance and novelty of this anaerobic zone of the lake.
+The use of the \textsc{Scaffold} 2.0 also allows for estimation of protein abundances using spectral counting.
+This is an estimate protein abundance based on the assumption that proteins that are more abundant will produce more mass spectra.
+Spectral counting is only semi-quantitative as differences between low abundance proteins becomes difficult to gauge, and there are likely biases in ionisation and fragmentation efficiencies intrinsic to certain peptides.
+For this purpose, defining the protein groups, particularly the ambiguity groups, becomes more relevant as it provides a framework to decide how to allocate spectral counts. 
+To find statistically significant differences in protein abundances by spectral counts, several normalisation steps had to be incorporated into the metaproteomic analysis workflow and were implemented using in-house scripts.
+This involved normalising the number of spectra between samples, for protein length and for the coverage of the metagenomic sequence and is detailled in section \ref{sec:ace_mm} \emph{Materials and methods}.
+The outcomes of the inclusion of spectral counting in the metaproteomic workflow is detailled below.
 
 %---------------------------------------------------------------------------------------------
-\subsection[Insights from the metaproteomic analysis ]{Insights from the metaproteomic analysis }
+\subsection[Insights from the metaproteomic analysis of Ace Lake]{Insights from the metaproteomic analysis of Ace Lake}
 
-2. More specific information could be assigned to the taxonomic groups such as.
-2.1. The Actinobacteria sequences in the mixolimnion were associated with a diverse phylogenetic cluster (Luna cluster) mainly contributed by freshwater ultramicrobacteria \cite{Hahn2003}. 
-Several Luna cluster isolates contain rhodopsin genes \cite{Sharma2009} and similar gene sequences were present in the Ace Lake oxic zone data and found to be expressed (167820670 and 163154474; Table S2).
-2.2.This is consistent with the identification of \ac{CRISPR} associated \ac{CAS} proteins Cse2, Cse3 and Cse4 (165526330, 165526332 and 165526334, respectively) in the 12.7 m metaproteome (Table S2). 
-The \ac{CAS} gene locus (cas3, cse1, cse2, cse3, cse4, cas5, cas1b), to which the proteins map, shares its organisation with \ac{CAS} loci of sequenced \ac{GSB}, and groups with the \emph{E. coli} subtype/variant 2. The \ac{CRISPR}/\ac{CAS} system is likely to confer phage resistance to C-Ace, akin to the role in other organisms (Karginov and Hannon 2010; Horvath and Barrangou 2010).
-%Recall that GSB all have large CRISPR regions and that the one in C-ace appears to be much reduced. Could this imply a lessening of viral load? The intervening spacers do not match to known viral sequences
-% but did match to other GSB, could they be for competition?
+The metaproteomic identifications  indicated active metabolic functions of specific populations within the Ace Lake community allowing their contribution to lake ecosystem function and evolutionary significance to be inferred.
+For example, \emph{Actinobacteria} sequences were associated with a diverse phylogenetic cluster (Luna cluster) mainly contributed by freshwater ultramicrobacteria \cite{Hahn2003}. 
+Several Luna cluster isolates contain rhodopsin genes \cite{Sharma2009} and similar gene sequences were present in the Ace Lake oxic zone data and found to be expressed (167820670 and 163154474; \tabreft{tab:ace_protids_5m}\tabreft{tab:ace_protids_11.5m}).
+This was the first time these rhodopsin sequences were found to be expressed and their abundance suggests they are physiologically important.
 
-3. Using \textsc{Scaffold} to validate protein identification and perform spectral counts was helpful. 
-3.1Same protein identifications as Charmaine except one or two.
-3.2 Able to quantify differences between mixolimnion and monimolimnion.
-The diversity and abundance of \ac{ABC} transporters was lowest in the 0.1 \textmu{}m fractions at 23 m (Fig. 3), and a correspondingly low number were detected in the metaproteome (Table S2). 
-In contrast, numerous transporters, predominately \ac{ABC} type, were identified in the metaproteome of the mixolimnion samples, with a high \ac{COG} representation of transporters for carbohydrates ($\sim$34\% of normalised spectra), amino acids ($\sim$32\%) and inorganic ions ($\sim$9\%) (Table S2 and Fig. S11).
-All transporters in the metaproteome were of bacterial origin and conservative phylum level assignments of the normalised spectra showed the majority to originate from \emph{Proteobacteria} (69\%), 
-of which SAR11 comprised 46\% and \emph{Actinobacteria} 19\% (Table S2). 
-A high proportion of expressed genes with transport functions have also been reported for SAR11 from coastal (Poretsky et al. 2010) and open ocean waters (Sowell et al. 2009) (Morris et al. 2010?). 
-Oligotrophs, such as SAR11 not only posses a low-diversity of high-affinity transporters (Lauro et al., 2009), but regulate the relative abundance of transporters expressed in response to \ac{DOC} availability (Poretsky et al. 2010). 
-The prevalence of amino acid and simple sugar transporters (Table S2), and the low \ac{DOC} concentration in the Ace Lake mixolimnion (Fig. 1) is likely to reflect efficient utilisation of these substrates from the \ac{DOC} pool. 
-Two SAR11 transport proteins that were detected in Ace Lake (Table S2) were not detected from the Sargasso Sea (Sowell,et al. 2009): an ectoine/hydroxyectoine (167807477 and 167892279) and a zinc \ac{ABC} transporter (167933120). The zinc \ac{ABC} transporter is likely to support zinc efflux in response to zinc concentrations which are $\sim$70-fold higher in the mixolimnion of Ace Lake compared to seawater (Rankin 1999). 
-Conversely, phosphate transporters were a major class detected from the Sargasso Sea (Sowell,et al. 2009) but were absent from the Ace Lake metaproteome; consistent with lower phosphate levels in the Sargasso Sea ($<$5 nM) compared to Ace Lake (1--12 \textmu{}M). The differences in transporter expression between Ace Lake and oceanic SAR11 are likely to signify adaptive growth strategies that have evolved in the Ace Lake SAR11 community.
-The high numbers of bacteriophages in the monimolimnion (detected by microscopy, Fig. S5 and S6; metaproteomics, Table S2; metagenomics, Fig. 2), and increase in \ac{DOC} observed at depth (Fig. 1), also indicates that carbon turnover in the monimolimnion is likely to be tightly coupled to the carbon flux going through a viral shunt, as proposed for open ocean systems (Suttle, C. A. Viruses in the sea. Nature 437, 356361 (2005)). 
-The bacteriophages are also likely vehicles for mediating gene exchange.
-Most of the genetic potential to cycle the nitrogen pool appears to be limited to nitrogen assimilation throughout the lake and remineralisation in the monimolimnion (Fig. S14). 
-The detection of glutamine synthetase (GlnA) and glutamate synthases (GltBS) in the metaproteome (Table S2) are supportive of active nitrogen assimilation. 
-In the mixolimnion, GlnA was linked to SAR11 and \emph{Actinobacteria}, and they are likely to be responsible for nitrogen absorption in the oxic zone. At the oxycline, GlnA and GltB from GSB were abundant (Table S2), indicating an important role for nitrogen assimilation at this zone in the lake.
-Genes for \ac{ASR} were present in metagenome data of all three fractions at all depths, although they were lowest at the oxycline. 
-However, there was no evidence for expression of the genes as ASR proteins were not detected by metaproteomics. In contrast, multiple subunits of the GSB dissimilatory sulfide reductase complex were identified (Ng et al. 2010 and Table S2) indicating functionality of this pathway at the oxycline. 
-\ac{GSB} likely utilise the dissimilatory sulfide reductase system to convert sulphur to sulfite and the polysulfide-reductase-like complex 3 to oxidize sulfite to sulphate. 
-SRB may then reform sulphide completing the sulphur cycle between the \ac{GSB} and \ac{SRB} (Ng et al. 2010). 
-While \ac{SRB} were detected at the three depths of the monimolimnion, sulphate is depleted in the water column and sediment at the bottom of the lake limiting their dissimilatory capacity \cite{Rankin1999}. 
-Finally, sulphate in the mixolimnion can be linked to sulphur-oxidation by SAR11 (Meyer and Kuever, Microbiology 153:3478-3498) and a concomitant lack of capacity to perform sulphur reduction. 
+Numerous transporters, predominately \ac{ABC} type, were identified in the mixolimnion, with a high \ac{COG} representation of transporters for carbohydrates ($\sim$34\% of normalised spectra), amino acids ($\sim$32\%) and inorganic ions ($\sim$9\%) (\figreft{fig:stamp}, \tabreft{tab:ace_protids_5m}, \tabreft{tab:ace_protids_11.5m} ).
+\input{ace_figures/stamp.tex}
+All transporters in the metaproteome were of bacterial origin and conservative phylum level assignments of the normalised spectra showed the majority to originate from \emph{Proteobacteria} (69\%), of which SAR11 comprised 46\% and \emph{Actinobacteria} 19\% \tabref{tab:ace_protids_5m}\tabref{tab:ace_protids_11.5m}. 
+A high proportion of expressed genes with transport functions have also been reported for SAR11 from coastal \cite{Poretsky2010} and open ocean waters \cite{Sowell2009, Morris2010}. 
+Oligotrophs, such as SAR11 not only posses a low-diversity of high-affinity transporters \cite{Lauro2009}, but regulate the relative abundance of transporters expressed in response to \ac{DOC} availability \cite{Poretsky2010}. 
+The prevalence of amino acid and simple sugar transporters \tabref{tab:ace_protids_5m}\tabref{tab:ace_protids_11.5m}, and the low \ac{DOC} concentration in the Ace Lake mixolimnion \cite{Rankin1999} is likely to reflect efficient utilisation of these substrates from the \ac{DOC} pool. 
+
+Two SAR11 transport proteins that were detected in Ace Lake \tabref{tab:ace_protids_5m}\tabref{tab:ace_protids_11.5m} were not detected in the Sargasso Sea \cite{Sowell2009}: an ectoine/hydroxyectoine (167807477 and 167892279) and a zinc \ac{ABC} transporter (167933120). 
+The zinc \ac{ABC} transporter is likely to support zinc efflux in response to zinc concentrations which are $\sim$70-fold higher in the mixolimnion of Ace Lake compared to seawater \cite{Rankin1999}. 
+Conversely, phosphate transporters were a major class detected from the Sargasso Sea \cite{Sowell2009} but were absent from the Ace Lake metaproteome; consistent with lower phosphate levels in the Sargasso Sea ($<$5 nM) compared to Ace Lake (1--12 \textmu{}M). 
+The differences in transporter expression between Ace Lake and oceanic SAR11 are likely to signify adaptive growth strategies that have evolved in the Ace Lake SAR11 community.
+
+
+This is consistent with the identification of \ac{CRISPR} associated \ac{CAS} proteins Cse2, Cse3 and Cse4 (165526330, 165526332 and 165526334, respectively) in the 12.7 m metaproteome \tabref{tab:ace_protids_12.7m}. 
+The \ac{CAS} gene locus (cas3, cse1, cse2, cse3, cse4, cas5, cas1b), to which the proteins map, shares its organisation with \ac{CAS} loci of sequenced \ac{GSB}, and groups with the \emph{E. coli} subtype/variant 2. The \ac{CRISPR}/\ac{CAS} system is likely to confer phage resistance to \emph{C}-Ace, akin to the role in other organisms \cite{Karginov2010, Horvath2010}.
+
+
+%The diversity and abundance of \ac{ABC} transporters was lowest in the 0.1 \textmu{}m fractions at 23 m (Fig. 3), and a correspondingly low number were detected in the metaproteome (Table S2). 
+
+%Genes for \ac{ASR} were present in metagenome data of all three fractions at all depths, although they were lowest at the oxycline. 
+%However, there was no evidence for expression of the genes as ASR proteins were not detected by metaproteomics. 
+%In contrast, multiple subunits of the GSB dissimilatory sulfide reductase complex were identified (Ng et al. 2010 and Table S2) indicating functionality of this pathway at the oxycline. 
+%\ac{GSB} likely utilise the dissimilatory sulfide reductase system to convert sulphur to sulfite and the polysulfide-reductase-like complex 3 to oxidize sulfite to sulphate. 
+%SRB may then reform sulphide completing the sulphur cycle between the \ac{GSB} and \ac{SRB} (Ng et al. 2010). 
+%While \ac{SRB} were detected at the three depths of the monimolimnion, sulphate is depleted in the water column and sediment at the bottom of the lake limiting their dissimilatory capacity \cite{Rankin1999}. 
+%Finally, sulphate in the mixolimnion can be linked to sulphur-oxidation by SAR11 (Meyer and Kuever, Microbiology 153:3478-3498) and a concomitant lack of capacity to perform sulphur reduction. 
 
 
 %--------------------------------------------------------------------------------------------
