@@ -1,4 +1,4 @@
-\begin{thebibliography}{230}
+\begin{thebibliography}{232}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -480,6 +480,15 @@ Gibson J.~A., Qiang X.~L., Franzmann P.~D., Garrick R.~C., and Burton H.~R.
   Vestfold Hilss, East Antarctica}.
 \newblock \emph{Polar Biology}, 14:\penalty0 545--550.
 
+\bibitem[Giovanonni \emph{et~al.}(2005)Giovanonni, Tripp, Givan, Podar, Vergin,
+  Baptista, Bibbs, Eads, Richardson, Noordewier, Rapp\'{e}, Short, Carrington,
+  and Mathur]{Giovannoni2005}
+Giovanonni S.~J., Tripp H.~J., Givan S., Podar M., Vergin K.~L., Baptista D.,
+  Bibbs L., Eads J., Richardson T.~H., Noordewier M., Rapp\'{e} M.~S., Short
+  J.~M., Carrington J.~C., and Mathur E.~J. (2005).
+\newblock {Genome streamlining in a cosmopolitan oceanic bacterium.}
+\newblock \emph{Science}, 309:\penalty0 1242--1245.
+
 \bibitem[Glatz \emph{et~al.}(2006)Glatz, Lepp, Ward, and Francis]{Glatz2006}
 Glatz R., Lepp P., Ward B.~B., and Francis C. (2006).
 \newblock {Planktonic microbial community composition across steep
@@ -623,6 +632,11 @@ Hoops S., Sahle S., Gauges R., Lee C., Pahle J., Simus N., Singhal M., Xu~L.,
   Mendes P., and Kummer U. (2006).
 \newblock {COPASI - a COmplex PAthway SImulator}.
 \newblock \emph{Bioinformatics}, 22:\penalty0 3067--3074.
+
+\bibitem[Horvath and Barrangou(2010)]{Horvath2010}
+Horvath P. and Barrangou R. (2010).
+\newblock {CRISPR/Cas, the immune system of bacteria and archaea}.
+\newblock \emph{Science}, 327:\penalty0 167--170.
 
 \bibitem[Howard \emph{et~al.}(2006)Howard, Henriksen, Buchan, Reisch,
   B\"{u}rgmann, Welsh, Ye, Gonz\'{a}lez, Mace, Joye, Kiene, Whitman, and

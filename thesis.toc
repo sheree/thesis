@@ -19,60 +19,63 @@
 \contentsline {section}{\numberline {2.2}Introduction}{14}{section.2.2}
 \contentsline {section}{\numberline {2.3}Materials and methods}{16}{section.2.3}
 \contentsline {subsection}{\numberline {2.3.1}Ace Lake samples}{16}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}\textsc {DNA} extraction, sequencing and data cleanup}{16}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}Metagenomic DNA assembly and annotation}{18}{subsection.2.3.3}
-\contentsline {subsection}{\numberline {2.3.4}Epifluorescence microscopy}{18}{subsection.2.3.4}
-\contentsline {subsection}{\numberline {2.3.5}Protein extraction}{19}{subsection.2.3.5}
-\contentsline {subsection}{\numberline {2.3.6}Metaproteomic \acs {1D-SDS PAGE} and \acs {LC}-\acs {MS-MS}}{19}{subsection.2.3.6}
-\contentsline {subsection}{\numberline {2.3.7}Mass spectra analysis and validation of metaproteomic identifications}{20}{subsection.2.3.7}
-\contentsline {section}{\numberline {2.4}Results and discussion}{21}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Development of an epifluorescence microscopy methodology}{21}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}Community stratification supported by cell and \acs {VLP} densities}{23}{subsection.2.4.2}
-\contentsline {subsection}{\numberline {2.4.3}Development of a metaproteomic mass spectra analysis workflow }{26}{subsection.2.4.3}
-\contentsline {subsection}{\numberline {2.4.4}Insights from the metaproteomic analysis of Ace Lake}{30}{subsection.2.4.4}
-\contentsline {section}{\numberline {2.5}Conclusions}{32}{section.2.5}
-\contentsline {section}{\numberline {2.6}Acknowledgements}{33}{section.2.6}
-\contentsline {chapter}{\numberline {3}Virophage control of Antarctic algal host--virus dynamics}{35}{chapter.3}
-\contentsline {section}{Co-authorship statement}{35}{section*.63}
-\contentsline {section}{\numberline {3.1}Abstract}{36}{section.3.1}
-\contentsline {section}{\numberline {3.2}Introduction}{37}{section.3.2}
-\contentsline {section}{\numberline {3.3}Materials and methods}{38}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Samples and DNA sequencing}{38}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Transmission electron microscopy}{38}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Metagenomic assembly and annotation}{38}{subsection.3.3.3}
-\contentsline {subsection}{\numberline {3.3.4}Genome completion and annotation}{39}{subsection.3.3.4}
-\contentsline {subsection}{\numberline {3.3.5}Phylogenetic analysis}{40}{subsection.3.3.5}
-\contentsline {subsection}{\numberline {3.3.6}Metaproteomic analysis}{40}{subsection.3.3.6}
-\contentsline {subsection}{\numberline {3.3.7}Model of algal host--virus and virophage dynamics}{40}{subsection.3.3.7}
-\contentsline {section}{\numberline {3.4}Results and discussion}{41}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Dominance of phycodnaviruses in Organic Lake}{41}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Complete genome of an Organic Lake virophage}{46}{subsection.3.4.2}
-\contentsline {subsection}{\numberline {3.4.3}Gene exchange between virophage and phycodnaviruses}{53}{subsection.3.4.3}
-\contentsline {subsection}{\numberline {3.4.4}Virophage in algal host--phycodnavirus dynamics}{54}{subsection.3.4.4}
-\contentsline {subsection}{\numberline {3.4.5}Ecological relevance of virophages in aquatic systems}{56}{subsection.3.4.5}
-\contentsline {section}{\numberline {3.5}Acknowledgements}{59}{section.3.5}
-\contentsline {chapter}{\numberline {4}Strategies of carbon conservation and unusual sulphur biogeochemistry Organic Lake}{61}{chapter.4}
-\contentsline {section}{Co-authorship statement}{61}{section*.110}
-\contentsline {section}{\numberline {4.1}Abstract}{62}{section.4.1}
-\contentsline {section}{\numberline {4.2}Introduction}{63}{section.4.2}
-\contentsline {section}{\numberline {4.3}Materials and methods}{64}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Characteristics of the lake and sample collection}{64}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Physical and chemical analyses}{64}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}Epifluorescence microscopy}{65}{subsection.4.3.3}
-\contentsline {subsection}{\numberline {4.3.4}Cellular diversity analyses}{66}{subsection.4.3.4}
-\contentsline {subsection}{\numberline {4.3.5}Analysis of functional potential}{66}{subsection.4.3.5}
-\contentsline {section}{\numberline {4.4}Results and discussion}{70}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Abiotic properties and water column structure}{70}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Overall microbial diversity}{74}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.4.3}Variation of microbial composition according to size and depth}{77}{subsection.4.4.3}
-\contentsline {subsubsection}{20--3.0 \textmu {}m fraction community composition}{77}{section*.153}
-\contentsline {subsubsection}{3--0.8 \textmu {}m size fraction community composition}{79}{section*.154}
-\contentsline {subsubsection}{0.8--0.1 \textmu {}m size fraction community composition}{80}{section*.156}
-\contentsline {subsection}{\numberline {4.4.4}Organic Lake functional potential}{80}{subsection.4.4.4}
-\contentsline {subsection}{\numberline {4.4.5}Carbon resourcefulness in dominant heterotrophic bacteria}{81}{subsection.4.4.5}
-\contentsline {subsection}{\numberline {4.4.6}Regenerated nitrogen is predominant in the nitrogen cycle}{88}{subsection.4.4.6}
-\contentsline {subsection}{\numberline {4.4.7}Molecular basis for unusual sulphur chemistry}{91}{subsection.4.4.7}
-\contentsline {section}{\numberline {4.5}Conclusions}{99}{section.4.5}
-\contentsline {section}{\numberline {4.6}Acknowledgements}{100}{section.4.6}
-\contentsline {chapter}{\numberline {5}General discussion, conclusions and future work}{103}{chapter.5}
-\contentsline {chapter}{\numberline {6}Appendices}{123}{chapter.6}
+\contentsline {subsection}{\numberline {2.3.2}\textsc {DNA} extraction, sequencing and data cleanup}{17}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Metagenomic DNA assembly and annotation}{19}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Epifluorescence microscopy}{19}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}Protein extraction}{20}{subsection.2.3.5}
+\contentsline {subsection}{\numberline {2.3.6}Metaproteomic \acs {1D-SDS PAGE} and \acs {LC}-\acs {MS-MS}}{20}{subsection.2.3.6}
+\contentsline {subsection}{\numberline {2.3.7}Mass spectra analysis and validation of metaproteomic identifications}{21}{subsection.2.3.7}
+\contentsline {section}{\numberline {2.4}Results and discussion}{22}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Development of an epifluorescence microscopy methodology}{22}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Community stratification supported by cell and \acs {VLP} densities}{24}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Development of a metaproteomic mass spectra analysis workflow }{27}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}Insights from the metaproteomic analysis of Ace Lake}{31}{subsection.2.4.4}
+\contentsline {subsubsection}{Mixolimnion}{31}{section*.58}
+\contentsline {subsubsection}{Chemo/oxycline}{33}{section*.61}
+\contentsline {subsubsection}{Monimolimnion}{34}{section*.64}
+\contentsline {section}{\numberline {2.5}Conclusions}{35}{section.2.5}
+\contentsline {section}{\numberline {2.6}Acknowledgements}{35}{section.2.6}
+\contentsline {chapter}{\numberline {3}Virophage control of Antarctic algal host--virus dynamics}{37}{chapter.3}
+\contentsline {section}{Co-authorship statement}{37}{section*.66}
+\contentsline {section}{\numberline {3.1}Abstract}{38}{section.3.1}
+\contentsline {section}{\numberline {3.2}Introduction}{39}{section.3.2}
+\contentsline {section}{\numberline {3.3}Materials and methods}{40}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Samples and DNA sequencing}{40}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Transmission electron microscopy}{40}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Metagenomic assembly and annotation}{40}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Genome completion and annotation}{41}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}Phylogenetic analysis}{42}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.6}Metaproteomic analysis}{42}{subsection.3.3.6}
+\contentsline {subsection}{\numberline {3.3.7}Model of algal host--virus and virophage dynamics}{42}{subsection.3.3.7}
+\contentsline {section}{\numberline {3.4}Results and discussion}{43}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Dominance of phycodnaviruses in Organic Lake}{43}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Complete genome of an Organic Lake virophage}{48}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Gene exchange between virophage and phycodnaviruses}{55}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Virophage in algal host--phycodnavirus dynamics}{56}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3.4.5}Ecological relevance of virophages in aquatic systems}{58}{subsection.3.4.5}
+\contentsline {section}{\numberline {3.5}Acknowledgements}{61}{section.3.5}
+\contentsline {chapter}{\numberline {4}Strategies of carbon conservation and unusual sulphur biogeochemistry Organic Lake}{63}{chapter.4}
+\contentsline {section}{Co-authorship statement}{63}{section*.113}
+\contentsline {section}{\numberline {4.1}Abstract}{64}{section.4.1}
+\contentsline {section}{\numberline {4.2}Introduction}{65}{section.4.2}
+\contentsline {section}{\numberline {4.3}Materials and methods}{66}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Characteristics of the lake and sample collection}{66}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Physical and chemical analyses}{66}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Epifluorescence microscopy}{67}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Cellular diversity analyses}{68}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}Analysis of functional potential}{68}{subsection.4.3.5}
+\contentsline {section}{\numberline {4.4}Results and discussion}{72}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Abiotic properties and water column structure}{72}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Overall microbial diversity}{76}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Variation of microbial composition according to size and depth}{79}{subsection.4.4.3}
+\contentsline {subsubsection}{20--3.0 \textmu {}m fraction community composition}{79}{section*.156}
+\contentsline {subsubsection}{3--0.8 \textmu {}m size fraction community composition}{81}{section*.157}
+\contentsline {subsubsection}{0.8--0.1 \textmu {}m size fraction community composition}{82}{section*.159}
+\contentsline {subsection}{\numberline {4.4.4}Organic Lake functional potential}{82}{subsection.4.4.4}
+\contentsline {subsection}{\numberline {4.4.5}Carbon resourcefulness in dominant heterotrophic bacteria}{83}{subsection.4.4.5}
+\contentsline {subsection}{\numberline {4.4.6}Regenerated nitrogen is predominant in the nitrogen cycle}{90}{subsection.4.4.6}
+\contentsline {subsection}{\numberline {4.4.7}Molecular basis for unusual sulphur chemistry}{93}{subsection.4.4.7}
+\contentsline {section}{\numberline {4.5}Conclusions}{101}{section.4.5}
+\contentsline {section}{\numberline {4.6}Acknowledgements}{102}{section.4.6}
+\contentsline {chapter}{\numberline {5}General discussion, conclusions and future work}{105}{chapter.5}
+\contentsline {chapter}{\numberline {6}Appendices}{125}{chapter.6}
