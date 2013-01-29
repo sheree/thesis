@@ -14,8 +14,7 @@ Jeffery M. Hoffman, Torsten Thomas, and Ricardo Cavicchioli.
 An integrative study of a meromictic lake ecosystem in Antarctica. \emph{\underline{The ISME Journal}} 
 5:879--895, 2011.
 
-I performed the metaproteomic mass spectral analysis, epifluorescence microscopy imaging,
-microbial and viral counts and wrote the corresponding sections of the publication.
+I performed the epifluorescence microscopy, metaproteomic mass spectral analysis and wrote the corresponding sections of the publication.
 
 Contributions by others that support the work presented in this chapter are as follows.
 Research was designed by Federico Lauro, Mark Brown, Torsten Thomas, John Gibson and Ricardo Cavicchioli.
@@ -30,21 +29,19 @@ Assistance in mass spectrometry was provided by Mark Raftery.
 %----------------------------------------------------------------------------------------------
 \section{Abstract}
 Ace Lake is a saline meromictic lake and the most studied lake in the Vestfold Hills, Antarctica.
-As a system of moderate biological complexity with extensive historic physical and chemical data, it was chosen as a site to implement an integrative study of the whole lake ecosystem.
+As a system of moderate biological complexity with extensive historic physical and chemical data, it was chosen as a site to implement an integrative study of the lake ecosystem.
 Metagenomic analysis of Ace Lake revealed microbial taxa and metabolic genes were stratified according to the lake's water column structure and also was able to infer potential for nutrient cycling \cite{Lauro2011}.
-%The aerobic mixolimnion resembles a marine surface water microbial community, the oxic--anoxic interface contains a near-clonal population of \ac{GSB} while the anoxic monimolimnion contains an extremely diverse assemblage that includes methanogenic \emph{Archaea} and \ac{SRB}.
-%The viral signatures were detected at all depths of the lake, except for the \ac{GSB} layer \cite{Lauro2011}.
 
 This study aimed to generate independent datasets complementary to metagenomic sequencing as part of the integrative analysis of the lake.
-A method for visualising and enumerating cells and \acp{VLP} using epifluorescence microscopy was developed that does not require use of the relatively expensive Anodisc filters that were subject to an international drop in availability.
+A method for visualising and enumerating cells and \acp{VLP} using epifluorescence microscopy was developed that does not require use of the relatively expensive Anodisc filters that were subject to an international halt in availability.
 Microscopic examination confirmed the efficacy of the sequential filtration procedure used to size fractionate the lake microbiota.
 Furthermore, it determined the densities of cells and \acp{VLP} and independently verified the absence of \acp{VLP} associated with the lake's \ac{GSB}.
 
-Preliminary metaproteomic analysis of the Ace Lake depth profile using cross-species matching of mass spectra to the \ac{NR} yeilded few protein identifications \cite{Ng2010b}.
+Preliminary metaproteomic analysis of the Ace Lake depth profile using cross-species matching of mass spectra yeilded few protein identifications \cite{Ng2010b}.
 However, metaproteomic analysis of the \ac{GSB} layer using matching \ac{GSB} metagenomic sequences as the search database gave a 3-fold increase in protein identifications and allowed detailled description of the metabolism of the \ac{GSB} \cite{Ng2010a,Ng2010b}.
-A metaproteomic analysis workflow was developed that similarly using metagenomes matched to the metaproteome samples as search databases and achieved substantial improvements in protein identification rates.
-Application of the software package \textsc{Scaffold} 2.0 to protein mass spectral analysis was used to validate of protein identifications and allowed for protein abundance estimates using spectral counts.
-Protein groups were identified that were overrepresented in each zone of the lake.
+A metaproteomic analysis workflow was developed achieved substantial improvements in protein identification rates by similarly using metagenomic databases matched to the metaproteomic samples.
+Application of the software package \textsc{Scaffold} 2.0 to protein mass spectral analysis was used to validate of protein identifications and allowed for protein abundance estimates by spectral counting.
+Functional protein groups were identified that were overrepresented in each zone of the lake.
 These data provided crucial to support a comprehensive description of the  entire Ace Lake ecosystem. 
 
 %---------------------------------------------------------------------------------------------
@@ -52,7 +49,6 @@ These data provided crucial to support a comprehensive description of the  entir
 \acresetall
 Ace Lake is a meromictic saline lake in the Vestfold Hills that separated from the sea $\sim$5,000 BP \cite{Bird1991}. 
 Extensive physical, chemical and biological data has been collected from Ace Lake in the last decades \cite{Rankin1999}.
-%This is summarised in the figure of the whole lake. %figure of lake.
 The system is microbially-dominated and has reduced species diversity \cite{Bowman2000a} with the only metazoan life present being callanoid copepods. %Look up.
 %What else? about the diversity from Bowman paper? Link to the intro.
 Ace Lake is a highly stratified lake system that is 25 m at its deepest point \figref{fig:ace_diagram}.
@@ -60,7 +56,7 @@ Ace Lake is a highly stratified lake system that is 25 m at its deepest point \f
 It is ice-covered for $\sim$11 months of the year and generally thaws in January \cite{Rankin1999}.
 Water is marine-derived and a largely neutral water balance has ensured salinity is close to that of seawater.
 The lake is physically separated into an aerobic mixolimnion, a steep chemo/oxycline at 12.7 m and an anoxic monimolimnion.
-The monimolimnion is sulfidic and methanogenic; both compounds have presumably accumulated through activity from \ac{SRB} and methanogenic archaea respectively \cite{Rankin1999, Lauro2011} \figref{fig:ace_diagram}.
+The monimolimnion is sulfidic and methanogenic; both compounds have presumably accumulated through the activity of \ac{SRB} and methanogenic archaea respectively \cite{Rankin1999, Lauro2011} \figref{fig:ace_diagram}.
 As a physically and chemically well-characterised system of moderate diversity, Ace Lake was chosen as a model ecosystem to implement a whole systems level analysis to piece together ecosystem functioning.
 Samples were obtained from the mixolimnion (5 and 11.5 m), the chemo/oxycline (12.7 m) and the monimolimnion (14, 18 and 23 m ).
 Sampling was conducted according the design of the \ac{GOS} expedition \cite{Rusch2007} by using size fractionation of microbial biomass onto 3.0, 0.8 and 0.1 \textmu{}m membrane filters.
@@ -70,19 +66,20 @@ From the metagenomic analysis significant differences were found in taxonomic co
 The mixolimnion community is similar to a marine surface water assemblage consisting of a high abundance of the SAR11 clade of \emph{Alphaproteobacteria} related to ``\emph{Candidatus} Pelagibacter ubique'' and green algae of the order \emph{Mamiellales}.
 However, diversity is reduced by one order of magnitude \cite{Lauro2011}.
 Unlike Southern Ocean surface water, the mixolimnion is overrepresented in \emph{Cyanobacteria} related to \emph{Synechococcus} and \emph{Actinobacteria}, which may represent taxa that mark the transition from a marine to lake community.
-A dense, near-clonal population of \acl{GSB} related to \emph{Chlorobium} termed \emph{C}-ace reside at the chemo/oxycline at 12.7 m \cite{Ng2010a, Lauro2011}.
+A dense, near-clonal population of \ac{GSB} related to \emph{Chlorobium} termed \emph{C}-ace reside at the chemo/oxycline at 12.7 m \cite{Ng2010a, Lauro2011}.
 Below, in the monimolimnion is a highly diverse community that includes \ac{SRB} and methanogenic \emph{Archaea}.
 The viral community comprises \emph{Phycodnaviridae}, \emph{Myoviridae}, \emph{Siphoviridae}, \emph{Podoviridae} and unidentified viral families \cite{Lauro2011}. 
 Bacteriophage sequences were abundant in the bottom waters, whereas the surface community, was dominated by phycodnaviruses \cite{Lauro2011}. 
 
 Preliminary metaproteomic analysis along the vertical profile of Ace Lake has been performed using a cross species genomic database comprising the \ac{NCBI} \ac{NR} \cite{Ng2010b}.
-A focused metaproteogeonomic analysis conducted on the dense \ac{GSB} layer using the matched \ac{GSB} metagenome as the database resulted in 3-fold increase in protein identifications compared to using the \ac{NR} database \cite{Ng2010b}.
+A focussed metaproteogeonomic analysis conducted on the dense \ac{GSB} layer using the matched \ac{GSB} metagenome as the database resulted in 3-fold increase in protein identifications compared to using the \ac{NR} database \cite{Ng2010b}.
 This indicates large gains in metaproteome coverage are possible using a matched metagenomic database \cite{Ng2010b}.
 Significantly, \ac{GSB} appeared to be crucial in the lake ecosystem as they had the greatest genetic potential for nitrogen and carbon fixation as well as sulphur cycling \cite{Ng2010b, Lauro2011}.
-Metaproteomic analysis was able to identify which proteins were actively expressed and thus the active pathways of the \ac{GSB} metabolism which are crucial to the function of the lake \cite{Ng2010a}.
+Metaproteomic analysis was able to identify which proteins were actively expressed and thus the active pathways of the \ac{GSB} metabolism \cite{Ng2010a}.
 
-This study aimed to develop and apply methodologies which provide independant data to complement metagenomic analysis of the Ace Lake ecosystem.
-Although metagenomics is an extremely powerful tool for interrogating microbial communities, a systems level understanding ultimately requires the integration of data which metagenomic sequencing alone does not provide such as abiotic parameters and gene expression levels \cite{Handelsman2008}.
+This study aimed to develop and apply methodologies which provide independant datasets to complement metagenomic analysis of the Ace Lake ecosystem.
+Metagenomics is an extremely powerful tool for interrogating microbial communities.
+However, a systems level understanding ultimately requires the integration of data which metagenomic sequencing alone does not provide such as abiotic parameters and functional activity \cite{Handelsman2008}.
 The procedures developed included a modified epifluorescence microscopy procedure to determine cellular and viral densities and validate the efficacy of size-fractionation and a metaproteomic analysis workflow to identify proteins and estimate their abundance.
 
 %---------------------------------------------------------------------------------------------
@@ -166,7 +163,7 @@ Smaller insoluble particles were removed by filtration through a 0.22 \textmu{}m
 Buffer exchange with 30 ml of 10 mM Tris-EDTA (pH 8) and concentration of soluble extracted proteins was performed in a 5 kDa cut-off Amicon Ultra-15 filter unit (Millipore).
 Protein concentration was determined using a bicinchoninic acid protein assay kit (Sigma-Aldrich, Sydney, NSW, Australia).
 
-\subsection{Metaproteomic \acs{1D-SDS PAGE} and \acs{LC}-\acs{MS-MS}}
+\subsection{\acs{1D-SDS PAGE} and \acs{LC}-\acs{MS-MS}}
 Extracted proteins were separated by \ac{1D-SDS PAGE} containing 12 \% SDS using a Mini-PROTEAN system (Bio-Rad, Sydney, NSW, Australia) as described previously \cite{Saunders2006}.
 Trypsin digestion, \ac{LC} and mass spectrometry was conducted according to \citet{Ng2010a} as follows.
 The gels were silver stained and the images acquired with a UMAX PowerLook 1000 flat-bed scanner (Fujifilm, Berthold, Vic, Australia).
@@ -187,7 +184,7 @@ Up to the six most abundant ions ($>$3,000 counts) with charge states of $+$2, $
 \emph{m/z} ratios selected for \ac{MS-MS} were dynamically excluded for 30 s.
 Peak lists were generated using \textsc{extract\_msm} from \textsc{Mascot Daemon} (Matrix Science, Thermo, London, \textsc{UK}) using the default parameters.
 
-\subsection{Mass spectra analysis and validation of metaproteomic identifications}
+\subsection{Metaproteomic mass spectra analysis}
 The specta generated from \ac{MS} were searched against the protein sequence database corresponding to that depth constructed from the 0.1 \textmu{}m mosaic assemblies using \textsc{Mascot} version 2.1 (Matrix Science).
 \textsc{Mascot Distiller} (Applied Biosystems) was used as the data import filter with the following criteria applied to the \ac{MS-MS} ion search: a maximum of one missed cleavage for trypsin, peptide mass tolerance of $\pm$ 4 ppm, a fragment mass tolerance of $\pm$0.6 Da and variable modifications of acrylamide, carbamidomethyl and oxidation.
 The number of protein sequences in each database were as follows: 5 m, 138,208; 11.5 m, 133,948; 12.7 m, 27,142; 14 m, 62,436; 18 m, 71,512; and 23 m, 128,878. 
@@ -229,20 +226,20 @@ Since conducting this research, supply of 25 mm Anodisc filters has resumed, alb
 The need to develop alternative methodolodies has been great enough that protocols were developed independently by other research groups \cite{Budinoff2011, Diemer2012} stressing the utility of alternatives.
 
 Clear \ac{PCTE} membrane filters were selected for use as a viable alternative product as they have a defined pore-size of sufficiently small diameter (0.01 \textmu{}m) to capture \acp{VLP}. 
-Furthermore, they have been used in early studies for \acp{VLP} enumeration \cite{Hara1991, Proctor1992}, have a long history of use with the enumeration of cells \cite{Hobbie1977} and therefore require no new materials to be easily adopted for use.
+Furthermore, they have been used in earlier studies for \acp{VLP} enumeration \cite{Hara1991, Proctor1992}, have a long history of use with the enumeration of cells \cite{Hobbie1977} and therefore require no new materials to be easily adopted for use.
 Finally, use of \ac{PCTE} membranes is approximately 10 times cheaper than the use of Anodiscs and are not subject to drops in availability.
 However, \ac{PCTE} membranes have several reported shortcoming that have precluded their standard use for viral enumeration.
 The 0.01 \textmu{}m 25 mm \ac{PCTE} filters are difficult to handle compared to 25 mm Anodisc filters that have a plastic support ring around the edge.
 Also, \ac{PCTE} filters appear to have higher background fluorescence, have a slow flow-rate taking $\sim$1--1.5 hours to filter 2 ml \cite{Hara1991} and have been reported to give \ac{VLP} counts an order of magnitude lower than that of Anodiscs \cite{Budinoff2011}.%more ref?
 
 The protocol used is detailled in section \ref{sec:ace_mm} \emph{Materials and methods} where the main challenges of using \ac{PCTE} were overcome for the purposes required for this study.
-0.01 \textmu{}m pore-size \ac{PCTE} filters can form creases or wrinkles when mounted in the glass vacuum filter.
+0.01 \textmu{}m pore-size \ac{PCTE} filters can form creases or wrinkles when mounted in the vacuum filter holder.
 Good placement of the \ac{PCTE} filter was achieved by touching the edge of the \ac{PCTE} filter against the damp backing filter, making sure it was aligned and then gently and evenly releasing it in a single direction. 
 0.01 \textmu{}m pore-size \ac{PCTE} filters also easily become statically charged and will become attracted to surfaces so careful handling is required during manipulation. 
 The greatest drawback in the use of \ac{PCTE} filters of such small pore-size is they similarly have a tendency to crinkle when mounted on the glass slide that can make visualisation of cells and \acp{VLP} on a single focal plane difficult.
 Agarose was used to embed the filters to help flatten the membrane and aid in mounting.
 However, this was not strictly necessary if filters are dried well and pressed flat against the glass slide with a minimal volume of mountant.
-Even though careful handling is possible, this method likely requires more technical replicates than Anodisc filters because any \acp{VLP} outside the focal plane will not be counted.
+Even though careful handling is possible, this method likely requires more technical replicates than Anodisc filters because any localised regions with \acp{VLP} outside the focal plane will not be counted leading to greater deviation in counts.
 Furthermore, as similarly reported by \citet{Diemer2012} for 0.03 \textmu{}m \ac{PCTE} membranes, distribution of \acp{VLP} on the membrane appears more variable than for Anodiscs with local regions devoid of \acp{VLP} and others with pooling of \acp{VLP}.
 The patchier \acp{VLP} distribution was attributed to greater irregularity in pore distribution compared to that of Anodisc filters and was considered to be the main contributing factor to variability in \ac{VLP} counts \cite{Diemer2012}
 
@@ -272,12 +269,12 @@ To be a competitive alternative to Anodisc filters in terms of enumeration accur
 Epifluorescence microscopy images of Ace Lake microbiota showed a clear decrease in larger and particularly filamentous cells between filter size fractions \figref{fig:ace_microscopy}.
 The sequential filtration of suspended microbial biomass from aquatic environments has been utilised as part of the landmark Sargasso Sea metagenomic study \cite{Venter2004} and \ac{GOS} expedition \cite{Rusch2007}.
 The Ace Lake samples were collected using the same sampling strategy as the \ac{GOS} dataset but has sequence information from all three filter sizes and was able determine if size fractionation is effective at separating the microbial community and if functional differences are associated with size.
-Both taxonomic and functional gene composition were shown in the metagenomic analysis to differ significantly with size fraction, particularly between the 0.1 \textmu{}m and the larger size fractions, indicating resource partitioning in the community \cite{Lauro2011}.
-The clear difference between the size fractions indicated the sequential filtration process is an effective means to separate the community and that different sized populations in the community have different ecological roles (\emph{e.g.} particle attached copiotrophs or planktonic oligotrophs).
+Both taxonomic and functional gene composition were shown in the metagenomic analysis to differ significantly with size fraction and is indicative of resource partitioning in the community \cite{Lauro2011}.
+The clear difference between the size fractions indicated the sequential filtration process is an effective means to separate the community and that different sized populations in the community have different ecological roles.
 For example, \emph{Flavobacteria} were only detected in the 3.0 \textmu{}m size fraction mixolimnion metagenomes and were inferred to be involved in mineralisation of particulate matter \cite{Lauro2011}.
-This correlates with the absence of larger, particularly long rod shaped cells, in the $>$0.8 \textmu{}m microscopic image \figref{fig:ace_microscopy} indicating these larger cells are likely to be copiotrophic \emph{Flavobacteria} involved in degradative processes.
+This correlates with the absence of long rod shaped cells in the $>$0.8 \textmu{}m microscopic image \figref{fig:ace_microscopy} indicating these larger cells are likely to be copiotrophic \emph{Flavobacteria} involved in degradative processes.
 Depth was another variable which strongly drove differences in the Ace Lake community \cite{Lauro2011}.
-This was again evident in the microscopy images that show the appearance of long filamentous cells only in the monimolimnion samples \figref{fig:ace_microscopy}.
+This was again evident in the microscopy images that show the appearance of long filamentous cells only in the 12.7 m and monimolimnion samples \figref{fig:ace_microscopy}.
 
 Cell and \ac{VLP} densities are not obtainable from metagenomic sequence data and necessitates an independent method of determination.
 The first studies to determine viral densities in natural systems found that viruses are the most numerous biological entities on the planet and likely play a large role in plankton mortality in the ocean \cite{Bergh1989,Proctor1990}. 
@@ -317,7 +314,7 @@ The fragment ion spectrum and precursor ion mass is used to determine the most l
 Since spectral matching depends on extremely high mass sensitivity, the ideal genomic database contains complete coverage of sequences from the organism(s) from which the proteins originated. 
 A single amino acid change is sufficient for a peptide match to fail although matching is tolerant to synonymous changes.
 
-Preliminary metaproteomic analysis was conducted on the 0.1 \textmu{}m fraction samples along the depth profile of Ace Lake using sequences from \ac{NR} as the search database \cite{Ng2010b} as metagenomic data were not yet available.
+Preliminary metaproteomic analysis was conducted on the 0.1 \textmu{}m fraction samples along the depth profile of Ace Lake using \ac{NR} as the search database \cite{Ng2010b} as metagenomic data were not yet available.
 The use of a cross-species database requires the genomes to be sufficiently related to identify proteins and application of stringent statistial cut-off to avoid false-positive matches.
 Across all six samples, a total of 10,443 peptides were identified corresponding to 308 proteins from $\sim$400,000 \ac{MS-MS} spectra \cite{Ng2010b}.
 Rates of protein identification were low compared to a similar metaproteomic analysis of the Sargasso Sea, which achieved  a total of 5,501 peptide identifications corresponding to 1,042 proteins from $\sim$30,000 \ac{MS-MS} spectra \cite{Sowell2009}. 
@@ -341,20 +338,21 @@ Instead of determining a \ac{FDR}, \textsc{Scaffold} 2.0 employs the \textsc{Pep
 This algorithm fits a distribution of scores from correct and in-correct peptide matches and from this calculates the probability that each result is a genuine match \cite{Keller2002}. 
 More importantly, it identifies groups of proteins that cannot be distinguished based on unique peptides and so accepts all of those proteins in the group may be present in the sample.
 Two classes of these groups were defined: (1) protein groups, which are proteins with shared peptides that were indistinguishable from the mass spectral analysis and (2) protein ambiguity groups, which are proteins that have some shared peptides.
-This information allows the estimation of protein abundances from spectral counts based on the assumption that proteins that are more abundant will produce more mass spectra.
-Spectral counting is only semi-quantitative as differences between low abundance proteins becomes difficult to gauge, and there are likely biases in ionisation and fragmentation efficiencies intrinsic to certain peptides.
+\textsc{Scaffold} 2.0 also facilitates the estimation of protein abundances from spectral counts based on the assumption that proteins that are more abundant will produce more mass spectra.
+Spectral counting is only semi-quantitative as differences between low abundance proteins becomes difficult to gauge.
+Also, peptides likely have some intrinsic biases in their ionisation and fragmentation efficiencies.
 For this purpose, defining the protein groups, particularly the ambiguity groups, becomes relevant as it provides a framework to decide how to allocate spectral counts in protein ambiguity groups where spectra are shared.
 To find statistically significant differences in protein abundances by spectral counting, several normalisation steps had to be incorporated into the metaproteomic analysis workflow and were implemented using in-house scripts and the statistical program \ac{STAMP}.
-This involved normalising the number of spectra between samples, for protein length and for the coverage of the metagenomic sequence and is detailled in section \ref{sec:ace_mm} \emph{Materials and methods}.
+This is detailled in section \ref{sec:ace_mm} \emph{Materials and methods}.
 
 The final analysis workflow was applied to all the Ace Lake metaproteomic mass specta datasets.
-Appendix \tabreft{tab:ace_protids_5m}, \tabreft{tab:ace_protids_11.5m}, \tabreft{tab:ace_protids_12.7m}, \tabreft{tab:ace_protids_14m}, \tabreft{tab:ace_protids_18m} and \tabreft{tab:ace_protids_23m} lists all proteins identified in Ace Lake using the modified workflow. 
+Appendix \ref{app:B} lists all proteins identified in Ace Lake using the modified workflow. 
 Identification rates were significantly higher using the matched metagenomic database compared to \ac{NR} with a 6-fold increase in total proteins identified \tabref{tab:protid_stats}. 
 Mass spectra re-analysed from the 12.7 m \ac{GSB} layer using the modified metaproteomic workflow showed only one additional protein identification \tabref{tab:protid_stats}.
 \input{ace_figures/protid_stats.tex}
 This indicates that the \textsc{Scaffold} 2.0 protein validation algorithm is as stringent as \ac{FDR} cut-offs when dealing with lower diversity samples.
 In addition, 125 of the 505 protein identifications were identified by \textsc{Scaffold} 2.0 to be protein groups \tabref{tab:ace_protids_12.7m}.
-In other words, the mass spectra data were not able to distinguish which of a possible set of two or more proteins were in the sample, or if all the possible proteins that shared those peptides were in the sample.
+In other words, those mass spectra mapped to two or more proteins making it impossible to distinguish which of those possible proteins were expressed.
 11 proteins were also found to be part of an ambiguity group and thus shared peptides with other proteins in the sample \tabref{tab:ace_protids_12.7m}.
 By tracking protein groups, \textsc{Scaffold} 2.0 flags proteins that require an additional validation step, which is to verify if all members of the group have the same functional annotation.
 All protein groups in the 12.7 m sample that were annotated had identical designations indicating they likely had the same function.
@@ -389,8 +387,8 @@ The differences in transporter expression between Ace Lake and oceanic SAR11 are
 \emph{Actinobacteria} sequences were associated with a diverse phylogenetic cluster (Luna cluster) mainly represented by freshwater ultramicrobacteria \cite{Hahn2003}. 
 Several Luna cluster isolates contain rhodopsin genes, termed actinorhodopsins \cite{Sharma2009} and similar gene sequences were present in the Ace Lake oxic zone data and found to be expressed (167820670 and 163154474; \tabreft{tab:ace_protids_5m}, \tabreft{tab:ace_protids_11.5m}).
 This was the first report of expression of these actinorhodopsin sequences.
-The abundance of \emph{Actinobacteria} transporters along with their small cell size and distribution in the water column indicates they occupies a similar ecological niche as SAR11.
-SAR11 contains proteorhodopsin which is a related to actinorhodopsin \cite{Sharma2009}.
+The abundance of \emph{Actinobacteria} transporters along with their small cell size and distribution in the water column indicates they occupy a similar ecological niche as SAR11.
+SAR11 contains proteorhodopsin, which is a related to actinorhodopsin \cite{Sharma2009}.
 Although the physiological role of proteorhodopsin in SAR11 is yet to be fully elucidated \cite{Fuhrman2008}, this provides some indication actinorhodopsins in Antarctic Luna cluster \emph{Actinobacteria} have a related functional role.
 
 \subsubsection{Chemo/oxycline}
@@ -413,7 +411,7 @@ The \ac{CRISPR}/\ac{CAS} system has been shown in other organisms to mediate vir
 
 \subsubsection{Monimolimnion}
 In parallel with taxonomic diversity increasing with depth, with the exception of the \ac{GSB} layer, the rate of metaproteomic identification of proteins decreased with depth \tabref{tab:protid_stats}.
-This is to be expected as complete coverage of all genomic information from an environment is unlikely from all but the most simple of systems which means that as diversity increases there is a greater chance a protein will map to fragmentary or absent metagenomic data and fail to be identified.
+This is to be expected as complete coverage of all genomic information from an environment is unlikely from all but the most simple of systems which means that as diversity increases there is a greater chance a peptide will map to fragmentary or absent metagenomic data and fail to be identified.
 Annotated proteins in the monimolimnion were overrepresented in \ac{COG} categories (K) transcription; (L) replication, recombination and repair and (N) motility \figref{fig:stamp}. 
 Categories L and N were similarly overrepresented in the monimolimnion metagenomic samples \cite{Lauro2011} demonstrating the genomic expansion of these functions correlated with higher abundance of these proteins.
 However, differential adundance was greatest in the category K proteins, which showed showed little difference in relative abundance in the metagenomes \cite{Lauro2011} suggesting transcription proteins in the monimolimnion were up-regulated \figref{fig:stamp}. 
@@ -436,7 +434,7 @@ The mixolimnion was shown to be dominated by transporter proteins; the chemo/oxy
 Metaproteomic analysis proved most effective when applied to the relatively low diversity mixolimnion samples and essentially clonal \ac{GSB} population.
 In these lower complexity samples better designations of protein functions and clear links to their taxonomic orgins were possible.
 These provided insights into substrate usage of the dominant aerobic bacterial populations and specific adaptations to the Antarctic lake environment compared to the ocean and suggested mechanism for virus resistance in the \ac{GSB}.
-Both these approaches have added crucial information to the extensive metagenomic datasets allowing for an integrative understanding of the whole lake ecosystem.
+Both these approaches have added crucial information to the metagenomic datasets allowing for an integrative understanding of the whole lake ecosystem.
 
 %--------------------------------------------------------------------------------------------
 \section{Acknowledgements}
