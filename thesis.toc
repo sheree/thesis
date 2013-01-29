@@ -2,7 +2,7 @@
 \contentsline {section}{Co-authorship statement}{1}{section*.12}
 \contentsline {section}{\numberline {1.1}Antarctic lakes}{2}{section.1.1}
 \contentsline {section}{\numberline {1.2}The Vestfold Hills}{3}{section.1.2}
-\contentsline {section}{\numberline {1.3}Insights from Antarctic molecular studies}{3}{section.1.3}
+\contentsline {section}{\numberline {1.3}Insights from molecular studies of Antarctic lakes}{3}{section.1.3}
 \contentsline {subsection}{\numberline {1.3.1}Bacterial diversity: adaptation to unique physical and chemical conditions}{5}{subsection.1.3.1}
 \contentsline {subsubsection}{Salinity}{5}{section*.18}
 \contentsline {subsubsection}{Trophic status}{6}{section*.19}
@@ -12,9 +12,9 @@
 \contentsline {subsection}{\numberline {1.3.3}\emph {Eucarya} perform multiple ecosystem roles}{8}{subsection.1.3.3}
 \contentsline {subsection}{\numberline {1.3.4}Integrative studies to derive whole ecosystem function}{9}{subsection.1.3.4}
 \contentsline {section}{\numberline {1.4}`-omics' approaches}{10}{section.1.4}
-\contentsline {section}{\numberline {1.5}Objectives}{11}{section.1.5}
+\contentsline {section}{\numberline {1.5}Objectives}{12}{section.1.5}
 \contentsline {chapter}{\numberline {2}Development of methodologies to complement metagenomic sequencing for an integrative study of Ace Lake}{13}{chapter.2}
-\contentsline {section}{Co-authorship statement}{13}{section*.24}
+\contentsline {section}{Co-authorship statement}{13}{section*.25}
 \contentsline {section}{\numberline {2.1}Abstract}{14}{section.2.1}
 \contentsline {section}{\numberline {2.2}Introduction}{14}{section.2.2}
 \contentsline {section}{\numberline {2.3}Materials and methods}{16}{section.2.3}
@@ -30,13 +30,13 @@
 \contentsline {subsection}{\numberline {2.4.2}Community stratification supported by cell and \acs {VLP} densities}{24}{subsection.2.4.2}
 \contentsline {subsection}{\numberline {2.4.3}Development of a metaproteomic mass spectra analysis workflow }{27}{subsection.2.4.3}
 \contentsline {subsection}{\numberline {2.4.4}Insights from the metaproteomic analysis of Ace Lake}{31}{subsection.2.4.4}
-\contentsline {subsubsection}{Mixolimnion}{31}{section*.57}
-\contentsline {subsubsection}{Chemo/oxycline}{33}{section*.60}
-\contentsline {subsubsection}{Monimolimnion}{34}{section*.63}
+\contentsline {subsubsection}{Mixolimnion}{31}{section*.58}
+\contentsline {subsubsection}{Chemo/oxycline}{33}{section*.61}
+\contentsline {subsubsection}{Monimolimnion}{34}{section*.64}
 \contentsline {section}{\numberline {2.5}Conclusions}{35}{section.2.5}
 \contentsline {section}{\numberline {2.6}Acknowledgements}{35}{section.2.6}
 \contentsline {chapter}{\numberline {3}Virophage control of Antarctic algal host--virus dynamics}{37}{chapter.3}
-\contentsline {section}{Co-authorship statement}{37}{section*.65}
+\contentsline {section}{Co-authorship statement}{37}{section*.66}
 \contentsline {section}{\numberline {3.1}Abstract}{38}{section.3.1}
 \contentsline {section}{\numberline {3.2}Introduction}{39}{section.3.2}
 \contentsline {section}{\numberline {3.3}Materials and methods}{40}{section.3.3}
@@ -55,7 +55,7 @@
 \contentsline {subsection}{\numberline {3.4.5}Ecological relevance of virophages in aquatic systems}{58}{subsection.3.4.5}
 \contentsline {section}{\numberline {3.5}Acknowledgements}{61}{section.3.5}
 \contentsline {chapter}{\numberline {4}Strategies of carbon conservation and unusual sulphur biogeochemistry Organic Lake}{63}{chapter.4}
-\contentsline {section}{Co-authorship statement}{63}{section*.112}
+\contentsline {section}{Co-authorship statement}{63}{section*.113}
 \contentsline {section}{\numberline {4.1}Abstract}{64}{section.4.1}
 \contentsline {section}{\numberline {4.2}Introduction}{65}{section.4.2}
 \contentsline {section}{\numberline {4.3}Materials and methods}{66}{section.4.3}
@@ -68,9 +68,9 @@
 \contentsline {subsection}{\numberline {4.4.1}Abiotic properties and water column structure}{72}{subsection.4.4.1}
 \contentsline {subsection}{\numberline {4.4.2}Overall microbial diversity}{76}{subsection.4.4.2}
 \contentsline {subsection}{\numberline {4.4.3}Variation of microbial composition according to size and depth}{79}{subsection.4.4.3}
-\contentsline {subsubsection}{20--3.0 \textmu {}m fraction community composition}{79}{section*.155}
-\contentsline {subsubsection}{3--0.8 \textmu {}m size fraction community composition}{81}{section*.156}
-\contentsline {subsubsection}{0.8--0.1 \textmu {}m size fraction community composition}{82}{section*.158}
+\contentsline {subsubsection}{20--3.0 \textmu {}m fraction community composition}{79}{section*.156}
+\contentsline {subsubsection}{3--0.8 \textmu {}m size fraction community composition}{81}{section*.157}
+\contentsline {subsubsection}{0.8--0.1 \textmu {}m size fraction community composition}{82}{section*.159}
 \contentsline {subsection}{\numberline {4.4.4}Organic Lake functional potential}{82}{subsection.4.4.4}
 \contentsline {subsection}{\numberline {4.4.5}Carbon resourcefulness in dominant heterotrophic bacteria}{83}{subsection.4.4.5}
 \contentsline {subsection}{\numberline {4.4.6}Regenerated nitrogen is predominant in the nitrogen cycle}{90}{subsection.4.4.6}
