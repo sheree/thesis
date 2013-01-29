@@ -39,7 +39,7 @@ Altschul S.~F., Gish W., Miller W., Myers E.~W., and Lipman D.~J. (1990).
 
 \bibitem[Balashov \emph{et~al.}(2005)Balashov, Imasheva, Boichenko, Ant\'{o}n,
   Wang, and Lanyi]{Balashov2005}
-Balashov S.~P., Imasheva E.~S., Boichenko V.~a., Ant\'{o}n J., Wang J.~M., and
+Balashov S.~P., Imasheva E.~S., Boichenko V.~A., Ant\'{o}n J., Wang J.~M., and
   Lanyi J.~K. (2005).
 \newblock {Xanthorhodopsin: a proton pump with a light-harvesting carotenoid
   antenna}.
@@ -67,9 +67,9 @@ Bengtsson J., Eriksson K.~M., Hartmann M., Wang Z., Shenoy B.~D., Grelet G.-A.,
   and environmental sequencing datasets}.
 \newblock \emph{Antonie van Leeuwenhoek}, 100:\penalty0 471--475.
 
-\bibitem[Bergh \emph{et~al.}(1989)Bergh, B\o~rsheim, Bratbak, and
+\bibitem[Bergh \emph{et~al.}(1989)Bergh, Borsheim, Bratbak, and
   Heldal]{Bergh1989}
-Bergh O.~i., B\o~rsheim K.~Y., Bratbak G., and Heldal M. (1989).
+Bergh O., Borsheim K.~Y., Bratbak G., and Heldal M. (1989).
 \newblock {High abundance of viruses found in aquatic environments}.
 \newblock \emph{Nature}, 340:\penalty0 467--468.
 
@@ -480,15 +480,6 @@ Gibson J.~A., Qiang X.~L., Franzmann P.~D., Garrick R.~C., and Burton H.~R.
   Vestfold Hilss, East Antarctica}.
 \newblock \emph{Polar Biology}, 14:\penalty0 545--550.
 
-\bibitem[Giovanonni \emph{et~al.}(2005)Giovanonni, Tripp, Givan, Podar, Vergin,
-  Baptista, Bibbs, Eads, Richardson, Noordewier, Rapp\'{e}, Short, Carrington,
-  and Mathur]{Giovannoni2005}
-Giovanonni S.~J., Tripp H.~J., Givan S., Podar M., Vergin K.~L., Baptista D.,
-  Bibbs L., Eads J., Richardson T.~H., Noordewier M., Rapp\'{e} M.~S., Short
-  J.~M., Carrington J.~C., and Mathur E.~J. (2005).
-\newblock {Genome streamlining in a cosmopolitan oceanic bacterium.}
-\newblock \emph{Science}, 309:\penalty0 1242--1245.
-
 \bibitem[Glatz \emph{et~al.}(2006)Glatz, Lepp, Ward, and Francis]{Glatz2006}
 Glatz R., Lepp P., Ward B.~B., and Francis C. (2006).
 \newblock {Planktonic microbial community composition across steep
@@ -504,9 +495,9 @@ Goberna M., Insam H., and Franke-Whittle I. (2009).
 \newblock \emph{Applied and Environmental Microbiology}, 75:\penalty0
   2566--2572.
 
-\bibitem[Gomez-Alvarez \emph{et~al.}(2009)Gomez-Alvarez, Teal, and
+\bibitem[G\'{o}mez-Alvarez \emph{et~al.}(2009)G\'{o}mez-Alvarez, Teal, and
   Schmidt]{Gomez-Alvarez2009}
-Gomez-Alvarez V., Teal T.~K., and Schmidt T.~M. (2009).
+G\'{o}mez-Alvarez V., Teal T.~K., and Schmidt T.~M. (2009).
 \newblock {Systematic artifacts in metagenomes from complex microbial
   communities}.
 \newblock \emph{The ISME Journal}, 3:\penalty0 1314--1317.
@@ -593,6 +584,11 @@ Hahsler M., Hornik K., and Buchta C. (2007).
 \newblock {Getting things in order: an introduction to the R package
   seriation}.
 \newblock \emph{Journal of Statistical Software}, 25:\penalty0 1--34.
+
+\bibitem[Handelsman(2008)]{Handelsman2008}
+Handelsman J. (2008).
+\newblock {Metagenomics is not enough}.
+\newblock \emph{DNA and Cell Biology}, 27:\penalty0 219--221.
 
 \bibitem[Hara \emph{et~al.}(1991)Hara, Terauchi, and Koike]{Hara1991}
 Hara S., Terauchi K., and Koike I. (1991).
@@ -1091,7 +1087,7 @@ Nelson M., Zhang Y., and {Van Etten} J.~L.
 \bibitem[Ng(2010)]{Ng2010b}
 Ng~C.
 \newblock \emph{{A metaproteomic analysis of microbial communities in Ace Lake,
-  Antarctic}}.
+  Antarctica}}.
 \newblock PhD thesis, University of New South Wales, 2010.
 
 \bibitem[Ng \emph{et~al.}(2010)Ng, DeMaere, Williams, Lauro, Raftery, Gibson,

@@ -78,4 +78,7 @@
 \contentsline {section}{\numberline {4.5}Conclusions}{101}{section.4.5}
 \contentsline {section}{\numberline {4.6}Acknowledgements}{102}{section.4.6}
 \contentsline {chapter}{\numberline {5}General discussion, conclusions and future work}{105}{chapter.5}
-\contentsline {chapter}{\numberline {6}Appendices}{125}{chapter.6}
+\contentsline {chapter}{Appendices}{125}{chapter*.179}
+\contentsline {section}{Appendix A}{125}{section*.180}
+\contentsline {section}{Appendix B}{127}{section*.181}
+\contentsline {section}{Appendix C}{193}{section*.182}
