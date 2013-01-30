@@ -1,4 +1,4 @@
-\begin{thebibliography}{232}
+\begin{thebibliography}{240}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -126,12 +126,31 @@ Bowman J.~P., Rea S.~M., McCammon S.~A., and McMeekin T.~A. (2000).
   Hills, Eastern Antarctica}.
 \newblock \emph{Environmental Microbiology}, 2\penalty0 (2):\penalty0 227--237.
 
+\bibitem[Boyer \emph{et~al.}(2011)Boyer, Azza, Barrassi, Klose, Campocasso,
+  Pagnier, Fournous, Borg, Robert, Zhang, Desnues, Henrissat, Rossmann, {La
+  Scola}, and Raoult]{Boyer2011}
+Boyer M., Azza S., Barrassi L., Klose T., Campocasso A., Pagnier I., Fournous
+  G., Borg A., Robert C., Zhang X., Desnues C., Henrissat B., Rossmann M.~G.,
+  {La Scola} B., and Raoult D. (2011).
+\newblock {Mimivirus shows dramatic genome reduction after intraamoebal
+  culture}.
+\newblock \emph{Proceedings of the National Academy of Sciences USA},
+  108:\penalty0 10296--102301.
+
 \bibitem[Bratbak \emph{et~al.}(1998)Bratbak, Jacobsen, and
   Heldal]{Bratbak1998b}
 Bratbak G., Jacobsen A., and Heldal M. (1998).
 \newblock {Viral lysis of Phaeocystis pouchetii and bacterial secondary
   production}.
 \newblock \emph{Aquatic Microbial Ecology}, 16:\penalty0 11--16.
+
+\bibitem[Breitbart \emph{et~al.}(2002)Breitbart, Salamon, Andresen, Mahaffy,
+  Segall, Mead, Azam, and Rohwer]{Breitbart2002}
+Breitbart M., Salamon P., Andresen B., Mahaffy J.~M., Segall A.~M., Mead D.,
+  Azam F., and Rohwer F. (2002).
+\newblock {Genomic analysis of uncultured marine viral communities}.
+\newblock \emph{Proceedings of the National Academy of Sciences USA},
+  99:\penalty0 14250--14255.
 
 \bibitem[Bronge(2004)]{Bronge1996}
 Bronge C. (2004).
@@ -239,6 +258,11 @@ Christner B.~C., Mosley-Thompson E., Thompson L.~G., and Reeve J.~N. (2001).
 Clarke K. and Gorley R.
 \newblock {PRIMER V6: User Manual/Tutorial}, 2006.
 
+\bibitem[Claverie and Abergel(2009)]{Claverie2009}
+Claverie J.-M. and Abergel C. (2009).
+\newblock {Mimivirus and its virophage.}
+\newblock \emph{Annual review of genetics}, 43:\penalty0 49--66.
+
 \bibitem[Cottrell and Kirchman(2009)]{Cottrell2009}
 Cottrell M.~T. and Kirchman D.~L. (2009).
 \newblock {Photoheterotrophic microbes in the Arctic Ocean in summer and
@@ -323,6 +347,15 @@ Deprez P.~P., Franzmann P.~D., and Burton H.~R. (1986).
   seawater by gas chromatography after solid adsorbent preconcentration}.
 \newblock \emph{Journal of Chromatography}, 362:\penalty0 9--21.
 
+\bibitem[Desnues \emph{et~al.}(2012)Desnues, {La Scola}, Yutin, Fournous,
+  Robert, Azza, Jardot, Monteil, Campocasso, Koonin, and Raoult]{Desnues2012}
+Desnues C., {La Scola} B., Yutin N., Fournous G., Robert C., Azza S., Jardot
+  P., Monteil S., Campocasso A., Koonin E.~V., and Raoult D. (2012).
+\newblock {Provirophages and transpovirons as the diverse mobilome of giant
+  viruses}.
+\newblock \emph{Proceedings of the National Academy of Sciences USA},
+  109:\penalty0 18078--18083.
+
 \bibitem[Diemer \emph{et~al.}(2012)Diemer, Kyle, and Stedman]{Diemer2012}
 Diemer G.~S., Kyle J.~E., and Stedman K.~M.
 \newblock {Counting viruses using polycarbonate Track Etch membrane filters as
@@ -375,6 +408,19 @@ Ferris J.~M., Gibson J.~A., and Burton H.~R. (1991).
   in ice-covered saline lakes}.
 \newblock \emph{Palaeogeography, Palaeoclimatology, Palaeoecology},
   84:\penalty0 99--107.
+
+\bibitem[Fischer and Suttle(2011)]{Fischer2011}
+Fischer M.~G. and Suttle C.~A. (2011).
+\newblock {A virophage at the origin of large DNA transposons}.
+\newblock \emph{Science}, 332:\penalty0 231--234.
+
+\bibitem[Fischer \emph{et~al.}(2010)Fischer, Allen, Wilson, and
+  Suttle]{Fischer2010}
+Fischer M.~G., Allen M.~J., Wilson W.~H., and Suttle C.~A. (2010).
+\newblock {Giant virus with a remarkable complement of genes infects marine
+  zooplankton}.
+\newblock \emph{Proceedings of the National Academy of Sciences USA},
+  107:\penalty0 19508--19513.
 
 \bibitem[Florens \emph{et~al.}(2006)Florens, Carozza, Swanson, Fournier,
   Coleman, Workman, and Washburn]{Florens2006}
@@ -687,6 +733,14 @@ Huu N.~B., Denner E.~B., Ha~D.~T., Wanner G., and Stan-Lotter H. (1996).
   a Vietnamese oil-producing well}.
 \newblock \emph{International Journal of Systematic Bacteriology}, 49:\penalty0
   367--375.
+
+\bibitem[Iverson \emph{et~al.}(2012)Iverson, Morris, Frazar, Berthiaume,
+  Morales, and Armbrust]{Iverson2012}
+Iverson V., Morris R.~M., Frazar C.~D., Berthiaume C.~T., Morales R.~L., and
+  Armbrust E.~V. (2012).
+\newblock {Untangling genomes from metagenomes: revealing an uncultured class
+  of marine Euryarchaeota}.
+\newblock \emph{Science}, 335:\penalty0 587--590.
 
 \bibitem[Iyer \emph{et~al.}(2001)Iyer, Aravind, and Koonin]{Iyer2001}
 Iyer L.~M., Aravind L., and Koonin E.~V. (2001).
@@ -1516,6 +1570,14 @@ Torrice M.
 \newblock {Viral ecology hit by filter shortage}, 2009.
 \newblock URL
   \url{http://news.sciencemag.org/scienceinsider/2009/10/viral-ecology-r.html}.
+
+\bibitem[Tyson \emph{et~al.}(2004)Tyson, Chapman, Hugenholtz, Allen, Ram,
+  Richardson, Solovyev, Rubin, Rokhsar, and Banfield]{Tyson2004}
+Tyson G.~W., Chapman J., Hugenholtz P., Allen E.~E., Ram R.~J., Richardson
+  P.~M., Solovyev V.~V., Rubin E.~M., Rokhsar D.~S., and Banfield J.~F. (2004).
+\newblock {Community structure and metabolism through reconstruction of
+  microbial genomes from the environment}.
+\newblock \emph{Nature}, 428:\penalty0 37--43.
 
 \bibitem[Unrein \emph{et~al.}(2005)Unrein, Izaguirre, Massana, Balagu\'{e}, and
   Gasol]{Unrein2005}

@@ -56,7 +56,7 @@
 \contentsline {subsection}{\numberline {3.4.5}Ecological relevance of virophages in aquatic systems}{58}{subsection.3.4.5}
 \contentsline {section}{\numberline {3.5}Acknowledgements}{61}{section.3.5}
 \contentsline {chapter}{\numberline {4}Strategies of carbon conservation and unusual sulphur biogeochemistry in Organic Lake}{63}{chapter.4}
-\contentsline {section}{Co-authorship statement}{63}{section*.113}
+\contentsline {section}{Co-authorship statement}{63}{section*.114}
 \contentsline {section}{\numberline {4.1}Abstract}{64}{section.4.1}
 \contentsline {section}{\numberline {4.2}Introduction}{65}{section.4.2}
 \contentsline {section}{\numberline {4.3}Materials and methods}{66}{section.4.3}
@@ -69,9 +69,9 @@
 \contentsline {subsection}{\numberline {4.4.1}Abiotic properties and water column structure}{72}{subsection.4.4.1}
 \contentsline {subsection}{\numberline {4.4.2}Overall microbial diversity}{76}{subsection.4.4.2}
 \contentsline {subsection}{\numberline {4.4.3}Variation of microbial composition according to size and depth}{79}{subsection.4.4.3}
-\contentsline {subsubsection}{20--3.0 \textmu {}m fraction community composition}{79}{section*.156}
-\contentsline {subsubsection}{3--0.8 \textmu {}m size fraction community composition}{81}{section*.157}
-\contentsline {subsubsection}{0.8--0.1 \textmu {}m size fraction community composition}{82}{section*.159}
+\contentsline {subsubsection}{20--3.0 \textmu {}m fraction community composition}{79}{section*.157}
+\contentsline {subsubsection}{3--0.8 \textmu {}m size fraction community composition}{81}{section*.158}
+\contentsline {subsubsection}{0.8--0.1 \textmu {}m size fraction community composition}{82}{section*.160}
 \contentsline {subsection}{\numberline {4.4.4}Organic Lake functional potential}{82}{subsection.4.4.4}
 \contentsline {subsection}{\numberline {4.4.5}Carbon resourcefulness in dominant heterotrophic bacteria}{83}{subsection.4.4.5}
 \contentsline {subsection}{\numberline {4.4.6}Regenerated nitrogen is predominant in the nitrogen cycle}{90}{subsection.4.4.6}
@@ -79,6 +79,13 @@
 \contentsline {section}{\numberline {4.5}Conclusions}{101}{section.4.5}
 \contentsline {section}{\numberline {4.6}Acknowledgements}{102}{section.4.6}
 \contentsline {chapter}{\numberline {5}General discussion, conclusions and future work}{105}{chapter.5}
-\contentsline {chapter}{Appendix \numberline {A}PCR-based studies of Antarctic Lakes}{125}{Appendix.a.A}
-\contentsline {chapter}{Appendix \numberline {B}Proteins identified in Ace Lake metaproteomic analysis}{127}{Appendix.a.B}
-\contentsline {chapter}{Appendix \numberline {C}Peptide sequences of OLV and OLPV proteins identified in the metaproteome}{193}{Appendix.a.C}
+\contentsline {section}{\numberline {5.1}Perspectives of `-omic' analyses of Antarctic lakes}{105}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Summary of the outcomes from the work in this thesis}{105}{subsection.5.1.1}
+\contentsline {section}{\numberline {5.2}Future work}{106}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Dynamics of the over an annual cycle}{106}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Virophages}{106}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Functional analyses in the Organic lake community}{108}{subsection.5.2.3}
+\contentsline {section}{\numberline {5.3}Assessment of the value of molecular antarctic research}{108}{section.5.3}
+\contentsline {chapter}{Appendix \numberline {A}PCR-based studies of Antarctic Lakes}{127}{Appendix.a.A}
+\contentsline {chapter}{Appendix \numberline {B}Proteins identified in Ace Lake metaproteomic analysis}{129}{Appendix.a.B}
+\contentsline {chapter}{Appendix \numberline {C}Peptide sequences of OLV and OLPV proteins identified in the metaproteome}{195}{Appendix.a.C}
