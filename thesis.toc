@@ -10,8 +10,9 @@
 \contentsline {subsubsection}{Bacterial diversity of Lake Vostok}{7}{section*.22}
 \contentsline {subsection}{\numberline {1.3.2}\emph {Archaea}: methanogens and haloarchaea}{7}{subsection.1.3.2}
 \contentsline {subsection}{\numberline {1.3.3}\emph {Eucarya} perform multiple ecosystem roles}{8}{subsection.1.3.3}
-\contentsline {subsection}{\numberline {1.3.4}Integrative studies to derive whole ecosystem function}{9}{subsection.1.3.4}
-\contentsline {section}{\numberline {1.4}`-omics' approaches}{10}{section.1.4}
+\contentsline {section}{\numberline {1.4}Integrative studies to derive whole ecosystem function}{9}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}A single gene approach}{9}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}`-omics' approaches}{10}{subsection.1.4.2}
 \contentsline {section}{\numberline {1.5}Objectives}{12}{section.1.5}
 \contentsline {chapter}{\numberline {2}Development of methodologies to complement metagenomic sequencing for an integrative study of Ace Lake}{13}{chapter.2}
 \contentsline {section}{Co-authorship statement}{13}{section*.25}
@@ -54,7 +55,7 @@
 \contentsline {subsection}{\numberline {3.4.4}Virophage in algal host--phycodnavirus dynamics}{56}{subsection.3.4.4}
 \contentsline {subsection}{\numberline {3.4.5}Ecological relevance of virophages in aquatic systems}{58}{subsection.3.4.5}
 \contentsline {section}{\numberline {3.5}Acknowledgements}{61}{section.3.5}
-\contentsline {chapter}{\numberline {4}Strategies of carbon conservation and unusual sulphur biogeochemistry Organic Lake}{63}{chapter.4}
+\contentsline {chapter}{\numberline {4}Strategies of carbon conservation and unusual sulphur biogeochemistry in Organic Lake}{63}{chapter.4}
 \contentsline {section}{Co-authorship statement}{63}{section*.113}
 \contentsline {section}{\numberline {4.1}Abstract}{64}{section.4.1}
 \contentsline {section}{\numberline {4.2}Introduction}{65}{section.4.2}
