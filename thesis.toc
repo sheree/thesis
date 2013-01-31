@@ -79,13 +79,13 @@
 \contentsline {section}{\numberline {4.5}Conclusions}{101}{section.4.5}
 \contentsline {section}{\numberline {4.6}Acknowledgements}{102}{section.4.6}
 \contentsline {chapter}{\numberline {5}General discussion, conclusions and future work}{105}{chapter.5}
-\contentsline {section}{\numberline {5.1}Perspectives of `-omic' analyses of Antarctic lakes}{105}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Summary of the outcomes from the work in this thesis}{105}{subsection.5.1.1}
+\contentsline {section}{\numberline {5.1}Perspectives on `-omics' approaches }{105}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Summary of the outcomes from the work in this thesis}{106}{subsection.5.1.1}
 \contentsline {section}{\numberline {5.2}Future work}{106}{section.5.2}
 \contentsline {subsection}{\numberline {5.2.1}Dynamics of the over an annual cycle}{106}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Virophages}{106}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}Functional analyses in the Organic lake community}{108}{subsection.5.2.3}
-\contentsline {section}{\numberline {5.3}Assessment of the value of molecular antarctic research}{108}{section.5.3}
-\contentsline {chapter}{Appendix \numberline {A}PCR-based studies of Antarctic Lakes}{127}{Appendix.a.A}
-\contentsline {chapter}{Appendix \numberline {B}Proteins identified in Ace Lake metaproteomic analysis}{129}{Appendix.a.B}
-\contentsline {chapter}{Appendix \numberline {C}Peptide sequences of OLV and OLPV proteins identified in the metaproteome}{195}{Appendix.a.C}
+\contentsline {subsection}{\numberline {5.2.2}Virophages}{107}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Functional analyses in the Organic lake community}{109}{subsection.5.2.3}
+\contentsline {section}{\numberline {5.3}Assessment of the value of molecular antarctic research}{109}{section.5.3}
+\contentsline {chapter}{Appendix \numberline {A}PCR-based studies of Antarctic Lakes}{129}{Appendix.a.A}
+\contentsline {chapter}{Appendix \numberline {B}Proteins identified in Ace Lake metaproteomic analysis}{131}{Appendix.a.B}
+\contentsline {chapter}{Appendix \numberline {C}Peptide sequences of OLV and OLPV proteins identified in the metaproteome}{197}{Appendix.a.C}

@@ -2,15 +2,64 @@
 \label{ch:conc}
 \acresetall
 
-\section{Perspectives of `-omic' analyses of Antarctic lakes}
-It was not so long ago that what could be called a second molecular revolution in microbial ecology began in earnest with they first shotgun sequences of a marine virome \cite{Breitbart2002}.
+\section{Perspectives on `-omics' approaches }
+It was not so long ago that what could be called the second molecular revolution in microbial ecology began in earnest with they first shotgun metagenomic sequences of a marine virome \cite{Breitbart2002}.
 That metagenome, sequenced with Sanger sequencing technology, was a modest $\sim$ 1.28 Mbp \cite{Breitbart2002}.
-The first shotgun metagenomes of cellular life from the Sargasso Sea \cite{Venter2004} and the Iron Mountain acid mine drainage \cite{Tyson2004} adding 265 Mbp and 76 Mbp respectively to the public databanks.
+The first shotgun sequenced metagenomes of cellular life from the Sargasso Sea \cite{Venter2004} and the Iron Mountain acid mine drainage \cite{Tyson2004} added 265 Mbp and 76 Mbp respectively to the public databanks.
 
-Since the availability of parallel high-throughput sequencing technologies, the volume of data has jumped exponentially and is continuing to rise.
-A single sample from the Antarctic lake datasets sequenced by the Roche GS-FLX titanium sequencer was 140 Mbp, while a recent study using Applied Biosystems SOLiD sequencing of a marine sample \cite{Iverson2012} has analysed 55,000 Mbp -- close to 400 times the amount of data.
-This illustrates that the work described in this thesis is very much located in a quickly advancing field pioneering largely discovery-driven ways of looking into the complex microbial world.
+Since the availability of next generation high-throughput sequencing technologies, the volume of data has increased exponentially and is continuing to rise.
+A single sample from the Antarctic lake datasets described in this thesis sequenced by the Roche GS-FLX titanium sequencer is 140 Mbp, while a recent study using Applied Biosystems SOLiD sequencing of a marine sample \cite{Iverson2012} analysed 55,000 Mbp -- close to 400 times the amount of data.
+This illustrates just how quickly sequencing technology advancing that each new study essentially has to develop new ways of looking into the microbial milieu captured in their particular dataset.
+The benefits of using high-throughput sequencing technologies means that shotgun metagenomics will continue to be used as tool in the foreseeable future.
+But it also means encountering tough analytical challenges that comes with it.
+
+With higher throughput and falling costs of sequencing, genomic projects are finding analytical bottle necks are occuring in computational analysis.
+This is because availability of computational resources and scaling-up of algorithms to multiple genomes or computing clusters is not occurring as quickly as the amount of sequencing.
+Metagenomic sequencing projects entail a minimum level of processing that includes data clean-up, assembly, \ac{ORF} prediction, clustering and generally \ac{BLAST} like comparisons before biological interpretations can be made.
+The most intensive of these is the sequence comparisons to known databanks.
+With the sheer volume of next generation sequencing datasets, this type of analysis requires a supercomputer to process.
+Local cluster computing has thus far been a standard way to process metagenomic datasets. 
+Acquiring the necessary computational resources can work out more costly for groups expecting only the sporadic use.
+The volumes of data can also overwhelm the capabilities of single computation clusters \cite{Iverson2012}.
+This has been addressed to some extent by use of webserver pipelines specialised in metagenomic processing such as \ac{MG-RAST} \cite{Meyer2008} and \ac{CAMERA} \cite{Sun2011} for cellular metagenomes as well as \textsc{Metavir} \cite{Roux2011} and \textsc{VIROME} \cite{Wommack2012} for viral metagenomes. sea star?
+These webserver pipelines take on the burden of maintaining the programs, hosting the databases and the computational requirements of the users.
+However, these workflows are generally not customisble if the user's needs fall too far outside of that provided. 
+For example, requiring different comparative databases, alternative programs or handling sequence data types.
+Further, processing massive datasets may still take unfeasibly long time.
+cloud computing resources \cite{}
+to do this is a realistic time frame can be extremely challenging.
+For example, (cite Moore's law).
+
+%Solutions to computational resources are web based servers like MG-RAST, CAMERA, cloud computing.
+%Technological bottle necks, shorter reads, so much data that there's not enough compute time, so much data its hard to find a good repository.
+
+% Limitations of bioinformatic tools themselves.Gene prediction needs to get better. de novo assembly, binning.
+%De novo assembly need to improve to be able to tackle highly diverse populations.
+% eg. Iverson.
+%It is heartening that the OLV genome was actually correctly annotated in the minor virion!
+% Having high sequencing depth, a simple target population
+
+% Could a metagenome ever be really `closed' metagenome, unless it is the most simple community, it seems difficult to imagine.
+
+%Biological limitations, interpreting of the biology is only as good at the data bases. requires good recording of metadata.
+%A lucky tail, discovery of the virophage was only possible with the presence of the Sputnik in 2008. If databases from 2007 were used, it simply would have been an abundant unknown molecule, likely not even recognisably viral.
+%Similarly, if dddD and dddL genes were not in the databases at the right time, they would not be seen.
+%In some ways metagenomic data still contains an 'unseen majority. Particularly viral metagenomes.
+%' the difference is that all this information can be a resource that is reanalysed.
  
+%%Metaproteomics
+%Highly dependent on having a matching metagenome
+%Compared to metagenomics, relatively data poor as a lot of the spectra cannot be matched
+%But spectra can be reanalysed
+
+%%Future of -omics studies will have to go beyond just sequencing and sequencing more.
+% Need to have studies over long time scales, and finer spatial resolutions.
+% Need to marry with emerging technologies.
+% Spatial resolution has begun with microfluidics systems (Seymour), 
+% digital PCR to associate
+% Ultimately, these technologies are tools that we are just learning to use
+
+
 \subsection{Summary of the outcomes from the work in this thesis}
 %This has necessitated the development of new ways to extract biological inferences from complex datasets.
 Shotgun metagenomic sequencing is steadily becoming adopted as a standard tool for interrogating microbial communities and, like any tool, has strengths and limitations (cite Eisen 2007, some others).
@@ -24,6 +73,7 @@ Testing of some of these hypotheses is possible with further molecular methods.
 However, a lot of them require adopting new ones like single cell sorting.
 Future work that could examine these hypotheses from the discoveries made a detailled below.
 
+%We have used theory to guide our work.
 
 \section{Future work}
 \subsection{Dynamics of the over an annual cycle}
@@ -52,8 +102,8 @@ The other virophage reported was called Sputnik 2 (its genome is virtually ident
 Unlike Sputnik, it was found both as a free virion and integrated in the lentille virus genome \cite{Desnues2012}.
 
 The availability of these new virophages in culture affords a new perspective on \ac{OLV} and virophages in general.
-In first place, the inability for Mavirus to infect without \ac{CroV} and its detrimental effect on \ac{CroV} just like Sputnik strengthens the assumption that OLV would similarly have a 'virophage' phenotype \ac{OLPV}.
-This is in part because Mavirus and \ac{CroV} and quite divergent from Sputnik and mimivirus respectively, yet retain the same traits \cite{Fischer2010, Fischer2011}, suggesting the 'virophage' phenotype is common to the whole lineage.
+In first place, the inability for Mavirus to infect without \ac{CroV} and its detrimental effect on \ac{CroV} just like Sputnik strengthens the assumption that OLV would similarly have a `virophage' phenotype \ac{OLPV}.
+This is in part because Mavirus and \ac{CroV} and quite divergent from Sputnik and mimivirus respectively, yet retain the same traits \cite{Fischer2010, Fischer2011}, suggesting the `virophage' phenotype is common to the whole lineage.
 Secondly, these cultured virophages offers some mechanistic reasons for why \ac{OLV} would function as the other virophages.
 As both mimivirus and \ac{CroV} encode a great deal of their own replication and transcription machinery, including all \textsc{DNA} and \textsc{RNA} polymerase subunits, they do not localise to the nucleus during infection but generate the viral factory in the cytoplasm \cite{LaScola2008, Fischer2011}.
 Sputnik and Mavirus replicate exclusively in the giant virus factory and make use of the helper virus replication and transcription systems \cite{LaScola2008, Fischer2011}.
