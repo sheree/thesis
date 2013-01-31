@@ -3,7 +3,7 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {2.1}{\ignorespaces Physico-chemical and biological structure of Ace Lake}}{15}{figure.caption.28}
 \contentsline {figure}{\numberline {2.2}{\ignorespaces Epifluorescence microscopy of Ace Lake microbiota}}{25}{figure.caption.51}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Counts of microbial cells and \acp {VLP} in Ace Lake}}{26}{figure.caption.52}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Counts of microbial cells and \acs {VLP}s in Ace Lake}}{26}{figure.caption.52}
 \contentsline {figure}{\numberline {2.4}{\ignorespaces Lack of \acs {VLP} in 5 m and 12.7 m Ace Lake samples}}{28}{figure.caption.53}
 \contentsline {figure}{\numberline {2.5}{\ignorespaces General shotgun proteomics workflow}}{29}{figure.caption.54}
 \contentsline {figure}{\numberline {2.6}{\ignorespaces Statistical analysis of Ace Lake metaproteome}}{32}{figure.caption.57}
@@ -12,9 +12,9 @@
 \contentsline {figure}{\numberline {3.2}{\ignorespaces Transmission electron micrographs of Organic Lake \acp {VLP}}}{45}{figure.caption.88}
 \contentsline {figure}{\numberline {3.3}{\ignorespaces Phylogeny of \acs {OLPV} B family DNA polymerase sequences}}{46}{figure.caption.92}
 \contentsline {figure}{\numberline {3.4}{\ignorespaces Phylogeny of the 18S rRNA genes from Organic Lake}}{47}{figure.caption.94}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Maps of \ac {OLPV} genomic scaffolds}}{48}{figure.caption.95}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Phylogeny of \acs {OLPV} major capsid protein sequences}}{49}{figure.caption.98}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Genomic map of Organic Lake virophage}}{51}{figure.caption.101}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Maps of \acs {OLPV} genomic scaffolds}}{48}{figure.caption.95}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Phylogeny of \acs {OLPV} major capsid protein sequences}}{49}{figure.caption.97}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Genomic map of Organic Lake virophage}}{51}{figure.caption.100}
 \contentsline {figure}{\numberline {3.8}{\ignorespaces Genomic comparison of \acs {OLV} with \acp {OLPV}}}{56}{figure.caption.106}
 \contentsline {figure}{\numberline {3.9}{\ignorespaces Lotka-Volterra models of host--OLPV--OLV population dynamics}}{57}{figure.caption.109}
 \contentsline {figure}{\numberline {3.10}{\ignorespaces Virophage capsid proteins in environmental samples}}{58}{figure.caption.110}

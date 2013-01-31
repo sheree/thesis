@@ -2,9 +2,50 @@
 \label{ch:conc}
 \acresetall
 
+\section{Summary of outcomes from this work}
+%This has necessitated the development of new ways to extract biological inferences from complex datasets.
+The overall objective of this thesis was to study Antarctic lake ecosystems using an integrative `-omics' driven approach.
+The most noteworthy achievement of projects in this thesis has been to describe taxa and microbial processes previously unknown to occur in the lakes, and from these,  generate of testable hypotheses of population and ecosystem level function.
+In order to do this, methodologies were developed in chapter \ref{ch:ace} to measure properties of the community that would work alongside metagenomic sequencing to piece together a comprehensive description of ecosystem structure and function.
+An epifluorescene microscopy protocol was designed that makes use of 0.01 \textmu{}m pore-size \ac{PCTE} membrane filters.
+Using this protocol, cells and \acp{VLP} were successfully visualised and enumerated along the depth profile of Ace Lake, and subsequently in Organic Lake.
+This was bourne from the need to find an alternative to Anodisc filters, which are the standard filter used for direct counts of \acp{VLP} by epifluorescence microscopy, as their supply was discontinued.
+Although cell and \ac{VLP} densities are fairly basic properties of the community, they nonetheless revealed surprising results, such as the lack of correspondence between turbidity and cell density in Organic Lake (chapter \ref{ch:org}).
+
+A bioinformatic pipeline for analysis of metaproteomic mass spectra was also developed that incorporated use of matching metagenomic databases for protein identification and spectral counting to estimate protein abundances.
+When applied to mass spectra from Ace Lake, this modified workflow resulted in a greater number of protein identifications than when using the \ac{NCBI} \ac{NR} and showed statistically significant functional differences between the strata of the lake.
+It also described the functional capacity of dominant populations in the mixolimnion indicating specific adaptations to the Antarctic lake environment.
+The elaboration of a conceptual framework for studying Ace Lake from an ecosystem perspective laid the groundwork for the subsequent studies on Organic Lake described in chapters \ref{ch:olv} and \ref{ch:org}.
+
+In chapter \ref{ch:olv}, two near-complete \ac{OLPV} genomes and a complete \ac{OLV} genome were described.
+Analysis of the \ac{OLV} genome indicated it was a new member of the virophage virus family that obligately utilise a  giant `helper' virus to complete their replication cycle but which impair their helper's infectivity in the process.
+Genomic comparison between \ac{OLV} and \ac{OLPV} identified shared regions that strongly suggest \ac{OLV} is a virophage of \ac{OLPV}.
+The metaproteomic analysis identified both viral capsids confirming members of the population were actively replicating viruses and not, for example, accessory genetic elements.
+The availibility of \textsc{DNA} sequences from all size fractions meant the most likely host, \emph{Pyramimonas}, could be identified from the \ac{SSU} genes.
+The inferred interaction of the \ac{OLV}, \ac{OLPV} and host was used to generate a model of their population dynamics which shows if \ac{OLV} acts as a `predator of a predator', this would lead to increased frequency of population cycling.
+This was hypothesized to function in the Antarctic lake ecosystem as means to increase dissolved carbon release and secondary production over the summer season.
+Potential relatives of the \ac{OLV} were then found in Ace Lake and in other aquatic environments. 
+Whether these are also virophages requires further verification, but having a complete \ac{OLV} genome allowed them to be identified as potential virophages as they did not have significant identity to the other known virophage, Sputnik.
+
+In chapter \ref{ch:org} the microbial population of the Organic Lake community was examined down the water column.
+The composition of the community was found to consist primarily of three heterotrophic bacterial genera; \emph{Marinobacter}, \emph{Roseovarius} and \emph{Psychroflexus} and eucaryotic algae related to \emph{Dunaliella}.
+The suboxic bottom of Organic Lake additionally contained lower abundance population of \emph{Firmicutes}, \emph{Deltaproteobacteria} and \emph{Epsilonproteobacteria}.
+Examination of genes involved in carbon cycling indicated a net loss of carbon could occur as potential to fix carbon was low.
+However, genes for photo- and lithoheterotrophic pathways linked to the dominant heterotrophic bacteria were abundant, in particular \ac{AAnP} genes were much higher than in any other aquatic environment surveyed.
+Use of alternative energy sources was hypothesized to be a specific adaptation of the heterotrophic bacterial population to conserve fixed organic carbon within the system.
+The capacity for nitrogen cycling showed a shift away from fixation and a predominance of recycling of reduced nitrogen compounds.
+This was similarly hypothesized to function as a mechanism to reduce nitrogen loss within the largely closed Organic Lake system.
+Most interestingly, Organic Lake was shown to have an extremely high abundance of \ac{DMSP} lyase genes and relatively lower proportion of \ac{DMSP} demethylase genes compared to other aquatic metagenomes.
+These genes are important in determining if \ac{DMSP} is hydrolysed to form \ac{DMS}, an important climate gas that has been detected in Organic Lake at high concentration.
+\ac{DMSP} lyase genes were linked to the \emph{Gammaproteobacteria} and \emph{Alphaproteobacteria} populations indicating \ac{DMSP} is an important carbon and energy source and lysis of \ac{DMSP} is the likely source of the high \ac{DMS} in Organic Lake.
+The only other metagenomes to show comparably high abundance of \ac{DMSP} lyase were other hypersaline environments suggesting the DMSP lysis pathway is favoured in high salinity systems. 
+
+
+%We have used theory to guide our work.
+
 \section{Perspectives on `-omics' approaches }
 It was not so long ago that what could be called the second molecular revolution in microbial ecology began in earnest with they first shotgun metagenomic sequences of a marine virome \cite{Breitbart2002}.
-That metagenome, sequenced with Sanger sequencing technology, was a modest $\sim$ 1.28 Mbp \cite{Breitbart2002}.
+That metagenome, sequenced with Sanger sequencing technology, was a modest 1.28 Mbp \cite{Breitbart2002}.
 The first shotgun sequenced metagenomes of cellular life from the Sargasso Sea \cite{Venter2004} and the Iron Mountain acid mine drainage \cite{Tyson2004} added 265 Mbp and 76 Mbp respectively to the public databanks.
 
 Since the availability of next generation high-throughput sequencing technologies, the volume of data has increased exponentially and is continuing to rise.
@@ -28,17 +69,11 @@ For example, requiring different comparative databases, alternative programs or 
 Further, processing massive datasets may still take unfeasibly long time.
 cloud computing resources \cite{}
 to do this is a realistic time frame can be extremely challenging.
-For example, (cite Moore's law).
-
-%Solutions to computational resources are web based servers like MG-RAST, CAMERA, cloud computing.
-%Technological bottle necks, shorter reads, so much data that there's not enough compute time, so much data its hard to find a good repository.
 
 % Limitations of bioinformatic tools themselves.Gene prediction needs to get better. de novo assembly, binning.
 %De novo assembly need to improve to be able to tackle highly diverse populations.
 % eg. Iverson.
-%It is heartening that the OLV genome was actually correctly annotated in the minor virion!
 % Having high sequencing depth, a simple target population
-
 % Could a metagenome ever be really `closed' metagenome, unless it is the most simple community, it seems difficult to imagine.
 
 %Biological limitations, interpreting of the biology is only as good at the data bases. requires good recording of metadata.
@@ -54,28 +89,13 @@ For example, (cite Moore's law).
 
 %%Future of -omics studies will have to go beyond just sequencing and sequencing more.
 % Need to have studies over long time scales, and finer spatial resolutions.
-% Need to marry with emerging technologies.
+% Need to marry with emerging technologies that are able to target specific individuals or populations at high resolution
 % Spatial resolution has begun with microfluidics systems (Seymour), 
-% digital PCR to associate
+% digital PCR to associate, single cell genomics, targetted metagenomics with viral tagging, SIP
+% It also requires a lot of old fashioned microbiology like isolation fed back in from microbiology to have model systems in the lab.
 % Ultimately, these technologies are tools that we are just learning to use
 
-
-\subsection{Summary of the outcomes from the work in this thesis}
-%This has necessitated the development of new ways to extract biological inferences from complex datasets.
-Shotgun metagenomic sequencing is steadily becoming adopted as a standard tool for interrogating microbial communities and, like any tool, has strengths and limitations (cite Eisen 2007, some others).
-Development of an epifluorescence microscopy protocol and metaproteomic analysis workflow described in chapter \ref{ch:ace} was instrumental in deriving other measurements of community function alongside metagenomic sequencing.
-This work developed on the first integration (read up in that paper of metaproteomic integration) of the two complementary techniques in Antarctic lake communities and laid the groundwork for subsequent work on Organic Lake (chapters \ref{ref:olv} and \ref{ch:org}).
-It was a vital part of assessing the functional capacity of entire populations of microbes, almost all of which are still uncultured.
-It has generation of hypotheses into the function Ace Lake cumulating in the predictive modelling of the \ac{GSB} community.
-
-The greatest achievement of these projects has been to discover totally new taxa and things about the ecosystem that are testable hypotheses of ecosystem function.
-Testing of some of these hypotheses is possible with further molecular methods.
-However, a lot of them require adopting new ones like single cell sorting.
-Future work that could examine these hypotheses from the discoveries made a detailled below.
-
-%We have used theory to guide our work.
-
-\section{Future work}
+\section{Possible future work}
 \subsection{Dynamics of the over an annual cycle}
 It is increasingly clear that metagenomic sampling efforts has often been one hit wonders (cite some paper from Jed Fuhrman).
 To truly establish a baseline for the community, what happens over the polar winter needs to be examined.
@@ -94,12 +114,12 @@ How do the heterotrophs cope? switch to facultative chemoautotrophy?
 %Future experiments can look at fluorescence of bchlA
 
 \subsection{Virophages}
-Since the discovery of the \ac{OLV} \cite{Yau2011} described in chapter \ref{ch:olv}, two other members of the virophage family have been reported.
+Since the discovery of the \ac{OLV} described in chapter \ref{ch:olv}, two other members of the virophage family have been reported.
 The first of these is the Mavirus (for Maverick virus) so named for its evolutionary relationship with the Maverick/Politon class of eucaryotic transposons \cite{Fischer2011}.
 Like Sputnik, Mavirus has an absolute requirement for coinfection with a helper virus, in this case \ac{CroV}, in order to replicate.
 Also like Sputnik, addition of Mavirus during \ac{CroV} infection leads severe drops in production of \ac{CroV} \cite{Fischer2011}.
 The other virophage reported was called Sputnik 2 (its genome is virtually identical to Sputnik) and like Sputnik was also found in association with strain of mimivirus, named lentille virus \cite{Desnues2012}.
-Unlike Sputnik, it was found both as a free virion and integrated in the lentille virus genome \cite{Desnues2012}.
+But unlike Sputnik, Sputnik 2 was found both as a separate genome and integrated in the lentille virus genome \cite{Desnues2012}.
 
 The availability of these new virophages in culture affords a new perspective on \ac{OLV} and virophages in general.
 In first place, the inability for Mavirus to infect without \ac{CroV} and its detrimental effect on \ac{CroV} just like Sputnik strengthens the assumption that OLV would similarly have a `virophage' phenotype \ac{OLPV}.
@@ -122,14 +142,15 @@ This was theorised to have been separately acquired as a way to stabilise the re
 In support of this, Mavirus can be independently phagocytosed by \emph{Cafeteria roenbergensis} in the absence of \ac{CroV} -- potentially to reduce the severity of a subsequent \ac{CroV} infection \cite{Fischer2011}.
 As yet Mavirus has not as yet been reported to be integrated in the host \emph{Cafeteria roenbergensis}.
 In contrast, Sputnik seems to associate directly with the fibrils that coat the mimivirus virion, not the host \emph{Acanthamoeba} cell \cite{Boyer2011}.
+
 These two modes of infection, that is a virophage--host interaction followed by helper \emph{vs}. helper--virophage co-infection of host cell, would lead to distinct effects on the population dynamics in the environment.
-Detection of \ac{OLV} genome as a separate circular molecular in the 0.8-- 0.1 \textmu{}m size fraction (Chapter\ref{ch:olv}) indicates it is somehow in association with larger particles.
+Detection of \ac{OLV} genome as a separate circular molecular in the 0.8--0.1 \textmu{}m size fraction indicates it was captured in association with larger particles.
 Determination of the mode of infection for \ac{OLV} would improve predictive modelling of \ac{OLV} driven impacts on algal blooms.
 This could be achieved by observation of \ac{OLV}-\ac{OLPV} infections in culture or flow cytometric sorting of sample populations of potential hosts and \ac{OLPV} from the environment and screening of the presence of \ac{OLV}.
 The latter experiment would also establish fundmental properties of \ac{OLV} such as the identity of hosts and helper viruses, proportions of infected cells and proportions of \ac{OLPV} infections that include an \ac{OLV}.
  
 The discovery that Sputnik 2 can integrate into its helper lentille virus suggests a similar interaction could occur between \ac{OLV} and \ac{OLPV}.
-This is because integration of Sputnik 2 is localised to a 352 bp region shared by Sputnik 2 (corresponding to the Sputnik V6 gene), lentille virus and mamavirus  \cite{Desnues2012} that encodes a collagen-like repeat-containing protein.
+This is because integration of Sputnik 2 is localised to a 352 bp region corresponding to the Sputnik V6 gene that encodes a collagen-like repeat-containing protein that is shared by Sputnik 2, lentille virus and mamavirus  \cite{Desnues2012} 
 \ac{OLV} and \ac{OLPV} shared a homologous collagen-like repeat-containing protein (Chapter\ref{ch:olv}) that may similarly function as a site of integration.
 As yet, the conditions and mechanism by which Sputnik 2 integrates is unknown.
 From the metagenomic sequence, \ac{OLV} assembled as a separate molecule (Chapter\ref{ch:olv}).
@@ -155,7 +176,7 @@ On the other hand, if integration does not entail dormancy of the virophage, it 
 %Need to show the dynamics of the lake
 %Need to look at the rest of viral community 
 
-\section{Assessment of the value of molecular antarctic research}
+\section{Concluding remarks}
 %Molecular data can be continued to be mined! 
 %Serves as a record for prosterity
 %Metagenomics is not enough! There needs to be functional data, single cell data, biochemical data.

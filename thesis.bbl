@@ -1,4 +1,4 @@
-\begin{thebibliography}{240}
+\begin{thebibliography}{244}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -1018,6 +1018,14 @@ Matsuzaki M., Kubota K., Satoh T., Kunugi M., Ban S., and Imura S. (2006).
   lake, in Antarctica and the marine environment}.
 \newblock \emph{Polar Bioscience}, 20:\penalty0 73--81.
 
+\bibitem[Meyer \emph{et~al.}(2008)Meyer, Paarmann, D'Souza, Olson, Glass,
+  Kubal, Paczian, Rodriguez, Stevens, Wilke, Wilkening, and Edwards]{Meyer2008}
+Meyer F., Paarmann D., D'Souza M., Olson R., Glass E., Kubal M., Paczian T.,
+  Rodriguez A., Stevens R., Wilke A., Wilkening J., and Edwards R.~A. (2008).
+\newblock {The metagenomics RAST server - a public resource for the automatic
+  phylogenetic and functional analysis of metagenomes}.
+\newblock \emph{BMC Bioinformatics}, 9:\penalty0 386.
+
 \bibitem[Mikucki and Priscu(2007)]{Mikucki2007}
 Mikucki J.~A. and Priscu J.~C. (2007).
 \newblock {Bacterial diversity associated with Blood Falls, a subglacial
@@ -1325,6 +1333,13 @@ R\"{o}ske K., Sachse R., Scheerer C., and R\"{o}ske I. (2012).
   water reservoir Saidenbach (Saxonia, Germany)}.
 \newblock \emph{Systematic and Applied Microbiology}, 35:\penalty0 35--44.
 
+\bibitem[Roux \emph{et~al.}(2011)Roux, Faubladier, Mahul, Paulhe, Bernard,
+  Debroas, and Enault]{Roux2011}
+Roux S., Faubladier M., Mahul A., Paulhe N., Bernard A., Debroas D., and Enault
+  F. (2011).
+\newblock {Metavir: a web server dedicated to virome analysis.}
+\newblock \emph{Bioinformatics}, 27:\penalty0 3074--3075.
+
 \bibitem[Rusch \emph{et~al.}(2007)Rusch, Halpern, Sutton, Heidelberg,
   Williamson, Yooseph, Wu, Eisen, Hoffman, Remington, Beeson, Tran, Smith,
   Baden-Tillson, Stewart, Thorpe, Freeman, Andrews-Pfannkoch, Venter, Li,
@@ -1455,6 +1470,14 @@ Sowell S.~M., Wilhelm L.~J., Norbeck A.~D., Lipton M.~S., Nicora C.~D.,
 \newblock {Transport functions dominate the SAR11 metaproteome at low-nutrient
   extremes in the Sargasso Sea.}
 \newblock \emph{The ISME Journal}, 3:\penalty0 93--105.
+
+\bibitem[Sun \emph{et~al.}(2011)Sun, Chen, Li, Altintas, Lin, Peltier, Stocks,
+  Allen, Ellisman, Grethe, and Wooley]{Sun2011}
+Sun S., Chen J., Li~W., Altintas I., Lin A., Peltier S., Stocks K., Allen
+  E.~E., Ellisman M., Grethe J., and Wooley J. (2011).
+\newblock {Community cyberinfrastructure for Advanced Microbial Ecology
+  Research and Analysis: the CAMERA resource}.
+\newblock \emph{Nucleic Acids Research}, 39:\penalty0 D546--551.
 
 \bibitem[Suttle(2005)]{Suttle2005}
 Suttle C.~A. (2005).
@@ -1690,6 +1713,14 @@ Wilson W.~H., Tarran G.~A., Schroeder D., Cox M., Oke J., and Malin G. (2002).
   huxleyi bloom in the English Channel}.
 \newblock \emph{Journal of the Marine Biological Association of the United
   Kingdom}, 82:\penalty0 369--377.
+
+\bibitem[Wommack \emph{et~al.}(2012)Wommack, Bhavsar, Polson, Chen, Dumas,
+  Srinivasiah, Furman, Jamindar, and Nasko]{Wommack2012}
+Wommack K.~E., Bhavsar J., Polson S.~W., Chen J., Dumas M., Srinivasiah S.,
+  Furman M., Jamindar S., and Nasko D.~J. (2012).
+\newblock {VIROME: a standard operating procedure for analysis of viral
+  metagenome sequences}.
+\newblock \emph{Standards in Genomic Sciences}, 6:\penalty0 427--439.
 
 \bibitem[Xie \emph{et~al.}(2011)Xie, Mao, Huang, Ding, Wu, Dong, Kong, Gao, Li,
   and Wei]{Xie2011}
