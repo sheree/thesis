@@ -1,4 +1,4 @@
-\begin{thebibliography}{245}
+\begin{thebibliography}{246}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -594,6 +594,14 @@ Green W.~J., Angle M.~P., and Chave K.~E. (1988).
 \newblock {The geochemistry of Antarctic streams and their role in the
   evolution of four lakes of the McMurdo Dry Valleys}.
 \newblock \emph{Geochimica et Cosmochimica Acta}, 52:\penalty0 1265--1274.
+
+\bibitem[Grzymski \emph{et~al.}(2012)Grzymski, Riesenfeld, Williams, Dussaq,
+  Ducklow, Erickson, Cavicchioli, and Murray]{Grzymski2012}
+Grzymski J.~J., Riesenfeld C.~S., Williams T.~J., Dussaq A.~M., Ducklow H.,
+  Erickson M., Cavicchioli R., and Murray A.~E. (2012).
+\newblock {A metagenomic assessment of winter and summer bacterioplankton from
+  Antarctica Peninsula coastal surface waters}.
+\newblock \emph{The ISME Journal}, 6:\penalty0 1901--1915.
 
 \bibitem[Haft \emph{et~al.}(2001)Haft, Loftus, Richardson, Yang, Eisen,
   Paulsen, and White]{Haft2001}
@@ -1697,8 +1705,17 @@ Wilkins D., Lauro F.~M., Williams T.~J., DeMaere M.~Z., Brown M.~V., Hoffman
   by metagenomics}.
 \newblock \emph{Environmental Microbiology}, page (in press).
 
-\bibitem[Williams \emph{et~al.}(2012)Williams, Wilkins, Long, Evans, DeMaere,
-  Raftery, and Cavicchioli]{Williams2012}
+\bibitem[Williams \emph{et~al.}(2012{\natexlab{a}})Williams, Long, Evans,
+  Demaere, Lauro, Raftery, Ducklow, Grzymski, Murray, and
+  Cavicchioli]{Williams2012a}
+Williams T.~J., Long E., Evans F., Demaere M.~Z., Lauro F.~M., Raftery M.~J.,
+  Ducklow H., Grzymski J.~J., Murray A.~E., and Cavicchioli R. (2012).
+\newblock {A metaproteomic assessment of winter and summer bacterioplankton
+  from Antarctic Peninsula coastal surface waters}.
+\newblock \emph{The ISME Journal}, 6:\penalty0 1883--1900.
+
+\bibitem[Williams \emph{et~al.}(2012{\natexlab{b}})Williams, Wilkins, Long,
+  Evans, DeMaere, Raftery, and Cavicchioli]{Williams2012b}
 Williams T.~J., Wilkins D., Long E., Evans F., DeMaere M.~Z., Raftery M.~J.,
   and Cavicchioli R. (2012).
 \newblock {The role of planktonic Flavobacteria in processing algal organic
@@ -1721,20 +1738,6 @@ Wommack K.~E., Bhavsar J., Polson S.~W., Chen J., Dumas M., Srinivasiah S.,
 \newblock {VIROME: a standard operating procedure for analysis of viral
   metagenome sequences}.
 \newblock \emph{Standards in Genomic Sciences}, 6:\penalty0 427--439.
-
-\bibitem[Wu \emph{et~al.}(2009)Wu, Hugenholtz, Mavromatis, Pukall, Dalin,
-  Ivanova, Kunin, Goodwin, Wu, Tindall, Hooper, Pati, Lykidis, Spring,
-  Anderson, D'haeseleer, Zemla, Singer, Lapidus, Nolan, Copeland, Han, Chen,
-  Cheng, Lucas, Kerfeld, Lang, Gronow, Chain, Bruce, Rubin, Kyrpides, Klenk,
-  and Eisen]{Wu2009}
-Wu~D., Hugenholtz P., Mavromatis K., Pukall R., Dalin E., Ivanova N.~N., Kunin
-  V., Goodwin L., Wu~M., Tindall B.~J., Hooper S.~D., Pati A., Lykidis A.,
-  Spring S., Anderson I.~J., D'haeseleer P., Zemla A., Singer M., Lapidus A.,
-  Nolan M., Copeland A., Han C., Chen F., Cheng J.-F., Lucas S., Kerfeld C.,
-  Lang E., Gronow S., Chain P., Bruce D., Rubin E.~M., Kyrpides N.~C., Klenk
-  H.-P., and Eisen J.~A. (2009).
-\newblock {A phylogeny-driven genomic encyclopaedia of Bacteria and Archaea}.
-\newblock \emph{Nature}, 462:\penalty0 1056--1060.
 
 \bibitem[Xie \emph{et~al.}(2011)Xie, Mao, Huang, Ding, Wu, Dong, Kong, Gao, Li,
   and Wei]{Xie2011}
