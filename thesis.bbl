@@ -1,4 +1,4 @@
-\begin{thebibliography}{244}
+\begin{thebibliography}{245}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -1721,6 +1721,20 @@ Wommack K.~E., Bhavsar J., Polson S.~W., Chen J., Dumas M., Srinivasiah S.,
 \newblock {VIROME: a standard operating procedure for analysis of viral
   metagenome sequences}.
 \newblock \emph{Standards in Genomic Sciences}, 6:\penalty0 427--439.
+
+\bibitem[Wu \emph{et~al.}(2009)Wu, Hugenholtz, Mavromatis, Pukall, Dalin,
+  Ivanova, Kunin, Goodwin, Wu, Tindall, Hooper, Pati, Lykidis, Spring,
+  Anderson, D'haeseleer, Zemla, Singer, Lapidus, Nolan, Copeland, Han, Chen,
+  Cheng, Lucas, Kerfeld, Lang, Gronow, Chain, Bruce, Rubin, Kyrpides, Klenk,
+  and Eisen]{Wu2009}
+Wu~D., Hugenholtz P., Mavromatis K., Pukall R., Dalin E., Ivanova N.~N., Kunin
+  V., Goodwin L., Wu~M., Tindall B.~J., Hooper S.~D., Pati A., Lykidis A.,
+  Spring S., Anderson I.~J., D'haeseleer P., Zemla A., Singer M., Lapidus A.,
+  Nolan M., Copeland A., Han C., Chen F., Cheng J.-F., Lucas S., Kerfeld C.,
+  Lang E., Gronow S., Chain P., Bruce D., Rubin E.~M., Kyrpides N.~C., Klenk
+  H.-P., and Eisen J.~A. (2009).
+\newblock {A phylogeny-driven genomic encyclopaedia of Bacteria and Archaea}.
+\newblock \emph{Nature}, 462:\penalty0 1056--1060.
 
 \bibitem[Xie \emph{et~al.}(2011)Xie, Mao, Huang, Ding, Wu, Dong, Kong, Gao, Li,
   and Wei]{Xie2011}
