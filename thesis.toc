@@ -78,14 +78,17 @@
 \contentsline {subsection}{\numberline {4.4.7}Molecular basis for unusual sulphur chemistry}{93}{subsection.4.4.7}
 \contentsline {section}{\numberline {4.5}Conclusions}{101}{section.4.5}
 \contentsline {section}{\numberline {4.6}Acknowledgements}{102}{section.4.6}
-\contentsline {chapter}{\numberline {5}General discussion, conclusions and future work}{105}{chapter.5}
+\contentsline {chapter}{\numberline {5}General discussion, future work and conclusions}{105}{chapter.5}
 \contentsline {section}{\numberline {5.1}Summary of outcomes from this work}{105}{section.5.1}
-\contentsline {section}{\numberline {5.2}Perspectives on `-omics' approaches }{107}{section.5.2}
-\contentsline {section}{\numberline {5.3}Possible future work}{108}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Dynamics of the over an annual cycle}{108}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}Virophages}{108}{subsection.5.3.2}
-\contentsline {subsection}{\numberline {5.3.3}Functional analyses in the Organic lake community}{110}{subsection.5.3.3}
-\contentsline {section}{\numberline {5.4}Concluding remarks}{110}{section.5.4}
+\contentsline {section}{\numberline {5.2}New perspectives and possibilities for future work}{107}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Dynamics of the over an annual cycle}{107}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Virophages}{108}{subsection.5.2.2}
+\contentsline {subsubsection}{Is \ac {OLV} really a `virophage'?}{108}{section*.190}
+\contentsline {subsubsection}{What is the mode of infection of \ac {OLV}?}{109}{section*.191}
+\contentsline {subsubsection}{Can \ac {OLV} integrate into its helper?}{109}{section*.192}
+\contentsline {subsection}{\numberline {5.2.3}Functional analyses in the Organic lake community}{110}{subsection.5.2.3}
+\contentsline {section}{\numberline {5.3}Perspectives on `-omics' approaches }{110}{section.5.3}
+\contentsline {section}{\numberline {5.4}Concluding remarks}{111}{section.5.4}
 \contentsline {chapter}{Appendix \numberline {A}PCR-based studies of Antarctic Lakes}{131}{Appendix.a.A}
 \contentsline {chapter}{Appendix \numberline {B}Proteins identified in Ace Lake metaproteomic analysis}{133}{Appendix.a.B}
 \contentsline {chapter}{Appendix \numberline {C}Peptide sequences of OLV and OLPV proteins identified in the metaproteome}{199}{Appendix.a.C}
