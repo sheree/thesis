@@ -1,4 +1,4 @@
-\begin{thebibliography}{246}
+\begin{thebibliography}{252}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -30,6 +30,13 @@ Alekhina I.~A., Marie D., Petit J.~R., Lukin V.~V., Zubkov V.~M., and Bulat
 \newblock {Molecular analysis of bacterial diversity in kerosene-based drilling
   fluid from the deep ice borehole at Vostok, East Antarctica}.
 \newblock \emph{FEMS Microbiolgy Ecology}, 59:\penalty0 289--299.
+
+\bibitem[Allen \emph{et~al.}(2011)Allen, Ishoey, Novotny, McLean, Lasken, and
+  Williamson]{Allen2011}
+Allen L.~Z., Ishoey T., Novotny M.~A., McLean J.~S., Lasken R.~S., and
+  Williamson S.~J. (2011).
+\newblock {Single virus genomics: a new tool for virus discovery}.
+\newblock \emph{PloS one}, 6:\penalty0 e17722.
 
 \bibitem[Altschul \emph{et~al.}(1990)Altschul, Gish, Miller, Myers, and
   Lipman]{Altschul1990}
@@ -409,7 +416,12 @@ Ferris J.~M., Gibson J.~A., and Burton H.~R. (1991).
 \newblock \emph{Palaeogeography, Palaeoclimatology, Palaeoecology},
   84:\penalty0 99--107.
 
-\bibitem[Fischer and Suttle(2011)]{Fischer2011}
+\bibitem[Fischer(2011)]{Fischer2011b}
+Fischer M.~G. (2011).
+\newblock {Sputnik and Mavirus: more than just satellite viruses}.
+\newblock \emph{Nature Reviews}, 10:\penalty0 1--2.
+
+\bibitem[Fischer and Suttle(2011)]{Fischer2011a}
 Fischer M.~G. and Suttle C.~A. (2011).
 \newblock {A virophage at the origin of large DNA transposons}.
 \newblock \emph{Science}, 332:\penalty0 231--234.
@@ -503,6 +515,13 @@ Gibson J.~A. (1999).
   Hills, East Antarctica}.
 \newblock \emph{Antarctic Science}, 11:\penalty0 175--192.
 
+\bibitem[Gibson and Burton(1996)]{Gibson1996}
+Gibson J.~A. and Burton H.~R. (1996).
+\newblock {Meromictic Antarctic lakes as recorders of climate change: the
+  structures of Ace and Organic Lakes, Vestfold Hills, Antarctica}.
+\newblock \emph{Papers and Proceedings of the Royal Society of Tasmania},
+  130:\penalty0 73--78.
+
 \bibitem[Gibson \emph{et~al.}(1990)Gibson, Ferris, and Burton]{Gibson1990}
 Gibson J.~A., Ferris J.~M., and Burton H.~R. (1990).
 \newblock {Temperature density, temperature conductivity and
@@ -525,6 +544,12 @@ Gibson J.~A., Qiang X.~L., Franzmann P.~D., Garrick R.~C., and Burton H.~R.
 \newblock {Volatile fatty and dissolved free amino acids in Organic Lake,
   Vestfold Hilss, East Antarctica}.
 \newblock \emph{Polar Biology}, 14:\penalty0 545--550.
+
+\bibitem[Gibson \emph{et~al.}(1995)Gibson, Burton, and Gallagher]{Gibson1995}
+Gibson J.~A., Burton H.~R., and Gallagher J. (1995).
+\newblock {Meromictic Antarctic lakes as indicators of local water balance:
+  structural changes in Organic Lake, Vestfold Hills 1978-1994}.
+\newblock \emph{ANARE Research Notes}, 94:\penalty0 16--18.
 
 \bibitem[Glatz \emph{et~al.}(2006)Glatz, Lepp, Ward, and Francis]{Glatz2006}
 Glatz R., Lepp P., Ward B.~B., and Francis C. (2006).
@@ -1019,6 +1044,15 @@ Mart\'{\i}nez-Mart\'{\i}nez J., Schroeder D.~C., Larsen A., Bratbak G., and
   during two separate mesocosm studies}.
 \newblock \emph{Applied and Environmental Microbiology}, 73:\penalty0 554--562.
 
+\bibitem[{Mart\'{\i}nez Mart\'{\i}nez} \emph{et~al.}(2011){Mart\'{\i}nez
+  Mart\'{\i}nez}, Poulton, Stepanauskas, Sieracki, and
+  Wilson]{Martinez-Martinez2011}
+{Mart\'{\i}nez Mart\'{\i}nez} J., Poulton N.~J., Stepanauskas R., Sieracki
+  M.~E., and Wilson W.~H. (2011).
+\newblock {Targeted sorting of single virus-infected cells of the
+  coccolithophore Emiliania huxleyi}.
+\newblock \emph{PloS One}, 6:\penalty0 e22520.
+
 \bibitem[Matsuzaki \emph{et~al.}(2006)Matsuzaki, Kubota, Satoh, Kunugi, Ban,
   and Imura]{Matsuzaki2006}
 Matsuzaki M., Kubota K., Satoh T., Kunugi M., Ban S., and Imura S. (2006).
@@ -1117,6 +1151,12 @@ Morris R.~M., Nunn B.~L., Frazar C., Goodlett D.~R., Ting Y.~S., and Rocap G.
 Mosier A.~C., Murray A.~E., and Fritsen C.~H. (2007).
 \newblock {Microbiota within the perennial ice cover of Lake Vida, Antarctica}.
 \newblock \emph{FEMS Microbiolgy Ecology}, 59:\penalty0 274--288.
+
+\bibitem[Murray and Grzymski(2007)]{Murray2007}
+Murray A.~E. and Grzymski J.~J. (2007).
+\newblock {Diversity and genomics of Antarctic marine micro-organisms}.
+\newblock \emph{Philosophical Transactions of the Royal Society of London,
+  Series B}, 362:\penalty0 2259--2271.
 
 \bibitem[Myers \emph{et~al.}(2000)Myers, Sutton, Delcher, Dew, Fasulo,
   Flanigan, Kravitz, Mobarry, Reinert, Remington, Anson, Bolanos, Chou, Jordan,
