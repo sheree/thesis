@@ -80,14 +80,14 @@
 \contentsline {section}{\numberline {4.6}Acknowledgements}{102}{section.4.6}
 \contentsline {chapter}{\numberline {5}General discussion, future work and conclusions}{105}{chapter.5}
 \contentsline {section}{\numberline {5.1}Summary of outcomes from this work}{105}{section.5.1}
-\contentsline {section}{\numberline {5.2}New perspectives and possibilities for future work}{107}{section.5.2}
+\contentsline {section}{\numberline {5.2}New perspectives and possibilities for future work on Organic Lake}{107}{section.5.2}
 \contentsline {subsection}{\numberline {5.2.1}Organic Lake dynamics over time}{107}{subsection.5.2.1}
 \contentsline {subsection}{\numberline {5.2.2}\acs {OLV} physiology and ecology}{108}{subsection.5.2.2}
 \contentsline {subsection}{\numberline {5.2.3}Organic lake biogeochemistry}{111}{subsection.5.2.3}
-\contentsline {subsubsection}{Functional corrobation of proposed nutrient cycles}{111}{section*.191}
-\contentsline {subsubsection}{DMS}{111}{section*.192}
-\contentsline {subsubsection}{How much carbon conserved by AAnP?}{111}{section*.193}
-\contentsline {subsubsection}{Genomes of generalists}{111}{section*.194}
+\contentsline {subsubsection}{Functional corrobation of proposed nutrient cycles}{111}{section*.190}
+\contentsline {subsubsection}{DMS}{111}{section*.191}
+\contentsline {subsubsection}{How much carbon conserved by AAnP?}{111}{section*.192}
+\contentsline {subsubsection}{Genomes of generalists}{111}{section*.193}
 \contentsline {section}{\numberline {5.3}Perspectives on `-omics' approaches }{111}{section.5.3}
 \contentsline {section}{\numberline {5.4}Concluding remarks}{112}{section.5.4}
 \contentsline {chapter}{Appendix \numberline {A}PCR-based studies of Antarctic Lakes}{133}{Appendix.a.A}
