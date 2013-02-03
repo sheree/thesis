@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.21)  3 FEB 2013 00:54
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.21)  3 FEB 2013 14:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3972,9 +3972,9 @@ although it is yet undefined on input line 56.
 [107]
 Package acronym Info: Label `acro:CroV' newly defined as it shall be overridden
 
-although it is yet undefined on input line 97.
+although it is yet undefined on input line 95.
  [108]
-Package acronym Info: Label `acro:NCLDV' overridden on input line 110.
+Package acronym Info: Label `acro:NCLDV' overridden on input line 108.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -3982,42 +3982,58 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [110]
-Package acronym Info: Label `acro:ORF' overridden on input line 185.
-Package acronym Info: Label `acro:BLAST' overridden on input line 185.
+Package acronym Info: Label `acro:BchlA' overridden on input line 154.
+
+[111]
+Package acronym Info: Label `acro:DNA' newly defined as it shall be overridden
+although it is yet undefined on input line 185.
+
+
+Package acronym Warning: Acronym `DNA' is not defined on input line 185.
+
+
+Package acronym Warning: Acronym `DNA' is not defined on input line 185.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [112]
+Package acronym Info: Label `acro:ORF' overridden on input line 214.
+Package acronym Info: Label `acro:BLAST' overridden on input line 214.
 Package acronym Info: Label `acro:MG-RAST' newly defined as it shall be overrid
 den
-although it is yet undefined on input line 191.
-Package acronym Info: Label `acro:CAMERA' overridden on input line 191.
+although it is yet undefined on input line 220.
+Package acronym Info: Label `acro:CAMERA' overridden on input line 220.
 
-[111]) [112] (./thesis.bbl [113
+[113]) [114] (./thesis.bbl [115
 
 
 ]
 Missing character: There is no â in font cmr10!
 Missing character: There is no „ in font cmr10!
 Missing character: There is no ¢ in font cmr10!
- [114] [115] [116] [117] [118] [119] [120]
+ [116] [117] [118] [119] [120] [121] [122]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
 
-[121] [122] [123] [124] [125] [126] [127] [128] [129]
+[123] [124] [125] [126] [127] [128] [129] [130] [131]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no ° in font cmr10!
- [130]
+ [132]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
-) [131]
+) [133]
 \openout2 = `appendices.aux'.
 
 
-(./appendices.tex [132
+(./appendices.tex [134
 
 
 ]
 Appendix A.
-(./intro_figures/pcr_lakes.tex [133]
+(./intro_figures/pcr_lakes.tex [135]
 Overfull \hbox (7.17749pt too wide) in alignment at lines 4--12
  [] [] [] [] [] [] [] 
  []
@@ -4095,11 +4111,11 @@ Overfull \hbox (7.17749pt too wide) in alignment at lines 22--30
  [] [] [] [] [] [] [] 
  []
 
-[134
+[136
 
 ])
 Appendix B.
-(./ace_figures/ace_protids_5m.tex [135
+(./ace_figures/ace_protids_5m.tex [137
 
 
 ]
@@ -4597,7 +4613,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 85--85
 []|\OT1/cmr/m/n/9 0.00033| 
  []
 
-[136
+[138
 
 ]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 86--86
@@ -4759,7 +4775,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 105--105
 []|\OT1/cmr/m/n/9 K02945| 
  []
 
-[137]
+[139]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 106--106
 []|\OT1/cmr/m/n/9 0.00015| 
  []
@@ -5094,7 +5110,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 145--145
 []|\OT1/cmr/m/n/9 K03043| 
  []
 
-[138]
+[140]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 146--146
 []|\OT1/cmr/m/n/9 0.00004| 
  []
@@ -5234,7 +5250,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 167--167
 []|\OT1/cmr/m/n/9 0.01103| 
  []
 
-[139]
+[141]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 168--168
 []|\OT1/cmr/m/n/9 0.00968| 
  []
@@ -5334,7 +5350,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 187--187
 []|\OT1/cmr/m/n/9 0.00409| 
  []
 
-[140]
+[142]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 188--188
 []|\OT1/cmr/m/n/9 0.00397| 
  []
@@ -5534,7 +5550,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 227--227
 []|\OT1/cmr/m/n/9 0.00143| 
  []
 
-[141]
+[143]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 228--228
 []|\OT1/cmr/m/n/9 0.00135| 
  []
@@ -5749,7 +5765,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 267--267
 []|\OT1/cmr/m/n/9 0.00070| 
  []
 
-[142]
+[144]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 268--268
 []|\OT1/cmr/m/n/9 0.00070| 
  []
@@ -5849,7 +5865,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 287--287
 []|\OT1/cmr/m/n/9 0.00049| 
  []
 
-[143]
+[145]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 288--288
 []|\OT1/cmr/m/n/9 0.00048| 
  []
@@ -6074,7 +6090,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 327--327
 []|\OT1/cmr/m/n/9 0.00024| 
  []
 
-[144]
+[146]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 328--328
 []|\OT1/cmr/m/n/9 0.00023| 
  []
@@ -6334,7 +6350,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 367--367
 []|\OT1/cmr/m/n/9 0.00007| 
  []
 
-[145]
+[147]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 368--368
 []|\OT1/cmr/m/n/9 0.00007| 
  []
@@ -6444,7 +6460,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 387--387
 []|\OT1/cmr/m/n/9 0.00001| 
  []
 
-[146]
+[148]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 391--391
 []|\OT1/cmr/m/n/9 0.01263| 
  []
@@ -6654,7 +6670,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 429--429
 []|\OT1/cmr/m/n/9 0.00124| 
  []
 
-[147]
+[149]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 430--430
 []|\OT1/cmr/m/n/9 0.00116| 
  []
@@ -6859,7 +6875,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 469--469
 []|\OT1/cmr/m/n/9 0.00043| 
  []
 
-[148]
+[150]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 470--470
 []|\OT1/cmr/m/n/9 0.00042| 
  []
@@ -6969,7 +6985,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 489--489
 []|\OT1/cmr/m/n/9 0.00027| 
  []
 
-[149]
+[151]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 490--490
 []|\OT1/cmr/m/n/9 0.00027| 
  []
@@ -7179,7 +7195,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 529--529
 []|\OT1/cmr/m/n/9 0.00004| 
  []
 
-[150]
+[152]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 530--530
 []|\OT1/cmr/m/n/9 0.00003| 
  []
@@ -7194,7 +7210,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 532--532
 []|\OT1/cmr/m/n/9 0.00002| 
  []
 
-[151] [152]) (./ace_figures/ace_protids_11.5m.tex
+[153] [154]) (./ace_figures/ace_protids_11.5m.tex
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 26--26
 []|\OT1/cmr/m/n/9 0.01734| 
  []
@@ -7674,7 +7690,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 87--87
 []|\OT1/cmr/m/n/9 0.01947| 
  []
 
-[153
+[155
 
 
 ]
@@ -7787,7 +7803,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 107--107
 []|\OT1/cmr/m/n/9 0.00433| 
  []
 
-[154]
+[156]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 108--108
 []|\OT1/cmr/m/n/9 0.00413| 
  []
@@ -7992,7 +8008,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 147--147
 []|\OT1/cmr/m/n/9 0.00189| 
  []
 
-[155]
+[157]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 148--148
 []|\OT1/cmr/m/n/9 0.00187| 
  []
@@ -8092,7 +8108,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 167--167
 []|\OT1/cmr/m/n/9 0.00145| 
  []
 
-[156]
+[158]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 168--168
 []|\OT1/cmr/m/n/9 0.00143| 
  []
@@ -8317,7 +8333,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 209--209
 []|\OT1/cmr/m/n/9 0.01466| 
  []
 
-[157]
+[159]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 210--210
 []|\OT1/cmr/m/n/9 0.00797| 
  []
@@ -8517,7 +8533,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 249--249
 []|\OT1/cmr/m/n/9 0.00074| 
  []
 
-[158]
+[160]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 250--250
 []|\OT1/cmr/m/n/9 0.00071| 
  []
@@ -8547,7 +8563,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 255--255
 []|\OT1/cmr/m/n/9 0.00040| 
  []
 
-[159] [160]) (./ace_figures/ace_protids_12.7m.tex
+[161] [162]) (./ace_figures/ace_protids_12.7m.tex
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 26--26
 []|\OT1/cmr/m/n/9 0.01035| 
  []
@@ -9112,7 +9128,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 85--85
 []|\OT1/cmr/m/n/9 K00688| 
  []
 
-[161
+[163
 
 
 ]
@@ -9291,7 +9307,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 105--105
 []|\OT1/cmr/m/n/9 0.00056| 
  []
 
-[162]
+[164]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 106--106
 []|\OT1/cmr/m/n/9 0.00053| 
  []
@@ -9682,7 +9698,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 145--145
 []|\OT1/cmr/m/n/9 K01895| 
  []
 
-[163]
+[165]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 146--146
 []|\OT1/cmr/m/n/9 0.00033| 
  []
@@ -9857,7 +9873,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 165--165
 []|\OT1/cmr/m/n/9 K00615| 
  []
 
-[164]
+[166]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 166--166
 []|\OT1/cmr/m/n/9 0.00027| 
  []
@@ -10027,7 +10043,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 185--185
 []|\OT1/cmr/m/n/9 0.00023| 
  []
 
-[165]
+[167]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 186--186
 []|\OT1/cmr/m/n/9 0.00022| 
  []
@@ -10382,7 +10398,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 225--225
 []|\OT1/cmr/m/n/9 K07568| 
  []
 
-[166]
+[168]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 226--226
 []|\OT1/cmr/m/n/9 0.00015| 
  []
@@ -10567,7 +10583,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 245--245
 []|\OT1/cmr/m/n/9 K02954| 
  []
 
-[167]
+[169]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 246--246
 []|\OT1/cmr/m/n/9 0.00012| 
  []
@@ -10943,7 +10959,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 285--285
 []|\OT1/cmr/m/n/9 K00615| 
  []
 
-[168]
+[170]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 286--286
 []|\OT1/cmr/m/n/9 0.00008| 
  []
@@ -11138,7 +11154,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 305--305
 []|\OT1/cmr/m/n/9 K06142| 
  []
 
-[169]
+[171]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 306--306
 []|\OT1/cmr/m/n/9 0.00007| 
  []
@@ -11329,7 +11345,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 325--325
 []|\OT1/cmr/m/n/9 0.00006| 
  []
 
-[170]
+[172]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 326--326
 []|\OT1/cmr/m/n/9 0.00006| 
  []
@@ -11699,7 +11715,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 365--365
 []|\OT1/cmr/m/n/9 K02897| 
  []
 
-[171]
+[173]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 366--366
 []|\OT1/cmr/m/n/9 0.00004| 
  []
@@ -11889,7 +11905,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 385--385
 []|\OT1/cmr/m/n/9 K02014| 
  []
 
-[172]
+[174]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 386--386
 []|\OT1/cmr/m/n/9 0.00003| 
  []
@@ -12229,7 +12245,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 425--425
 []|\OT1/cmr/m/n/9 K00059| 
  []
 
-[173]
+[175]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 426--426
 []|\OT1/cmr/m/n/9 0.00001| 
  []
@@ -12394,7 +12410,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 447--447
 []|\OT1/cmr/m/n/9 0.00148| 
  []
 
-[174]
+[176]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 448--448
 []|\OT1/cmr/m/n/9 0.00139| 
  []
@@ -12639,7 +12655,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 487--487
 []|\OT1/cmr/m/n/9 K07164| 
  []
 
-[175]
+[177]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 488--488
 []|\OT1/cmr/m/n/9 0.00014| 
  []
@@ -12754,7 +12770,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 507--507
 []|\OT1/cmr/m/n/9 K08940| 
  []
 
-[176]
+[178]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 508--508
 []|\OT1/cmr/m/n/9 0.00004| 
  []
@@ -12884,7 +12900,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 536--536
 []|\OT1/cmr/m/n/9 0.00002| 
  []
 
-[177] [178]) (./ace_figures/ace_protids_14m.tex
+[179] [180]) (./ace_figures/ace_protids_14m.tex
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 26--26
 []|\OT1/cmr/m/n/9 0.06300| 
  []
@@ -13450,7 +13466,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 85--85
 []|\OT1/cmr/m/n/9 K01596| 
  []
 
-[179
+[181
 
 
 ]
@@ -13643,7 +13659,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 105--105
 []|\OT1/cmr/m/n/9 K03043| 
  []
 
-[180]
+[182]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 106--106
 []|\OT1/cmr/m/n/9 0.00243| 
  []
@@ -14023,7 +14039,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 145--145
 []|\OT1/cmr/m/n/9 K01682| 
  []
 
-[181]
+[183]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 146--146
 []|\OT1/cmr/m/n/9 0.00118| 
  []
@@ -14218,7 +14234,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 165--165
 []|\OT1/cmr/m/n/9 K04088| 
  []
 
-[182]
+[184]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 166--166
 []|\OT1/cmr/m/n/9 0.00095| 
  []
@@ -14600,7 +14616,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 205--205
 []|\OT1/cmr/m/n/9 K01551| 
  []
 
-[183]
+[185]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 206--206
 []|\OT1/cmr/m/n/9 0.00049| 
  []
@@ -14775,7 +14791,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 225--225
 []|\OT1/cmr/m/n/9 K09812| 
  []
 
-[184]
+[186]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 226--226
 []|\OT1/cmr/m/n/9 0.00031| 
  []
@@ -15105,7 +15121,7 @@ Overfull \hbox (8.83376pt too wide) in paragraph at lines 267--267
 []|\OT1/cmr/m/n/9 CLOSTASPAR[]06273| 
  []
 
-[185]
+[187]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 268--268
 []|\OT1/cmr/m/n/9 0.00672| 
  []
@@ -15230,7 +15246,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 287--287
 []|\OT1/cmr/m/n/9 0.00160| 
  []
 
-[186]
+[188]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 288--288
 []|\OT1/cmr/m/n/9 0.00156| 
  []
@@ -15445,7 +15461,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 329--329
 []|\OT1/cmr/m/n/9 0.01745| 
  []
 
-[187]
+[189]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 330--330
 []|\OT1/cmr/m/n/9 0.01725| 
  []
@@ -15545,7 +15561,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 349--349
 []|\OT1/cmr/m/n/9 0.00744| 
  []
 
-[188]
+[190]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 350--350
 []|\OT1/cmr/m/n/9 0.00733| 
  []
@@ -15745,7 +15761,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 389--389
 []|\OT1/cmr/m/n/9 0.00085| 
  []
 
-[189]
+[191]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 390--390
 []|\OT1/cmr/m/n/9 0.00077| 
  []
@@ -15800,7 +15816,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 400--400
 []|\OT1/cmr/m/n/9 0.00023| 
  []
 
-[190] [191]) (./ace_figures/ace_protids_18m.tex
+[192] [193]) (./ace_figures/ace_protids_18m.tex
 Overfull \hbox (1.8651pt too wide) in paragraph at lines 30--30
 []|\OT1/cmr/m/n/9 K04077| 
  []
@@ -15820,10 +15836,10 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 42--42
 []|\OT1/cmr/m/n/9 K08944| 
  []
 
-[192
+[194
 
 
-] [193] [194] [195]) (./ace_figures/ace_protids_23m.tex
+] [195] [196] [197]) (./ace_figures/ace_protids_23m.tex
 Overfull \hbox (1.8651pt too wide) in paragraph at lines 28--28
 []|\OT1/cmr/m/n/9 K06960| 
  []
@@ -15878,12 +15894,12 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 71--71
 []|\OT1/cmr/m/n/9 K06142| 
  []
 
-[196
+[198
 
 
-] [197] [198] [199] [200])
+] [199] [200] [201] [202])
 Appendix C.
-[201
+[203
 
 
 ] (./olv_figures/peptides.tex
@@ -15951,7 +15967,7 @@ Overfull \hbox (7.54718pt too wide) in alignment at lines 61--62
  [] [] [] 
  []
 
-)) [202]
+)) [204]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 108.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 108.
  (./thesis.aux (./dissert.aux) (./title.aux) (./originality.aux)
@@ -15969,10 +15985,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 108.
  ) 
 Here is how much of TeX's memory you used:
- 11979 strings out of 493488
- 182472 string characters out of 3141347
- 359847 words of memory out of 3000000
- 14026 multiletter control sequences out of 15000+200000
+ 11988 strings out of 493488
+ 182575 string characters out of 3141347
+ 359959 words of memory out of 3000000
+ 14034 multiletter control sequences out of 15000+200000
  14844 words of font info for 49 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  44i,18n,48p,1531b,972s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -16002,10 +16018,10 @@ st/fonts/type1/public/cbfonts/grmn1095.pfb></usr/local/texlive/2012/texmf-dist/
 fonts/type1/public/cm-super/sfbx0900.pfb></usr/local/texlive/2012/texmf-dist/fo
 nts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2012/texmf-dist/font
 s/type1/public/cm-super/sfrm1095.pfb>
-Output written on thesis.pdf (221 pages, 21233352 bytes).
+Output written on thesis.pdf (223 pages, 21242065 bytes).
 PDF statistics:
- 6227 PDF objects out of 7423 (max. 8388607)
- 5286 compressed objects within 53 object streams
- 829 named destinations out of 1000 (max. 500000)
+ 6283 PDF objects out of 7423 (max. 8388607)
+ 5339 compressed objects within 54 object streams
+ 830 named destinations out of 1000 (max. 500000)
  844 words of extra memory for PDF output out of 10000 (max. 10000000)
 

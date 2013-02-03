@@ -84,12 +84,8 @@
 \contentsline {subsection}{\numberline {5.2.1}Organic Lake dynamics over time}{107}{subsection.5.2.1}
 \contentsline {subsection}{\numberline {5.2.2}\acs {OLV} physiology and ecology}{108}{subsection.5.2.2}
 \contentsline {subsection}{\numberline {5.2.3}Organic lake biogeochemistry}{111}{subsection.5.2.3}
-\contentsline {subsubsection}{Functional corrobation of proposed nutrient cycles}{111}{section*.190}
-\contentsline {subsubsection}{DMS}{111}{section*.191}
-\contentsline {subsubsection}{How much carbon conserved by AAnP?}{111}{section*.192}
-\contentsline {subsubsection}{Genomes of generalists}{111}{section*.193}
-\contentsline {section}{\numberline {5.3}Perspectives on `-omics' approaches }{111}{section.5.3}
-\contentsline {section}{\numberline {5.4}Concluding remarks}{112}{section.5.4}
-\contentsline {chapter}{Appendix \numberline {A}PCR-based studies of Antarctic Lakes}{133}{Appendix.a.A}
-\contentsline {chapter}{Appendix \numberline {B}Proteins identified in Ace Lake metaproteomic analysis}{135}{Appendix.a.B}
-\contentsline {chapter}{Appendix \numberline {C}Peptide sequences of OLV and OLPV proteins identified in the metaproteome}{201}{Appendix.a.C}
+\contentsline {section}{\numberline {5.3}Perspectives on `-omics' approaches }{113}{section.5.3}
+\contentsline {section}{\numberline {5.4}Concluding remarks}{114}{section.5.4}
+\contentsline {chapter}{Appendix \numberline {A}PCR-based studies of Antarctic Lakes}{135}{Appendix.a.A}
+\contentsline {chapter}{Appendix \numberline {B}Proteins identified in Ace Lake metaproteomic analysis}{137}{Appendix.a.B}
+\contentsline {chapter}{Appendix \numberline {C}Peptide sequences of OLV and OLPV proteins identified in the metaproteome}{203}{Appendix.a.C}

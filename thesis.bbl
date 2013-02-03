@@ -1,4 +1,4 @@
-\begin{thebibliography}{252}
+\begin{thebibliography}{253}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -312,6 +312,13 @@ Curson A.~R., Todd J.~D., Sullivan M.~J., and Johnston A.~W. (2011).
 \newblock {Catabolism of dimethylsulphoniopropionate: microorganisms , enzymes
   and genes}.
 \newblock \emph{Nature Reviews Microbiology}, 9:\penalty0 849--859.
+
+\bibitem[Curson \emph{et~al.}(2012)Curson, Fowler, Dickens, Johnston, and
+  Todd]{Curson2012}
+Curson A.~R., Fowler E.~K., Dickens S., Johnston A.~W., and Todd J.~D. (2012).
+\newblock {Multiple DMSP lyases in the $\gamma$-proteobacterium Oceanimonas
+  doudoroffii}.
+\newblock \emph{Biogeochemistry}, 110:\penalty0 109--119.
 
 \bibitem[Danovaro \emph{et~al.}(2011)Danovaro, Corinaldesi, Dell'Anno, Fuhrman,
   Middelburg, Noble, and Suttle]{Danovaro2011}
