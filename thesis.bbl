@@ -1742,6 +1742,11 @@ Ward B.~B., Granger J., Maldonado M., Casciotti K., Harris S., and Wells M.
   Bonney, Antarctica}.
 \newblock \emph{Aquatic Microbial Ecology}, 38:\penalty0 295--307.
 
+\bibitem[Warnecke and Hugenholtz(2007)]{Warnecke2007}
+Warnecke F. and Hugenholtz P. (2007).
+\newblock {Building on basic metagenomics with complementary technologies}.
+\newblock \emph{Genome Biology}, 8:\penalty0 231.
+
 \bibitem[Wen \emph{et~al.}(2004)Wen, Ortmann, and Suttle]{Wen2004}
 Wen K., Ortmann A.~C., and Suttle C.~A. (2004).
 \newblock {Accurate estimation of viral abundance by epifluorescence
@@ -1759,17 +1764,8 @@ Wilkins D., Lauro F.~M., Williams T.~J., DeMaere M.~Z., Brown M.~V., Hoffman
   by metagenomics}.
 \newblock \emph{Environmental Microbiology}, page (in press).
 
-\bibitem[Williams \emph{et~al.}(2012{\natexlab{a}})Williams, Long, Evans,
-  Demaere, Lauro, Raftery, Ducklow, Grzymski, Murray, and
-  Cavicchioli]{Williams2012a}
-Williams T.~J., Long E., Evans F., Demaere M.~Z., Lauro F.~M., Raftery M.~J.,
-  Ducklow H., Grzymski J.~J., Murray A.~E., and Cavicchioli R. (2012).
-\newblock {A metaproteomic assessment of winter and summer bacterioplankton
-  from Antarctic Peninsula coastal surface waters}.
-\newblock \emph{The ISME Journal}, 6:\penalty0 1883--1900.
-
-\bibitem[Williams \emph{et~al.}(2012{\natexlab{b}})Williams, Wilkins, Long,
-  Evans, DeMaere, Raftery, and Cavicchioli]{Williams2012b}
+\bibitem[Williams \emph{et~al.}(2012)Williams, Wilkins, Long, Evans, DeMaere,
+  Raftery, and Cavicchioli]{Williams2012b}
 Williams T.~J., Wilkins D., Long E., Evans F., DeMaere M.~Z., Raftery M.~J.,
   and Cavicchioli R. (2012).
 \newblock {The role of planktonic Flavobacteria in processing algal organic

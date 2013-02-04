@@ -29,7 +29,7 @@
 \contentsline {section}{\numberline {2.4}Results and discussion}{22}{section.2.4}
 \contentsline {subsection}{\numberline {2.4.1}Development of an epifluorescence microscopy methodology}{22}{subsection.2.4.1}
 \contentsline {subsection}{\numberline {2.4.2}Community stratification supported by cell and \acs {VLP} densities}{24}{subsection.2.4.2}
-\contentsline {subsection}{\numberline {2.4.3}Development of a metaproteomic mass spectra analysis workflow }{27}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.3}Development of a metaproteomic mass spectra analysis workflow }{28}{subsection.2.4.3}
 \contentsline {subsection}{\numberline {2.4.4}Insights from the metaproteomic analysis of Ace Lake}{31}{subsection.2.4.4}
 \contentsline {subsubsection}{Mixolimnion}{31}{section*.58}
 \contentsline {subsubsection}{Chemo/oxycline}{33}{section*.61}

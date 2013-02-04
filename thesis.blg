@@ -30,43 +30,43 @@ You can't pop an empty literal stack for entry Torrice2009
 while executing---line 1411 of file mybibstyle.bst
 You've used 254 entries,
             2739 wiz_defined-function locations,
-            2500 strings with 82416 characters,
-and the built_in function-call counts, 154728 in all, are:
-= -- 13792
-> -- 13666
-< -- 64
-+ -- 4573
-- -- 4313
-* -- 15463
-:= -- 25476
+            2499 strings with 82149 characters,
+and the built_in function-call counts, 154257 in all, are:
+= -- 13759
+> -- 13594
+< -- 65
++ -- 4548
+- -- 4289
+* -- 15399
+:= -- 25397
 add.period$ -- 769
 call.type$ -- 254
-change.case$ -- 2195
-chr.to.int$ -- 248
+change.case$ -- 2187
+chr.to.int$ -- 249
 cite$ -- 511
-duplicate$ -- 4166
-empty$ -- 7987
-format.name$ -- 4627
-if$ -- 30347
-int.to.chr$ -- 7
+duplicate$ -- 4165
+empty$ -- 7980
+format.name$ -- 4605
+if$ -- 30262
+int.to.chr$ -- 6
 int.to.str$ -- 1
 missing$ -- 250
 newline$ -- 1280
 num.names$ -- 1026
-pop$ -- 3215
+pop$ -- 3199
 preamble$ -- 1
-purify$ -- 1942
+purify$ -- 1934
 quote$ -- 0
-skip$ -- 4177
+skip$ -- 4174
 stack$ -- 0
-substring$ -- 6858
-swap$ -- 380
+substring$ -- 6836
+swap$ -- 378
 text.length$ -- 12
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 2794
 warning$ -- 3
-while$ -- 1258
+while$ -- 1257
 width$ -- 0
 write$ -- 3073
 (There were 3 error messages)
