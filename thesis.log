@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.21)  4 FEB 2013 14:02
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.21)  4 FEB 2013 18:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3958,7 +3958,6 @@ Package acronym Info: Label `acro:VLP' overridden on input line 16.
 [105]
 Package acronym Info: Label `acro:OLPV' overridden on input line 25.
 Package acronym Info: Label `acro:OLV' overridden on input line 25.
-Package acronym Info: Label `acro:SSU' overridden on input line 29.
 Package acronym Info: Label `acro:AAnP' overridden on input line 38.
 Package acronym Info: Label `acro:DMS' overridden on input line 42.
 Package acronym Info: Label `acro:DMSP' overridden on input line 42.
@@ -3972,35 +3971,35 @@ although it is yet undefined on input line 56.
 [107]
 Package acronym Info: Label `acro:CroV' newly defined as it shall be overridden
 
-although it is yet undefined on input line 95.
+although it is yet undefined on input line 94.
  [108]
-Package acronym Info: Label `acro:NCLDV' overridden on input line 106.
+Package acronym Info: Label `acro:NCLDV' overridden on input line 105.
+Package acronym Info: Label `acro:SAG' newly defined as it shall be overridden
+although it is yet undefined on input line 120.
+Package acronym Info: Label `acro:SVG' newly defined as it shall be overridden
+although it is yet undefined on input line 120.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [109]
-Package acronym Info: Label `acro:SAG' newly defined as it shall be overridden
-although it is yet undefined on input line 122.
-Package acronym Info: Label `acro:SVG' newly defined as it shall be overridden
-although it is yet undefined on input line 122.
+Package acronym Info: Label `acro:BchlA' overridden on input line 146.
 
 [110]
-Package acronym Info: Label `acro:BchlA' overridden on input line 148.
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [111]
-Underfull \vbox (badness 5711) has occurred while \output is active []
+Package acronym Info: Label `acro:SSU' overridden on input line 187.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [112]
 Package acronym Info: Label `acro:MG-RAST' newly defined as it shall be overrid
 den
-although it is yet undefined on input line 214.
-Package acronym Info: Label `acro:CAMERA' overridden on input line 214.
+although it is yet undefined on input line 209.
+Package acronym Info: Label `acro:CAMERA' overridden on input line 209.
+Package acronym Info: Label `acro:NR' overridden on input line 222.
 
-[113]
-Package acronym Info: Label `acro:NR' overridden on input line 228.
-) [114] (./thesis.bbl [115
+[113]) [114] (./thesis.bbl [115
 
 
 ]
@@ -15980,13 +15979,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 108.
  ) 
 Here is how much of TeX's memory you used:
- 11993 strings out of 493488
- 182603 string characters out of 3141347
- 359949 words of memory out of 3000000
- 14037 multiletter control sequences out of 15000+200000
+ 11997 strings out of 493488
+ 182680 string characters out of 3141347
+ 360027 words of memory out of 3000000
+ 14040 multiletter control sequences out of 15000+200000
  14844 words of font info for 49 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 44i,18n,48p,1531b,972s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,18n,48p,1531b,974s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
@@ -16013,10 +16012,10 @@ st/fonts/type1/public/cbfonts/grmn1095.pfb></usr/local/texlive/2012/texmf-dist/
 fonts/type1/public/cm-super/sfbx0900.pfb></usr/local/texlive/2012/texmf-dist/fo
 nts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2012/texmf-dist/font
 s/type1/public/cm-super/sfrm1095.pfb>
-Output written on thesis.pdf (223 pages, 21242670 bytes).
+Output written on thesis.pdf (223 pages, 21244184 bytes).
 PDF statistics:
- 6298 PDF objects out of 7423 (max. 8388607)
- 5354 compressed objects within 54 object streams
- 832 named destinations out of 1000 (max. 500000)
+ 6297 PDF objects out of 7423 (max. 8388607)
+ 5353 compressed objects within 54 object streams
+ 833 named destinations out of 1000 (max. 500000)
  844 words of extra memory for PDF output out of 10000 (max. 10000000)
 
