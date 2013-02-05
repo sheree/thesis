@@ -83,6 +83,7 @@
 \contentsline {subsection}{\numberline {5.2.3}Organic lake biogeochemistry}{104}{subsection.5.2.3}
 \contentsline {section}{\numberline {5.3}Perspectives on `-omics' approaches }{106}{section.5.3}
 \contentsline {section}{\numberline {5.4}Concluding remarks}{108}{section.5.4}
+\contentsline {chapter}{References}{127}{chapter*.195}
 \contentsline {chapter}{Appendix \numberline {A}PCR-based studies of Antarctic Lakes}{129}{Appendix.a.A}
 \contentsline {chapter}{Appendix \numberline {B}Proteins identified in Ace Lake metaproteomic analysis}{139}{Appendix.a.B}
 \contentsline {chapter}{Appendix \numberline {C}Peptide sequences of OLV and OLPV proteins identified in the metaproteome}{205}{Appendix.a.C}
