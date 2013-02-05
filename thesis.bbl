@@ -1,4 +1,4 @@
-\begin{thebibliography}{254}
+\begin{thebibliography}{249}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -248,11 +248,6 @@ Chen F., Mackey A.~J., Stoeckert C.~J., and Roos D.~S. (2006).
 \newblock {OrthoMCL-DB: querying a comprehensive multi-species collection of
   ortholog groups}.
 \newblock \emph{Nucleic Acids Research}, 34:\penalty0 D363--D368.
-
-\bibitem[Chou and Holmes(2001)]{Chou2001}
-Chou H.-H. and Holmes M. (2001).
-\newblock {DNA sequence quality trimming and vector removal}.
-\newblock \emph{Bioinformatics}, 17:\penalty0 1093--1104.
 
 \bibitem[Chouari \emph{et~al.}(2005)Chouari, {Le Paslier}, Daegelen, Ginestet,
   Weissenbach, and Sghir]{Chouari2005}
@@ -580,13 +575,6 @@ Goberna M., Insam H., and Franke-Whittle I. (2009).
 \newblock \emph{Applied and Environmental Microbiology}, 75:\penalty0
   2566--2572.
 
-\bibitem[G\'{o}mez-Alvarez \emph{et~al.}(2009)G\'{o}mez-Alvarez, Teal, and
-  Schmidt]{Gomez-Alvarez2009}
-G\'{o}mez-Alvarez V., Teal T.~K., and Schmidt T.~M. (2009).
-\newblock {Systematic artifacts in metagenomes from complex microbial
-  communities}.
-\newblock \emph{The ISME Journal}, 3:\penalty0 1314--1317.
-
 \bibitem[G\'{o}mez-Consarnau \emph{et~al.}(2007)G\'{o}mez-Consarnau,
   Gonz\'{a}lez, Coll-Llad\'{o}, Gourdon, Pascher, Neutze, Pedr\'{o}s-Ali\'{o},
   and Pinhassi]{Gomez-Consarnau2007}
@@ -766,12 +754,6 @@ Humayoun S.~B., Bano N., and Hollibaugh J.~T. (2003).
   soda lake in California}.
 \newblock \emph{Applied and Environmental Microbiology}, 69:\penalty0
   1030--1042.
-
-\bibitem[Huse \emph{et~al.}(2007)Huse, Huber, Morrison, Sogin, and
-  Welch]{Huse2007}
-Huse S.~M., Huber J.~A., Morrison H.~G., Sogin M.~L., and Welch D. (2007).
-\newblock {Accuracy and quality of massively parallel DNA pyrosequencing}.
-\newblock \emph{Genome Biology}, 8:\penalty0 R143.
 
 \bibitem[Huu \emph{et~al.}(1996)Huu, Denner, Ha, Wanner, and
   Stan-Lotter]{Huu1999}
@@ -1096,13 +1078,6 @@ Mikucki J.~A., Pearson A., Johnston D.~T., Turchyn A.~V., Farquhar J., Schrag
 \newblock {A contemporary microbially maintained subglacial ferrous "ocean".}
 \newblock \emph{Science}, 324:\penalty0 397--400.
 
-\bibitem[Miller \emph{et~al.}(2008)Miller, Delcher, Koren, Venter, Walenz,
-  Brownley, Johnson, Li, Mobarry, and Sutton]{Miller2008}
-Miller J.~R., Delcher A.~L., Koren S., Venter E., Walenz B.~P., Brownley A.,
-  Johnson J., Li~K., Mobarry C., and Sutton G. (2008).
-\newblock {Aggressive assembly of pyrosequencing reads with mates}.
-\newblock \emph{Bioinformatics}, 24:\penalty0 2818--2824.
-
 \bibitem[Miyoshi \emph{et~al.}(2005)Miyoshi, Iwatsuki, and
   Naganuma]{Miyoshi2005}
 Miyoshi T., Iwatsuki T., and Naganuma T. (2005).
@@ -1146,12 +1121,6 @@ Moran M.~A., Belas R., Schell M., Gonz\'{a}lez J.~M., Sun F., Sun S., Binder
 Moran M.~A., Reisch C.~R., Kiene R.~P., and Whitman W.~B. (2012).
 \newblock {Genomic Insights into Bacterial DMSP Transformations}.
 \newblock \emph{Annual Review of Marine Science}, 4:\penalty0 523--542.
-
-\bibitem[Morgulis \emph{et~al.}(2006)Morgulis, Gertz, Sch\"{a}fer, and
-  Agarwala]{Morgulis2006}
-Morgulis A., Gertz E., Sch\"{a}fer A., and Agarwala R. (2006).
-\newblock {WindowMasker: window-based masker for sequenced genomes}.
-\newblock \emph{Bioinformatics}, 22:\penalty0 134--141.
 
 \bibitem[Morris \emph{et~al.}(2010)Morris, Nunn, Frazar, Goodlett, Ting, and
   Rocap]{Morris2010}

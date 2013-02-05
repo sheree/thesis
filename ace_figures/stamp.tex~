@@ -1,6 +1,6 @@
 \begin{figure}
 \centering
-\includegraphics[\textwidth]{ace_figures/stamp.pdf}
+\includegraphics[width=\textwidth]{ace_figures/stamp.pdf}
 \caption[Statistical analysis of Ace Lake metaproteome]{ Statistical analysis of normalised mass spectra from \ac{COG} annotated protein between each zone in Ace Lake. 
 Proteins are shown grouped into \ac{COG} categories.
 Only categories with corrected p-values $<$0.05 and effect size $>$5 are displayed.
