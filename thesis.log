@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.21)  5 FEB 2013 13:56
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.21)  5 FEB 2013 18:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -4024,91 +4024,1416 @@ Missing character: There is no “ in font cmr10!
 ]
 Appendix A.
 (./intro_figures/pcr_lakes.tex [129]
-Overfull \hbox (7.17749pt too wide) in alignment at lines 4--12
+Overfull \hbox (21.40387pt too wide) in alignment at lines 4--12
  [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (7.17749pt too wide) in alignment at lines 12--18
+Overfull \hbox (21.40387pt too wide) in alignment at lines 12--18
  [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (7.17749pt too wide) in alignment at lines 18--20
+Overfull \hbox (21.40387pt too wide) in alignment at lines 18--20
  [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (7.17749pt too wide) in alignment at lines 20--22
+Overfull \hbox (21.40387pt too wide) in alignment at lines 20--22
  [] [] [] [] [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--23
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
 []|\OT1/cmr/m/n/9 Lakes Bon-ney,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--23
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
 \OT1/cmr/m/n/9 Hoare, Fryx-ell,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--23
-\OT1/cmr/m/n/9 Joyce, Miers and
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+\OT1/cmr/m/n/9 Joyce, Miers,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--23
-\OT1/cmr/m/n/9 Vanda, Mc-Murdo
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--23
-[]|\OT1/cmr/m/n/9 Fresh to hy-per-
- []
-
-
-Underfull \hbox (badness 3646) in paragraph at lines 23--23
-\OT1/cmr/m/n/9 saline, per-ma-nently
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--23
-[]|\OT1/cmr/m/n/9 16S and
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--23
-\OT1/cmr/m/it/9 amoA \OT1/cmr/m/n/9 li-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--23
-[]|\OT1/cmr/m/it/9 Betaproteobacteria\OT1/cmr/m/n/9 ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23--23
-\OT1/cmr/m/it/9 Gammapro-teobac-te-
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+[]|\OT1/cmr/m/n/9 Fresh to hy-per-saline,
  []
 
 Missing character: There is no â in font cmr9!
 Missing character: There is no € in font cmr9!
 Missing character: There is no “ in font cmr9!
 
-Overfull \hbox (7.17749pt too wide) in alignment at lines 22--30
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+[]|\OT1/cmr/m/n/9 Hypersaline, meromic-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+\OT1/cmr/m/n/9 tic, per-ma-nently ice-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+[]|\OT1/cmr/m/it/9 nifH \OT1/cmr/m/n/9 li-brary
+ []
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 26--26
+\OT1/cmr/m/n/9 of ice ag-gre-
+ []
+
+
+Underfull \hbox (badness 1102) in paragraph at lines 26--26
+\OT1/cmr/m/n/9 gate ma-te-rial
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+\OT1/cmr/m/n/9 and mi-cro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+\OT1/cmr/m/n/9 bial mats,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+\OT1/cmr/m/n/9 ni-tro-ge-nase
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+[]|\OT1/cmr/m/it/9 Cyano\OT1/cmr/m/n/9 -, \OT1/cmr/m/it/9 Gamma\OT1/cmr/m/n/9 -
+,
+ []
+
+
+Underfull \hbox (badness 2846) in paragraph at lines 26--26
+\OT1/cmr/m/n/9 re-spon-si-ble for 10--30% of ni-tro-ge-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]|\OT1/cmr/m/n/9 Lake Bon-ney,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+\OT1/cmr/m/n/9 cyanobac-te-rial
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]|\OT1/cmr/m/n/9 Hypersaline, meromic-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+\OT1/cmr/m/n/9 tic, per-ma-nently ice-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+\OT1/cmr/m/n/9 hy-bridi-s-a-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]|\OT1/cmr/m/it/9 Cyano\OT1/cmr/m/n/9 -, \OT1/cmr/m/it/9 Aci-dobac-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+\OT1/cmr/m/it/9 terium\OT1/cmr/m/n/9 /\OT1/cmr/m/it/9 Holophaga\OT1/cmr/m/n/9 ,
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+\OT1/cmr/m/n/9 green non-sulphur
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+[]|\OT1/cmr/m/n/9 Hypersaline, meromic-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+\OT1/cmr/m/n/9 tic, per-ma-nently ice-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+[]|\OT1/cmr/m/n/9 18S li-braries
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+\OT1/cmr/m/n/9 of wa-ter-col-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+\OT1/cmr/m/it/9 Hap-to-phyta\OT1/cmr/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+\OT1/cmr/m/it/9 Choanoflag-el-l-ida\OT1/cmr/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+\OT1/cmr/m/it/9 Alve-o-lata\OT1/cmr/m/n/9 , fungi,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+[]|\OT1/cmr/m/n/9 Ekho, Or-ganic,
+ []
+
+
+Underfull \hbox (badness 5403) in paragraph at lines 32--32
+\OT1/cmr/bx/n/9 Or-ganic\OT1/cmr/m/n/9 : meromic-tic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\OT1/cmr/m/n/9 and ice-covered $\OMS/cmsy/m/n/9 ^^X$\OT1/cmr/m/n/9 9
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\OT1/cmr/m/n/9 months of the year.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+[]|\OT1/cmr/m/n/9 16S li-braries
+ []
+
+
+Underfull \hbox (badness 7116) in paragraph at lines 32--32
+[]|\OT1/cmr/bx/n/9 Organic\OT1/cmr/m/n/9 : \OT1/cmr/m/it/9 Cyano\OT1/cmr/m/n/9 
+-
+ []
+
+
+Underfull \hbox (badness 2426) in paragraph at lines 32--32
+\OT1/cmr/m/n/9 /chloroplasts, CFB,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\OT1/cmr/m/it/9 Gamma\OT1/cmr/m/n/9 -, \OT1/cmr/m/it/9 Al-pha\OT1/cmr/m/n/9 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\OT1/cmr/m/n/9 , \OT1/cmr/m/it/9 Halobac-te-ri-ales\OT1/cmr/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\OT1/cmr/m/it/9 Actino\OT1/cmr/m/n/9 -. \OT1/cmr/bx/n/9 Ekho\OT1/cmr/m/n/9 :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\OT1/cmr/m/it/9 Cyano\OT1/cmr/m/n/9 -/chloroplasts,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\OT1/cmr/m/n/9 CFB, \OT1/cmr/m/it/9 Fir-mi-cutes\OT1/cmr/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\OT1/cmr/m/it/9 Al-pha\OT1/cmr/m/n/9 -, \OT1/cmr/m/it/9 Gamma\OT1/cmr/m/n/9 -,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\OT1/cmr/m/it/9 Ver-ru-comi-cro-biales\OT1/cmr/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+\OT1/cmr/m/it/9 Spirochaetales\OT1/cmr/m/n/9 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]|\OT1/cmr/m/n/9 Hypersaline, meromic-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+\OT1/cmr/m/n/9 tic, per-ma-nently ice-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]|\OT1/cmr/m/n/9 16S, 18S
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[][]\OT1/cmr/m/n/9 , 16S
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+\OT1/cmr/m/it/9 Gamma\OT1/cmr/m/n/9 -, \OT1/cmr/m/it/9 Cyano\OT1/cmr/m/n/9 -,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+\OT1/cmr/m/n/9 OD1, TM7, \OT1/cmr/m/it/9 Fir-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+\OT1/cmr/m/it/9 mi-cutes\OT1/cmr/m/n/9 , \OT1/cmr/m/it/9 Planc-to-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+\OT1/cmr/m/it/9 myc-etales\OT1/cmr/m/n/9 . \OT1/cmr/bx/n/9 18S\OT1/cmr/m/n/9 :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+\OT1/cmr/m/it/9 Chloro-phyta\OT1/cmr/m/n/9 , fungi,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+\OT1/cmr/m/it/9 Bacil-lar-io-phyta\OT1/cmr/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 2600) in paragraph at lines 34--34
+\OT1/cmr/m/it/9 zoa\OT1/cmr/m/n/9 , \OT1/cmr/m/it/9 Chrys-o-phyceae\OT1/cmr/m/n
+/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+[]|\OT1/cmr/m/n/9 Hypersaline, meromic-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+\OT1/cmr/m/n/9 tic, sul-phidic anoxic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+[]|\OT1/cmr/m/n/9 16S li-braries
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+[]|\OT1/cmr/m/it/9 Marinobacter\OT1/cmr/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+\OT1/cmr/m/it/9 Halomonas\OT1/cmr/m/n/9 , \OT1/cmr/m/it/9 Pseu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+[]|\OT1/cmr/m/it/9 Marinobacter \OT1/cmr/m/n/9 iso-lates ca-pa-ble of
+ []
+
+
+Underfull \hbox (badness 2662) in paragraph at lines 36--36
+\OT1/cmr/m/n/9 DMSO-respiration were rel-a-tives of
+ []
+
+
+Underfull \hbox (badness 2591) in paragraph at lines 36--36
+\OT1/cmr/m/n/9 from the wa-ter col-umn un-able to
+ []
+
+
+Underfull \hbox (badness 6542) in paragraph at lines 38--38
+[]|\OT1/cmr/m/n/9 Clear, Pen-dant,
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 38--38
+\OT1/cmr/m/n/9 ton Lakes, Tay-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+[]|\OT1/cmr/m/n/9 16S li-braries
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+\OT1/cmr/m/n/9 of anoxic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+[]|\OT1/cmr/bx/n/9 Bacteria\OT1/cmr/m/n/9 : \OT1/cmr/m/it/9 Fir-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+\OT1/cmr/m/it/9 mi-cutes\OT1/cmr/m/n/9 , \OT1/cmr/m/it/9 Cyano\OT1/cmr/m/n/9 -
+ []
+
+
+Underfull \hbox (badness 2426) in paragraph at lines 38--38
+\OT1/cmr/m/n/9 /chloroplasts, CFB,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+\OT1/cmr/m/it/9 Delta\OT1/cmr/m/n/9 -, \OT1/cmr/m/it/9 Al-pha\OT1/cmr/m/n/9 -,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+\OT1/cmr/m/it/9 Planc-to-mycetes\OT1/cmr/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+\OT1/cmr/m/n/9 sulphur bac-te-ria,
+ []
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 38--38
+\OT1/cmr/bx/n/9 Eu-carya\OT1/cmr/m/n/9 : 2.5% of
+ []
+
+
+Underfull \hbox (badness 2698) in paragraph at lines 38--38
+\OT1/cmr/m/n/9 clones. \OT1/cmr/bx/n/9 Ar-chaea\OT1/cmr/m/n/9 :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+\OT1/cmr/m/it/9 Methanosarcina
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+\OT1/cmr/m/it/9 bark-erii\OT1/cmr/m/n/9 , un-known
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+\OT1/cmr/m/n/9 equidis-tant from
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+\OT1/cmr/m/it/9 Ther-mo-plasma\OT1/cmr/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+\OT1/cmr/m/it/9 Metha-nomi-cro-biales\OT1/cmr/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+[]|\OT1/cmr/m/n/9 Sulphate re-duc-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+\OT1/cmr/m/n/9 tion, methano-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+\OT1/cmr/m/n/9 gen-e-sis, pho-
+ []
+
+
+Underfull \hbox (badness 1540) in paragraph at lines 38--38
+[]|\OT1/cmr/m/n/9 Lakes with sim-i-lar physico-chemical
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\OT1/cmr/m/n/9 Brackish, meromic-tic,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\OT1/cmr/m/it/9 pufM \OT1/cmr/m/n/9 li-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\OT1/cmr/m/n/9 braries,
+ []
+
+
+Underfull \hbox (badness 6063) in paragraph at lines 40--40
+[][]\OT1/cmr/m/n/9 , RT-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\OT1/cmr/m/n/9 to pur-ple non-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+\OT1/cmr/m/n/9 aer-o-bic anoxy-genic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+[]|\OT1/cmr/m/n/9 Brackish, meromic-tic,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+[]|\OT1/cmr/m/it/9 Methanoculleus\OT1/cmr/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+\OT1/cmr/m/it/9 Methanosarcina\OT1/cmr/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+\OT1/cmr/m/n/9 un-clas-si-fied \OT1/cmr/m/it/9 Eu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+\OT1/cmr/m/it/9 r-yarchaeota\OT1/cmr/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+\OT1/cmr/m/it/9 Methanosarci-nales\OT1/cmr/m/n/9 -
+ []
+
+
+Underfull \hbox (badness 8132) in paragraph at lines 42--42
+\OT1/cmr/m/n/9 group and ma-rine
+ []
+
+
+Overfull \hbox (1.36969pt too wide) in paragraph at lines 42--42
+[]|\OT1/cmr/m/n/9 Hydrogenotrophic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+\OT1/cmr/m/n/9 methano-gen-e-sis,
+ []
+
+
+Underfull \hbox (badness 7064) in paragraph at lines 42--42
+\OT1/cmr/m/n/9 po-ten-tial anoxic
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 42--42
+[]|\OT1/cmr/m/n/9 Diverse pop-u-la-tion of methanogenic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+\OT1/cmr/m/it/9 Eu-r-yarchaeota\OT1/cmr/m/n/9 , un-clas-si-fied \OT1/cmr/m/it/9
+ Eu-r-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+\OT1/cmr/m/it/9 yarchaeota \OT1/cmr/m/n/9 and di-ver-gent \OT1/cmr/m/it/9 Cre-n
+ar-
+ []
+
+
+Underfull \hbox (badness 2277) in paragraph at lines 42--42
+\OT1/cmr/m/it/9 chaeota \OT1/cmr/m/n/9 de-tected in sed-i-ments and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+[]|\OT1/cmr/m/n/9 16S li-brary
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+\OT1/cmr/m/n/9 of anoxic
+ []
+
+
+Underfull \hbox (badness 7273) in paragraph at lines 44--44
+[]|\OT1/cmr/bx/n/9 Archaea\OT1/cmr/m/n/9 : ma-rine
+ []
+
+
+Underfull \hbox (badness 4954) in paragraph at lines 44--44
+\OT1/cmr/m/n/9 ben-thic group and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+\OT1/cmr/m/n/9 un-clas-si-fied \OT1/cmr/m/it/9 Eu-r-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+\OT1/cmr/m/it/9 Planc-to-mycetes\OT1/cmr/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+\OT1/cmr/m/it/9 Cyano\OT1/cmr/m/n/9 -/chloroplast,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+\OT1/cmr/m/it/9 Gamma\OT1/cmr/m/n/9 -, \OT1/cmr/m/it/9 Actino\OT1/cmr/m/n/9 -,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+[]|\OT1/cmr/m/n/9 Heywood Lake,
+ []
+
+
+Underfull \hbox (badness 7151) in paragraph at lines 46--46
+[]|\OT1/cmr/bx/n/9 Heywood\OT1/cmr/m/n/9 : ice cov-
+ []
+
+
+Underfull \hbox (badness 1275) in paragraph at lines 46--46
+\OT1/cmr/bx/n/9 Shal-low\OT1/cmr/m/n/9 : coastal ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/n/9 uni-ver-sal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/n/9 16S li-braries
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/n/9 of anoxic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/n/9 sed-i-ment.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/n/9 North-ern
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/n/9 blots with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/n/9 methanogenic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/n/9 ar-chaeal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+[]|\OT1/cmr/bx/n/9 Heywood blots\OT1/cmr/m/n/9 :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/it/9 Metha-nomi-cro-biales\OT1/cmr/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/it/9 Methanoge-nium\OT1/cmr/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/it/9 Methanosarci-nales\OT1/cmr/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/it/9 Methanosaeta\OT1/cmr/m/n/9 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/bx/n/9 Shal-low blots\OT1/cmr/m/n/9 :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/it/9 Methanosarci-nales\OT1/cmr/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/it/9 Metha-nomi-cro-
+ []
+
+
+Underfull \hbox (badness 5726) in paragraph at lines 46--46
+\OT1/cmr/m/it/9 biales\OT1/cmr/m/n/9 , \OT1/cmr/m/it/9 Methanococ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/it/9 coides\OT1/cmr/m/n/9 . \OT1/cmr/bx/n/9 Hey-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/bx/n/9 wood Ar-chaea\OT1/cmr/m/n/9 :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/it/9 Methanosaeta\OT1/cmr/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/it/9 Methanoge-nium\OT1/cmr/m/n/9 .
+ []
+
+
+Underfull \hbox (badness 3078) in paragraph at lines 46--46
+\OT1/cmr/bx/n/9 Shal-low Ar-chaea\OT1/cmr/m/n/9 :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/it/9 Methanoge-nium\OT1/cmr/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/it/9 Methanolobus\OT1/cmr/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/it/9 Methanococ-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/it/9 coides\OT1/cmr/m/n/9 . \OT1/cmr/bx/n/9 Hey-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/it/9 fovib-rio\OT1/cmr/m/n/9 , \OT1/cmr/m/it/9 Desul-fo-
+ []
+
+
+Overfull \hbox (4.48927pt too wide) in paragraph at lines 46--46
+\OT1/cmr/m/it/9 talea\OT1/cmr/m/n/9 /\OT1/cmr/m/it/9 Desulforhopalus\OT1/cmr/m/
+n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/it/9 Desul-fob-ul-bus\OT1/cmr/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/it/9 Desul-fobac-te-ri-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/it/9 aceae\OT1/cmr/m/n/9 . \OT1/cmr/bx/n/9 Shal-low
+ []
+
+
+Overfull \hbox (4.48927pt too wide) in paragraph at lines 46--46
+\OT1/cmr/m/it/9 talea\OT1/cmr/m/n/9 /\OT1/cmr/m/it/9 Desulforhopalus\OT1/cmr/m/
+n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/it/9 Desul-fobac-terium\OT1/cmr/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 2126) in paragraph at lines 46--46
+[]|\OT1/cmr/m/n/9 Acetoclastic and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/n/9 hy-drogenotrophic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/n/9 methano-gen-e-
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 46--46
+\OT1/cmr/m/n/9 sis, sul-phur and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/n/9 metal ox-i-da-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\OT1/cmr/m/n/9 tion, sul-phate
+ []
+
+
+Underfull \hbox (badness 3098) in paragraph at lines 48--48
+[]|\OT1/cmr/m/n/9 Freshwater, ice-covered
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 48--48
+\OT1/cmr/m/n/9 for $\OMS/cmsy/m/n/9 ^^X$\OT1/cmr/m/n/9 9 months of the
+ []
+
+
+Underfull \hbox (badness 2318) in paragraph at lines 48--48
+[]|\OT1/cmr/m/n/9 16S li-braries,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\OT1/cmr/m/n/9 DGGE, 16S
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\OT1/cmr/m/n/9 li-braries,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]|\OT1/cmr/bx/n/9 16S of iso-lates\OT1/cmr/m/n/9 :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\OT1/cmr/m/it/9 Beta\OT1/cmr/m/n/9 -, \OT1/cmr/m/it/9 Fir-mi-cutes\OT1/cmr/m/n/
+9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\OT1/cmr/m/it/9 Acti-nobac-te-ria\OT1/cmr/m/n/9 , \OT1/cmr/m/it/9 Al-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\OT1/cmr/m/it/9 pha\OT1/cmr/m/n/9 -, \OT1/cmr/m/it/9 Gamma\OT1/cmr/m/n/9 -.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\OT1/cmr/m/it/9 Actino\OT1/cmr/m/n/9 -, \OT1/cmr/m/it/9 Gamma\OT1/cmr/m/n/9 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\OT1/cmr/m/n/9 , \OT1/cmr/m/it/9 Beta\OT1/cmr/m/n/9 -, \OT1/cmr/m/it/9 Al-pha\O
+T1/cmr/m/n/9 -.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\OT1/cmr/bx/n/9 Clones\OT1/cmr/m/n/9 : \OT1/cmr/m/it/9 Actino\OT1/cmr/m/n/9 -,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\OT1/cmr/m/n/9 CFB, \OT1/cmr/m/it/9 Beta\OT1/cmr/m/n/9 -, \OT1/cmr/m/it/9 Al-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\OT1/cmr/m/it/9 Delta\OT1/cmr/m/n/9 -, \OT1/cmr/m/it/9 Gamma\OT1/cmr/m/n/9 -,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\OT1/cmr/m/it/9 Ver-ru-comi-cro-bia\OT1/cmr/m/n/9 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\OT1/cmr/m/it/9 Al-pha\OT1/cmr/m/n/9 -, \OT1/cmr/m/it/9 Gamma\OT1/cmr/m/n/9 -.
+ []
+
+
+Underfull \hbox (badness 4048) in paragraph at lines 48--48
+\OT1/cmr/bx/n/9 DGGE\OT1/cmr/m/n/9 : \OT1/cmr/m/it/9 Acti-nobac-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]|\OT1/cmr/m/n/9 Heterotrophic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\OT1/cmr/m/n/9 mainly res-pi-ra-
+ []
+
+
+Underfull \hbox (badness 3098) in paragraph at lines 50--50
+[]|\OT1/cmr/m/n/9 Freshwater, ice-covered
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 50--50
+\OT1/cmr/m/n/9 for $\OMS/cmsy/m/n/9 ^^X$\OT1/cmr/m/n/9 9 months of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]|\OT1/cmr/m/n/9 16S DGGE
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 50--50
+\OT1/cmr/m/n/9 and FISH of
+ []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 50--50
+\OT1/cmr/m/n/9 , \OT1/cmr/m/it/9 Gamma\OT1/cmr/m/n/9 -, \OT1/cmr/m/it/9 Actino\
+OT1/cmr/m/n/9 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]|\OT1/cmr/m/n/9 Heterotrophy,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\OT1/cmr/m/n/9 mainly res-pi-ra-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+[]|\OT1/cmr/m/n/9 Moss, Som-bre,
+ []
+
+
+Underfull \hbox (badness 4353) in paragraph at lines 52--52
+\OT1/cmr/m/n/9 Hey-wood Lakes,
+ []
+
+
+Underfull \hbox (badness 3098) in paragraph at lines 52--52
+[]|\OT1/cmr/m/n/9 Freshwater, ice-covered
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 52--52
+\OT1/cmr/m/n/9 for $\OMS/cmsy/m/n/9 ^^X$\OT1/cmr/m/n/9 9 months of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+\OT1/cmr/m/n/9 pro-file over
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+\OT1/cmr/m/n/9 the win-ter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+\OT1/cmr/m/n/9 to sum-mer
+ []
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 52--52
+\OT1/cmr/m/n/9 strat-i-fied in win-ter, mixed in sum-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\OT1/cmr/m/n/9 Heywood Lake,
+ []
+
+
+Underfull \hbox (badness 3098) in paragraph at lines 54--54
+[]|\OT1/cmr/m/n/9 Freshwater, ice-covered
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 54--54
+\OT1/cmr/m/n/9 for $\OMS/cmsy/m/n/9 ^^X$\OT1/cmr/m/n/9 9 months of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\OT1/cmr/m/n/9 or-ganic in-puts from
+ []
+
+
+Underfull \hbox (badness 2318) in paragraph at lines 54--54
+[]|\OT1/cmr/m/n/9 16S li-braries,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[][]\OT1/cmr/m/n/9 , 16S
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\OT1/cmr/m/n/9 li-braries,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\OT1/cmr/m/it/9 Al-pha\OT1/cmr/m/n/9 -, \OT1/cmr/m/it/9 Actino\OT1/cmr/m/n/9 -.
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\OT1/cmr/bx/n/9 FAME\OT1/cmr/m/n/9 : \OT1/cmr/m/it/9 Actino\OT1/cmr/m/n/9 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\OT1/cmr/m/n/9 , \OT1/cmr/m/it/9 Fir-mi-cutes\OT1/cmr/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\OT1/cmr/m/it/9 Gamma\OT1/cmr/m/n/9 -, \OT1/cmr/m/it/9 Al-pha\OT1/cmr/m/n/9 -
+ []
+
+
+Underfull \hbox (badness 5288) in paragraph at lines 54--54
+\OT1/cmr/m/n/9 . \OT1/cmr/bx/n/9 FISH\OT1/cmr/m/n/9 : \OT1/cmr/m/it/9 Beta\OT1/
+cmr/m/n/9 -,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\OT1/cmr/m/n/9 CFB, \OT1/cmr/m/it/9 Gamma\OT1/cmr/m/n/9 -,
+ []
+
+
+Underfull \hbox (badness 5189) in paragraph at lines 54--54
+\OT1/cmr/m/it/9 Al-pha\OT1/cmr/m/n/9 -. [][]:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\OT1/cmr/m/it/9 Actino\OT1/cmr/m/n/9 -, CFB,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\OT1/cmr/m/n/9 Gram-positives,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\OT1/cmr/m/n/9 Heterotrophy,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\OT1/cmr/m/n/9 mainly res-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\OT1/cmr/m/n/9 pi-ra-tory
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\OT1/cmr/m/n/9 metabolisms,
+ []
+
+
+Underfull \hbox (badness 2970) in paragraph at lines 56--56
+[]|\OT1/cmr/m/n/9 Lakes Boeckella,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+\OT1/cmr/m/n/9 En-can-tado,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+\OT1/cmr/m/n/9 Chico, Ping^^?ui,
+ []
+
+
+Underfull \hbox (badness 3417) in paragraph at lines 56--56
+\OT1/cmr/m/n/9 Hope Bay, AP.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+\OT1/cmr/m/n/9 ex-cept Ping^^?ui and
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 56--56
+\OT1/cmr/m/n/9 sur-face wa-ter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+[]|\OT1/cmr/m/it/9 Chrysophyta\OT1/cmr/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+\OT1/cmr/m/it/9 Chloro-phyta\OT1/cmr/m/n/9 , \OT1/cmr/m/it/9 Dic-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+\OT1/cmr/m/it/9 ty-ochophyceae\OT1/cmr/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+\OT1/cmr/m/it/9 Bacil-lar-io-phyceae\OT1/cmr/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 3954) in paragraph at lines 56--56
+\OT1/cmr/m/n/9 level of di-ver-sity ex-ists than can
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 56--56
+\OT1/cmr/m/n/9 be de-ter-mined by light mi-croscopy.
+ []
+
+
+Underfull \hbox (badness 2970) in paragraph at lines 58--58
+[]|\OT1/cmr/m/n/9 Lakes Boeckella,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+\OT1/cmr/m/n/9 En-can-tado,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+\OT1/cmr/m/n/9 Chico, Ping^^?ui,
+ []
+
+
+Underfull \hbox (badness 3417) in paragraph at lines 58--58
+\OT1/cmr/m/n/9 Hope Bay, AP.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+\OT1/cmr/m/n/9 ex-cept Ping^^?ui and
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 58--58
+\OT1/cmr/m/n/9 sur-face wa-ter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[]|\OT1/cmr/m/n/9 Heterotrophy,
+ []
+
+
+Underfull \hbox (badness 2409) in paragraph at lines 58--58
+\OT1/cmr/m/n/9 Boeckella formed an-other sub-group
+ []
+
+
+Underfull \hbox (badness 6910) in paragraph at lines 60--60
+[]|\OT1/cmr/m/n/9 Lakes Limnopo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+\OT1/cmr/m/n/9 lar, Midge,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+\OT1/cmr/m/n/9 Chester, Chica,
+ []
+
+
+Underfull \hbox (badness 3138) in paragraph at lines 60--60
+\OT1/cmr/m/n/9 Tur-bio, Somero,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+\OT1/cmr/m/n/9 from sur-face
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]|\OT1/cmr/m/n/9 Heterotrophy,
+ []
+
+
+Underfull \hbox (badness 1253) in paragraph at lines 60--60
+\OT1/cmr/m/n/9 the plateau grouped to-gether while
+ []
+
+
+Underfull \hbox (badness 2080) in paragraph at lines 60--60
+\OT1/cmr/m/n/9 Somero and Refu-gio were sep-a-rate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+\OT1/cmr/m/n/9 iso-lated from sur-face
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+[]|\OT1/cmr/m/n/9 16S li-brary
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+\OT1/cmr/m/n/9 of ac-cre-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+[]|\OT1/cmr/m/n/9 Potential het-
+ []
+
+
+Overfull \hbox (21.40387pt too wide) in alignment at lines 22--63
+ [] [] [] [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+\OT1/cmr/m/n/9 iso-lated from sur-face
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+[]|\OT1/cmr/m/n/9 16S li-brary
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+\OT1/cmr/m/n/9 of ac-cre-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+\OT1/cmr/m/n/9 3,590 and
+ []
+
+
+Underfull \hbox (badness 1194) in paragraph at lines 64--64
+\OT1/cmr/m/n/9 3,603 m and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+\OT1/cmr/m/n/9 iso-la-tion of
+ []
+
+
+Underfull \hbox (badness 1142) in paragraph at lines 64--64
+[]|\OT1/cmr/m/it/9 Alpha\OT1/cmr/m/n/9 -, \OT1/cmr/m/it/9 Beta\OT1/cmr/m/n/9 -,
+ \OT1/cmr/m/it/9 Fir-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+\OT1/cmr/m/it/9 mi-cutes\OT1/cmr/m/n/9 , \OT1/cmr/m/it/9 Actino\OT1/cmr/m/n/9 -
+,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+[]|\OT1/cmr/m/n/9 Potential het-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+\OT1/cmr/m/n/9 iso-lated from sur-face
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+[]|\OT1/cmr/m/n/9 16S,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+\OT1/cmr/m/it/9 cbbL\OT1/cmr/m/n/9 /\OT1/cmr/m/it/9 rbcL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+\OT1/cmr/m/n/9 and \OT1/cmr/m/it/9 hoxV-
+ []
+
+
+Underfull \hbox (badness 7869) in paragraph at lines 66--66
+\OT1/cmr/m/it/9 hupL \OT1/cmr/m/n/9 li-brary
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+\OT1/cmr/m/n/9 of ac-cre-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+[]|\OT1/cmr/m/n/9 Potential hy-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+[]|\OT1/cmr/m/n/9 Thermophilic chemolithoau-totroh-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+\OT1/cmr/m/n/9 pic \OT1/cmr/m/it/9 Hy-drogenophilus ther-mo-lu-te-o-lus
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+\OT1/cmr/m/n/9 16S rRNA, [][] and NiFe-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+\OT1/cmr/m/n/9 iso-lated from sur-face
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+[]|\OT1/cmr/m/n/9 16S li-brary
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+\OT1/cmr/m/n/9 of Vos-tok
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+\OT1/cmr/m/n/9 drilling fluid
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+\OT1/cmr/m/n/9 re-cov-ered
+ []
+
+
+Underfull \hbox (badness 6944) in paragraph at lines 68--68
+\OT1/cmr/m/n/9 of the bore
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+[]|\OT1/cmr/m/it/9 Sphingomonas\OT1/cmr/m/n/9 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+\OT1/cmr/m/n/9 po-ten-tial con-tam-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+\OT1/cmr/m/n/9 i-nants re-lated to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+\OT1/cmr/m/n/9 hu-man/animal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+[]|\OT1/cmr/m/n/9 Hydrocarbon
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+\OT1/cmr/m/n/9 de-grad-ing het-
+ []
+
+
+Overfull \hbox (21.40387pt too wide) in alignment at lines 63--70
  [] [] [] [] [] [] [] 
  []
 
 [130
 
-])
-Appendix B.
-(./ace_figures/ace_protids_5m.tex [131
+] [131] [132] [133] [134] [135] [136] [137]) [138
 
 
 ]
+Appendix B.
+(./ace_figures/ace_protids_5m.tex [139]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 26--26
 []|\OT1/cmr/m/n/9 0.02530| 
  []
@@ -4603,7 +5928,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 85--85
 []|\OT1/cmr/m/n/9 0.00033| 
  []
 
-[132
+[140
 
 ]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 86--86
@@ -4765,7 +6090,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 105--105
 []|\OT1/cmr/m/n/9 K02945| 
  []
 
-[133]
+[141]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 106--106
 []|\OT1/cmr/m/n/9 0.00015| 
  []
@@ -5100,7 +6425,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 145--145
 []|\OT1/cmr/m/n/9 K03043| 
  []
 
-[134]
+[142]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 146--146
 []|\OT1/cmr/m/n/9 0.00004| 
  []
@@ -5240,7 +6565,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 167--167
 []|\OT1/cmr/m/n/9 0.01103| 
  []
 
-[135]
+[143]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 168--168
 []|\OT1/cmr/m/n/9 0.00968| 
  []
@@ -5340,7 +6665,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 187--187
 []|\OT1/cmr/m/n/9 0.00409| 
  []
 
-[136]
+[144]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 188--188
 []|\OT1/cmr/m/n/9 0.00397| 
  []
@@ -5540,7 +6865,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 227--227
 []|\OT1/cmr/m/n/9 0.00143| 
  []
 
-[137]
+[145]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 228--228
 []|\OT1/cmr/m/n/9 0.00135| 
  []
@@ -5755,7 +7080,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 267--267
 []|\OT1/cmr/m/n/9 0.00070| 
  []
 
-[138]
+[146]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 268--268
 []|\OT1/cmr/m/n/9 0.00070| 
  []
@@ -5855,7 +7180,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 287--287
 []|\OT1/cmr/m/n/9 0.00049| 
  []
 
-[139]
+[147]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 288--288
 []|\OT1/cmr/m/n/9 0.00048| 
  []
@@ -6080,7 +7405,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 327--327
 []|\OT1/cmr/m/n/9 0.00024| 
  []
 
-[140]
+[148]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 328--328
 []|\OT1/cmr/m/n/9 0.00023| 
  []
@@ -6340,7 +7665,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 367--367
 []|\OT1/cmr/m/n/9 0.00007| 
  []
 
-[141]
+[149]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 368--368
 []|\OT1/cmr/m/n/9 0.00007| 
  []
@@ -6450,7 +7775,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 387--387
 []|\OT1/cmr/m/n/9 0.00001| 
  []
 
-[142]
+[150]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 391--391
 []|\OT1/cmr/m/n/9 0.01263| 
  []
@@ -6660,7 +7985,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 429--429
 []|\OT1/cmr/m/n/9 0.00124| 
  []
 
-[143]
+[151]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 430--430
 []|\OT1/cmr/m/n/9 0.00116| 
  []
@@ -6865,7 +8190,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 469--469
 []|\OT1/cmr/m/n/9 0.00043| 
  []
 
-[144]
+[152]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 470--470
 []|\OT1/cmr/m/n/9 0.00042| 
  []
@@ -6975,7 +8300,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 489--489
 []|\OT1/cmr/m/n/9 0.00027| 
  []
 
-[145]
+[153]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 490--490
 []|\OT1/cmr/m/n/9 0.00027| 
  []
@@ -7185,7 +8510,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 529--529
 []|\OT1/cmr/m/n/9 0.00004| 
  []
 
-[146]
+[154]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 530--530
 []|\OT1/cmr/m/n/9 0.00003| 
  []
@@ -7200,7 +8525,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 532--532
 []|\OT1/cmr/m/n/9 0.00002| 
  []
 
-[147] [148]) (./ace_figures/ace_protids_11.5m.tex
+[155] [156]) (./ace_figures/ace_protids_11.5m.tex
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 26--26
 []|\OT1/cmr/m/n/9 0.01734| 
  []
@@ -7680,7 +9005,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 87--87
 []|\OT1/cmr/m/n/9 0.01947| 
  []
 
-[149
+[157
 
 
 ]
@@ -7793,7 +9118,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 107--107
 []|\OT1/cmr/m/n/9 0.00433| 
  []
 
-[150]
+[158]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 108--108
 []|\OT1/cmr/m/n/9 0.00413| 
  []
@@ -7998,7 +9323,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 147--147
 []|\OT1/cmr/m/n/9 0.00189| 
  []
 
-[151]
+[159]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 148--148
 []|\OT1/cmr/m/n/9 0.00187| 
  []
@@ -8098,7 +9423,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 167--167
 []|\OT1/cmr/m/n/9 0.00145| 
  []
 
-[152]
+[160]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 168--168
 []|\OT1/cmr/m/n/9 0.00143| 
  []
@@ -8323,7 +9648,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 209--209
 []|\OT1/cmr/m/n/9 0.01466| 
  []
 
-[153]
+[161]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 210--210
 []|\OT1/cmr/m/n/9 0.00797| 
  []
@@ -8523,7 +9848,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 249--249
 []|\OT1/cmr/m/n/9 0.00074| 
  []
 
-[154]
+[162]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 250--250
 []|\OT1/cmr/m/n/9 0.00071| 
  []
@@ -8553,7 +9878,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 255--255
 []|\OT1/cmr/m/n/9 0.00040| 
  []
 
-[155] [156]) (./ace_figures/ace_protids_12.7m.tex
+[163] [164]) (./ace_figures/ace_protids_12.7m.tex
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 26--26
 []|\OT1/cmr/m/n/9 0.01035| 
  []
@@ -9118,7 +10443,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 85--85
 []|\OT1/cmr/m/n/9 K00688| 
  []
 
-[157
+[165
 
 
 ]
@@ -9297,7 +10622,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 105--105
 []|\OT1/cmr/m/n/9 0.00056| 
  []
 
-[158]
+[166]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 106--106
 []|\OT1/cmr/m/n/9 0.00053| 
  []
@@ -9688,7 +11013,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 145--145
 []|\OT1/cmr/m/n/9 K01895| 
  []
 
-[159]
+[167]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 146--146
 []|\OT1/cmr/m/n/9 0.00033| 
  []
@@ -9863,7 +11188,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 165--165
 []|\OT1/cmr/m/n/9 K00615| 
  []
 
-[160]
+[168]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 166--166
 []|\OT1/cmr/m/n/9 0.00027| 
  []
@@ -10033,7 +11358,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 185--185
 []|\OT1/cmr/m/n/9 0.00023| 
  []
 
-[161]
+[169]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 186--186
 []|\OT1/cmr/m/n/9 0.00022| 
  []
@@ -10388,7 +11713,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 225--225
 []|\OT1/cmr/m/n/9 K07568| 
  []
 
-[162]
+[170]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 226--226
 []|\OT1/cmr/m/n/9 0.00015| 
  []
@@ -10573,7 +11898,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 245--245
 []|\OT1/cmr/m/n/9 K02954| 
  []
 
-[163]
+[171]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 246--246
 []|\OT1/cmr/m/n/9 0.00012| 
  []
@@ -10949,7 +12274,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 285--285
 []|\OT1/cmr/m/n/9 K00615| 
  []
 
-[164]
+[172]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 286--286
 []|\OT1/cmr/m/n/9 0.00008| 
  []
@@ -11144,7 +12469,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 305--305
 []|\OT1/cmr/m/n/9 K06142| 
  []
 
-[165]
+[173]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 306--306
 []|\OT1/cmr/m/n/9 0.00007| 
  []
@@ -11335,7 +12660,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 325--325
 []|\OT1/cmr/m/n/9 0.00006| 
  []
 
-[166]
+[174]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 326--326
 []|\OT1/cmr/m/n/9 0.00006| 
  []
@@ -11705,7 +13030,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 365--365
 []|\OT1/cmr/m/n/9 K02897| 
  []
 
-[167]
+[175]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 366--366
 []|\OT1/cmr/m/n/9 0.00004| 
  []
@@ -11895,7 +13220,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 385--385
 []|\OT1/cmr/m/n/9 K02014| 
  []
 
-[168]
+[176]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 386--386
 []|\OT1/cmr/m/n/9 0.00003| 
  []
@@ -12235,7 +13560,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 425--425
 []|\OT1/cmr/m/n/9 K00059| 
  []
 
-[169]
+[177]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 426--426
 []|\OT1/cmr/m/n/9 0.00001| 
  []
@@ -12400,7 +13725,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 447--447
 []|\OT1/cmr/m/n/9 0.00148| 
  []
 
-[170]
+[178]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 448--448
 []|\OT1/cmr/m/n/9 0.00139| 
  []
@@ -12645,7 +13970,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 487--487
 []|\OT1/cmr/m/n/9 K07164| 
  []
 
-[171]
+[179]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 488--488
 []|\OT1/cmr/m/n/9 0.00014| 
  []
@@ -12760,7 +14085,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 507--507
 []|\OT1/cmr/m/n/9 K08940| 
  []
 
-[172]
+[180]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 508--508
 []|\OT1/cmr/m/n/9 0.00004| 
  []
@@ -12890,7 +14215,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 536--536
 []|\OT1/cmr/m/n/9 0.00002| 
  []
 
-[173] [174]) (./ace_figures/ace_protids_14m.tex
+[181] [182]) (./ace_figures/ace_protids_14m.tex
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 26--26
 []|\OT1/cmr/m/n/9 0.06300| 
  []
@@ -13456,7 +14781,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 85--85
 []|\OT1/cmr/m/n/9 K01596| 
  []
 
-[175
+[183
 
 
 ]
@@ -13649,7 +14974,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 105--105
 []|\OT1/cmr/m/n/9 K03043| 
  []
 
-[176]
+[184]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 106--106
 []|\OT1/cmr/m/n/9 0.00243| 
  []
@@ -14029,7 +15354,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 145--145
 []|\OT1/cmr/m/n/9 K01682| 
  []
 
-[177]
+[185]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 146--146
 []|\OT1/cmr/m/n/9 0.00118| 
  []
@@ -14224,7 +15549,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 165--165
 []|\OT1/cmr/m/n/9 K04088| 
  []
 
-[178]
+[186]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 166--166
 []|\OT1/cmr/m/n/9 0.00095| 
  []
@@ -14606,7 +15931,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 205--205
 []|\OT1/cmr/m/n/9 K01551| 
  []
 
-[179]
+[187]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 206--206
 []|\OT1/cmr/m/n/9 0.00049| 
  []
@@ -14781,7 +16106,7 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 225--225
 []|\OT1/cmr/m/n/9 K09812| 
  []
 
-[180]
+[188]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 226--226
 []|\OT1/cmr/m/n/9 0.00031| 
  []
@@ -15111,7 +16436,7 @@ Overfull \hbox (8.83376pt too wide) in paragraph at lines 267--267
 []|\OT1/cmr/m/n/9 CLOSTASPAR[]06273| 
  []
 
-[181]
+[189]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 268--268
 []|\OT1/cmr/m/n/9 0.00672| 
  []
@@ -15236,7 +16561,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 287--287
 []|\OT1/cmr/m/n/9 0.00160| 
  []
 
-[182]
+[190]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 288--288
 []|\OT1/cmr/m/n/9 0.00156| 
  []
@@ -15451,7 +16776,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 329--329
 []|\OT1/cmr/m/n/9 0.01745| 
  []
 
-[183]
+[191]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 330--330
 []|\OT1/cmr/m/n/9 0.01725| 
  []
@@ -15551,7 +16876,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 349--349
 []|\OT1/cmr/m/n/9 0.00744| 
  []
 
-[184]
+[192]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 350--350
 []|\OT1/cmr/m/n/9 0.00733| 
  []
@@ -15751,7 +17076,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 389--389
 []|\OT1/cmr/m/n/9 0.00085| 
  []
 
-[185]
+[193]
 Overfull \hbox (4.71194pt too wide) in paragraph at lines 390--390
 []|\OT1/cmr/m/n/9 0.00077| 
  []
@@ -15806,7 +17131,7 @@ Overfull \hbox (4.71194pt too wide) in paragraph at lines 400--400
 []|\OT1/cmr/m/n/9 0.00023| 
  []
 
-[186] [187]) (./ace_figures/ace_protids_18m.tex
+[194] [195]) (./ace_figures/ace_protids_18m.tex
 Overfull \hbox (1.8651pt too wide) in paragraph at lines 30--30
 []|\OT1/cmr/m/n/9 K04077| 
  []
@@ -15826,10 +17151,10 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 42--42
 []|\OT1/cmr/m/n/9 K08944| 
  []
 
-[188
+[196
 
 
-] [189] [190] [191]) (./ace_figures/ace_protids_23m.tex
+] [197] [198] [199]) (./ace_figures/ace_protids_23m.tex
 Overfull \hbox (1.8651pt too wide) in paragraph at lines 28--28
 []|\OT1/cmr/m/n/9 K06960| 
  []
@@ -15884,12 +17209,12 @@ Overfull \hbox (1.8651pt too wide) in paragraph at lines 71--71
 []|\OT1/cmr/m/n/9 K06142| 
  []
 
-[192
+[200
 
 
-] [193] [194] [195] [196])
+] [201] [202] [203] [204])
 Appendix C.
-[197
+[205
 
 
 ] (./olv_figures/peptides.tex
@@ -15957,7 +17282,7 @@ Overfull \hbox (7.54718pt too wide) in alignment at lines 61--62
  [] [] [] 
  []
 
-)) [198]
+)) [206]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 108.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 108.
  (./thesis.aux (./dissert.aux) (./title.aux) (./originality.aux)
@@ -15975,11 +17300,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 108.
  ) 
 Here is how much of TeX's memory you used:
- 11964 strings out of 493488
- 182185 string characters out of 3141347
- 359547 words of memory out of 3000000
- 14022 multiletter control sequences out of 15000+200000
- 14844 words of font info for 49 fonts, out of 3000000 for 9000
+ 11974 strings out of 493488
+ 182270 string characters out of 3141347
+ 363666 words of memory out of 3000000
+ 14023 multiletter control sequences out of 15000+200000
+ 15181 words of font info for 50 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  44i,18n,48p,1531b,974s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
@@ -16007,11 +17332,12 @@ ist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2012/texmf-di
 st/fonts/type1/public/cbfonts/grmn1095.pfb></usr/local/texlive/2012/texmf-dist/
 fonts/type1/public/cm-super/sfbx0900.pfb></usr/local/texlive/2012/texmf-dist/fo
 nts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2012/texmf-dist/font
-s/type1/public/cm-super/sfrm1095.pfb>
-Output written on thesis.pdf (217 pages, 21230279 bytes).
+s/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2012/texmf-dist/fonts/
+type1/public/cm-super/sfrm1095.pfb>
+Output written on thesis.pdf (225 pages, 21261363 bytes).
 PDF statistics:
- 6240 PDF objects out of 7423 (max. 8388607)
- 5302 compressed objects within 54 object streams
- 818 named destinations out of 1000 (max. 500000)
+ 6332 PDF objects out of 7423 (max. 8388607)
+ 5385 compressed objects within 54 object streams
+ 826 named destinations out of 1000 (max. 500000)
  820 words of extra memory for PDF output out of 10000 (max. 10000000)
 

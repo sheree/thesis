@@ -84,5 +84,5 @@
 \contentsline {section}{\numberline {5.3}Perspectives on `-omics' approaches }{106}{section.5.3}
 \contentsline {section}{\numberline {5.4}Concluding remarks}{108}{section.5.4}
 \contentsline {chapter}{Appendix \numberline {A}PCR-based studies of Antarctic Lakes}{129}{Appendix.a.A}
-\contentsline {chapter}{Appendix \numberline {B}Proteins identified in Ace Lake metaproteomic analysis}{131}{Appendix.a.B}
-\contentsline {chapter}{Appendix \numberline {C}Peptide sequences of OLV and OLPV proteins identified in the metaproteome}{197}{Appendix.a.C}
+\contentsline {chapter}{Appendix \numberline {B}Proteins identified in Ace Lake metaproteomic analysis}{139}{Appendix.a.B}
+\contentsline {chapter}{Appendix \numberline {C}Peptide sequences of OLV and OLPV proteins identified in the metaproteome}{205}{Appendix.a.C}
