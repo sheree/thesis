@@ -10,7 +10,7 @@ A version of this chapter has been submitted as:\\
 \textbf{Sheree Yau}, Federico M. Lauro, Timothy J. Williams, Matthew Z. DeMaere, Mark V. Brown, John Rich, 
 John A.E. Gibson, Ricardo Cavicchioli. 
 Strategies of carbon conservation and unusual sulfur biogeochemistry in a hypersaline lake.
-\emph{\underline{ISME Journal}}
+%\emph{\underline{ISME Journal}}
 (submitted), 2013.
 
 Contributions to this manuscript by other researchers is as follows.
@@ -22,13 +22,13 @@ Assistance in interpretation of geochemistry provided by John Gibson.
 Assistance in global taxonomic and functional gene analysis provided by Federico Lauro. 
 Assistance in analysis and intrepretation of metabolic pathways provided by Timothy Williams.
 
-Apart from these contributions, I performed all other data analyses, interpretations and wrote the manuscript.
+Apart from these contributions, I performed all other data analyses, interpretations and drafted the manuscript.
 \newpage
 
 %----------------------------------------------------------------------------------------------
 
 \section{Abstract}
-Organic Lake is a shallow, marine-derived hypersaline lake in the Vestfold Hills, Antarctica that has the highest reported concentration of \ac{DMS} in a natural body of water.
+Organic Lake in the Vestfold Hills has the highest reported concentration of \ac{DMS} in a natural body of water.
 To determine the composition and functional potential of the microbial community and learn about the unusual sulphur chemistry in Organic Lake, shotgun metagenomics was performed on size fractionated samples collected along a depth profile.
 Eucaryal phytoflagellates were the main photosynthetic organisms.
 Bacteria were dominated by the globally distributed heterotrophic taxa \emph{Marinobacter}, \emph{Roseovarius} and \emph{Psychroflexus}.
@@ -60,8 +60,8 @@ To overcome this limitation, Eucaryotic phytoflagellates in Ace Lake engage in c
 Marine heterotrophic bacteria are known to be similarly resourceful by exploiting light energy through photoheterotrophy that includes \ac{AAnP} or via use of rhodopsins, or lithoheterotrophy such as oxidation of carbon monoxide \cite{Moran2007b}.
 Heterotrophic bacteria that can harness energy sources apart from organic carbon can direct a greater proportion of carbon towards growth, which serves to conserve fixed carbon within a closed systems \cite{Moran2007b}. 
 
-Organic Lake is shallow ($\sim$7 m) and has variable surface water temperatures ($-$14 to $+$15$^{\circ}$C) while remaining sub-zero throughout most of its depth \cite{Franzmann1987b, Gibson1991, Roberts1993b, Gibson1999}.
-The salt and marine biota in the lake originate from seawater that was trapped in a basin $\sim$3,000 BP \cite{Zwartz1998, Bird1991}. 
+%Organic Lake is shallow ($\sim$7 m) and has variable surface water temperatures ($-$14 to $+$15$^{\circ}$C) while remaining sub-zero throughout most of its depth \cite{Franzmann1987b, Gibson1991, Roberts1993b, Gibson1999}.
+%The salt and marine biota in the lake originate from seawater that was trapped in a basin $\sim$3,000 BP \cite{Zwartz1998, Bird1991}. 
 The bottom waters of Organic Lake are unusual due to the absence of hydrogen sulphide and the high concentration of the volatile gas \ac{DMS} \cite{Deprez1986, Franzmann1987b, Gibson1991, Roberts1993a, Roberts1993b}. 
 Concentrations of \ac{DMS} as high as 5,000 nM have been recorded in Organic Lake \cite{Gibson1991}, 100 times the maximum concentration recorded from seawater in the adjacent Prydz Bay and at least 1,000 times that of the open Southern Ocean \cite{Curran1998}.
 More than forty years ago atmospheric \ac{DMS} was proposed to have a regulatory effect on global cloud cover as it is a precursor of cloud condensation nuclei \cite{Lovelock1972, Charlson1987}.
@@ -75,7 +75,7 @@ Eucaryal phytoplankton, in particular diatoms, dinoflagellates and haptophytes, 
 However, it is only the cleavage pathway that releases volatile \ac{DMS} that can lead to sulphur loss through ventilation to the atmosphere.
 The very high levels of \ac{DMS} in Organic Lake make it an ideal system for identifying the microorganisms and the processes involved in \ac{DMS} accumulation. 
 
-The previous Organic Lake metagenomic study examined viruses from the 0.1 \textmu{}m fraction of surface water that was collected from Organic Lake in December 2006, and November and December 2008 \cite{Yau2011} (Chapter \ref{ch:olv}). 
+The previous Organic Lake metaproteogenomic study examined viruses from the 0.1 \textmu{}m fraction of surface water that was collected from Organic Lake in December 2006, and November and December 2008 \cite{Yau2011} (Chapter \ref{ch:olv}). 
 In the present study we focused on the cellular population rather than viruses. 
 Our study determined the composition and functional potential of Organic Lake microbiota and, in conjunction with historic and contemporary physico-chemical data, generated an integrative understanding of the whole lake ecosystem. 
 %------------------------------------------------------------------------------------------
@@ -149,7 +149,7 @@ Open reading frames \acsp{ORF} were translated using the standard bacterial/plas
 
 The \ac{BLAST} output was processed using \ac{KOBAS} version 2.0 \cite{Xie2011} accepting assignments to \ac{KO} groups with e-value $<$1e$-$05 and rank $>$5. 
 \ac{KO} groups used as functional markersare listed in Supplementary \tabref{tab:KO_table}. 
-Marker enzymes were assigned to taxonomic groups based on the species of origin of the best \ac{KEGG} Genes \textsc{BLASTp} match. 
+Marker enzymes were assigned to taxonomic groups based on the species of origin of the best \ac{KEGG} Genes match. 
 \input{orglake_figures/KO_table.tex}
 
 Marker genes not represented by a \ac{KO} group were assessed by \textsc{BLASTp} queries of marker gene sequences with experimentally confirmed function \tabref{tab:marker_genes} against a database of translated \acp{ORF} predicted from metagenomic reads. 
@@ -266,6 +266,7 @@ Despite these isolates being aerobic, \emph{Halomonas} has been reported to be e
 This capacity may be linked to the ability of free amino acids and organic acids, which are abundant in the deep zone \cite{Gibson1994}, to stimulate the growth of isolates \cite{Franzmann1987a}.
 
 \subsubsection{0.8--0.1 \textmu{}m size fraction community composition}
+\label{subsubs:0.8--0.1}
 A large number of eucaryal sequences were evident in the 0.1 \textmu{}m size fraction. 
 The upper zone was overrepresented by \acp{OTU} for \emph{Pedinellales} (silicoflagellate algae) that co-varied with chloroplasts \figref{fig:heatmap}. 
 \emph{Pedinellales} have only been detected in Antarctic lakes from molecular studies \cite{Unrein2005, Lauro2011} including Organic Lake \cite{Yau2011} (Chapter \ref{ch:olv}), and light microscopy studies of Antarctic Peninsula freshwater lakes reported 5--8 \textmu{}m diameter cells resembling \emph{Pseudopedinella} \cite{Unrein2005}. 
@@ -316,12 +317,12 @@ In the deep zone, potential for fermentation was greatest at 6.5 m \figref{fig:c
 Fermentation was indicated by the marker gene lactate dehydrogenase (\emph{ldh}).
 These genes were linked to\emph{Firmicutes} \tabref{tab:c_cycle_sp}, which was only present at 6.5 m and represented by the classes \emph{Clostridia} and \emph{Bacilli} \figref{fig:genus_barplots_bact}. 
 As the related candidate division RF3 \cite{Tajima1999} also has relatively high abundance in this zone \figref{fig:genus_barplots_bact}
-(see 0.8--3.0 \textmu{}m size fraction community composition above), %% add in section link
+(see 0.8--3.0 \textmu{}m size fraction community composition above),
 there is circumstantial evidence that RF3 possesses fermentative metabolism and may therefore play an important ecological role in Organic Lake by degrading high molecular weight compounds to organic acids that other organisms can utilize. 
 Assimilation of fermentation products appears to play a greater role in Organic Lake rather than complete anaerobic oxidation involving methanogens or sulphate-reducing bacteria; the former were absent and the latter were present in low abundance \figref{fig:genus_barplots_bact}. 
 
 \emph{Alphaproteobacteria}, predominantly\emph{Roseovarius} \figref{fig:genus_barplots_bact}, were implicated in CO oxidation \tabref{tab:c_cycle_sp}, which is used to generate energy for lithoheterotrophic growth \cite{Moran2007b}, although CO oxidation may also be involved in anaplerotic C fixation \cite{Moran2007b}. 
-The CO oxidation capacity was at a maximum at 6.5 m \figref{fig:c_cycle}, and therefore associated with the deep-zone\emph{Roseovarius} ecotype of Organic Lake. 
+The CO oxidation capacity was at a maximum at 6.5 m \figref{fig:c_cycle}, and therefore associated with the deep zone \emph{Roseovarius} ecotype of Organic Lake. 
 CO oxidation can function as a strategy to limit oxidation of organic carbon for energy so that a greater proportion can be directed towards biosynthesis \cite{Moran2007b}.
 
 Photosynthesis reaction center genes \emph{pufLM}, involved in photoheterotrophy via \ac{AAnP}, were abundant in Organic Lake (\figreft{fig:c_cycle}, \tabreft{tab:c_cycle_sp}). 
@@ -336,8 +337,9 @@ Phylogenetic analysis revealed six well-supported Organic Lake rhodopsin groups 
 All groups had an L or M residue at position 105 (vs the SAR86 \ac{PR}), denoting tuning to surface green light \cite{Man2003, Gomez-Consarnau2007}, and is characteristic of oceanic coastal samples \cite{Rusch2007}. 
 Four of the groups clustered with homologues of genera detected in the lake, namely \emph{Marinobacter}, \emph{Psychroflexus}, \emph{Octadecabacter} and ``\emph{Ca}. Aquiluna'' \figref{fig:rhodopsin_tree} (Table S4). 
 Another group (SAL-R group) originates from the sphingobacterium \emph{Salinibacter ruber}, which produces xanthorhodopsin \cite{Balashov2005}; it is therefore likely that Organic Lake \emph{Sphingobacteria} (Supplementary Table S4) were the origin of this rhodopsin group. 
+
 The most abundant group, OL-R1 \figref{fig:rhodopsin_tree} had no close homologues from GenBank, but it was abundant on the 3.0 \textmu{}m fraction and has a distribution suggesting it originates from Organic Lake members of the \emph{Roseobacter} clade \figref{fig:c_cycle}. 
-All \acp{ORF} adjacent to OL-R1 rhodopsin containing scaffolds wererelated to \emph{Octadecabacter} further supporting their \emph{Roseobacter} clade provenance \figref{fig:OLR1_scaffolds}. 
+All \acp{ORF} adjacent to OL-R1 rhodopsin containing scaffolds were related to \emph{Octadecabacter} further supporting their \emph{Roseobacter} clade provenance \figref{fig:OLR1_scaffolds}. 
 Genes downstream of OL-R1 were involved in carotenoid synthesis, indicating OL-R1 is a xanthorhodopsin, occuring as a retinal protein or in a carotenoid complex \cite{Balashov2005}. %%Check, aren't they all retinal?
 \input{orglake_figures/OLR1_scaffolds.tex}
 
@@ -347,6 +349,7 @@ Non-marine \ac{GOS} samples from the 0.1 \textmu{}m fraction have been noted to 
 In contrast, the 3.0 \textmu{}m Organic Lake size fractions had higher rhodopsin counts than Ace Lake and comparable counts to the \ac{SO} samples, although the percentage of rhodopsin containing cells was still lower than that of the \ac{SO}. 
 The paucity of rhodopsins in the Organic Lake 0.1 \textmu{}m fraction is likely due to the lack of SAR11 clade, which is expected to be the main source of rhodopsin genes in Ace Lake and marine samples. 
 This indicates that although Organic Lake has an overall lower frequency of rhodopsin genes compared to sites for which size fraction-matched metagenomes are available, the rhodopsins associated with larger or particle-associated cells are as abundant as in the marine environment.
+
 \input{orglake_figures/metag_compare.tex}
 
 Counts of \emph{pufLM} genes inthe Organic Lake 0.1 \textmu{}m size fraction were similar to \ac{GOS} sample, except for Punta Cormorant hypersaline lagoon which had the highest \emph{pufLM} counts and percentage of \ac{AAnP} cells \tabref{tab:metag_compare}. 
@@ -467,7 +470,7 @@ One possibility that has been proposed is that when sulphur is in excess and the
 This may be particularly the case in hypersaline systems if higher concentrations of \ac{DMSP} are being produced as an osmolyte.
 
 \section{Conclusions}
-Through the use of shotgun metagenomics and size partitioning of samples, we discovered that the Organic Lake system is dominatedby heterotrophic bacteria related to \emph{Psychroflexus}, \emph{Marinobacter} and \emph{Roseovarius} with primary production provided largely by chlorophyte algae related to \emph{Dunaliella}. 
+Through the use of shotgun metagenomics and size partitioning of samples, we discovered that the Organic Lake system is dominated by heterotrophic bacteria related to \emph{Psychroflexus}, \emph{Marinobacter} and \emph{Roseovarius} with primary production provided largely by chlorophyte algae related to \emph{Dunaliella}. 
 Genetic potential for oxidation of fixed carbon by heterotrophic bacteria occurs greatly in excess of carbon fixation, suggesting possible net carbon loss. 
 However, by linking key metabolic processes to the dominant heterotrophic lineages we uncovered processes that were unusually abundant in Organic Lake that may serve to maximize exploitation of limited resources and minimize loss. 
 Recalcitrant polymeric algal material and particulate matter is likely remineralized by \emph{Psychroflexus} in the upper mixed zone and by \emph{Firmicutes} in the deep zone to provide labile substrates for use by other heterotrophic bacteria. 
