@@ -1,0 +1,32 @@
+\begin{table}
+\footnotesize
+\caption[Comparison of next generation \textsc{DNA} sequencing platforms]{Comparison of next generation \textsc{DNA} sequencing platforms from \cite{Schlotz2012}. Indel, insertion-deletion; Sub, substitution.
+}
+\label{tab:seq_tech}
+\smallskip
+\begin{tabularx}{\textwidth}{p{3cm}p{2.5cm}XXp{1.5cm}p{1.2cm}}
+\toprule
+\textbf{Platform} & \textbf{Run time (h)} & \textbf{Read length (bp)} & \textbf{Mbp/run} & \textbf{Error type} & \textbf{Error rate (\%)} \\
+\midrule
+\emph{Roche}             &        &                   &            &              &   \\
+454 FLX$+$               & 18--20 & 700               & 900        & Indel        & 1 \\
+454 FLX$+$ Titanium      &  10    & 400               & 500        & Indel        & 1 \\
+454 GS                   &  10    & 400               & 50         & Indel        & 1 \\
+\emph{Illumina}          &        &                   &            &              &  \\
+GSIIx                    & 14     & 2 $\times$ 150    & 96,000     & Sub          & $>$0.1 \\
+HiSeq 2000               & 8      & 2 $\times$ 100    & 400,000    & Sub          & $>$0.1 \\
+HiSeq 2000 V3            & 10     & 2 $\times$ 150    & $<$600,000 & Sub          & $>$0.1 \\
+MiSeq                    & 1      & 2 $\times$ 150    & 1,000      & Sub          & $>$0.1 \\
+\emph{Life Technologies} &  &  &  &  &  \\
+SOLiD 4                  & 12     & 50 $\times$ 35    & 71,000     & AT bias     & $>$0.06 \\
+SOLiD 4                  & 12     & 75 $\times$ 35 PE & 155,000    & AT bias     & $>$0.01 \\
+                         &        & 60 $\times$ 60 MP &            &             &  \\
+\emph{Ion Torrent}       &        &                   &            &             &  \\
+PGM 314 Chip             & 3      & 100               & 10         &  Indel      & 1 \\
+PGM 316 Chip             & 3      & 100$+$            & 100        &  Indel      & 1 \\
+PGM 318 Chip             & 3      & 200               & 1,00       &  Indel      & 1 \\
+\emph{Pacific biosciences} &  &  &  &  &  \\
+RS                       & 14/8 Smart Cells & 1,500 & 45/smart cell &  Insertions & 15 \\
+\bottomrule
+\end{tabularx}
+\end{table}
