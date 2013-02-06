@@ -1,46 +1,46 @@
 \begin{table}
 \footnotesize
-\caption[Contribution of different taxonomic groups to counts of marker genes involved in nitrogen conversions]{Contribution of different taxonomic groups to counts of marker genes involved in nitrogen conversions.}
+\caption[Taxonomic origin of genes involved in nitrogen conversions]{Contribution of different taxonomic groups to counts of marker genes involved in nitrogen conversions.}
 \label{tab:n_cycle_sp}
 \smallskip
-\begin{tabularx}{\textwidth}{p{3.5cm}XXXXXXXX}
+\begin{tabularx}{\textwidth}{p{3.5cm}p{0.6cm}p{0.8cm}p{0.8cm}p{0.6cm}p{0.5cm}p{1cm}XX}
 \toprule
 \textbf{Taxon} & \rotatebox{45}{\textbf{N fixation}} & \rotatebox{45}{\textbf{NO reduction}} & \rotatebox{45}{\textbf{N$_2$O reduction}} & \rotatebox{45}{\textbf{DNRA}} & \rotatebox{45}{\textbf{\emph{hao}}} & \rotatebox{45}{\textbf{N mineralisation}} & \rotatebox{45}{\textbf{NO$_3^-$ assimilation}} & \rotatebox{45}{\textbf{N assimilation}} \\
 \midrule
-\textbf{\emph{Acidobacteria}} 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-\textbf{\emph{Actinobacteria}} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-\textbf{\emph{Alphaproteobacteria}} & 0 & 0 &  & 0 & 0 & 0 & 0 &  \\
-\textbf{\emph{Aquificae}} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-\textbf{\emph{Bacteroidetes}} & 0 & 0 &  & 0 & 0 & 0 & 0 & 0 \\
-\textbf{\emph{Betaproteobacteria}} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-\textbf{\emph{Chlorobi}} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-\textbf{\emph{Chloroflexi}} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-\textbf{\emph{Chrysiogenetes}} & 0 & 0 & 0 & 0 & 0 & 0  & 0 & 0 \\
-\textbf{\emph{Cyanobacteria}} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
+\textbf{\emph{Acidobacteria}} & 0 & 0 & 0 & 0 & 0 & 0.07 & 0 & 0.08 \\
+\textbf{\emph{Actinobacteria}} & 0 & 0 & 0 & 0.03 & 0 & 0.32 & 0 & 5.41 \\
+\textbf{\emph{Alphaproteobacteria}} & 0.01 & 0.12 & 0 & 0 & 0 & \textbf{6.39} & 5.49 & 49.4 \\
+\textbf{\emph{Aquificae}} & 0 & 0 & 0.26 & 0 & 0 & 0 & 0 & 0.06 \\
+\textbf{\emph{Bacteroidetes}} & 0 & 0 & 3.00 & \textbf{0.27} & 0 & 3.90 & 0.03 & 15.5 \\
+\textbf{\emph{Betaproteobacteria}} & 0 & 0.03 & 0 & 0 & 0 & 0.06 & 0.41 & 19.2 \\
+\textbf{\emph{Chlorobi}} & 0.03 & 0 & 0 & 0 & 0 & 0.2 & 0 & 0.31 \\
+\textbf{\emph{Chloroflexi}} & 0 & 0 & 0 & 0 & 0 & 0.03 & 0 & 0.03 \\
+\textbf{\emph{Chrysiogenetes}} & 0 & 0 & 0 & 0 & 0 & 0.01  & 0 & 0.06 \\
+\textbf{\emph{Cyanobacteria}} & 0 & 0 & 0 & 0 & 0 & 0.29 & 0 & 0.10 \\
 \textbf{\emph{Deferribacteres}} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-\textbf{\emph{Deinococcus-Thermus}} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-\textbf{\emph{Deltaproteobacteria}} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-\textbf{\emph{Epsilonproteobacteria}} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-\textbf{\emph{Firmicutes}} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-\textbf{\emph{Fornicata}} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-\textbf{\emph{Fusobacteria}} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-\textbf{\emph{Gammaproteobacteria}} & 0 &  &  & 0 & 0 & 0 & 0 & 0 \\
-\textbf{\emph{Nitrospirae}} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-\textbf{\emph{Planctomycetes}} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-\textbf{\emph{Spirochaetes}} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-\textbf{\emph{Thermobaculum}} & 0 & 0 & 0 & 0 & 0 & 0  & 0 & 0 \\
+\textbf{\emph{Deinococcus-Thermus}} & 0 & 0 & 0 & 0 & 0 & 0.01 & 0 & 0.11 \\
+\textbf{\emph{Deltaproteobacteria}} & 0.04 & 0.01 & 0 & 0.07 & \textbf{0.22} & 0.23 & 0 & 0.58 \\
+\textbf{\emph{Epsilonproteobacteria}} & \textbf{0.32} & 0 & 0 & 0 & 0 & 0.05 & 0 & 1.49 \\
+\textbf{\emph{Firmicutes}} & 0.03 & 0 & 0 & 0.03 & 0 & 0.70 & 0 & 3.16 \\
+\textbf{\emph{Fornicata}} & 0 & 0 & 0 & 0 & 0 & 0.02 & 0 & 0 \\
+\textbf{\emph{Fusobacteria}} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0.04 \\
+\textbf{\emph{Gammaproteobacteria}} & 0 & \textbf{3.91} & \textbf{8.28} & 0 & 0 & 4.75 & \textbf{14.1} & \textbf{50.6} \\
+\textbf{\emph{Nitrospirae}} & 0 & 0 & 0 & 0.03 & 0 & 0.01 & 0 & 0 \\
+\textbf{\emph{Planctomycetes}} & 0 & 0.01 & 0 & 0.16 & 0 & 0 & 0 & 0.26 \\
+\textbf{\emph{Spirochaetes}} & 0 & 0.01 & 0 & 0 & 0 & 0.11 & 0 & 0.15 \\
+\textbf{\emph{Thermobaculum}} & 0 & 0 & 0 & 0 & 0 & 0.10 & 0 & 0 \\
 \textbf{\emph{Thermotogae}} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-\textbf{\emph{Verrucomicrobia}} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
+\textbf{\emph{Verrucomicrobia}} & 0 & 0 & 0.17 & 0.03 & 0 & 0.25 & 0 & 0.82 \\
  &  &  &  &  &  &  &  &  \\
-\textbf{\emph{Crenarchaeota}} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-\textbf{\emph{Euryarchaeota}} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
+\textbf{\emph{Crenarchaeota}} & 0 & 0 & 0 & 0 & 0 & 0.02 & 0 & 0 \\
+\textbf{\emph{Euryarchaeota}} & 0 & 0 & 0 & 0 & 0 & 0.12 & 0.09 & 0.10 \\
  &  &  &  &  &  &  &  &  \\
-\textbf{\emph{Alveolata}} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
+\textbf{\emph{Alveolata}} & 0 & 0 & 0 & 0 & 0 & 0.18 & 0 & 0.03 \\
 \textbf{\emph{Euglenozoa}} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-\textbf{\emph{Opistokonta}} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-\textbf{\emph{Rhodophyta}} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-\textbf{\emph{Strameopiles}} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
-\textbf{\emph{Viridiplantae}} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
+\textbf{\emph{Opistokonta}} & 0 & 0 & 0 & 0 & 0 & 0.15 & 0 & 0.13 \\
+\textbf{\emph{Rhodophyta}} & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0.02 \\
+\textbf{\emph{Strameopiles}} & 0 & 0 & 0 & 0 & 0 & 0.03 & 0 & 0.15 \\
+\textbf{\emph{Viridiplantae}} & 0 & 0 & 0 & 0 & 0 & 0.03 & 0 & 0.35 \\
 \bottomrule
 \end{tabularx}
 \end{table}
