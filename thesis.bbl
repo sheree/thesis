@@ -1,4 +1,4 @@
-\begin{thebibliography}{257}
+\begin{thebibliography}{258}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -45,7 +45,7 @@ Altschul S.~F., Gish W., Miller W., Myers E.~W., and Lipman D.~J. (1990).
 \newblock \emph{Journal of Molecular Biology}, 215:\penalty0 403--410.
 
 \bibitem[Angiuoli \emph{et~al.}(2011)Angiuoli, White, Matalka, White, and
-  Fricke]{Anguioli2011}
+  Fricke]{Angiuoli2011}
 Angiuoli S.~V., White J.~R., Matalka M., White O., and Fricke W.~F. (2011).
 \newblock {Resources and costs for microbial sequence analysis evaluated using
   virtual machines and cloud computing}.
@@ -1472,6 +1472,11 @@ Sch\"{a}fer H., Myronova N., and Boden R. (2010).
   sulphur in the biosphere}.
 \newblock \emph{Journal of Experimental Botany}, 61:\penalty0 315--334.
 
+\bibitem[Schatz \emph{et~al.}(2010)Schatz, Langmead, and Salzberg]{Schatz2010}
+Schatz M.~C., Langmead B., and Salzberg S.~L. (2010).
+\newblock {Cloud computing and the DNA data race}.
+\newblock \emph{Nature Biotechnology}, 28:\penalty0 691--693.
+
 \bibitem[Schiaffino \emph{et~al.}(2009)Schiaffino, Unrein, Gasol, Farias,
   Estevez, Balagu\'{e}, and Izaguirre]{Schiaffino2009}
 Schiaffino M.~R., Unrein F., Gasol J.~M., Farias M.~E., Estevez C., Balagu\'{e}
@@ -1487,7 +1492,7 @@ Schmidtova J., Hallam S.~J., and Baldwin S.~A. (2009).
   communities within a near-shore anoxic basin: Nitinat Lake}.
 \newblock \emph{Environmental Microbiology}, 11:\penalty0 3233--3251.
 
-\bibitem[Scholz \emph{et~al.}(2012)Scholz, Lo, and Chain]{Schlotz2012}
+\bibitem[Scholz \emph{et~al.}(2012)Scholz, Lo, and Chain]{Scholz2012}
 Scholz M.~B., Lo~C.-C., and Chain P.~S. (2012).
 \newblock {Next generation sequencing and bioinformatic bottlenecks: the
   current state of metagenomic data analysis}.

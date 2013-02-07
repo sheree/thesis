@@ -84,16 +84,16 @@
 \contentsline {subsection}{\numberline {5.2.3}Organic lake biogeochemistry}{104}{subsection.5.2.3}
 \contentsline {section}{\numberline {5.3}Perspectives on `-omics' approaches }{106}{section.5.3}
 \contentsline {subsection}{\numberline {5.3.1}Next generation sequencing technologies in metagenomics}{107}{subsection.5.3.1}
-\contentsline {subsubsection}{Emerging bioinformatic bottlenecks}{108}{section*.197}
-\contentsline {subsubsection}{Webserver-based analyses}{108}{section*.198}
-\contentsline {subsubsection}{Cloud computing}{109}{section*.203}
-\contentsline {subsubsection}{GPUs}{109}{section*.205}
-\contentsline {subsubsection}{Computing tools need to be and are being developed to cope with the new sequences}{109}{section*.206}
-\contentsline {subsubsection}{Your metagenome is only as good as the your know sequence databases, you interpretations only as good as lab studies that have established them}{110}{section*.207}
-\contentsline {subsubsection}{Metagenomes and metaproteomes are a repository for prosterity}{110}{section*.208}
-\contentsline {subsubsection}{Where to from here?}{111}{section*.209}
+\contentsline {subsection}{\numberline {5.3.2}Emerging bioinformatic bottlenecks}{108}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Webserver-based analyses}{108}{subsection.5.3.3}
+\contentsline {subsection}{\numberline {5.3.4}Cloud computing}{109}{subsection.5.3.4}
+\contentsline {subsection}{\numberline {5.3.5}Graphical processing units}{109}{subsection.5.3.5}
+\contentsline {subsubsection}{Bioinformatic tools for \acs {NGS} metagenomic data}{109}{section*.202}
+\contentsline {subsubsection}{Your metagenome is only as good as the your know sequence databases, you interpretations only as good as lab studies that have established them}{110}{section*.203}
+\contentsline {subsubsection}{Metagenomes and metaproteomes are a repository for prosterity}{111}{section*.204}
+\contentsline {subsubsection}{Where to from here?}{111}{section*.205}
 \contentsline {section}{\numberline {5.4}Concluding remarks}{111}{section.5.4}
-\contentsline {chapter}{References}{131}{chapter*.210}
+\contentsline {chapter}{References}{131}{chapter*.206}
 \contentsline {chapter}{Appendix \numberline {A}PCR-based studies of Antarctic Lakes}{133}{Appendix.a.A}
 \contentsline {chapter}{Appendix \numberline {B}Proteins identified in Ace Lake metaproteomic analysis}{143}{Appendix.a.B}
 \contentsline {chapter}{Appendix \numberline {C}Peptide sequences of OLV and OLPV proteins identified in the metaproteome}{209}{Appendix.a.C}
