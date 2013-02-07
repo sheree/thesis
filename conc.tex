@@ -193,39 +193,54 @@ It was not so long ago that what could be called the second molecular revolution
 That metagenome, sequenced with Sanger sequencing technology, was a modest 1.28 Mbp \cite{Breitbart2002}.
 The first shotgun sequenced metagenomes of cellular life from the Sargasso Sea \cite{Venter2004} and the Iron Mountain acid mine drainage \cite{Tyson2004} added 265 Mbp and 76 Mbp respectively to the public databanks.
 
+\subsection{Next generation sequencing technologies in metagenomics}
 Since the availability of high-throughput \ac{NGS} technologies, the volume of data has increased exponentially and is continuing to rise.
-Currently, the Genomes Online Database (\url{http://www.genomesonline.org}) lists 2,350 metagenomic samples from 369 separate projects including samples as diverse as fungus gardens and insect-associated viruses.
-To put it from another perspective, a single sample from the Antarctic lake datasets described in this thesis sequenced by the Roche GS-FLX titanium sequencer is 140 Mbp, while a recent study using Applied Biosystems SOLiD sequencing of a marine sample \cite{Iverson2012} analysed 55,000 Mbp -- close to 400 times the amount of data.
+Currently, the Genomes Online Database (\url{http://www.genomesonline.org}) lists 2,350 metagenomic samples from 369 separate projects.
+To put it in another perspective, a single sample from the Antarctic lake datasets described in this thesis sequenced by the Roche GS-FLX titanium sequencer is 140 Mbp, while a recent study using Applied Biosystems SOLiD sequencing of a marine sample \cite{Iverson2012} analysed 55,000 Mbp -- close to 400 times the amount of data.
 This illustrates how sequencing technology is advancing so rapidly that each new study has to develop new ways of looking into the microbial milieu captured in the particular sample.
-Currently available \ac{NGS} sequencing platforms are shown in \tabreft{tab:seq_tech} comparing sequence length, throughput and error rates.
-Clearly, there are trade-offs between throughput per run and sequencing lengths with higher read depth technologies generally offering shorter read lengths, while the long read lengths offered by single-molecular sequencing (Pacific Biosciences) is off-set by high error-rate.
+Current \ac{NGS} sequencing platforms are shown in \tabreft{tab:seq_tech} comparing sequence length, throughput and error rates.
+Clearly, there are trade-offs between throughput per run and sequencing length with higher read depth technologies generally offering shorter read lengths. 
+The long read length offered by single-molecular sequencing (Pacific Biosciences) is off-set by high error-rate and has not as yet been applied to metagenomics.
 \input{conc_figures/seq_tech.tex}
 
-\subsubsection{introduce computational limitations in computing power}
+\subsubsection{Emerging bioinformatic bottlenecks}
 With the higher throughput and the falling costs of sequencing, genomic projects are now experiencing `bioinfomatic bottlenecks' where computational analysis can be a significant challenge.
 This is because availability of computational resources and scaling-up of algorithms to accomodate multiple genomes or computing clusters is not occurring as quickly as the amount of sequencing data is accumulating.
 Metagenomic sequencing projects typically entail computationally intensive \acs{BLAST}-like comparisons before biological interpretations can be made.
-Local cluster computing has thus far been the standard way to process metagenomic datasets. 
-However, acquiring the necessary computational resources can work out more costly for groups expecting only sporadic use and the time taken to process massive datasets can be prohibitively slow.
-For example, %THe metagenomic vs moore's law says it will take decades with standard pipeline to analyse illumina data. Find better citation that says the same thing. Maybe Wilkening paper.
+Local cluster computing has been a standard way to process metagenomic datasets.
+The cost of acquiring, running and administering a standard rack mount server has been estimated at an annual cost of \$2,160--\$5,160 US per node \cite{Wilkening2009}, which can work out to be more expensive than the sequencing.
+However without increases in compute resources and processing efficiency, the time taken to process massive datasets can become prohibitively slow.
+For example, analysis of metagenomic data produced by Illumina technology using a standard pipeline on a single processor was calculated to take decades \emph{vs} weeks to months using 1,000 CPUs \cite{Evanko2009}.
+Ultimately, for computational analysis to catch up with advances in sequencing technology either requires processing to become more efficient, processors to become faster and/or algorithms faster.
 
-\subsubsection{webservers are useful tools and they can make up some of the shortfall in computing power}
-This can been addressed to some extent by the availibility of webserver pipelines specialised in metagenomic processing such as \ac{MG-RAST} \cite{Meyer2008}, \ac{CAMERA} \cite{Sun2011} and \ac{IMG/M} \cite{Markowitz2008, Markowitz2012}, as well as \textsc{Metavir} \cite{Roux2011} and \textsc{VIROME} \cite{Wommack2012} for viral metagenomes.
-These webservers take on the burden of maintaining necessary programs and hosting comparative sequence databases as well as providing computational power.
-The web browser interface makes them user-friendly and each have their own features, such as particular analytical or visualisation tools, that may be more desirable for particular sample types or analyses.
-However, these workflows are generally not customisble if the user's needs fall too far outside of what is provided.
-For example, current webservers have been designed towards microbial or viral sequences, although metagenomes such as from the studies in this thesis often contain significant proportions of both.
-To take advantage of the range of specialist features offered by different webservers entails repeating analytical steps, such as sequence filtering, in order to fit within the different analytical schema and then facing the difficulty of combining outputs.
-Another example is that pipelines are often designed for particular sequencing technology so handling of other types may not be well-supported.
-Furthermore, processing massive datasets may still take an unfeasibly long time depending on the capabilites of the webserver.
-%Do any support illumina data?
+\subsubsection{Webserver-based analyses}
+A shortage in computational resources can be addressed to some extent by the use of webserver pipelines specialised in metagenomic processing such as \ac{MG-RAST} \cite{Meyer2008}, \ac{CAMERA} \cite{Sun2011}, \ac{IMG/M} \cite{Markowitz2008, Markowitz2012}, EBI Metagenomics \cite{Hunter2012}, as well as \textsc{Metavir} \cite{Roux2011} and \ac{VIROME} \cite{Wommack2012} for viral metagenomes.
+These webservers take on the burden of maintaining necessary programs and storage of sequence databases as well as providing computational power accessible through a user-friendly web browser interface.
+Each have their own features that may be more desirable for particular sample types, analyses or user preferences.
+One example of this the different functional analyses offerred by EBI Metagenomics and \ac{MG-RAST}, which implement InterPro and SEED subsystems respectively.
+Webserver workflows are generally not customisble if the user's needs fall too far outside of what is provided.
+For example, current webservers have been designed towards analysis of bacteria/archaea or viral sequences, although metagenomes such as those from the studies in this thesis often contain significant proportions of both, as well as eucaryotic sequences.
+To take advantage of the range of specialist features offered by different pipelines entails repeating analytical steps, such as sequence filtering, in order to fit within their different analytical schemas. 
+The different outputs then need to be combined locally and may not be comparable to one another due to differences in processing.
+Furthermore, processing massive datasets may still take an unfeasibly long time depending on the capabilites and usage policies of the webserver.
 
-\subsubsection{Cloud computing can make up shortfall in limited computing power}
-Cloud computing resources look to be a promising way to make up the shortfall in computational power needed.
-Custom bioinformatic workflows can be implemented depending on the context of the project, but generally require more computational expertise to set up than webservers.
-Depending of the expected volume of data and the frequency of analysis, hiring the use of cloud computing resources can prove cheaper than investing and maintaining a local cluster \cite{Anguioli2007}.
-%Give examples %Wilkening case study metagenomics
-%the shortfall requires smarter ways to process.
+\subsubsection{Cloud computing}
+Cloud computing, the use of computing infrastructure, software or platforms as a service, looks to be a promising way to make up the shortfall in processing primarily by increasing computational efficiency (reviewed in \citet{Thakur2012}.
+Several major providers exist: the largest publically available being Amazon's \ac{EC2} and the Department of Energy's Magellen Cloud for academic use.
+Unlike webservers, cloud computing can be used for any task, but require more expertise to use.
+Gains in efficiency for the user can occur because they have access computing power that varies `elastically' with the demands of the task andtherefore do not incur the cost of maintaining a local cluster.
+These infrastructure costs are more effectively absorbed by large providers than smaller facilities allowing them to provide a cheaper service.
+Also, by having access to more computational nodes, programs like \acs{BLAST} can be run in parallel increasing the throughput of analysis.
+Whether it works out to be more cost efficient in practice depends of the expected volume of data and frequency of analysis \cite{Wilkening2009}.
+The cost--benefit appears greatest for those who expect sporadic use or need to augment computer resources on an unpredictable basis \cite{Wilkening2009}.
+To benchmark the costs and time involved in analysis of metagenomic data on the \ac{EC2}, \citet{Anguioli2011} performed a cluster analysis and \acs{BLAST} comparison of 631 Mbp of metagenomic sequence (454 GSFLX titanium) against RefSeq and \acs{COG} databases.
+This analysis finished in a little over 6 hours using a maximim of 160 CPUs and at a total cost of \$56 US \cite{Anguioli2011}, giving an indication of how clouds might be leveraged for metagenomic processing.
+Determining if this is a possible avenue for a particular project will then depend on the specific analysis needing to be performed.
+
+
+\subsubsection{GPUs}
+%This is starting to change as developers are packaging metagenomics specific applications for specific use in clouds.
+%Caparaso paper, trying to make cloud computing easier for newbies.
 
 \subsubsection{Computing tools need to be and are being developed to cope with the new sequences}
 Processing metagenomic data from \ac{NGS} sequencing technology is spurring on development of computational tools and approaches to accomodate the larger volume of data.

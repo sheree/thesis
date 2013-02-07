@@ -1,4 +1,4 @@
-\begin{thebibliography}{253}
+\begin{thebibliography}{257}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -45,7 +45,7 @@ Altschul S.~F., Gish W., Miller W., Myers E.~W., and Lipman D.~J. (1990).
 \newblock \emph{Journal of Molecular Biology}, 215:\penalty0 403--410.
 
 \bibitem[Angiuoli \emph{et~al.}(2011)Angiuoli, White, Matalka, White, and
-  Fricke]{Anguioli2007}
+  Fricke]{Anguioli2011}
 Angiuoli S.~V., White J.~R., Matalka M., White O., and Fricke W.~F. (2011).
 \newblock {Resources and costs for microbial sequence analysis evaluated using
   virtual machines and cloud computing}.
@@ -429,6 +429,11 @@ Elshahed M.~S., Najar F.~Z., Aycock M., Qu~C., Roe B.~A., and Krumholz L.~R.
 \newblock \emph{Applied and Environmental Microbiology}, 71:\penalty0
   7598--7602.
 
+\bibitem[Evanko(2009)]{Evanko2009}
+Evanko D. (2009).
+\newblock {Metagenomics versus Moore’s law}.
+\newblock \emph{Nature Methods}, 6:\penalty0 623.
+
 \bibitem[Ferris \emph{et~al.}(1991)Ferris, Gibson, and Burton]{Ferris1991}
 Ferris J.~M., Gibson J.~A., and Burton H.~R. (1991).
 \newblock {Evidence of density currents with the potential to promote meromixis
@@ -765,6 +770,13 @@ Humayoun S.~B., Bano N., and Hollibaugh J.~T. (2003).
   soda lake in California}.
 \newblock \emph{Applied and Environmental Microbiology}, 69:\penalty0
   1030--1042.
+
+\bibitem[Hunter \emph{et~al.}(2012)Hunter, Mitchell, Jones, McAnulla, Pesseat,
+  Scheremetjew, and Hunter]{Hunter2012}
+Hunter C.~I., Mitchell A., Jones P., McAnulla C., Pesseat S., Scheremetjew M.,
+  and Hunter S. (2012).
+\newblock {Metagenomic analysis: the challenge of the data bonanza}.
+\newblock \emph{Briefings in Bioinformatics}, 13:\penalty0 743--746.
 
 \bibitem[Huu \emph{et~al.}(1996)Huu, Denner, Ha, Wanner, and
   Stan-Lotter]{Huu1999}
@@ -1611,6 +1623,13 @@ Teeling H., Fuchs B.~M., Becher D., Klockow C., Gardebrecht A., Bennke C.~M.,
   populations induced by a phytoplankton bloom}.
 \newblock \emph{Science}, 336:\penalty0 608--611.
 
+\bibitem[Thakur \emph{et~al.}(2012)Thakur, Bandopadhyay, Chaudhary, and
+  Chatterjee]{Thakur2012}
+Thakur R.~S., Bandopadhyay R., Chaudhary B., and Chatterjee S. (2012).
+\newblock {Now and next-generation sequencing techniques: future of sequence
+  analysis using cloud computing}.
+\newblock \emph{Frontiers in Genetics}, 3:\penalty0 280.
+
 \bibitem[Thomsen(2007)]{Thomsen1988}
 Thomsen H.~A. (2007).
 \newblock {Ultrastructural studies of the flagellate and cyst stages of
@@ -1762,6 +1781,12 @@ Wen K., Ortmann A.~C., and Suttle C.~A. (2004).
   microscopy}.
 \newblock \emph{Applied and Environmental Microbiology}, 70:\penalty0
   3862--3867.
+
+\bibitem[Wilkening \emph{et~al.}(2009)Wilkening, Wilke, Desai, and
+  Meyer]{Wilkening2009}
+Wilkening J., Wilke A., Desai N., and Meyer F. (2009).
+\newblock {Using clouds for metagenomics: a case study}.
+\newblock \emph{IEEE International Conference}, pages 1--6.
 
 \bibitem[Wilkins \emph{et~al.}(2012)Wilkins, Lauro, Williams, DeMaere, Brown,
   Hoffman, Andrews-Pfannkoch, Mcquaid, Riddle, Rintoul, and
