@@ -89,8 +89,10 @@
 \contentsline {subsection}{\numberline {5.3.4}Cloud computing}{109}{subsection.5.3.4}
 \contentsline {subsection}{\numberline {5.3.5}Graphical processing units}{109}{subsection.5.3.5}
 \contentsline {subsubsection}{Bioinformatic tools for \acs {NGS} metagenomic data}{109}{section*.202}
-\contentsline {subsubsection}{Your metagenome is only as good as the your know sequence databases, you interpretations only as good as lab studies that have established them}{110}{section*.203}
-\contentsline {subsubsection}{Metagenomes and metaproteomes are a repository for prosterity}{111}{section*.204}
+\contentsline {subsubsection}{Classification of short reads}{110}{section*.203}
+\contentsline {subsubsection}{Metagenomic assembly}{110}{section*.204}
+\contentsline {subsection}{\numberline {5.3.6} 'omes are good as your database and knowledge base}{110}{subsection.5.3.6}
+\contentsline {subsection}{\numberline {5.3.7}Metagenomes and metaproteomes are time capsules}{111}{subsection.5.3.7}
 \contentsline {subsubsection}{Where to from here?}{111}{section*.205}
 \contentsline {section}{\numberline {5.4}Concluding remarks}{111}{section.5.4}
 \contentsline {chapter}{References}{131}{chapter*.206}
