@@ -1,4 +1,4 @@
-\begin{thebibliography}{258}
+\begin{thebibliography}{261}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -272,6 +272,12 @@ Clarke K. and Gorley R.
 Claverie J.-M. and Abergel C. (2009).
 \newblock {Mimivirus and its virophage}.
 \newblock \emph{Annual review of genetics}, 43:\penalty0 49--66.
+
+\bibitem[Collins \emph{et~al.}(2010)Collins, Rocap, and Deming]{Collins2010}
+Collins R.~E., Rocap G., and Deming J.~W. (2010).
+\newblock {Persistence of bacterial and archaeal communities in sea ice through
+  an Arctic winter}.
+\newblock \emph{Environmental Microbiology}, 12:\penalty0 1828--1841.
 
 \bibitem[Cottrell and Kirchman(2009)]{Cottrell2009}
 Cottrell M.~T. and Kirchman D.~L. (2009).
@@ -897,6 +903,21 @@ Kirchman D.~L. (2002).
   environments}.
 \newblock \emph{FEMS Microbiolgy Ecology}, 39:\penalty0 91--100.
 
+\bibitem[Kong \emph{et~al.}(2012{\natexlab{a}})Kong, Dolhi, Chiuchiolo, Priscu,
+  and Morgan-kiss]{Kong2012b}
+Kong W., Dolhi J.~M., Chiuchiolo A., Priscu J., and Morgan-kiss R.~M. (2012).
+\newblock {Evidence of form II RubisCO (cbbM) in a perennially ice-covered
+  Antarctic lake}.
+\newblock \emph{FEMS Microbiolgy Ecology}, 82:\penalty0 1--10.
+
+\bibitem[Kong \emph{et~al.}(2012{\natexlab{b}})Kong, Ream, Priscu, and
+  Morgan-Kiss]{Kong2012a}
+Kong W., Ream D.~C., Priscu J.~C., and Morgan-Kiss R.~M. (2012).
+\newblock {Diversity and expression of RubisCO genes in a perennially
+  ice-covered Antarctic lake during the polar night transition}.
+\newblock \emph{Applied and Environmental Microbiology}, 78:\penalty0
+  4358--4366.
+
 \bibitem[Kraft \emph{et~al.}(2011)Kraft, Strous, and Tegetmeyer]{Kraft2011}
 Kraft B., Strous M., and Tegetmeyer H.~E. (2011).
 \newblock {Microbial nitrate respiration – genes, enzymes and environmental
@@ -1178,12 +1199,6 @@ Morris R.~M., Nunn B.~L., Frazar C., Goodlett D.~R., Ting Y.~S., and Rocap G.
 Mosier A.~C., Murray A.~E., and Fritsen C.~H. (2007).
 \newblock {Microbiota within the perennial ice cover of Lake Vida, Antarctica}.
 \newblock \emph{FEMS Microbiolgy Ecology}, 59:\penalty0 274--288.
-
-\bibitem[Murray and Grzymski(2007)]{Murray2007}
-Murray A.~E. and Grzymski J.~J. (2007).
-\newblock {Diversity and genomics of Antarctic marine micro-organisms}.
-\newblock \emph{Philosophical Transactions of the Royal Society of London,
-  Series B}, 362:\penalty0 2259--2271.
 
 \bibitem[Myers \emph{et~al.}(2000)Myers, Sutton, Delcher, Dew, Fasulo,
   Flanigan, Kravitz, Mobarry, Reinert, Remington, Anson, Bolanos, Chou, Jordan,
@@ -1703,6 +1718,11 @@ Unrein F., Izaguirre I., Massana R., Balagu\'{e} V., and Gasol J.~M. (2005).
 \newblock {Nanoplankton assemblages in maritime Antarctic lakes:
   characterisation and molecular fingerprinting comparison}.
 \newblock \emph{Aquatic Microbial Ecology}, 40:\penalty0 269--282.
+
+\bibitem[van~den Hoff and Franzmann(1986)]{vandenHoff1986}
+Hoff J.van~den and Franzmann P.~D. (1986).
+\newblock {A choanoflagellate in a hypersaline Antarctic lake}.
+\newblock \emph{Polar Biology}, 6:\penalty0 71--73.
 
 \bibitem[{Van Etten} \emph{et~al.}(1991){Van Etten}, Lane, and
   Meints]{VanEtten1991}
