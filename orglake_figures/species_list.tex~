@@ -1,0 +1,160 @@
+\begingroup
+\footnotesize
+\begin{longtable}{p{2.5cm}p{4cm}p{7cm}}
+\caption[Microbial taxa detected in the Organic Lake water column]{Analysis of \acs{SSU} gene sequences shown in phylum, class and genus ranks as defined by the SILVA taxonomy, except RF3 which is placed with the Firmicutes according to \cite{Tajima1999}. 
+\acs{SSU} gene sequences were classified to the genus level or to the lowest rank with bootstap confidence $>$85\% (see chapter \ref{ch:org} \emph{Materials and methods}).
+The best \acs{BLAST} matches to environmental \acs{SSU} clone sequences are shown for the abundant candidate divisions RF3 and OD1.
+}
+\label{tab:species}
+\\
+\toprule
+\textbf{Phylum} & \textbf{Class} & \textbf{Genus}  \\
+\midrule
+\endfirsthead
+\multicolumn{3}{c}
+{\tablename\ \thetable\ -- \textit{Continued from previous page}} \\
+\toprule
+\textbf{Phylum} & \textbf{Class} & \textbf{Genus}  \\
+\midrule
+\endhead
+\bottomrule \multicolumn{3}{r} {\textit{Continued on next page}} \\
+\endfoot
+\bottomrule
+\endlastfoot
+\emph{Bacteroidetes} & \emph{Flavobacteria} & \emph{Psychroflexus} \\
+ &  & unclassified \emph{Flavobacteriales} \\
+ &  & \emph{Brumimicrobium} \\
+ &  & \emph{Owenweeksia} \\
+ &  & \emph{Stenothermobacter} \\
+ &  & \emph{Persicivirga} \\
+ & \emph{Sphingobacteria} & \emph{Lewinella} \\
+ &  & E6aC02 \\
+ &  & Ns11-12\_marine\_gp \\
+ &  & WCHB1-69  \\
+ & \emph{Cytophagia} & Ml602j-37 \\
+ &  & unclassified \emph{Cytophagales} \\
+ &  & \emph{Cyclobacterium} \\
+ &  & \emph{Marivirga} \\
+ & VC2.1\_bac22  & VC2.1\_bac22  \\
+ & SB-1  & SB-1  \\
+\emph{Proteobacteria} & \emph{Gammaproteobacteria} & \emph{Marinobacter} \\
+ &  & unclassified \emph{Gammaproteobacteria} \\
+ &  & unclassified \emph{Alteromonadales} \\
+ &  & \emph{Saccharospirillim} \\
+ &  & \emph{Halomonas} \\
+ &  & \emph{Psychromonas} \\
+ &  & \emph{Glaciecola} \\
+ &  & unclassified \emph{Oceanospirillales} \\
+ &  & \emph{Pseudomonas} \\
+ &  & \emph{Thiomicrospira} \\
+ &  & \emph{Thermomonas} \\
+ &  & unclassified \emph{Enterobacteriales} \\
+ &  & Bps-ck174  \\
+ &  & \emph{Modicisalibacter} \\
+ &  & \emph{Leucothrix} \\
+ &  & \emph{Thiorhodovibrio} \\
+ &  & \emph{Pseudospirillum} \\
+ & \emph{Alphaproteobacteria}  & \emph{Roseovarius} \\
+ &  & unclassified \emph{Rhodobacterales} \\
+ &  & \emph{Loktanella} \\
+ &  & \emph{Albimonas} \\
+ &  & TK34  \\
+ &  & \emph{Phaeobacter} \\
+ &  & unclassified \emph{Alphaproteobacteria} \\
+ &  & \emph{Sphingomonas} \\
+ &  & \emph{Octadecabacter} \\
+ &  & Db1-14  \\
+ &  & \emph{Oceanicaulis} \\
+ &  & \emph{Sulfitobacter} \\
+ &  & unclassified \emph{Rhodospirillales} \\
+ &  & \emph{Roseibaca} \\
+ & \emph{Epsilonproteobacteria} & \emph{Sulfurimonas} \\
+ &  & \emph{Sulfurospirillum} \\
+ &  & \emph{Arcobacter} \\
+ &  & Br36 \\
+ & \emph{Deltaproteobacteria} & \emph{Desulfotignum} \\
+ &  & \emph{Desulfopila} \\
+ &  & unclassified \emph{Bdellovibrionales} \\
+ &  & \emph{Peredibacter} \\
+ &  & \emph{Bacteriovorax} \\
+ &  & \emph{Desulfosalsimonas} \\
+ &  & \emph{Desulfobacterium} \\
+ &  & \emph{Desulfuromonas} \\
+\emph{Cyanobacteria} & Chloroplast & \emph{Dunaliella} chloroplast \\
+ &  & unclassified chloroplast \\
+ &  & diatom chloroplast \\
+ & \emph{Cyanobacteria} & unclassified \emph{Cyanobacteria} \\
+\emph{Actinobacteria} & \emph{Actinobacteria} & ``\emph{Candidatus} Aquiluna'' \\
+ &  & unclassified \emph{Micrococcales} \\
+ &  & \emph{Demequina} \\
+\emph{Firmicutes} & RF3 & FJ231138 Laguna Lej\'{i}a \\
+ &  & FM210971 Lake Shangmatala \\
+ &  & AF142888 Ekho Lake  \\
+ &  & DQ909718 hydrothermal vent  \\
+ &  & HM973420 oil reservoir  \\
+ &  & AB546068 oil well head  \\
+ &  & GU196243 anaerobic digester \\
+ & \emph{Clostridia} & \emph{Halanaerobium} \\
+ &  & unclassified \emph{Clostridiales} \\
+ &  & unclassified \emph{Halanaerobiales} \\
+ &  & \emph{Fusibacter} \\
+ &  & \emph{Fastidiosipila} \\
+ & \emph{Bacilli} & unclassified\emph{Bacillales} \\
+ &  & \emph{Paraliobacillus} \\
+\emph{Lentisphaerae}  & \emph{Lentisphaeria} & Wchb1-41 \\
+ &  & unclassified \emph{Victivallales} \\
+ &  & R76-b128 \\
+\emph{Spirochaetes} & \emph{Spirochaetes} & \emph{Spirochaeta} \\
+ &  & unclassified \emph{Spirochaetales} \\
+\emph{Verrucomicrobia} & \emph{Verrucomicrobiae} & unclassified \emph{Verrucomicrobiales} \\
+ &  & \emph{Rubritalea} \\
+ & \emph{Opitutae} & unclassified \emph{Puniceicoccales} \\
+ &  & marine \emph{Puniceicoccales} \\
+\emph{Chlamydiae} & \emph{Chlamydiae} & unclassified \emph{Chlamydiales} \\
+Candidate & OD1 & DQ521564 Lake Vida  \\
+divisions &  & JN454910 hypersaline mat  \\
+ &  & EU050865 Artic sediment  \\
+ &  & JF743552 marine sediments  \\
+ &  & GU197432 endosymbionts \\
+ &  & JN408878 soil rhizosphere \\
+ &  & JN440560 hypersaline mat  \\
+ &  & AY862782 Lake Tebenquiche \\
+ &  & AF419697 hydrothermal sediment  \\
+ &  & HM481393 contaminated water  \\
+ &  & JN441150 hypersaline mat  \\
+ &  & JN447858 hypersaline mat  \\
+ & TM7  & TM7 \\
+ & SR1 & SR1 \\
+ & Bd1-5  & Bd1-5  \\
+ & Bhi80-139  & Bhi80-139  \\
+\emph{Euryarchaeota} & \emph{Halobacteria} & Deep\_sea\_hydrothermal\_vent\_gp\_6 (dhveg-6) \\
+\emph{Viridiplantae} & \emph{Chlorophyta} & unclassified \emph{Chlorophyceae} \\
+ &  & unclassified \emph{Chlorophyta} \\
+ &  & \emph{Chlorophyta} \\
+ &  & \emph{Dunaliella} \\
+ \emph{Stramenopiles} &  \emph{Bacillariophyta} & \emph{Cylindrotheca} \\
+ &  & \emph{Chaetoceros} \\
+ & \emph{Dictyochophyceae} & unclassified \emph{Dictyochophyceae} \\
+ &  & unclassified \emph{Pedinellales} \\
+ & unclassified \emph{Stramenopiles} & unclassified \emph{Stramenopiles} \\
+\emph{Metazoa} & \emph{Arthropoda} & unclassified \emph{Hexapoda} \\
+\emph{Fungi}  & \emph{Neocallimastigomycota}  & \emph{Neocallimastix} \\
+ &  & unclassified \emph{Neocallimatigomycetes} \\
+ & \emph{Dikarya} & unclassified \emph{Ascomycota} \\
+ &  & \emph{Aspergillus} \\
+ &  & \emph{Aureobasidium} \\
+ &  & \emph{Cordyceps} \\
+ &  & \emph{Penicillum} \\
+ &  & \emph{Verticillum} \\
+ &  & \emph{Cryptococcus} \\
+ &  & unclassified \emph{Basidiomycota} \\
+\emph{Alveolata} & \emph{Dinophyceae} & unclassified \emph{Dinophyceae} \\
+ &  & \emph{Karlodinium} \\
+ &  & unclassified \emph{Gymnodiniales} \\
+ & \emph{Ciliophora} & \emph{Euplotes} \\
+ &  & \emph{Tunicothrix} \\
+\emph{Choanoflagellida} & \emph{Codonosigidae} & \emph{Proterospongia} \\
+ &  & unclassified \emph{Choanoflagellida} \\
+\end{longtable}
+\endgroup
+
