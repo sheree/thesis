@@ -1,4 +1,4 @@
-\begin{thebibliography}{261}
+\begin{thebibliography}{265}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -221,6 +221,13 @@ Caporaso J.~G., Kuczynski J., Stombaugh J., Bittinger K., Bushman F.~D.,
 \newblock {QIIME allows analysis of high- throughput community sequencing
   data}.
 \newblock \emph{Nature Methods}, 7:\penalty0 335--336.
+
+\bibitem[Caporaso \emph{et~al.}(2012)Caporaso, Paszkiewicz, Field, Knight, and
+  Gilbert]{Caporaso2012}
+Caporaso J.~G., Paszkiewicz K., Field D., Knight R., and Gilbert J.~A. (2012).
+\newblock {The Western English Channel contains a persistent microbial seed
+  bank}.
+\newblock \emph{The ISME journal}, 6:\penalty0 1089--1093.
 
 \bibitem[Carver \emph{et~al.}(2005)Carver, Rutherford, Berriman, Rajandream,
   Barrell, and Parkhill]{Carver2005}
@@ -1348,6 +1355,12 @@ Purdy K., Nedwell D., and Embley T. (2003).
 \newblock \emph{Applied and Environmental Microbiology}, 69:\penalty0
   3181--3191.
 
+\bibitem[Quayle \emph{et~al.}(2002)Quayle, Peck, Peat, Ellis-Evans, and
+  Harrigan]{Quayle2002}
+Quayle W.~C., Peck L.~S., Peat H., Ellis-Evans J., and Harrigan P.~R. (2002).
+\newblock {Extreme responses to climate change in Antarctic lakes}.
+\newblock \emph{Science}, 295:\penalty0 645.
+
 \bibitem[Raina \emph{et~al.}(2010)Raina, Dinsdale, Willis, and
   Bourne]{Raina2010}
 Raina J.-B., Dinsdale E.~A., Willis B.~L., and Bourne D.~G. (2010).
@@ -1572,6 +1585,12 @@ Sowell S.~M., Wilhelm L.~J., Norbeck A.~D., Lipton M.~S., Nicora C.~D.,
 \newblock {Transport functions dominate the SAR11 metaproteome at low-nutrient
   extremes in the Sargasso Sea}.
 \newblock \emph{The ISME Journal}, 3:\penalty0 93--105.
+
+\bibitem[Su \emph{et~al.}(2012)Su, Xu, and Ning]{Su2012}
+Su~X., Xu~J., and Ning K. (2012).
+\newblock {Parallel-META: efficient metagenomic data analysis based on
+  high-performance computation}.
+\newblock \emph{BMC Systems Biology}, 6:\penalty0 S16.
 
 \bibitem[Sun \emph{et~al.}(2011)Sun, Chen, Li, Altintas, Lin, Peltier, Stocks,
   Allen, Ellisman, Grethe, and Wooley]{Sun2011}
@@ -1847,6 +1866,12 @@ Wommack K.~E., Bhavsar J., Polson S.~W., Chen J., Dumas M., Srinivasiah S.,
 \newblock {VIROME: a standard operating procedure for analysis of viral
   metagenome sequences}.
 \newblock \emph{Standards in Genomic Sciences}, 6:\penalty0 427--439.
+
+\bibitem[Wu \emph{et~al.}(2011)Wu, Zhu, Fu, Niu, and Li]{Wu2011}
+Wu~S., Zhu Z., Fu~L., Niu B., and Li~W. (2011).
+\newblock {WebMGA: a customizable web server for fast metagenomic sequence
+  analysis}.
+\newblock \emph{BMC Genomics}, 12:\penalty0 444.
 
 \bibitem[Xie \emph{et~al.}(2011)Xie, Mao, Huang, Ding, Wu, Dong, Kong, Gao, Li,
   and Wei]{Xie2011}

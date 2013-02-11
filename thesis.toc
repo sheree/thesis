@@ -78,22 +78,23 @@
 \contentsline {section}{\numberline {4.5}Conclusions}{97}{section.4.5}
 \contentsline {chapter}{\numberline {5}General discussion, future work and conclusions}{99}{chapter.5}
 \contentsline {section}{\numberline {5.1}Possibile future work on Organic Lake}{99}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Organic Lake dynamics over time}{100}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.1}Organic Lake community dynamics}{100}{subsection.5.1.1}
 \contentsline {subsection}{\numberline {5.1.2}\acs {OLV} physiology and ecology}{102}{subsection.5.1.2}
 \contentsline {subsection}{\numberline {5.1.3}Organic lake biogeochemistry}{104}{subsection.5.1.3}
 \contentsline {section}{\numberline {5.2}Perspectives on `-omics' approaches }{106}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Next generation sequencing technologies in metagenomics}{106}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.1}Next generation sequencing technologies}{107}{subsection.5.2.1}
 \contentsline {subsection}{\numberline {5.2.2}Emerging bioinformatic bottlenecks}{107}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}Webserver analyses}{108}{subsection.5.2.3}
-\contentsline {subsection}{\numberline {5.2.4}Cloud computing and \acs {GPU}s}{109}{subsection.5.2.4}
-\contentsline {subsubsection}{Bioinformatic tools for \acs {NGS} metagenomic data}{110}{section*.199}
-\contentsline {subsubsection}{Classification of short reads}{110}{section*.200}
-\contentsline {subsubsection}{Metagenomic assembly}{110}{section*.201}
-\contentsline {subsection}{\numberline {5.2.5} 'omes are good as your database and knowledge base}{110}{subsection.5.2.5}
-\contentsline {subsection}{\numberline {5.2.6}Metagenomes and metaproteomes are time capsules}{111}{subsection.5.2.6}
-\contentsline {subsubsection}{Where to from here?}{111}{section*.202}
+\contentsline {subsection}{\numberline {5.2.3}Prospects for closing the bioinformatic gap}{108}{subsection.5.2.3}
+\contentsline {subsubsection}{Webserver analyses}{108}{section*.192}
+\contentsline {subsubsection}{Cloud computing and \acs {GPU}s}{109}{section*.197}
+\contentsline {subsubsection}{Bioinformatic tools for \acs {NGS} metagenomic data}{110}{section*.201}
+\contentsline {subsubsection}{Classification of short reads}{110}{section*.202}
+\contentsline {subsubsection}{Metagenomic assembly}{111}{section*.203}
+\contentsline {subsection}{\numberline {5.2.4} 'omes are only as good as their database}{111}{subsection.5.2.4}
+\contentsline {subsection}{\numberline {5.2.5}Metagenomes and metaproteomes are time capsules}{111}{subsection.5.2.5}
+\contentsline {subsubsection}{Where to from here?}{112}{section*.204}
 \contentsline {section}{\numberline {5.3}Concluding remarks}{112}{section.5.3}
-\contentsline {chapter}{References}{132}{chapter*.203}
+\contentsline {chapter}{References}{132}{chapter*.205}
 \contentsline {chapter}{Appendix \numberline {A}PCR-based studies of Antarctic Lakes}{133}{Appendix.a.A}
 \contentsline {chapter}{Appendix \numberline {B}Proteins identified in Ace Lake metaproteomic analysis}{143}{Appendix.a.B}
 \contentsline {chapter}{Appendix \numberline {C}Peptide sequences of OLV and OLPV proteins identified in the metaproteome}{209}{Appendix.a.C}
