@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.21)  12 FEB 2013 01:09
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.21)  12 FEB 2013 15:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3966,33 +3966,33 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [101]
 Package acronym Info: Label `acro:CroV' newly defined as it shall be overridden
 
-although it is yet undefined on input line 79.
-Package acronym Info: Label `acro:NCLDV' overridden on input line 90.
+although it is yet undefined on input line 78.
+Package acronym Info: Label `acro:NCLDV' overridden on input line 89.
 
 [102]
 Package acronym Info: Label `acro:SAG' newly defined as it shall be overridden
-although it is yet undefined on input line 105.
+although it is yet undefined on input line 104.
 Package acronym Info: Label `acro:SVG' newly defined as it shall be overridden
-although it is yet undefined on input line 105.
+although it is yet undefined on input line 104.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [103]
-Package acronym Info: Label `acro:AAnP' overridden on input line 129.
-Package acronym Info: Label `acro:BchlA' overridden on input line 131.
+Package acronym Info: Label `acro:AAnP' overridden on input line 128.
+Package acronym Info: Label `acro:BchlA' overridden on input line 130.
 
 [104]
-Package acronym Info: Label `acro:DMS' overridden on input line 155.
-Package acronym Info: Label `acro:DMSP' overridden on input line 155.
+Package acronym Info: Label `acro:DMS' overridden on input line 154.
+Package acronym Info: Label `acro:DMSP' overridden on input line 154.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 5711) has occurred while \output is active []
 
  [105]
-Package acronym Info: Label `acro:SSU' overridden on input line 171.
+Package acronym Info: Label `acro:SSU' overridden on input line 170.
 Package acronym Info: Label `acro:NGS' newly defined as it shall be overridden
-although it is yet undefined on input line 183.
+although it is yet undefined on input line 182.
 
-Underfull \vbox (badness 5147) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [106]
 (./conc_figures/seq_tech.tex
@@ -4023,26 +4023,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--31
 ) [107]
 Package acronym Info: Label `acro:MG-RAST' newly defined as it shall be overrid
 den
-although it is yet undefined on input line 215.
-Package acronym Info: Label `acro:CAMERA' overridden on input line 215.
+although it is yet undefined on input line 214.
+Package acronym Info: Label `acro:CAMERA' overridden on input line 214.
 Package acronym Info: Label `acro:IMG/M' newly defined as it shall be overridde
 n
-although it is yet undefined on input line 215.
+although it is yet undefined on input line 214.
 Package acronym Info: Label `acro:VIROME' newly defined as it shall be overridd
 en
-although it is yet undefined on input line 215.
+although it is yet undefined on input line 214.
  [108]
 Package acronym Info: Label `acro:EC2' newly defined as it shall be overridden
-although it is yet undefined on input line 234.
+although it is yet undefined on input line 230.
  [109]
 Package acronym Info: Label `acro:GPU' newly defined as it shall be overridden
-although it is yet undefined on input line 252.
+although it is yet undefined on input line 248.
 Package acronym Info: Label `acro:CPU' newly defined as it shall be overridden
-although it is yet undefined on input line 252.
+although it is yet undefined on input line 248.
 
 
 Package natbib Warning: Citation `Li2012' on page 110 undefined on input line 2
-69.
+65.
 
 [110] [111]) [112] (./thesis.bbl [113
 
@@ -17415,7 +17415,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 109.
 Here is how much of TeX's memory you used:
  12170 strings out of 493488
  185024 string characters out of 3141347
- 371219 words of memory out of 3000000
+ 371206 words of memory out of 3000000
  14161 multiletter control sequences out of 15000+200000
  15181 words of font info for 50 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -17447,10 +17447,10 @@ fonts/type1/public/cm-super/sfbx0900.pfb></usr/local/texlive/2012/texmf-dist/fo
 nts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2012/texmf-dist/font
 s/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2012/texmf-dist/fonts/
 type1/public/cm-super/sfrm1095.pfb>
-Output written on thesis.pdf (233 pages, 21291589 bytes).
+Output written on thesis.pdf (233 pages, 21291447 bytes).
 PDF statistics:
- 6546 PDF objects out of 7423 (max. 8388607)
- 5579 compressed objects within 56 object streams
+ 6543 PDF objects out of 7423 (max. 8388607)
+ 5576 compressed objects within 56 object streams
  874 named destinations out of 1000 (max. 500000)
  876 words of extra memory for PDF output out of 10000 (max. 10000000)
 
