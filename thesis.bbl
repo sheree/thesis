@@ -1,4 +1,4 @@
-\begin{thebibliography}{265}
+\begin{thebibliography}{278}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -151,6 +151,12 @@ Boyer M., Azza S., Barrassi L., Klose T., Campocasso A., Pagnier I., Fournous
   culture}.
 \newblock \emph{Proceedings of the National Academy of Sciences USA},
   108:\penalty0 10296--102301.
+
+\bibitem[Brady and Salzberg(2009)]{Brady2009}
+Brady A. and Salzberg S.~L. (2009).
+\newblock {Phymm and PhymmBL: metagenomic phylogenetic classification with
+  interpolated Markov models}.
+\newblock \emph{Nature Methods}, 6:\penalty0 673--676.
 
 \bibitem[Bratbak \emph{et~al.}(1998)Bratbak, Jacobsen, and
   Heldal]{Bratbak1998b}
@@ -396,6 +402,13 @@ Desnues C., {La Scola} B., Yutin N., Fournous G., Robert C., Azza S., Jardot
 \newblock \emph{Proceedings of the National Academy of Sciences USA},
   109:\penalty0 18078--18083.
 
+\bibitem[Diaz \emph{et~al.}(2009)Diaz, Krause, Goesmann, Niehaus, and
+  Nattkemper]{Diaz2009}
+Diaz N.~N., Krause L., Goesmann A., Niehaus K., and Nattkemper T.~W. (2009).
+\newblock {TACOA: taxonomic classification of environmental genomic fragments
+  using a kernelized nearest neighbor approach}.
+\newblock \emph{BMC Bioinformatics}, 10:\penalty0 56.
+
 \bibitem[Diemer \emph{et~al.}(2012)Diemer, Kyle, and Stedman]{Diemer2012}
 Diemer G.~S., Kyle J.~E., and Stedman K.~M.
 \newblock {Counting viruses using polycarbonate Track Etch membrane filters as
@@ -546,6 +559,13 @@ Gauthier M., Lafay B., Christen R., Fernandez L., Acquaviva M., Bonin P., and
   bacterium}.
 \newblock \emph{International Journal of Systematic Bacteriology}, pages
   568--576.
+
+\bibitem[Gerlach \emph{et~al.}(2009)Gerlach, J\"{u}nemann, Tille, Goesmann, and
+  Stoye]{Gerlach2009}
+Gerlach W., J\"{u}nemann S., Tille F., Goesmann A., and Stoye J. (2009).
+\newblock {WebCARMA: a web application for the functional and taxonomic
+  classification of unassembled metagenomic reads}.
+\newblock \emph{BMC Bioinformatics}, 10:\penalty0 430.
 
 \bibitem[Gibson(1999)]{Gibson1999}
 Gibson J.~A. (1999).
@@ -791,6 +811,11 @@ Hunter C.~I., Mitchell A., Jones P., McAnulla C., Pesseat S., Scheremetjew M.,
 \newblock {Metagenomic analysis: the challenge of the data bonanza}.
 \newblock \emph{Briefings in Bioinformatics}, 13:\penalty0 743--746.
 
+\bibitem[Huson \emph{et~al.}(2007)Huson, Auch, Qi, and Schuster]{Huson2007}
+Huson D.~H., Auch A.~F., Qi~J., and Schuster S.~C. (2007).
+\newblock {MEGAN analysis of metagenomic data}.
+\newblock \emph{Genome Research}, 17:\penalty0 377--386.
+
 \bibitem[Huu \emph{et~al.}(1996)Huu, Denner, Ha, Wanner, and
   Stan-Lotter]{Huu1999}
 Huu N.~B., Denner E.~B., Ha~D.~T., Wanner G., and Stan-Lotter H. (1996).
@@ -904,6 +929,11 @@ Keller A., Nesvizhskii A.~I., Kolker E., and Aebersold R. (2002).
   identifications made by MS/MS and database search}.
 \newblock \emph{Analytical Chemistry}, 74:\penalty0 5383--5392.
 
+\bibitem[Kent(2002)]{Kent2002}
+Kent W.~J. (2002).
+\newblock {BLAT—the BLAST-like alignment tool}.
+\newblock \emph{Genome Research}, 12:\penalty0 656--664.
+
 \bibitem[Kirchman(2002)]{Kirchman2002}
 Kirchman D.~L. (2002).
 \newblock {The ecology of <i>Cytophaga-Flavobacteria</i> in aquatic
@@ -930,6 +960,13 @@ Kraft B., Strous M., and Tegetmeyer H.~E. (2011).
 \newblock {Microbial nitrate respiration – genes, enzymes and environmental
   distribution}.
 \newblock \emph{Journal of Biotechnology}, 155:\penalty0 104--117.
+
+\bibitem[Krause \emph{et~al.}(2008)Krause, Diaz, Goesmann, Kelley, Nattkemper,
+  Rohwer, Edwards, and Stoye]{Krause2008}
+Krause L., Diaz N.~N., Goesmann A., Kelley S., Nattkemper T.~W., Rohwer F.,
+  Edwards R.~A., and Stoye J. (2008).
+\newblock {Phylogenetic classification of short environmental DNA fragments}.
+\newblock \emph{Nucleic Acids Research}, 36:\penalty0 2230--2239.
 
 \bibitem[Kumar \emph{et~al.}(2008)Kumar, Nei, Dudley, and Tamura]{Kumar2008}
 Kumar S., Nei M., Dudley J., and Tamura K. (2008).
@@ -1128,6 +1165,21 @@ Matsuzaki M., Kubota K., Satoh T., Kunugi M., Ban S., and Imura S. (2006).
   lake, in Antarctica and the marine environment}.
 \newblock \emph{Polar Bioscience}, 20:\penalty0 73--81.
 
+\bibitem[McHardy \emph{et~al.}(2006)McHardy, Mart\'{\i}n, Tsirigos, Hugenholtz,
+  and Rigoutsos]{McHardy2007}
+McHardy A.~C., Mart\'{\i}n H.~G., Tsirigos A., Hugenholtz P., and Rigoutsos I.
+  (2006).
+\newblock {Accurate phylogenetic classification of variable-length DNA
+  fragments}.
+\newblock \emph{Nature Methods}, 4:\penalty0 63--72.
+
+\bibitem[Meinicke \emph{et~al.}(2011)Meinicke, Asshauer, and
+  Lingner]{Meinicke2011}
+Meinicke P., Asshauer K.~P., and Lingner T. (2011).
+\newblock {Mixture models for analysis of the taxonomic composition of
+  metagenomes}.
+\newblock \emph{Bioinformatics}, 27:\penalty0 1618--1624.
+
 \bibitem[Meyer \emph{et~al.}(2008)Meyer, Paarmann, D'Souza, Olson, Glass,
   Kubal, Paczian, Rodriguez, Stevens, Wilke, Wilkening, and Edwards]{Meyer2008}
 Meyer F., Paarmann D., D'Souza M., Olson R., Glass E., Kubal M., Paczian T.,
@@ -1282,6 +1334,12 @@ Parks D.~H. and Beiko R.~G. (2010).
   communities}.
 \newblock \emph{Bioinformatics}, 26:\penalty0 715--721.
 
+\bibitem[Parks \emph{et~al.}(2011)Parks, MacDonald, and Beiko]{Parks2011}
+Parks D.~H., MacDonald N.~J., and Beiko R.~G. (2011).
+\newblock {Classifying short genomic fragments from novel lineages using
+  composition and homology}.
+\newblock \emph{BMC Bioinformatics}, 12:\penalty0 328.
+
 \bibitem[Patel \emph{et~al.}(2007)Patel, Noble, Steele, Schwalbach, Hewson, and
   Fuhrman]{Patel2007}
 Patel A., Noble R.~T., Steele J.~A., Schwalbach M.~S., Hewson I., and Fuhrman
@@ -1429,6 +1487,14 @@ Rodriguez-Brito B., Li~L., Wegley L., Furlan M., Angly F.~E., Breitbart M.,
   environments}.
 \newblock \emph{The ISME Journal}, 4:\penalty0 739--751.
 
+\bibitem[Rosen \emph{et~al.}(2011)Rosen, Polikar, Caseiro, Essinger, and
+  Sokhansanj]{Rosen2011}
+Rosen G.~L., Polikar R., Caseiro D.~A., Essinger S.~D., and Sokhansanj B.~A.
+  (2011).
+\newblock {Discovering the unknown: improving detection of novel species and
+  genera from short reads}.
+\newblock \emph{Journal of Biomedicine and Biotechnology}, page 495849.
+
 \bibitem[R\"{o}ske \emph{et~al.}(2012)R\"{o}ske, Sachse, Scheerer, and
   R\"{o}ske]{Roske2012}
 R\"{o}ske K., Sachse R., Scheerer C., and R\"{o}ske I. (2012).
@@ -1559,6 +1625,13 @@ Sharma A.~K., Sommerfeld K., Bullerjahn G.~S., Matteson A.~R., Wilhelm S.~W.,
   among cultivated freshwater <i>Actinobacteria</i>}.
 \newblock \emph{The ISME Journal}, 3:\penalty0 726--737.
 
+\bibitem[Sharma \emph{et~al.}(2012)Sharma, Kumar, Prakash, and
+  Taylor]{Sharma2012}
+Sharma V.~K., Kumar N., Prakash T., and Taylor T.~D. (2012).
+\newblock {Fast and accurate taxonomic assignments of metagenomic sequences
+  using MetaBin}.
+\newblock \emph{PloS One}, 7:\penalty0 e34030.
+
 \bibitem[Siegert \emph{et~al.}(2001)Siegert, Ellis-Evans, Tranter, Mayer,
   Petit, Salamatin, and Priscu]{Siegert2001}
 Siegert M.~J., Ellis-Evans J.~C., Tranter M., Mayer C., Petit J.-R., Salamatin
@@ -1648,6 +1721,13 @@ Tatusov R.~L., Fedorova N.~D., Jackson J.~D., Jacobs A.~R., Kiryutin B., Koonin
   Natale D.~A. (2003).
 \newblock {The COG database: an updated version includes eukaryotes}.
 \newblock \emph{BMC Bioinformatics}, 4:\penalty0 41.
+
+\bibitem[Teeling \emph{et~al.}(2004)Teeling, Waldmann, Lombardot, Bauer, and
+  Gl\"{o}ckner]{Teeling2004}
+Teeling H., Waldmann J., Lombardot T., Bauer M., and Gl\"{o}ckner F.~O. (2004).
+\newblock {TETRA: a web-service and a stand-alone program for the analysis and
+  comparison of tetranucleotide usage patterns in DNA sequences}.
+\newblock \emph{BMC Bioinformatics}, 5:\penalty0 163.
 
 \bibitem[Teeling \emph{et~al.}(2012)Teeling, Fuchs, Becher, Klockow,
   Gardebrecht, Bennke, Kassabgy, Huang, Mann, Waldmann, Weber, Klindworth,
@@ -1867,11 +1947,17 @@ Wommack K.~E., Bhavsar J., Polson S.~W., Chen J., Dumas M., Srinivasiah S.,
   metagenome sequences}.
 \newblock \emph{Standards in Genomic Sciences}, 6:\penalty0 427--439.
 
-\bibitem[Wu \emph{et~al.}(2011)Wu, Zhu, Fu, Niu, and Li]{Wu2011}
+\bibitem[Wu \emph{et~al.}(2011)Wu, Zhu, Fu, Niu, and Li]{Wu2011a}
 Wu~S., Zhu Z., Fu~L., Niu B., and Li~W. (2011).
 \newblock {WebMGA: a customizable web server for fast metagenomic sequence
   analysis}.
 \newblock \emph{BMC Genomics}, 12:\penalty0 444.
+
+\bibitem[Wu and Ye(2011)]{Wu2011b}
+Wu~Y.-W. and Ye~Y. (2011).
+\newblock {A novel abundance-based algorithm for binning metagenomic sequences
+  using l-tuples.}
+\newblock \emph{Journal of Computational Biology}, 18:\penalty0 523--534.
 
 \bibitem[Xie \emph{et~al.}(2011)Xie, Mao, Huang, Ding, Wu, Dong, Kong, Gao, Li,
   and Wei]{Xie2011}

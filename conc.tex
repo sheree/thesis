@@ -219,7 +219,7 @@ One example of this is the different functional analyses offered by EBI Metageno
 In this thesis, use of \ac{CAMERA} was convenient for \acs{BLAST} searches of \ac{OLV} against all other metagenomes (chapter \ref{ch:olv}) as it saved from having to download large metagenomic datasets.
 However, searching for genes involved in photoheterotrophy and \ac{DMSP} catabolism in Antarctic and \acs{GOS} metagenomes (chapter \ref{ch:org}) required downstream normalisation of the match frequencies that was easier to implement locally.
 This illustrates how webservers can be useful, but workflows are not readily customisble.
-The exception to this is WebGMA \cite{Wu2011}, which hosts the most common metagenomic tools and enables them to be put together into custom pipelines, but does not contain a repository of metagenomic sequences.
+The exception to this is WebGMA \cite{Wu2011a}, which hosts the most common metagenomic tools and enables them to be put together into custom pipelines, but does not contain a repository of metagenomic sequences.
 Current webservers have been designed towards analysis of either bacteria/archaea or viral sequences; although the metagenomes from this thesis contained significant proportions of both, as well as eucaryotic sequences.
 To take advantage of the range of specialist features offered by different pipelines can introduce inefficiencies such as performing similar sequence quality control steps in order to fit within their distinct analytical schemas. 
 The different outputs then need to be combined locally and may not be directly comparable to one another due to differences in processing.
@@ -252,36 +252,32 @@ More pipelines such as these and increasing availability of \ac{GPU} clusters wi
 
 \subsubsection{Bioinformatic tools for \acs{NGS} metagenomic data}
 The increased output of \ac{NGS} sequencing technology is spurring development of bioinformatic programs which can solve specific metagenomic computational problems and decrease processing time.
-Metagenomic analyses are typically based on data from single reads, (\emph{eg}. chapter \ref{ch:org}) or from assembled genomic information (\emph{eg}. chapter \ref{ch:olv}).
+Metagenomic analyses are typically based on data from single reads, (\emph{e.g.} chapter \ref{ch:org}) or from assembled genomic information (\emph{e.g.} chapter \ref{ch:olv}).
 These analyses entail two tasks in particular that are unique to metagenomics: classification/binning of short sequences and assembly from mixed species datasets. 
-There are now a huge array of bioinformatic tools that accomplish these tasks so discussion will be restricted to developments aimed at processing large metagenomic \ac{NGS} datasets.
+%There are now a huge array of bioinformatic tools that accomplish these tasks so discussion will be restricted to recent developments aimed at faster processing of large metagenomic \ac{NGS} datasets.
 
-There are several ways to divide metagenomic reads into taxonomic groups.
-Broadly, these are homology-based methods, where reads are compared to known sequences and classified based on shared identity, or composition-based methods, where reads are clustered according to intrinsic properties such as tetranucleotide frequencies.
+Broadly, programs for classifying reads use homology-based methods, where reads are compared to known sequences and classified based on shared identity, or composition-based methods, where reads are clustered according to intrinsic properties such as nucleotide frequencies.
 Newer algorithms aim to reduce computationally intensive steps so large volumes of data can be processed while still accurately detecting weak taxonomic signals from shorter reads. 
-Homology-based programs such as \textsc{MEGAN} \cite{Huson2007} are accurate but require all reads be processed by \acs{BLAST}, which is computationally intensive.
-Later programs such as \textsc{CARMA} \cite{Krause2008}, WebCARMA \cite{Gerlach2009} and \textsc{Treephyler} do similarity searches by Hidden Markov Model (HMMer) searches against Pfam protein familites that aim to reduce computational time. 
-The latest homology-based algorithm for short reads ($<$100 bp) is \textsc{MetaBin} \cite{Sharma2012}, which claims several-fold improvement in speed compared to other homology-based programs by implementing faster \textsc{BLAT} searches \cite{Kent2002} instead of \acs{BLAST}.
-Many more composition-based binning tools exist, the more popular examples being \textsc{TETRA}, \textsc{PhyloPythia} \cite{McHardy2007}, \textsc{TACOA}.
-Clustering of metagenomic data can organise it into meaningful groups and at the same time reduces the size of the dataset (reviewed by \citet{Li2012}).
-The lower redundancy groups can make downstream analyses more managable and can save processing time in the longer homology searches.
-The latest binning tools are \textsc{ClaMS} \cite{Pati2011} and \textsc{Genometa} \cite{Davenport2012}.
-Global clustering of all metagenomic sequences was not performed in this this thesis but may be a necessary step with larger amounts of sequence data.
+Homology-based programs, such as \textsc{MEGAN} \cite{Huson2007}, \textsc{CARMA} \cite{Krause2008}, WebCARMA \cite{Gerlach2009} and \textsc{Treephyler}, are accurate and can be used with short reads but require computationally intensive \acs{BLAST} or Hidden Markov Model searches (HMMer) against known sequence databases.
+The latest homology-based algorithms for short reads ($<$100 bp) have reduced processing time by using faster search algorithms.
+These are \textsc{MetaBin} \cite{Sharma2012}, which claims several-fold improvement in speed by implementing \textsc{BLAT} search \cite{Kent2002}, and \textsc{Genometa} \cite{Davenport2012}, which reports an order of magnitude improvement in speed by using \textsc{Bowtie}.
+As homology-based approaches all rely on a sequence databases, their ability discovery of novel taxa is limited by the database.
+Compositional-based tools on the other hand are database-independent, so reads with no sequenced homologues can be categorised, and they can generally be run on a laptop computer because they do not have an intensive sequence comparison step.
+Some examples of popular programs are \textsc{TETRA} \cite{Teeling2004} (tetra nucleotide-based), \textsc{PhyloPythia} (machine-learning based) \cite{McHardy2007} \textsc{CompostBIN} (\acs{PCA}-based) and \textsc{TACOA} (kernelized nearest-neighbor) \cite{Diaz2009}.
+Depending on the algorithm, the accuracy of the older composition-based binning is limited to longer reads (300--800 bp) due to local variations in genomic composition (reviewed in \citet{Teeling2012}).
+The latest binning algorithms, \textsc{AbundanceBin} that uses l-tuples \cite{Wu2011b} and the mixture models developed by \citet{Meinicke2011}, are a lot less sensitive to read lengths and can be used effectively for binning of reads produced by Illumina platforms.
+Finally, programs have been developed take a combined homology- and composition-based approach including PhymmBL \cite{Brady2009, Rosen2011} and the NB-based classifier developed by \citet{Parks2011}.
 
+%Global metagenomic binning was not attempted in the work from this thesis in favour of the higher resolution offered by taxonomic marker genes (chapter \ref{ch:org}).
+%Both marker gene and global homology-based approaches were performed in the metagenomic analysis of  Ace Lake that gave comparable results \cite{Lauro2011}.
+%Future Antarctic lake projects can profit from the wealth of emerging bioinformatic tools now available that enable rapid interrogation of taxonomic composition at different levels of resolution.
 
-\subsubsection{Metagenomic assembly}
-The greater amount of sequence per run provided by Illumina, Ion Torrent and SOLiD technologies allows more genomic information to be extracted and potentially more whole genomes from environments.
-These technologies were not designed with metagenomics in mind so their sequencing algorithms don't necessarily take into account the complex mixture.
-One example of this is a newly released sequence of a Euryarchaeon genome assembled from SOLiD sequence implementing a soon to be released program SEAStar.
+The deep sequencing capability of Illumina, Ion Torrent and SOLiD technologies has greater potential for complete coverage of whole genomes in the environment and therefore the possibility for novel genomes to be assembled \emph{de novo}.
+However, \emph{de novo} assembly from mixed communities is an extremely difficult computational problem and requires a great deal of computer memory to run.
+Several recent approaches have been developed to surpass this bottleneck based on different sequencing platforms.
 %Find examples from the Ion, Titus Brown Iowa corn with k-mers and Illumina. De brujin graphs.
 % The benefit of the greater sequencing depths means more genomes can be potentially closed.
 % Could a metagenome ever be really `closed' metagenome, unless it is the most simple community, it seems difficult to imagine.
-
-Now that there are many metagenomes available from a whole range over environments, comparing metagenomes to one another can yeild insights into patterns between environments.
-It can also give some sort of environmental designation to otherwise unknown sequences that have no matches from genomic databases of isolate.
-
-%Cloud computing also might facilitate scaling up of bioinformatic tools. cite caparaso 
-%Efficiency of the analytical tasks can be achieved by less redundancy analysis and effective data sharing.
 
 \subsection{ 'omes are only as good as their database}
 Aside from the computational limitations, `-omics' type analyses rely a great deal on current sequence databases and laboratory studies to make meaningful inferences.
