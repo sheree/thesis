@@ -86,12 +86,12 @@
 \contentsline {subsection}{\numberline {5.2.2}Emerging bioinformatic bottlenecks}{107}{subsection.5.2.2}
 \contentsline {subsection}{\numberline {5.2.3}Prospects for closing the bioinformatic gap}{108}{subsection.5.2.3}
 \contentsline {subsubsection}{Webserver analyses}{108}{section*.192}
-\contentsline {subsubsection}{Cloud computing and \acs {GPU}s}{109}{section*.197}
-\contentsline {subsubsection}{Bioinformatic tools for binning and assembly of \acs {NGS} data}{110}{section*.201}
+\contentsline {subsubsection}{Cloud computing and \acs {GPU}s}{108}{section*.193}
+\contentsline {subsubsection}{Bioinformatic tools for binning and assembly of \acs {NGS} data}{109}{section*.197}
 \contentsline {subsection}{\numberline {5.2.4} 'omes are only as good as our databases}{111}{subsection.5.2.4}
 \contentsline {subsection}{\numberline {5.2.5}Metagenomes and metaproteomes are time capsules}{113}{subsection.5.2.5}
 \contentsline {section}{\numberline {5.3}Concluding remarks}{113}{section.5.3}
-\contentsline {chapter}{References}{135}{chapter*.203}
+\contentsline {chapter}{References}{135}{chapter*.199}
 \contentsline {chapter}{Appendix \numberline {A}PCR-based studies of Antarctic Lakes}{137}{Appendix.a.A}
 \contentsline {chapter}{Appendix \numberline {B}Proteins identified in Ace Lake metaproteomic analysis}{147}{Appendix.a.B}
 \contentsline {chapter}{Appendix \numberline {C}Peptide sequences of OLV and OLPV proteins identified in the metaproteome}{213}{Appendix.a.C}

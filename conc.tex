@@ -30,7 +30,7 @@ Winter samples in particular can establish how the community persists when the l
 Paired metagenomic and metaproteomic analyses of the coastal Southern Ocean from winter and summer found winter samples were dominated by active chemolithoautotrophs including sulphur-oxidising \emph{Gammaproteobacteria} and ammonia oxidising \emph{Crenarcheaota} \cite{Grzymski2012, Williams2012b}.
 If the Organic Lake ecosystem reflects that of the coastal Southern Ocean, the small population of chemolithoautotrophic sulphur-oxidising \emph{Proteobacteria} found to be present (chapter \ref{ch:org}) are expected to become dominant in the winter.
 %Succession of the summer bacterial population by \emph{Crenarchaeota} is not expected to occur as no signatures for \emph{Crenarchaeota} or ammonia oxidation were present in Organic Lake.
-Metagenomic analysis indicated recycling of reduced nitrogen compounds predominates in Organic Lake and a lack of capacity to form oxidised nitrogen compounds (chapter \ref{ch:org}).
+Metagenomic analysis indicated recycling of reduced nitrogen compounds predominates in Organic Lake (chapter \ref{ch:org}).
 If this model of nitrogen cycle holds true over the year, we can expect ammonia oxidising microorganisms will not play a part in the community as they do in other similar environments \cite{Voytek1999, Grzymski2012, Williams2012b}.
 %Another possibility is that some bacterial populations become dormant over the winter, as seems to occur in Artic sea ice communities \cite{Collins2010}.
 
@@ -47,8 +47,8 @@ How they vary throughout the year and between years is unclear.
 Organic Lake has been shown to be physically variable over a decadal time scale with changes in water level of $\sim$1 m leading to large changes in the water column structure \cite{Gibson1995, Gibson1996}.
 Notably, the pycnocline in Organic Lake occurred at 5.7 m in 2008; much lower than 3.5 m where it first reported in 1978 \cite{Franzmann1987b}.
 If the lake completely mixes, this would challenge the oxygen-senstitive microbes and processes occurring in the deep zone.
-In West Antarctic lakes physical changes have been correlated with large and rapid ecological responses \cite{Quayle2002}.
-Substantial differences were observed in \emph{cbbM} gene copy number and vertical distribution between three field seasons in Lake Bonney \cite{Kong2012b} indicating sensitivity to environmental factors applies to permanently ice-covered lakes and is a general property of Antarctic lakes.
+In West Antarctic lakes, physical changes have been correlated with large and rapid ecological responses \cite{Quayle2002}.
+Substantial differences were observed in \emph{cbbM} gene copy number and vertical distribution between three field seasons in Lake Bonney \cite{Kong2012b} indicating sensitivity to environmental factors also applies to permanently ice-covered lake ecosystems and is a general property of Antarctic lakes.
 However, the amount of seasonal variability needs to be established in Organic Lake for differences over longer time scales to be determined.
 
 %Long-term sampling of Southern Ocean coastal surface waters suggests the community has a reproducible annual cycle \cite{Murray2007}.
@@ -57,7 +57,7 @@ There was a change in the viral composition and abundance between November and D
 Similarly, there were differences in the eucaryotic community when the lake was completely thawed in 2006 (chapter \ref{ch:olv}) and the profile in November 2008 when the lake was ice-covered (chapter \ref{ch:org}).
 %This suggests shifts in the microbial community is related to ice-cover melt and/or increased solar irradiance. 
 %Specifically, \emph{Dunaliella}, \emph{Dictyochophyceae}, \emph{Euplotes}, \emph{Dinophyceae} and \emph{Bacillariophyta} were present in both samples, whereas \emph{Pyramimonas}, \emph{Pelagophyceae}, \emph{Pirsonia} and \emph{Caecitellus} was only detected in the December 2006 samples and fungi and \emph{Choanoflagellida} were only in the November 2008 profile (chapter \ref{ch:org}).
-It is unclear whether the the variation between the summer samples, December 2006, November 2008 and December 2008 are due to differences in ice-cover/light, sampling locations  (2006 and December 2008 samples were littoral, while November 2008 was over the deepest point of the lake) or other environmental factors.
+It is unclear whether the variation between the summer samples is due to differences in ice-cover/light, sampling locations  (2006 and December 2008 samples were littoral, while November 2008 was over the deepest point of the lake) or other environmental factors.
 Metagenomic sequencing of a summer time course would provide a high resolution view of changes in the microbial community over the season that can be related to environmental conditions.
 This time course can be compared back to the summer 2006 and 2008 samples indicating if the differences that have been observed fall within normal range of variability over the summer season and also help interpret what factors were driving those variations.
 
@@ -205,12 +205,12 @@ For example, analysis of metagenomic data produced by Illumina technology using 
 Without increases in compute resources, the time taken to process massive \ac{NGS} datasets will become prohibitively slow and is an important consideration for future metagenomic projects.
 
 \subsection{Prospects for closing the bioinformatic gap}
-Ultimately, for computational analysis to catch up with advances in sequencing technology requires more efficient processing, faster processors and/or faster algorithms.
-Ways to surpass the bioinformatic bottleneck are being developed and, if paired with careful experimental and analytical design, can make this a managable challenge for prospective studies.
+Ultimately, for computational analysis to catch up with advances in sequencing technology more efficient processing, faster processors and faster algorithms are required.
+Ways to surpass the bioinformatic bottleneck are being developed and, if theses advances are paired with careful experimental and analytical design, will enable computational challenges to be managed.
 
 \subsubsection{Webserver analyses}
 A shortage in computational resources can be addressed to some extent by the use of webserver pipelines specialised in metagenomic processing.
-These include \ac{MG-RAST} \cite{Meyer2008}, \ac{CAMERA} \cite{Sun2011}, \ac{IMG/M} \cite{Markowitz2008, Markowitz2012}, EBI Metagenomics \cite{Hunter2012}, as well as \textsc{Metavir} \cite{Roux2011} and \ac{VIROME} \cite{Wommack2012} for viral metagenomes.
+These include \acs{MG-RAST} \cite{Meyer2008}, \acs{CAMERA} \cite{Sun2011}, \acs{IMG/M} \cite{Markowitz2008, Markowitz2012}, EBI Metagenomics \cite{Hunter2012}, as well as \textsc{Metavir} \cite{Roux2011} and \acs{VIROME} \cite{Wommack2012} for viral metagenomes.
 These webservers take on the burden of maintaining necessary programs, storage of sequence databases and provide computational power.
 Each have unique features that may be more desirable for particular sample types, analyses or user preferences.
 %One example of this is the different functional analyses offered by EBI Metagenomics and \ac{MG-RAST}, which implement InterPro and SEED subsystems respectively.
@@ -242,7 +242,7 @@ Cloud resources look to be most useful in future Antarctic projects for running 
 
 Cutting down processing times of \ac{NGS} data analysis can also be achieved by hardware-driven solutions.
 The most promising of these is use of \acp{GPU}, which enable faster processing than a conventional \acp{CPU}.
-A trial comparing the of use \acp{GPU} for processing Illumina GAIIx metagenomic datasets has reported 10--15 fold increase in processing speed compared to a \ac{CPU} cluster \cite{Su2012}.
+A trial comparing the of use \acp{GPU} for processing Illumina GAIIx metagenomic datasets reported a 10--15 fold increase in processing speed compared to a \ac{CPU} cluster \cite{Su2012}.
 Currently, use of \acp{GPU} seems to be limited only by availability of bioinformatics software that can run on the different architechture and access to \ac{GPU} clusters.
 A specific metagenomic analysis pipeline called Parallel-META has been launched that can run 16S \acs{rRNA} prediction from a shotgun metagenome, classify the 16S sequences by \acs{BLAST} and perform comparisons of multiple samples \cite{Su2012}.
 More pipelines such as these and increasing availability of \ac{GPU} clusters will undoubtedly be useful for speeding up metagenomic analyses.
@@ -300,7 +300,7 @@ Aside from the computational limitations, `-omics' type analyses rely a great de
 For example, detection of the \ac{OLV} (chapter \ref{ch:olv}) was contingent on the presence of a sufficiently close relative, Sputnik \cite{LaScola2008}, in the non-redundant database.
 Without the Sputnik sequence in the database, the \ac{OLV} scaffold would still have been assembled, but it would have had no capsid protein match to identify the scaffold as viral.
 Furthermore, without the physiological characterisation of Sputnik as a virophage of mimivirus \cite{LaScola2008}, the genomic inferences linking \ac{OLV} to \ac{OLPV} would not have been possible demonstrating how a biological knowledge-base is also crucial to understand metagenomic data.
-Similarly, it was due to the recent sequencing and characterisation of \ac{DMSP} lyase genes that they werre specifically sought out in the Organic Lake metagenomic seqeunces as a marker for \ac{DMS} production (chapter \ref{ch:org}).
+Similarly, it was due to the recent sequencing and characterisation of \ac{DMSP} lyase genes that they were specifically sought out in the Organic Lake metagenomic seqeunces as a marker for \ac{DMS} production (chapter \ref{ch:org}).
 
 A dependence on sequence databases applies even more to metaproteomic analysis.
 Unlike metagenomics where fairly distantly related sequences can be matched to a metagenome to give some idea of its biological significance, spectral matching fails if protein sequences with high identity to those in the sample are not available (chapter \ref{ch:ace}).
@@ -308,18 +308,20 @@ This makes metaproteomics much more reliant on sequence database availibility an
 Furthermore, identification of proteins only indicates that they are expressed, but characterisation of the same or closely related protein is still necessary to infer its function in the sample.
 Knowledge of protein function is accumulating extremely slowly compared to sequence data \figref{fig:seq_vs_curated}.
 \input{conc_figures/seq_vs_curated.tex}
-This illustrates how both metagenomics and metaproteomics need to be paired with basic laboratory studies for meaningful biological inferences continue to be made.
+This illustrates how both metagenomics and metaproteomics need to be paired with basic laboratory studies for meaningful biological inferences to continue to be made.
 Conversely, it also means a great deal of metagenomics sequences and metaproteomic mass spectra data remains to be taxonomically or functionally assigned.
 
 The specific hypotheses built on environmental data can be used to guide laboratory research studies, such as were detailed above in \emph{Possible future work on Organic Lake}, thus feeding back into supporting a systems-level understanding of microbial communities.
 Future `-omic' studies need to now encompass longer time scales and employ focussed analysis of populations and individuals to build on known sequence databases and our biological knowledge base.
-Combining `-omics' tools with laboratory work on isolates and with complementary techniques for targeting specific populations, community functions and biogeochemical processes holds promise for enabling a deeper understanding of ecosystems.
+Combining `-omics' tools with laboratory work on isolates and with complementary techniques for targeting specific populations, community functions and biogeochemical processes is necessary for a deeper understanding of ecosystems.
 
 \subsection{Metagenomes and metaproteomes are time capsules}
-The \textsc{DNA} sequence and mass spectra data that has been produced form a lasting record of the state of the microbial communities at the point in time that they were collected.
-It thus acts as a resource against which other datasets can be compared to gain an understanding of variability between ecosystems and as a bench mark to gauge changes overtime.
-The data can also be specifically mined to recover features of interest, for example sequences that encode enzymes with desired activities or bioactive compounds can be recovered by synthesis from the sequence information.
-As sequence databases grow and more of the microbial world is characterised, this archive of molecular data can be re-analysed to learn even more from these unique ecosystems.
+%Although not all of the `-omics' data collected can be assigned to species or function at present, they are still an invaluable resource for the future.
+The \textsc{DNA} sequence and mass spectra data that has been produced from these studies form a lasting record of the state of the microbial communities at the point in time that they were collected.
+They thus acts as a repository against which other datasets can be compared to gain an understanding of variability between ecosystems and as a bench mark to gauge changes overtime.
+The data can also be specifically mined to recover features of interest.
+For example genes for enzymes with desired activities or bioactive compounds can be recovered from the sequence information.
+As sequence databases grow and more of the microbial world is characterised, this archive of molecular data can be re-analysed to learn even more about the lake ecosystems.
 
 %cite your future work section and other people's commentaries.
 %Cite \cite{Warneke2007}
