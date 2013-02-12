@@ -1,4 +1,4 @@
-\begin{thebibliography}{278}
+\begin{thebibliography}{281}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -1376,6 +1376,15 @@ Pearce D.~A., Gast C.~J.van~der, Woodward K., and Newsham K.~K. (2005).
   maritime Antarctic freshwater lake following nutrient enrichment}.
 \newblock \emph{Microbiology}, 151:\penalty0 3237--3248.
 
+\bibitem[Pell \emph{et~al.}(2012)Pell, Hintze, Canino-Koning, Howe, Tiedje, and
+  Brown]{Pell2012}
+Pell J., Hintze A., Canino-Koning R., Howe A., Tiedje J.~M., and Brown C.~T.
+  (2012).
+\newblock {Scaling metagenome sequence assembly with probabilistic de Bruijn
+  graphs}.
+\newblock \emph{Proceedings of the National Academy of Sciences USA},
+  109:\penalty0 13272--13277.
+
 \bibitem[Pickard \emph{et~al.}(1986)Pickard, Adamson, and Heath]{Pickard1986}
 Pickard J., Adamson D.~A., and Heath C.~W. (1986).
 \newblock {The evolution of Watts Lake, Vestfold Hills, East Antarctica, from
@@ -1426,12 +1435,12 @@ Raina J.-B., Dinsdale E.~A., Willis B.~L., and Bourne D.~G. (2010).
   associations?}
 \newblock \emph{Trends in Microbiology}, 18:\penalty0 101--108.
 
-\bibitem[Ram \emph{et~al.}(2008)Ram, Verberkmoes, Thelen, Tyson, Baker, {Blake
+\bibitem[Ram \emph{et~al.}(2005)Ram, Verberkmoes, Thelen, Tyson, Baker, {Blake
   II}, Shah, Hettich, and Banfield]{Ram2005}
 Ram R.~J., Verberkmoes N.~C., Thelen M.~P., Tyson G.~W., Baker B.~J., {Blake
-  II} R.~C., Shah M., Hettich R.~L., and Banfield J.~F. (2008).
+  II} R.~C., Shah M., Hettich R.~L., and Banfield J.~F. (2005).
 \newblock {Community proteomics of a natural microbial biofilm}.
-\newblock \emph{Science}, \penalty0 (2005):\penalty0 1915--1920.
+\newblock \emph{Science}, 308:\penalty0 1915--1920.
 
 \bibitem[Rankin \emph{et~al.}(1999)Rankin, Gibson, Franzmann, and
   Burton]{Rankin1999}
@@ -1533,6 +1542,16 @@ Rutherford K., Parkhill J., Crook J., Horsnell T., Rice P., Rajandream M.-A.,
   and Barrell B.~G. (2000).
 \newblock {Artemis: sequence visualization and annotation}.
 \newblock \emph{Bioinformatics}, 16:\penalty0 944--945.
+
+\bibitem[Salzberg \emph{et~al.}(2012)Salzberg, Phillippy, Zimin, Puiu, Magoc,
+  Koren, Treangen, Schatz, Delcher, Roberts, Marcais, Pop, and
+  Yorke]{Salzberg2012}
+Salzberg S.~L., Phillippy A.~M., Zimin A., Puiu D., Magoc T., Koren S.,
+  Treangen T.~J., Schatz M.~C., Delcher A.~L., Roberts M., Marcais G., Pop M.,
+  and Yorke J.~A. (2012).
+\newblock {GAGE: A critical evaluation of genome assemblies and assembly
+  algorithms}.
+\newblock \emph{Genome Research}, 22:\penalty0 557--567.
 
 \bibitem[Samsudin \emph{et~al.}(2011)Samsudin, Evans, Wright, and {Al
   Jassim}]{Samsudin2011}
@@ -1722,6 +1741,13 @@ Tatusov R.~L., Fedorova N.~D., Jackson J.~D., Jacobs A.~R., Kiryutin B., Koonin
 \newblock {The COG database: an updated version includes eukaryotes}.
 \newblock \emph{BMC Bioinformatics}, 4:\penalty0 41.
 
+\bibitem[Teeling and Gl\"{o}ckner(2012)]{Teeling2012b}
+Teeling H. and Gl\"{o}ckner F.~O. (2012).
+\newblock {Current opportunities and challenges in microbial metagenome
+  analysis - a bioinformatic perspective}.
+\newblock \emph{Briefings in Bioinformatics}, 13\penalty0 (6):\penalty0
+  728--742.
+
 \bibitem[Teeling \emph{et~al.}(2004)Teeling, Waldmann, Lombardot, Bauer, and
   Gl\"{o}ckner]{Teeling2004}
 Teeling H., Waldmann J., Lombardot T., Bauer M., and Gl\"{o}ckner F.~O. (2004).
@@ -1732,7 +1758,7 @@ Teeling H., Waldmann J., Lombardot T., Bauer M., and Gl\"{o}ckner F.~O. (2004).
 \bibitem[Teeling \emph{et~al.}(2012)Teeling, Fuchs, Becher, Klockow,
   Gardebrecht, Bennke, Kassabgy, Huang, Mann, Waldmann, Weber, Klindworth,
   Otto, Lange, Bernhardt, Reinsch, Hecker, Peplies, Bockelmann, Callies,
-  Gerdts, Wichels, Wiltshire, Gl\"{o}ckner, Schweder, and Amann]{Teeling2012}
+  Gerdts, Wichels, Wiltshire, Gl\"{o}ckner, Schweder, and Amann]{Teeling2012a}
 Teeling H., Fuchs B.~M., Becher D., Klockow C., Gardebrecht A., Bennke C.~M.,
   Kassabgy M., Huang S., Mann A.~J., Waldmann J., Weber M., Klindworth A., Otto
   A., Lange J., Bernhardt J., Reinsch C., Hecker M., Peplies J., Bockelmann

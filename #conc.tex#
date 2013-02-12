@@ -305,9 +305,12 @@ This makes metaproteomics much more reliant on sequence database availibility an
 Furthermore, identification of proteins only indicates that they are expressed, but characterisation of the same or closely related protein is still necessary to infer its function in the sample.
 Knowledge of protein function is accumulating extremely slowly compared to sequence data \figref{fig:seq_vs_curated}.
 \input{conc_figures/seq_vs_curated.tex}
-This illustrates how both metagenomics and metaproteomics need to be paired with basic laboratory studies for meaningful biological inferences to be made.
+This illustrates how both metagenomics and metaproteomics need to be paired with basic laboratory studies for meaningful biological inferences continue to be made.
 Conversely, it also means a great deal of metagenomics sequences and metaproteomic mass spectra data remains to be taxonomically or functionally assigned.
-
+However, as detailed above, the specific hypotheses built on environmental data can be used to guide laboratory research studies and thus feedback into supporting a systems-level understanding of microbial communities.
+ future `-omic' studies need to now encompass longer time scales, finer spatial resolutions and focussed analysis of populations and individuals that make up communities.
+This will allow for relationships to become apparent between molecular data and environmental parameters over space and time.
+Pairing `-omics' tools with complementary techniques designed to target specific individuals or populations, community functions and biogeochemical processes is a promising way to enable an even deeper understanding of ecosystems by combining their respective strengths.
 
 \subsection{Metagenomes and metaproteomes are time capsules}
 The \textsc{DNA} sequence and mass spectra data that has been produced form a lasting record of the state of the microbial communities at the point in time that they were collected.
@@ -318,14 +321,8 @@ As sequence databases grow and more of the microbial world is characterised, thi
 
 
 \subsubsection{Where to from here?}
-As mentioned above,
+
 %cite your future work section and other people's commentaries.
- future `-omic' studies need to now encompass longer time scales, finer spatial resolutions and focussed analysis of populations and individuals that make up communities.
-This will allow for relationships to become apparent between molecular data and environmental parameters over space and time.
-Pairing `-omics' tools with complementary techniques designed to target specific individuals or populations, community functions and biogeochemical processes is a promising way to enable an even deeper understanding of ecosystems by combining their respective strengths.
-
-The hypotheses built on environmental data can then guide laboratory research studies and thus feedback into supporting a systems-level understanding of microbial communities.
-
 %Cite \cite{Warneke2007}
 %\figref{fig:prok_diversity} illustrates how much additional bacterial and archaeal taxonomic diversity has been revealed by environmental sequencing and also suggests how much more of their genomic diversity is still undescribed. 
 %\input{conc_figures/prok_diversity.tex}
@@ -333,10 +330,8 @@ The hypotheses built on environmental data can then guide laboratory research st
 \section{Concluding remarks}
 
 This thesis has demonstrated how metagenomics and metaproteomics can be used as a tool for characterising Antarctic lake ecosystems.
-The \textsc{DNA} sequence and mass spectra data that has been produced form a lasting record of the state of the microbial communities at the point in time that they were collected.
-It thus acts as a resource against which other datasets can be compared to gain an understanding of variability between ecosystems and as a bench mark to gauge changes overtime.
-%The data can also be specifically mined to recover features of interest, for example sequences that encode enzymes with desired activities or bioactive compounds can be recovered by synthesis from the sequence information.
-As sequence databases grow and more of the microbial world is characterised, this archive of molecular data can be re-analysed to learn even more from these unique ecosystems.
+
+
 
 
 %\section{Summary of outcomes from this work}

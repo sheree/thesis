@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.21)  12 FEB 2013 20:58
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.21)  13 FEB 2013 00:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -4034,18 +4034,15 @@ although it is yet undefined on input line 214.
  [108]
 Package acronym Info: Label `acro:EC2' newly defined as it shall be overridden
 although it is yet undefined on input line 230.
- [109]
 Package acronym Info: Label `acro:GPU' newly defined as it shall be overridden
-although it is yet undefined on input line 247.
+although it is yet undefined on input line 245.
 Package acronym Info: Label `acro:CPU' newly defined as it shall be overridden
-although it is yet undefined on input line 247.
+although it is yet undefined on input line 245.
+ [109] [110]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Overfull \hbox (3.71796pt too wide) in paragraph at lines 259--270
-\OT1/cmr/m/n/10.95 are com-pared to known se-quences and clas-si-fied based on 
-shared iden-tity, or composition-
- []
-
-[110] [111] [112]) [113] (./thesis.bbl [114
+ [111]
+[112]) [113] (./thesis.bbl [114
 
 
 ] [115]
@@ -4056,22 +4053,23 @@ Missing character: There is no ¢ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
- [119]
-[120] [121] [122] [123]
+ [119] [120] [121]
+[122] [123]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ” in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
- [124] [125] [126] [127] [128] [129] [130] [131]
-[132] [133]
+ [124] [125] [126] [127] [128] [129] [130] [131] [132] [133]
 Missing character: There is no Â in font cmr10!
 Missing character: There is no ° in font cmr10!
+
+[134]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
- [134]) [135]
+) [135]
 \openout2 = `appendices.aux'.
 
  (./appendices.tex [136
@@ -17407,7 +17405,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 109.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 109.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 109.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: B55277212F644F9A206E3F925902E0C2;7213.
+(rerunfilecheck)             Checksum: 1515A4B5458E1971BE7DDB77A7B53AD4;7212.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -17415,13 +17413,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 109.
  ) 
 Here is how much of TeX's memory you used:
- 12225 strings out of 493488
- 185925 string characters out of 3141347
- 372081 words of memory out of 3000000
- 14199 multiletter control sequences out of 15000+200000
+ 12236 strings out of 493488
+ 186132 string characters out of 3141347
+ 372418 words of memory out of 3000000
+ 14208 multiletter control sequences out of 15000+200000
  15181 words of font info for 50 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 44i,18n,53p,1531b,1030s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,18n,53p,1531b,1028s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
@@ -17449,10 +17447,10 @@ fonts/type1/public/cm-super/sfbx0900.pfb></usr/local/texlive/2012/texmf-dist/fo
 nts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2012/texmf-dist/font
 s/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2012/texmf-dist/fonts/
 type1/public/cm-super/sfrm1095.pfb>
-Output written on thesis.pdf (237 pages, 21299148 bytes).
+Output written on thesis.pdf (237 pages, 21300792 bytes).
 PDF statistics:
- 6612 PDF objects out of 7423 (max. 8388607)
- 5640 compressed objects within 57 object streams
- 891 named destinations out of 1000 (max. 500000)
+ 6616 PDF objects out of 7423 (max. 8388607)
+ 5644 compressed objects within 57 object streams
+ 893 named destinations out of 1000 (max. 500000)
  876 words of extra memory for PDF output out of 10000 (max. 10000000)
 
