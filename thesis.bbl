@@ -1,4 +1,4 @@
-\begin{thebibliography}{281}
+\begin{thebibliography}{286}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -1014,6 +1014,11 @@ Larsen J.~B., Larsen A., Bratbak G., and Sandaa R.-A. (2008).
 \newblock \emph{Applied and environmental microbiology}, 74:\penalty0
   3048--3057.
 
+\bibitem[Laserson \emph{et~al.}(2011)Laserson, Jojic, and Koller]{Laserson2011}
+Laserson J., Jojic V., and Koller D. (2011).
+\newblock {Genovo: <i>de novo assembly</i> for metagenomes}.
+\newblock \emph{Journal of Computational Biology}, 18:\penalty0 429--443.
+
 \bibitem[Lauro \emph{et~al.}(2009)Lauro, Mcdougald, Thomas, Williams, Egan,
   Rice, DeMaere, Ting, Ertan, Johnson, Ferriera, Lapidus, Anderson, Kyrpides,
   Munk, Detter, Han, Brown, Robb, Kjelleberg, and Cavicchioli]{Lauro2009}
@@ -1287,6 +1292,13 @@ Nagasaki K., Shirai Y., Tomaru Y., Nishida K., and Pietrokovski S. (2005).
 \newblock \emph{Applied and Environmental Microbiology}, 71:\penalty0
   3599--3607.
 
+\bibitem[Namiki \emph{et~al.}(2012)Namiki, Hachiya, Tanaka, and
+  Sakakibara]{Namiki2012}
+Namiki T., Hachiya T., Tanaka H., and Sakakibara Y. (2012).
+\newblock {MetaVelvet: an extension of Velvet assembler to de novo metagenome
+  assembly from short sequence reads}.
+\newblock \emph{Nucleic Acids Research}, 40:\penalty0 e155.
+
 \bibitem[Nelson \emph{et~al.}(1993)Nelson, Zhang, and {Van Etten}]{Nelson1993}
 Nelson M., Zhang Y., and {Van Etten} J.~L.
 \newblock {DNA methyltransferases and DNA site-specific endonucleases encoded
@@ -1385,12 +1397,23 @@ Pell J., Hintze A., Canino-Koning R., Howe A., Tiedje J.~M., and Brown C.~T.
 \newblock \emph{Proceedings of the National Academy of Sciences USA},
   109:\penalty0 13272--13277.
 
+\bibitem[Peng \emph{et~al.}(2011)Peng, Leung, Yiu, and Chin]{Peng2011}
+Peng Y., Leung H.~C.~M., Yiu S.~M., and Chin F.~Y.~L. (2011).
+\newblock {Meta-IDBA: a <i>de novo</i> assembler for metagenomic data}.
+\newblock \emph{Bioinformatics}, 27:\penalty0 i94--i101.
+
 \bibitem[Pickard \emph{et~al.}(1986)Pickard, Adamson, and Heath]{Pickard1986}
 Pickard J., Adamson D.~A., and Heath C.~W. (1986).
 \newblock {The evolution of Watts Lake, Vestfold Hills, East Antarctica, from
   marine inlet to freshwater lake}.
 \newblock \emph{Palaeogeography, Palaeoclimatology, Palaeoecology},
   53:\penalty0 271--288.
+
+\bibitem[Pignatelli and Moya(2011)]{Pignatelli2011}
+Pignatelli M. and Moya A. (2011).
+\newblock {Evaluating the fidelity of de novo short read metagenomic assembly
+  using simulated data}.
+\newblock \emph{PloS One}, 6:\penalty0 e19984.
 
 \bibitem[Poretsky \emph{et~al.}(2010)Poretsky, Sun, Mou, and
   Moran]{Poretsky2010}
@@ -1767,6 +1790,11 @@ Teeling H., Fuchs B.~M., Becher D., Klockow C., Gardebrecht A., Bennke C.~M.,
 \newblock {Substrate-controlled succession of marine bacterioplankton
   populations induced by a phytoplankton bloom}.
 \newblock \emph{Science}, 336:\penalty0 608--611.
+
+\bibitem[Temperton and Giovannoni(2012)]{Temperton2012}
+Temperton B. and Giovannoni S.~J. (2012).
+\newblock {Metagenomics: microbial diversity through a scratched lens}.
+\newblock \emph{Current opinion in microbiology}, 15:\penalty0 605--12.
 
 \bibitem[Thakur \emph{et~al.}(2012)Thakur, Bandopadhyay, Chaudhary, and
   Chatterjee]{Thakur2012}
