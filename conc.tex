@@ -248,16 +248,16 @@ A specific metagenomic analysis pipeline called Parallel-META has been launched 
 More pipelines such as these and increasing availability of \ac{GPU} clusters will undoubtedly be useful for speeding up metagenomic analyses.
 
 \subsubsection{Bioinformatic tools for binning and assembly of \acs{NGS} data}
-The increased output of \ac{NGS} sequencing technology is spurring development of bioinformatic programs which can solve specific metagenomic computational problems and decrease processing time.
+The increased output of \ac{NGS} technology is spurring development of faster bioinformatic programs and new algorithms for solving metagenomic computational problems.
 Metagenomic analyses are typically based on data from single reads, (\emph{e.g.} chapter \ref{ch:org}) or from assembled genomic information (\emph{e.g.} chapter \ref{ch:olv}).
 These analyses entail two tasks that are unique to metagenomics: classification/binning of short sequences and assembly from mixed species datasets. 
 %There are now a huge array of bioinformatic tools that accomplish these tasks so discussion will be restricted to recent developments aimed at faster processing of large metagenomic \ac{NGS} datasets.
 
 %\subsubsection{\acs{NGS} taxonomic binning}
-Broadly, programs for classifying reads use homology-based methods, where reads are compared to known sequences, or composition-based methods, where reads are clustered according to intrinsic properties.
+Programs for classifying reads either use homology-based methods, where reads are compared to known sequences, or composition-based methods, where reads are clustered according to intrinsic properties.
 %Newer algorithms aim to reduce computationally intensive steps so large volumes of data can be processed while still accurately detecting weak taxonomic signals from shorter reads. 
-Homology-based programs, such as \textsc{MEGAN} \cite{Huson2007}, \textsc{CARMA} \cite{Krause2008}, WebCARMA \cite{Gerlach2009} and \textsc{Treephyler}, are accurate and can be used with short reads but require computationally intensive \acs{BLAST} or Hidden Markov Model searches (HMMer) against known sequence databases.
-The latest homology-based algorithms for short reads ($<$100 bp) have reduced processing time by using faster search algorithms.
+Homology-based programs, such as \textsc{MEGAN} \cite{Huson2007}, \textsc{CARMA} \cite{Krause2008}, WebCARMA \cite{Gerlach2009} and \textsc{Treephyler}, are accurate when used on short reads but require computationally intensive \acs{BLAST} or Hidden Markov Model searches (HMMer) against known sequence databases.
+The latest homology-based algorithms for short reads ($<$100 bp) reduce processing time by using faster search algorithms.
 These are \textsc{MetaBin} \cite{Sharma2012}, which claims several-fold improvement in speed by implementing \textsc{BLAT} search \cite{Kent2002}, and \textsc{Genometa} \cite{Davenport2012}, which reports an order of magnitude improvement in speed by using \textsc{Bowtie}.
 As homology-based approaches all rely on a sequence databases, their ability to discover novel taxa is limited by the database.
 Compositional-based tools on the other hand allow reads with no sequenced homologues to be categorised, and they can generally be run on a laptop computer.
@@ -284,26 +284,26 @@ Software used to generate these genomes will be made available in the future at
 which will allow the assembly methodology to be validated on other metagenomic samples and assessed for broad applicability.
 In particular, information about the computational resources and degree of manual curation necessary to achieve this sort of assembly is needed to gauge its utility.
 The other recent study has developed a method for overcoming memory limitations when using \ac{NGS} data assemblers, such as \textsc{Velvet}, on metagenomic data \cite{Pell2012}.
-In this approach, the \emph{k}-mer connectivity (de Bruijn) graphs produced by the assembler are stored as a simplified representation based on Bloom filters requiring less memory.
+In this approach, the \emph{k}-mer connectivity (de Bruijn) graphs produced by the assembler are stored as a simplified representation based on Bloom filters, requiring less memory.
 The representations of the de Bruijn graphs were used to partition reads into smaller connected sets.
 When applied to a Illumina GII sequenced soil metagenome, assembly was identical when using partitioned and unpartioned data but with a 40-fold decrease in memory usage in the partitioned dataset.
 Again, further testing is required to evaluate broad applicability of this method but it looks to be scalable for any size dataset.
 
 Future Antarctic lake metagenomics projects can profit immensely from the wealth of emerging bioinformatics tools available.
 Complete viral genomes were able to be assembled \emph{de novo} from the 2006 Organic Lake samples using a combination of Sanger and 454 data (chapter \ref{ch:olv}) demonstrating assembly-driven approaches are effective in Antactic lakes.
-This suggests future studies utilising deep sequencing and new assembly algorithms could obtain complete genome sequences and from less abundant members of the community.
+This suggests future studies utilising deep sequencing and new assembly algorithms could obtain complete genome sequences from less abundant members of the community.
 However, no single bioinformatic pipeline will cover all aspects of metagenomic analysis and as sequencing technologies are advancing rapidly, there is no established best practice at the moment for metagenomic analyses.
 Deciding on which analysis approach to take will require careful assessment of the sequence data and bioinformatic resources available.
 
 \subsection{ 'omes are only as good as our databases}
 Aside from the computational limitations, `-omics' type analyses rely a great deal on current sequence databases and laboratory studies to make meaningful inferences.
 For example, detection of the \ac{OLV} (chapter \ref{ch:olv}) was contingent on the presence of a sufficiently close relative, Sputnik \cite{LaScola2008}, in the non-redundant database.
-Without the Sputnik sequence in the database, the \ac{OLV} scaffold would still have been assembled, but it would have had no capsid protein match to identify the scaffold as viral.
-Furthermore, without the physiological characterisation of Sputnik as a virophage of mimivirus \cite{LaScola2008}, the genomic inferences linking \ac{OLV} to \ac{OLPV} would not have been possible demonstrating how a biological knowledge-base is also crucial to understand metagenomic data.
-Similarly, it was due to the recent sequencing and characterisation of \ac{DMSP} lyase genes that they were specifically sought out in the Organic Lake metagenomic seqeunces as a marker for \ac{DMS} production (chapter \ref{ch:org}).
+Without the Sputnik sequence in the database, the \ac{OLV} genome would still have been assembled, but it would have had no capsid protein match to identify it as a virophage.
+Furthermore, without the physiological characterisation of Sputnik as a virophage of mimivirus \cite{LaScola2008}, the genomic inferences linking \ac{OLV} to \ac{OLPV} would not have been possible demonstrating how an extensive biological knowledge-base is also crucial to understand metagenomic data.
+Similarly, it was due to the recent sequencing and characterisation of \ac{DMSP} lyase genes \cite{Curson2011b} that they were specifically sought out in the Organic Lake metagenomic sequences as a marker for \ac{DMS} production (chapter \ref{ch:org}).
 
 A dependence on sequence databases applies even more to metaproteomic analysis.
-Unlike metagenomics where fairly distantly related sequences can be matched to a metagenome to give some idea of its biological significance, spectral matching fails if protein sequences with high identity to those in the sample are not available (chapter \ref{ch:ace}).
+Unlike metagenomics where fairly distantly related sequences can be matched to give some idea of biological significance, spectral matching fails if protein sequences with high identity to those in the sample are not available (chapter \ref{ch:ace}).
 This makes metaproteomics much more reliant on sequence database availibility and accuracy.
 Furthermore, identification of proteins only indicates that they are expressed, but characterisation of the same or closely related protein is still necessary to infer its function in the sample.
 Knowledge of protein function is accumulating extremely slowly compared to sequence data \figref{fig:seq_vs_curated}.
@@ -318,8 +318,8 @@ Combining `-omics' tools with laboratory work on isolates and with complementary
 \subsection{Metagenomes and metaproteomes are time capsules}
 %Although not all of the `-omics' data collected can be assigned to species or function at present, they are still an invaluable resource for the future.
 The \textsc{DNA} sequence and mass spectra data that has been produced from these studies form a lasting record of the state of the microbial communities at the point in time that they were collected.
-They thus acts as a repository against which other datasets can be compared to gain an understanding of variability between ecosystems and as a bench mark to gauge changes overtime.
-The data can also be specifically mined to recover features of interest.
+They thus acts as a resource against which other datasets can be compared to gain an understanding of differences between ecosystems and as a bench mark to gauge changes overtime.
+These data can also be mined to recover features of interest.
 For example genes for enzymes with desired activities or bioactive compounds can be recovered from the sequence information.
 As sequence databases grow and more of the microbial world is characterised, this archive of molecular data can be re-analysed to learn even more about the lake ecosystems.
 
@@ -330,8 +330,8 @@ As sequence databases grow and more of the microbial world is characterised, thi
 
 \section{Concluding remarks}
 This thesis has demonstrated how metagenomics and metaproteomics can be used to as tool for characterising Antarctic lake ecosystems.
-These datasets represent a detailed snap-shot of the Ace Lake and Organic Lake microbial communities from which totally new insights into micrbial diversity and functions were gained.
+These datasets represent detailed snap shots of the Ace Lake and Organic Lake microbial communities from which totally new insights into micrbial diversity and functions were gained.
 It is also apparent that a complete picture of the lake communities is only beginning to be formed.
-As sequence databases and our understanding of the microbial world grows, undoubtedly, more can be interpreted from just the datasets described.
+As sequence databases and our understanding of the microbial world grows, undoubtedly, more can be interpreted from just these datasets.
 In light of the immense potential of sequencing technologies and what has been learnt from the first decades of `-omics' research, future studies can be better equipped to unravel how lakes change over time and build better predictive models of ecosystem function.  
 The studies presented here provide a foundation for building an ecosystems level understanding of these exceptional environments.
