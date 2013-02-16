@@ -15,7 +15,7 @@ A level-1 auxiliary file: orglake.aux
 A level-1 auxiliary file: conc.aux
 The style file: mybibstyle.bst
 A level-1 auxiliary file: appendices.aux
-Reallocated field_info (elt_size=4) to 12566 items from 5000.
+Reallocated field_info (elt_size=4) to 12722 items from 5000.
 Database file #1: Thesis.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--I didn't find a database entry for ""
@@ -27,45 +27,45 @@ Warning--empty publisher in Laybourn-Parry1997
 Warning--empty publisher in Redfield1963
 You can't pop an empty literal stack for entry Torrice2009
 while executing---line 1411 of file mybibstyle.bst
-You've used 290 entries,
+You've used 296 entries,
             2739 wiz_defined-function locations,
-            2762 strings with 93779 characters,
-and the built_in function-call counts, 173956 in all, are:
-= -- 15523
-> -- 15264
-< -- 76
-+ -- 5107
-- -- 4811
-* -- 17327
-:= -- 28660
-add.period$ -- 877
-call.type$ -- 290
-change.case$ -- 2469
-chr.to.int$ -- 284
-cite$ -- 582
-duplicate$ -- 4750
-empty$ -- 9033
-format.name$ -- 5177
-if$ -- 34142
+            2799 strings with 95399 characters,
+and the built_in function-call counts, 176691 in all, are:
+= -- 15803
+> -- 15408
+< -- 81
++ -- 5155
+- -- 4853
+* -- 17562
+:= -- 29088
+add.period$ -- 895
+call.type$ -- 296
+change.case$ -- 2501
+chr.to.int$ -- 290
+cite$ -- 594
+duplicate$ -- 4849
+empty$ -- 9223
+format.name$ -- 5233
+if$ -- 34704
 int.to.chr$ -- 7
 int.to.str$ -- 1
-missing$ -- 286
-newline$ -- 1460
-num.names$ -- 1170
-pop$ -- 3589
+missing$ -- 292
+newline$ -- 1490
+num.names$ -- 1194
+pop$ -- 3625
 preamble$ -- 1
-purify$ -- 2180
+purify$ -- 2206
 quote$ -- 0
-skip$ -- 4744
+skip$ -- 4835
 stack$ -- 0
-substring$ -- 7576
-swap$ -- 434
-text.length$ -- 14
+substring$ -- 7752
+swap$ -- 447
+text.length$ -- 15
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 3190
+type$ -- 3256
 warning$ -- 2
-while$ -- 1425
+while$ -- 1456
 width$ -- 0
-write$ -- 3505
+write$ -- 3577
 (There were 3 error messages)

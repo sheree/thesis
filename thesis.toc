@@ -13,7 +13,7 @@
 \contentsline {section}{\numberline {1.4}Integrative studies to derive whole ecosystem function}{9}{section.1.4}
 \contentsline {subsection}{\numberline {1.4.1}A single gene approach}{9}{subsection.1.4.1}
 \contentsline {subsection}{\numberline {1.4.2}`-omics' approaches}{10}{subsection.1.4.2}
-\contentsline {section}{\numberline {1.5}Overview of research on Ace and Organic Lakes}{12}{section.1.5}
+\contentsline {section}{\numberline {1.5}History of research on Ace and Organic Lakes}{12}{section.1.5}
 \contentsline {section}{\numberline {1.6}Objectives}{13}{section.1.6}
 \contentsline {chapter}{\numberline {2}Development of methods to complement metagenomic sequencing for an integrative study of Ace Lake}{15}{chapter.2}
 \contentsline {section}{Co-authorship statement}{15}{section*.21}
@@ -92,7 +92,7 @@
 \contentsline {subsection}{\numberline {5.2.4} 'omes are only as good as our databases}{113}{subsection.5.2.4}
 \contentsline {subsection}{\numberline {5.2.5}Metagenomes and metaproteomes are time capsules}{115}{subsection.5.2.5}
 \contentsline {section}{\numberline {5.3}Concluding remarks}{115}{section.5.3}
-\contentsline {chapter}{References}{137}{chapter*.197}
+\contentsline {chapter}{References}{138}{chapter*.197}
 \contentsline {chapter}{Appendix \numberline {A}PCR-based studies of Antarctic Lakes}{139}{Appendix.a.A}
 \contentsline {chapter}{Appendix \numberline {B}Proteins identified in Ace Lake metaproteomic analysis}{149}{Appendix.a.B}
 \contentsline {chapter}{Appendix \numberline {C}Peptide sequences of OLV and OLPV proteins identified in the metaproteome}{215}{Appendix.a.C}
