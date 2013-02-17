@@ -1,4 +1,4 @@
-\begin{thebibliography}{296}
+\begin{thebibliography}{305}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -291,6 +291,30 @@ Clarke K. and Gorley R.
 Claverie J.-M. and Abergel C. (2009).
 \newblock {Mimivirus and its virophage}.
 \newblock \emph{Annual review of genetics}, 43:\penalty0 49--66.
+
+\bibitem[Coolen \emph{et~al.}(2004{\natexlab{a}})Coolen, Hopmans, Rijpstra,
+  Muyzer, Schouten, Volkman, and {Sinninghe Damst\'{e}}]{Coolen2004b}
+Coolen M.~J., Hopmans E.~C., Rijpstra W.~I.~C., Muyzer G., Schouten S., Volkman
+  J.~K., and {Sinninghe Damst\'{e}} J.~S. (2004).
+\newblock {Evolution of the methane cycle in Ace Lake (Antarctica) during the
+  Holocene: response of methanogens and methanotrophs to environmental change}.
+\newblock \emph{Organic Geochemistry}, 35\penalty0 (10):\penalty0 1151--1167.
+
+\bibitem[Coolen \emph{et~al.}(2004{\natexlab{b}})Coolen, Muyzer, Rijpstra,
+  Schouten, Volkman, and {Sinninghe Damst\'{e}}]{Coolen2004a}
+Coolen M.~J., Muyzer G., Rijpstra W.~I.~C., Schouten S., Volkman J.~K., and
+  {Sinninghe Damst\'{e}} J.~S. (2004).
+\newblock {Combined DNA and lipid analyses of sediments reveal changes in
+  Holocene haptophyte and diatom populations in an Antarctic lake}.
+\newblock \emph{Earth and Planetary Science Letters}, 223:\penalty0 225--239.
+
+\bibitem[Coolen \emph{et~al.}(2006)Coolen, Muyzer, Schouten, Volkman, and
+  {Sinninghe Damst\'{e}}]{Coolen2006}
+Coolen M.~J., Muyzer G., Schouten S., Volkman J.~K., and {Sinninghe Damst\'{e}}
+  J.~S. (2006).
+\newblock {Sulfur and methane cycling during the Holocene in Ace Lake
+  (Antarctica) revealed by lipid and DNA stratigraphy}.
+\newblock \emph{Past and Present Water Column Anoxia}, 64:\penalty0 41--65.
 
 \bibitem[Cottrell and Kirchman(2009)]{Cottrell2009}
 Cottrell M.~T. and Kirchman D.~L. (2009).
@@ -768,6 +792,13 @@ Hoops S., Sahle S., Gauges R., Lee C., Pahle J., Simus N., Singhal M., Xu~L.,
   Mendes P., and Kummer U. (2006).
 \newblock {COPASI - a COmplex PAthway SImulator}.
 \newblock \emph{Bioinformatics}, 22:\penalty0 3067--3074.
+
+\bibitem[Hopmans \emph{et~al.}(2005)Hopmans, Schouten, Rijpstra, and {Sinninghe
+  Damst\'{e}}]{Hopmans2005}
+Hopmans E.~C., Schouten S., Rijpstra W.~I.~C., and {Sinninghe Damst\'{e}} J.~S.
+  (2005).
+\newblock {Identification of carotenals in sediments}.
+\newblock \emph{Organic Geochemistry}, 36:\penalty0 485--495.
 
 \bibitem[Horvath and Barrangou(2010)]{Horvath2010}
 Horvath P. and Barrangou R. (2010).
@@ -1536,6 +1567,12 @@ Roberts D. and McMinn A. (1996).
   chemistry gradients in saline lakes of the Vestfold Hills, Antarctica}.
 \newblock \emph{Antarctic Science}, 8:\penalty0 331--341.
 
+\bibitem[Roberts and McMinn(1999)]{Roberts1999}
+Roberts D. and McMinn A. (1999).
+\newblock {A diatom-based palaeosalinity history of Ace Lake, Vestfold Hills,
+  Antarctica}.
+\newblock \emph{The Holocene}, 9:\penalty0 401--408.
+
 \bibitem[Roberts and Burton(1993)]{Roberts1993a}
 Roberts N. and Burton H.~R. (1993).
 \newblock {Sampling volatile organics from a meromictic Antarctic lake}.
@@ -1683,6 +1720,14 @@ Scholz M.~B., Lo~C.-C., and Chain P.~S. (2012).
   current state of metagenomic data analysis}.
 \newblock \emph{Current Opinion in Biotechnology}, 23:\penalty0 9--15.
 
+\bibitem[Schouten \emph{et~al.}(2001)Schouten, Rijpstra, Kok, Hopmans, Summons,
+  Volkman, and {Sinninghe Damst\'{e}}]{Schouten2001}
+Schouten S., Rijpstra W.~I.~C., Kok M., Hopmans E.~C., Summons R.~E., Volkman
+  J.~K., and {Sinninghe Damst\'{e}} J.~S. (2001).
+\newblock {Molecular organic tracers of biogeochemical processes in a saline
+  meromictic lake (Ace Lake)}.
+\newblock \emph{Geochimica et Cosmochimica Acta}, 65:\penalty0 1629--1640.
+
 \bibitem[Scott \emph{et~al.}(2006)Scott, Sievert, Abril, Ball, Barrett, Blake,
   Boller, Chain, Clark, Davis, Detter, Do, Dobrinski, Faza, Fitzpatrick,
   Freyermuth, Harmer, Hauser, H\"{u}gler, Kerfeld, Klotz, Kong, Land, Lapidus,
@@ -1742,6 +1787,14 @@ Sievert S.~M., Scott K.~M., Klotz M.~G., Chain P.~S., Hauser L.~J., Hemp J.,
 \newblock \emph{Applied and Environmental Microbiology}, 74:\penalty0
   1145--1156.
 
+\bibitem[{Sinninghe Damst\'{e}} \emph{et~al.}(2001){Sinninghe Damst\'{e}}, {Van
+  Dongen}, Rijpstra, Schouten, Volkman, and Geenevasen]{Damste2001}
+{Sinninghe Damst\'{e}} J.~S., {Van Dongen} B.~E., Rijpstra W.~I.~C., Schouten
+  S., Volkman J.~K., and Geenevasen J.~A. (2001).
+\newblock {Novel intact glycolipids in sediments from an Antarctic lake (Ace
+  Lake)}.
+\newblock \emph{Organic Geochemistry}, 32:\penalty0 321--332.
+
 \bibitem[Sowell \emph{et~al.}(2009)Sowell, Wilhelm, Norbeck, Lipton, Nicora,
   Barofsky, Carlson, Smith, and Giovanonni]{Sowell2009}
 Sowell S.~M., Wilhelm L.~J., Norbeck A.~D., Lipton M.~S., Nicora C.~D.,
@@ -1774,6 +1827,13 @@ Suttle C.~A., Chan A.~M., and Cottrell M.~T. (1990).
 \newblock {Infection of phytoplankton by viruses and reduction of primary
   productivity}.
 \newblock \emph{Nature}, 347:\penalty0 467--469.
+
+\bibitem[Swadling \emph{et~al.}(2001)Swadling, Dartnall, Gibson,
+  Saulnier-Talbot, and Vincent]{Swadling2001}
+Swadling K.~M., Dartnall H.~J., Gibson J.~A., Saulnier-Talbot E., and Vincent
+  W.~F. (2001).
+\newblock {Fossil rotifers and the early colonization of an Antarctic lake}.
+\newblock \emph{Quaternary Research}, 55:\penalty0 380--384.
 
 \bibitem[Tajima \emph{et~al.}(1999)Tajima, Aminov, Nagamine, Ogata, Nakamura,
   Matsui, and Benno]{Tajima1999}
@@ -1974,6 +2034,13 @@ Volkman J.~K., Allen D.~I., Stevenson P.~L., and Burton H.~R. (1986).
 \newblock {Bacterial and algal hydrocarbons in sediments from a saline
   Antarctic lake, Ace Lake}.
 \newblock \emph{Organic Geochemistry}, 10:\penalty0 671--681.
+
+\bibitem[Volkman \emph{et~al.}(1988)Volkman, Burton, Everitt, and
+  Allen]{Volkman1988}
+Volkman J.~K., Burton H.~R., Everitt D., and Allen D.~I. (1988).
+\newblock {Pigment and lipid compositions of algal and bacterial communities in
+  Ace Lake, Vestfold Hills, Antarctica}.
+\newblock \emph{Hydrobiologia}, 165:\penalty0 41--57.
 
 \bibitem[Volterra(1926)]{Volterra1926}
 Volterra V. (1926).
