@@ -1,4 +1,4 @@
-\begin{thebibliography}{305}
+\begin{thebibliography}{306}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -642,6 +642,13 @@ Gibson J.~A., Burton H.~R., and Gallagher J. (1995).
 \newblock {Meromictic Antarctic lakes as indicators of local water balance:
   structural changes in Organic Lake, Vestfold Hills 1978-1994}.
 \newblock \emph{ANARE Research Notes}, 94:\penalty0 16--18.
+
+\bibitem[Gilbert \emph{et~al.}(2004)Gilbert, Hill, Dodd, and
+  Laybourn-Parry]{Gilbert2004}
+Gilbert J.~A., Hill P.~J., Dodd C.~E., and Laybourn-Parry J. (2004).
+\newblock {Demonstration of antifreeze protein activity in Antarctic lake
+  bacteria}.
+\newblock \emph{Microbiology}, 150:\penalty0 171--180.
 
 \bibitem[Glatz \emph{et~al.}(2006)Glatz, Lepp, Ward, and Francis]{Glatz2006}
 Glatz R., Lepp P., Ward B.~B., and Francis C. (2006).
