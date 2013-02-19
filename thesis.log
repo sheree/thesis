@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.21)  20 FEB 2013 01:43
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.21)  20 FEB 2013 03:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -4059,27 +4059,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [109]
 [110]
 Package acronym Info: Label `acro:EC2' newly defined as it shall be overridden
-although it is yet undefined on input line 232.
+although it is yet undefined on input line 233.
 Package acronym Info: Label `acro:GPU' newly defined as it shall be overridden
-although it is yet undefined on input line 248.
+although it is yet undefined on input line 249.
 Package acronym Info: Label `acro:CPU' newly defined as it shall be overridden
-although it is yet undefined on input line 248.
+although it is yet undefined on input line 249.
  [111]
 Package acronym Info: Label `acro:FPGA' newly defined as it shall be overridden
 
-although it is yet undefined on input line 253.
+although it is yet undefined on input line 254.
  [112]
-Overfull \hbox (10.02084pt too wide) in paragraph at lines 286--301
-[]\OT1/cmr/m/n/10.95 Two re-cent de-vel-op-ments hold promise for im-proved \OT
-1/cmr/m/it/10.95 de novo \OT1/cmr/m/n/10.95 as-sem-bly of metagenomes
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [113]
 (./conc_figures/seq_vs_curated.tex
-<conc_figures/seq_vs_curated.jpg, id=5574, 328.093pt x 233.43849pt>
+<conc_figures/seq_vs_curated.jpg, id=5585, 328.093pt x 233.43849pt>
 File: conc_figures/seq_vs_curated.jpg Graphic file (type jpg)
 
 <use conc_figures/seq_vs_curated.jpg>
@@ -4105,7 +4099,7 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
  [127] [128]
-Underfull \hbox (badness 5217) in paragraph at lines 1258--1265
+Underfull \hbox (badness 5217) in paragraph at lines 1264--1271
 []\OT1/cmr/m/n/10.95 McCammon S. A. and Bow-man J. P. (2000).  Tax-on-omy of An
 tarc-tic
  []
@@ -17461,13 +17455,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 109.
  ) 
 Here is how much of TeX's memory you used:
- 12363 strings out of 493488
- 188570 string characters out of 3141347
- 374441 words of memory out of 3000000
- 14300 multiletter control sequences out of 15000+200000
+ 12367 strings out of 493488
+ 188639 string characters out of 3141347
+ 374520 words of memory out of 3000000
+ 14303 multiletter control sequences out of 15000+200000
  15181 words of font info for 50 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 44i,18n,53p,1533b,1082s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,18n,53p,1533b,1084s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
@@ -17495,10 +17489,10 @@ fonts/type1/public/cm-super/sfbx0900.pfb></usr/local/texlive/2012/texmf-dist/fo
 nts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2012/texmf-dist/font
 s/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2012/texmf-dist/fonts/
 type1/public/cm-super/sfrm1095.pfb>
-Output written on thesis.pdf (241 pages, 21366795 bytes).
+Output written on thesis.pdf (241 pages, 21368195 bytes).
 PDF statistics:
- 6879 PDF objects out of 7423 (max. 8388607)
- 5897 compressed objects within 59 object streams
- 925 named destinations out of 1000 (max. 500000)
+ 6891 PDF objects out of 7423 (max. 8388607)
+ 5908 compressed objects within 60 object streams
+ 926 named destinations out of 1000 (max. 500000)
  881 words of extra memory for PDF output out of 10000 (max. 10000000)
 

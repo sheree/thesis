@@ -1,4 +1,4 @@
-\begin{thebibliography}{311}
+\begin{thebibliography}{312}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -291,6 +291,12 @@ Clarke K. and Gorley R.
 Claverie J.-M. and Abergel C. (2009).
 \newblock {Mimivirus and its virophage}.
 \newblock \emph{Annual review of genetics}, 43:\penalty0 49--66.
+
+\bibitem[Conway \emph{et~al.}(2012)Conway, Wazny, Bromage, Zobel, and
+  Beresford-Smith]{Conway2012}
+Conway T., Wazny J., Bromage A., Zobel J., and Beresford-Smith B. (2012).
+\newblock {Gossamer - a resource-efficient <i>de novo</i> assembler}.
+\newblock \emph{Bioinformatics}, 28:\penalty0 1937--1938.
 
 \bibitem[Coolen \emph{et~al.}(2004{\natexlab{a}})Coolen, Hopmans, Rijpstra,
   Muyzer, Schouten, Volkman, and {Sinninghe Damst\'{e}}]{Coolen2004b}

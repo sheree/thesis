@@ -15,10 +15,10 @@ A level-1 auxiliary file: orglake.aux
 A level-1 auxiliary file: conc.aux
 The style file: mybibstyle.bst
 A level-1 auxiliary file: appendices.aux
-Reallocated field_info (elt_size=4) to 13112 items from 5000.
+Reallocated field_info (elt_size=4) to 13138 items from 5000.
 Database file #1: Thesis.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
-Repeated entry---line 4483 of file Thesis.bib
+Repeated entry---line 4498 of file Thesis.bib
  : @article{Laybourn-Parry2007
  :                            ,
 I'm skipping whatever remains of this entry
@@ -32,45 +32,45 @@ Warning--empty publisher in Laybourn-Parry1997
 Warning--empty publisher in Redfield1963
 You can't pop an empty literal stack for entry Torrice2009
 while executing---line 1411 of file mybibstyle.bst
-You've used 311 entries,
+You've used 312 entries,
             2739 wiz_defined-function locations,
-            2902 strings with 99514 characters,
-and the built_in function-call counts, 185451 in all, are:
-= -- 16603
-> -- 16121
+            2909 strings with 99771 characters,
+and the built_in function-call counts, 186041 in all, are:
+= -- 16657
+> -- 16169
 < -- 86
-+ -- 5394
-- -- 5076
-* -- 18425
-:= -- 30510
-add.period$ -- 942
-call.type$ -- 311
-change.case$ -- 2620
-chr.to.int$ -- 304
-cite$ -- 625
-duplicate$ -- 5112
-empty$ -- 9709
-format.name$ -- 5473
-if$ -- 36444
++ -- 5410
+- -- 5091
+* -- 18485
+:= -- 30606
+add.period$ -- 945
+call.type$ -- 312
+change.case$ -- 2628
+chr.to.int$ -- 305
+cite$ -- 627
+duplicate$ -- 5128
+empty$ -- 9742
+format.name$ -- 5489
+if$ -- 36560
 int.to.chr$ -- 8
 int.to.str$ -- 1
-missing$ -- 307
-newline$ -- 1566
-num.names$ -- 1256
-pop$ -- 3798
+missing$ -- 308
+newline$ -- 1571
+num.names$ -- 1260
+pop$ -- 3809
 preamble$ -- 1
-purify$ -- 2310
+purify$ -- 2317
 quote$ -- 0
-skip$ -- 5080
+skip$ -- 5095
 stack$ -- 0
-substring$ -- 8151
-swap$ -- 480
+substring$ -- 8184
+swap$ -- 481
 text.length$ -- 18
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 3421
+type$ -- 3432
 warning$ -- 3
-while$ -- 1534
+while$ -- 1539
 width$ -- 0
-write$ -- 3762
+write$ -- 3774
 (There were 4 error messages)

@@ -176,7 +176,7 @@ In conjunction with metagenomic sequencing, or flow sorting and \acp{SAG} of \ac
 It was not so long ago that what could be called the second molecular revolution in microbial ecology began in earnest with the first shotgun metagenomic sequencing of a marine virome \cite{Breitbart2002}.
 That metagenome, sequenced with Sanger sequencing technology, was a modest 1.28 Mbp \cite{Breitbart2002}.
 The first shotgun sequenced metagenomes of cellular life from the Sargasso Sea \cite{Venter2004} and the Iron Mountain acid mine drainage \cite{Tyson2004} added 1 Gbp and 76 Mbp respectively to the public databanks.
-Although this level of sequencing effort is now relatively small, it was enough to uncover hundreds to thousands of viral types of which 65\% bore no similarity to any known sequence \cite{Breitbart2002} and expand the breadth of known protein families including cataloging 782 previously unknown rhodopsin-like sequences \cite{Venter2004}.  
+Although this level of sequencing effort is now relatively small, it was enough to uncover hundreds to thousands of viral types of which 65\% bore no similarity to any known sequence \cite{Breitbart2002} and expand the breadth of known protein families including 782 previously unknown rhodopsin-like sequences \cite{Venter2004}.  
 These studies were also revolutionary because they pioneered different ways of using shot-gun sequencing to look into the microbial world.
 Where metagenomics applied to the higher diversity Sargasso Sea opened up a broad swathe of species and functional diversity \cite{Venter2004}, environmental sequencing applied to the lower complexity acid mine community enabled strain level differences of a few organisms to be resolved \cite{Tyson2004}.
 
@@ -193,6 +193,7 @@ For example, a recent study compared \acs{SSU} community profiles over a six yea
 Members of the community that appeared to become seasonally absent in the shallow sequenced community profiles were actually present in low abundances in the deep-sequenced sample \cite{Caporaso2012}.
 The ability to look into deeper into diversity of the Antarctic lake communities can discern if a similar persistent `seed bank' population exists in the lakes, if succession of populations occurs or external seeding.
 These three different possibilities have different implications for predicting responses to change in environmental conditions in the lakes.
+It also illustrates how \ac{NGS} can be used for hypothesis-driven analysis and not just as a tool for discovery.
 %The long read length offered by single-molecular sequencing (Pacific Biosciences) is off-set by a high error-rate and has not as yet been applied to metagenomics.
 \input{conc_figures/seq_tech.tex}
 
@@ -245,16 +246,16 @@ Cloud resources look to be most useful in future Antarctic projects for running 
 
 \subsubsection{Hardware-driven solutions}
 Cutting down processing times of \ac{NGS} data analysis can also be achieved by hardware-driven solutions.
-One promising example of this is use of \acp{GPU}, which enable faster processing than a conventional \acp{CPU}.
+One promising example of this is the use of \acp{GPU}, which enable faster processing than conventional \acp{CPU}.
 A trial comparing the of use \acp{GPU} for processing Illumina GAIIx metagenomic datasets reported a 10--15 fold increase in processing speed compared to a \ac{CPU} cluster \cite{Su2012}.
-Currently, use of \acp{GPU} seems to be limited only by availability of bioinformatics software that can run on the different architechture and access to \ac{GPU} clusters.
+Currently, use of \acp{GPU} seems to be limited only by availability of bioinformatics software that can run on the different architecture and access to \ac{GPU} clusters.
 A specific metagenomic analysis pipeline called Parallel-META has been launched that can run 16S \acs{rRNA} prediction from a shotgun metagenome, classify the 16S sequences by \acs{BLAST} and perform comparisons of multiple samples \cite{Su2012}.
 
 Another promising advance in hardware that can be utilised for bioinformatic processing are \ac{FPGA} cards, which like \acp{GPU} offer higher processing performance.
 A comparison of running short read mapping software on standard hardware and a modified version that runs on an \ac{FPGA} system found 250$\times$ increase in speed compared to the original software \cite{Olson2012}.
 Although both \ac{GPU} and \ac{FPGA} cards offer faster processing times than \ac{CPU} clusters, they perform differently in terms of power usage and programability, which will ultimately determine which is the better platform for a particular task.
 Currently, there is a paucity of open-source metagenomic-specific software available for use on \ac{FPGA} hardware, although use of \ac{FPGA}-driven bioinformatic solutions can be obtained as a service from the company \textsc{TimeLogic} 
-\url{http://www.timelogic.com}.
+(\url{http://www.timelogic.com}).
 More software tailored for use on \ac{GPU} and \ac{FPGA} accelerated clusters and their increased availability will undoubtedly be a crucial development for speeding up metagenomic analyses.
 
 \subsubsection{Bioinformatic tools for binning and assembly of \acs{NGS} data}
@@ -281,9 +282,9 @@ The deep sequencing capability of \ac{NGS} technologies enables increased covera
 However, \emph{de novo} genome assembly from a high volume of short reads is an extremely difficult computational problem requiring a great deal of computer memory to run (see \citet{Salzberg2012} for a review of assembly algorithms).
 Application of assembly programs designed for single genomes produced chimeras when applied to simulated metagenomic sequences questioning their applicability to mixed species data \cite{Pignatelli2011}.
 Several \emph{de novo} assemblers have been released specifcally for metagenomic sequences, namely \textsc{meta-IBDA} \cite{Peng2011}, \textsc{Genovo} \cite{Laserson2011} and \textsc{MetaVelvet} \cite{Namiki2012}.
-Given the large memory requirements of these programs, it remains to be seen how they will perform in large sequencing projects.
+Given the large memory requirements of these programs and the potential for generating chimeras, it remains to be seen how they will perform in practice.
 
-Two recent developments hold promise for improved \emph{de novo} assembly of metagenomes sequenced to high read depth.
+Several recent developments hold promise for improved \emph{de} \emph{novo} assembly of \ac{NGS} metagenomic datasets.
 One study has assembled a near-complete \emph{Rhodobacterales} genome and two variants of marine group II \emph{Euryarchaeota} genomes from SOLiD sequenced marine metagenomes \cite{Iverson2012}.
 Surprisingly, these taxa only comprised $<$10\% of the community.
 Assembly of metagenomic data using \textsc{Velvet} only produced short contigs.
@@ -293,11 +294,14 @@ Software used to generate these genomes will be made available in the future at
 \url{http://armbrustlab.ocean.washington.edu/seastar},
 which will allow the assembly methodology to be validated on other metagenomic samples and assessed for broad applicability.
 In particular, information about the computational resources and degree of manual curation necessary to achieve this sort of assembly is needed to gauge its utility.
-The other recent study has developed a method for overcoming memory limitations when using \ac{NGS} data assemblers, such as \textsc{Velvet}, on metagenomic data \cite{Pell2012}.
-In this approach, the \emph{k}-mer connectivity (de Bruijn) graphs produced by the assembler are stored as a simplified representation based on Bloom filters, requiring less memory.
-The representations of the de Bruijn graphs were used to partition reads into smaller connected sets.
-When applied to a Illumina GII sequenced soil metagenome, assembly was identical when using partitioned and unpartioned data but with a 40-fold decrease in memory usage in the partitioned dataset.
-Again, further testing is required to evaluate broad applicability of this method but it looks to be scalable for any size dataset.
+
+Two recent algorithms have been developed that overcome memory limitations when using a de Bruijn graph-based assembly approach \cite{Conway2012, Pell2012}.
+The first of these is a \emph{de novo} assembler called \textsc{Gossamer} in which the \emph{k}-mer connectivity (de Bruijn) graphs produced in the assembly process are stored as a simplified representation, such as a bitmap or a set of integers, which requires less memory \cite{Conway2012}.
+Similarly, in the approach developed by \cite{Pell2012}, the de Bruijn graphs are simplified using Bloom filters.
+Reads are also partitioned into smaller connected sets to be separately assembled thereby affording further memory efficiency \cite{Pell2012}.
+As yet, \textsc{Gossamer} has not been trialled on metagenomic data, which would be necessary to evaluate if it is capable of accuarate assembly when challenged with mixed species data.
+The algorithm by \cite{Pell2012} has been applied to a Illumina GII sequenced soil metagenome and showed comparable assembly fidelity to the standard assembly algorithm but with a 40-fold decrease in memory usage.
+Again, further testing is required to evaluate its broad applicability but it looks to be scalable for any size dataset.
 
 Future Antarctic lake metagenomics projects can profit immensely from the wealth of emerging bioinformatics tools available.
 Complete viral genomes were able to be assembled \emph{de novo} from the 2006 Organic Lake samples using a combination of Sanger and 454 data (chapter \ref{ch:olv}) demonstrating assembly-driven approaches are effective in Antactic lakes.
