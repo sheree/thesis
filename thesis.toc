@@ -76,24 +76,23 @@
 \contentsline {subsection}{\numberline {4.4.6}Regenerated nitrogen is predominant in the nitrogen cycle}{88}{subsection.4.4.6}
 \contentsline {subsection}{\numberline {4.4.7}Molecular basis for unusual sulphur chemistry}{91}{subsection.4.4.7}
 \contentsline {section}{\numberline {4.5}Conclusions}{99}{section.4.5}
-\contentsline {section}{\numberline {4.6}Acknowledgements}{101}{section.4.6}
-\contentsline {chapter}{\numberline {5}General discussion, future work and conclusions}{103}{chapter.5}
-\contentsline {section}{\numberline {5.1}Possibile future work on Organic Lake}{103}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Organic Lake community dynamics}{104}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}\acs {OLV} physiology and ecology}{106}{subsection.5.1.2}
-\contentsline {subsection}{\numberline {5.1.3}Organic lake biogeochemistry}{108}{subsection.5.1.3}
-\contentsline {section}{\numberline {5.2}Perspectives on `-omics' approaches }{110}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Next generation sequencing technologies}{110}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Emerging bioinformatic bottlenecks}{111}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}Prospects for closing the bioinformatic gap}{112}{subsection.5.2.3}
-\contentsline {subsubsection}{Webserver analyses}{112}{section*.191}
-\contentsline {subsubsection}{Cloud computing and \acs {GPU}s}{112}{section*.192}
-\contentsline {subsubsection}{Bioinformatic tools for binning and assembly of \acs {NGS} data}{113}{section*.196}
-\contentsline {subsection}{\numberline {5.2.4} 'omes are only as good as our databases}{115}{subsection.5.2.4}
-\contentsline {subsection}{\numberline {5.2.5}Metagenomes and metaproteomes are time capsules}{117}{subsection.5.2.5}
-\contentsline {section}{\numberline {5.3}Concluding remarks}{117}{section.5.3}
-\contentsline {chapter}{References}{141}{chapter*.198}
-\contentsline {chapter}{Appendix \numberline {A}PCR-based studies of Antarctic Lakes}{143}{Appendix.a.A}
-\contentsline {chapter}{Appendix \numberline {B}Proteins identified in Ace Lake metaproteomic analysis}{153}{Appendix.a.B}
-\contentsline {chapter}{Appendix \numberline {C}Peptide sequences of OLV and OLPV proteins identified in the metaproteome}{219}{Appendix.a.C}
-\contentsline {chapter}{Appendix \numberline {D}Microbial taxa detected in the Organic Lake water column}{221}{Appendix.a.D}
+\contentsline {chapter}{\numberline {5}General discussion, future work and conclusions}{101}{chapter.5}
+\contentsline {section}{\numberline {5.1}Possibile future work on Organic Lake}{101}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Organic Lake community dynamics}{102}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}\acs {OLV} physiology and ecology}{104}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Organic lake biogeochemistry}{106}{subsection.5.1.3}
+\contentsline {section}{\numberline {5.2}Perspectives on `-omics' approaches }{108}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Next generation sequencing technologies}{108}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Emerging bioinformatic bottlenecks}{110}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Prospects for closing the bioinformatic gap}{110}{subsection.5.2.3}
+\contentsline {subsubsection}{Webserver analyses}{110}{section*.191}
+\contentsline {subsubsection}{Cloud computing and \acs {GPU}s}{111}{section*.192}
+\contentsline {subsubsection}{Bioinformatic tools for binning and assembly of \acs {NGS} data}{112}{section*.196}
+\contentsline {subsection}{\numberline {5.2.4} 'omes are only as good as our databases}{114}{subsection.5.2.4}
+\contentsline {subsection}{\numberline {5.2.5}Metagenomes and metaproteomes are time capsules}{114}{subsection.5.2.5}
+\contentsline {section}{\numberline {5.3}Concluding remarks}{115}{section.5.3}
+\contentsline {chapter}{References}{139}{chapter*.198}
+\contentsline {chapter}{Appendix \numberline {A}PCR-based studies of Antarctic Lakes}{141}{Appendix.a.A}
+\contentsline {chapter}{Appendix \numberline {B}Proteins identified in Ace Lake metaproteomic analysis}{151}{Appendix.a.B}
+\contentsline {chapter}{Appendix \numberline {C}Peptide sequences of OLV and OLPV proteins identified in the metaproteome}{217}{Appendix.a.C}
+\contentsline {chapter}{Appendix \numberline {D}Microbial taxa detected in the Organic Lake water column}{219}{Appendix.a.D}
