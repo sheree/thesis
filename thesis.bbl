@@ -1,4 +1,4 @@
-\begin{thebibliography}{306}
+\begin{thebibliography}{283}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -173,28 +173,12 @@ Breitbart M., Salamon P., Andresen B., Mahaffy J.~M., Segall A.~M., Mead D.,
 \newblock \emph{Proceedings of the National Academy of Sciences USA},
   99:\penalty0 14250--14255.
 
-\bibitem[Bronge(2004)]{Bronge1996}
-Bronge C. (2004).
-\newblock {Hydrographic and climatic changes influencing the proglacial Druzhby
-  drainage system, Vestfold Hills, Antarctica}.
-\newblock \emph{Antarctic Science}, 8:\penalty0 379--388.
-
 \bibitem[Budinoff \emph{et~al.}(2011)Budinoff, Loar, LeCleir, Wilhelm, and
   Buchan]{Budinoff2011}
 Budinoff C.~R., Loar S.~N., LeCleir G.~R., Wilhelm S.~W., and Buchan A. (2011).
 \newblock {A protocol for enumeration of aquatic viruses by epifluorescence
   microscopy using Anodisc™ 13 membranes.}
 \newblock \emph{BMC Microbiology}, 11:\penalty0 168.
-
-\bibitem[Bulat \emph{et~al.}(2004)Bulat, Alekhina, Blot, Petit, de~Angelis,
-  Wagenbach, Lipenkov, Vasilyeva, Wloch, Raynaud, and Lukin]{Bulat2004}
-Bulat S.~A., Alekhina I.~A., Blot M., Petit J.-R., Angelis M.de, Wagenbach D.,
-  Lipenkov V.~Y., Vasilyeva L.~P., Wloch D.~M., Raynaud D., and Lukin V.~V.
-  (2004).
-\newblock {DNA signature of thermophilic bacteria from the aged accretion ice
-  of Lake Vostok, Antarctica: implications for searching for life in extreme
-  icy environments}.
-\newblock \emph{International Journal of Astrobiology}, 3:\penalty0 1--12.
 
 \bibitem[Burch and Marchant(1983)]{Burch1983}
 Burch M. and Marchant H.~J. (1983).
@@ -207,11 +191,6 @@ Burke C. and Burton H.~R. (1988).
 \newblock {Photosynthetic bacteria in meromictic lakes and stratified fjords of
   the Vestfold Hills, Antarctica}.
 \newblock \emph{Hydrobiologia}, 165:\penalty0 13--23.
-
-\bibitem[Burton(1981)]{Burton1981}
-Burton H.~R. (1981).
-\newblock {Chemistry, physics and evolution of Antarctic saline lakes}.
-\newblock \emph{Hydrobiologia}, 82:\penalty0 339--362.
 
 \bibitem[Campbell \emph{et~al.}(2006)Campbell, Engel, Porter, and
   Takai]{Campbell2006}
@@ -316,6 +295,14 @@ Coolen M.~J., Muyzer G., Schouten S., Volkman J.~K., and {Sinninghe Damst\'{e}}
   (Antarctica) revealed by lipid and DNA stratigraphy}.
 \newblock \emph{Past and Present Water Column Anoxia}, 64:\penalty0 41--65.
 
+\bibitem[Coolen \emph{et~al.}(2008)Coolen, Talbot, Abbas, Ward, Schouten,
+  Volkman, and {Sinninghe Damst\'{e}}]{Coolen2008}
+Coolen M.~J., Talbot H.~M., Abbas B.~A., Ward C., Schouten S., Volkman J.~K.,
+  and {Sinninghe Damst\'{e}} J.~S. (2008).
+\newblock {Sources for sedimentary bacteriohopanepolyols as revealed by 16S
+  rDNA stratigraphy}.
+\newblock 10:\penalty0 1783--1803.
+
 \bibitem[Cottrell and Kirchman(2009)]{Cottrell2009}
 Cottrell M.~T. and Kirchman D.~L. (2009).
 \newblock {Photoheterotrophic microbes in the Arctic Ocean in summer and
@@ -365,13 +352,6 @@ Curson A.~R., Fowler E.~K., Dickens S., Johnston A.~W., and Todd J.~D. (2012).
 \newblock {Multiple DMSP lyases in the gamma-proteobacterium <i>Oceanimonas
   doudoroffii</i>}.
 \newblock \emph{Biogeochemistry}, 110:\penalty0 109--119.
-
-\bibitem[Danovaro \emph{et~al.}(2011)Danovaro, Corinaldesi, Dell'Anno, Fuhrman,
-  Middelburg, Noble, and Suttle]{Danovaro2011}
-Danovaro R., Corinaldesi C., Dell'Anno A., Fuhrman J.~A., Middelburg J.~J.,
-  Noble R.~T., and Suttle C.~A. (2011).
-\newblock {Marine viruses and global climate change}.
-\newblock \emph{FEMS Microbiology Reviews}, 35:\penalty0 993--1034.
 
 \bibitem[Davenport \emph{et~al.}(2012)Davenport, Neugebauer, Beckmann,
   Friedrich, Kameri, Kokott, Paetow, Siekmann, Wieding-Drewes, Wienh\"{o}fer,
@@ -547,14 +527,6 @@ Franzmann P.~D., Deprez P.~P., Burton H.~R., and Hoff J.van~den (1987).
   contains high concentrations of dimethyl sulfide}.
 \newblock \emph{Marine and Freshwater Research}, 38:\penalty0 409--417.
 
-\bibitem[Franzmann \emph{et~al.}(1988)Franzmann, Stackebrandt, Sanderson,
-  Volkman, Cameron, Stevenson, and Mcmeekin]{Franzmann1988}
-Franzmann P.~D., Stackebrandt E., Sanderson K., Volkman J.~K., Cameron D.,
-  Stevenson P., and Mcmeekin T.~A. (1988).
-\newblock {<i>Halorubrum lacusprofundi</i> sp. nov., a halophilic bacterium
-  idolated from Deep Lake, Antarctica}.
-\newblock \emph{Systematic \& Applied Microbiology}, 11:\penalty0 20--27.
-
 \bibitem[Friedrich \emph{et~al.}(2005)Friedrich, Bardischewsky, Rother,
   Quentmeier, and Fischer]{Friedrich2005}
 Friedrich C.~G., Bardischewsky F., Rother D., Quentmeier A., and Fischer J.
@@ -650,13 +622,6 @@ Gilbert J.~A., Hill P.~J., Dodd C.~E., and Laybourn-Parry J. (2004).
   bacteria}.
 \newblock \emph{Microbiology}, 150:\penalty0 171--180.
 
-\bibitem[Glatz \emph{et~al.}(2006)Glatz, Lepp, Ward, and Francis]{Glatz2006}
-Glatz R., Lepp P., Ward B.~B., and Francis C. (2006).
-\newblock {Planktonic microbial community composition across steep
-  physical/chemical gradients in permanently ice-covered Lake Bonney,
-  Antarctica}.
-\newblock \emph{Geobiology}, 4:\penalty0 53--67.
-
 \bibitem[Goberna \emph{et~al.}(2009)Goberna, Insam, and
   Franke-Whittle]{Goberna2009}
 Goberna M., Insam H., and Franke-Whittle I. (2009).
@@ -705,12 +670,6 @@ Green D.~H., Bowman J.~P., Smith E.~A., Gutierrez T., and Bolch C.~J. (2006).
   cultures of paralytic shellfish toxin-producing dinoflagellates}.
 \newblock \emph{International Journal of Systematic and Evolutionary
   Microbiology}, 56:\penalty0 523--527.
-
-\bibitem[Green \emph{et~al.}(1988)Green, Angle, and Chave]{Green1988}
-Green W.~J., Angle M.~P., and Chave K.~E. (1988).
-\newblock {The geochemistry of Antarctic streams and their role in the
-  evolution of four lakes of the McMurdo Dry Valleys}.
-\newblock \emph{Geochimica et Cosmochimica Acta}, 52:\penalty0 1265--1274.
 
 \bibitem[Grzymski \emph{et~al.}(2012)Grzymski, Riesenfeld, Williams, Dussaq,
   Ducklow, Erickson, Cavicchioli, and Murray]{Grzymski2012}
@@ -786,26 +745,12 @@ Hobbie J., Daley R., and Jasper S. (1977).
 \newblock \emph{Applied and Environmental Microbiology}, 33:\penalty0
   1225--1228.
 
-\bibitem[Hodgson(2012)]{Hodgson2012}
-Hodgson D.~A.
-\newblock {Antarctic Lakes}.
-\newblock In Bengtsson L., Herschy R.~W., and Fairbridge R.~W., editors,
-  \emph{Encyclopedia of Lakes and Reservoirs}, pages 26--31. Springer,
-  Dordrecht, 2012.
-
 \bibitem[Hoops \emph{et~al.}(2006)Hoops, Sahle, Gauges, Lee, Pahle, Simus,
   Singhal, Xu, Mendes, and Kummer]{Hoops2006}
 Hoops S., Sahle S., Gauges R., Lee C., Pahle J., Simus N., Singhal M., Xu~L.,
   Mendes P., and Kummer U. (2006).
 \newblock {COPASI - a COmplex PAthway SImulator}.
 \newblock \emph{Bioinformatics}, 22:\penalty0 3067--3074.
-
-\bibitem[Hopmans \emph{et~al.}(2005)Hopmans, Schouten, Rijpstra, and {Sinninghe
-  Damst\'{e}}]{Hopmans2005}
-Hopmans E.~C., Schouten S., Rijpstra W.~I.~C., and {Sinninghe Damst\'{e}} J.~S.
-  (2005).
-\newblock {Identification of carotenals in sediments}.
-\newblock \emph{Organic Geochemistry}, 36:\penalty0 485--495.
 
 \bibitem[Horvath and Barrangou(2010)]{Horvath2010}
 Horvath P. and Barrangou R. (2010).
@@ -923,12 +868,6 @@ Johnston A.~W., Todd J.~D., Sun L., Nikolaidou-Katsaraidou N., Curson A.~R.,
   symbioses}.
 \newblock \emph{Journal of Experimental Botany}, 59:\penalty0 1059--1067.
 
-\bibitem[Johnstone \emph{et~al.}(1973)Johnstone, Brown, and
-  Lugg]{Johnstone1973}
-Johnstone G., Brown D., and Lugg D. (1973).
-\newblock {The biology of the Vestfold Hills, Antarctica}.
-\newblock \emph{ANARE Scientific Reports}, 123:\penalty0 1--60.
-
 \bibitem[Kang \emph{et~al.}(2012)Kang, Lee, Yang, Choi, Kang, Lee, and
   Cho]{Kang2012}
 Kang I., Lee K., Yang S.-J., Choi A., Kang D., Lee Y.~K., and Cho J.-C. (2012).
@@ -951,15 +890,6 @@ Karr E.~A., Sattley W.~M., Jung D.~O., Madigan M.~T., and Achenbach L.~A.
   permanently frozen Antarctic lake}.
 \newblock \emph{Applied and Environmental Microbiology}, 8:\penalty0
   4910--4914.
-
-\bibitem[Karr \emph{et~al.}(2005)Karr, Sattley, Rice, Jung, Madigan, and
-  Achenbach]{Karr2005}
-Karr E.~A., Sattley W.~M., Rice M.~R., Jung D.~O., Madigan M.~T., and Achenbach
-  L.~A. (2005).
-\newblock {Diversity and distribution of sulfate-reducing bacteria in
-  permanently frozen Lake Fryxell, McMurdo Dry Valleys, Antarctica}.
-\newblock \emph{Applied and Environmental Microbiology}, 71:\penalty0
-  6353--6359.
 
 \bibitem[Karr \emph{et~al.}(2006)Karr, Ng, Belchik, Matthew, Madigan,
   Achenbach, and Sattley]{Karr2006}
@@ -1095,11 +1025,6 @@ Lavire C., Normand P., Alekhina I., Bulat S., Prieur D., Birrien J.-L.,
   the subglacial Lake Vostok, Antarctica, assessed using <i>rrs</i>, <i>cbb</i>
   and <i>hox</i>}.
 \newblock \emph{Environmental Microbiology}, 8:\penalty0 2106--2114.
-
-\bibitem[Law(1959)]{Law1959}
-Law P. (1959).
-\newblock {The Vestfold Hills}.
-\newblock \emph{ANARE Reports}, 1:\penalty0 1--50.
 
 \bibitem[Laybourn-Parry(1997)]{Laybourn-Parry1997}
 Laybourn-Parry J.
@@ -1261,20 +1186,6 @@ Meyer F., Paarmann D., D'Souza M., Olson R., Glass E., Kubal M., Paczian T.,
 \newblock {The metagenomics RAST server - a public resource for the automatic
   phylogenetic and functional analysis of metagenomes}.
 \newblock \emph{BMC Bioinformatics}, 9:\penalty0 386.
-
-\bibitem[Mikucki and Priscu(2007)]{Mikucki2007}
-Mikucki J.~A. and Priscu J.~C. (2007).
-\newblock {Bacterial diversity associated with Blood Falls, a subglacial
-  outflow from the Taylor Glacier, Antarctica}.
-\newblock \emph{Applied and Environmental Microbiology}, 73:\penalty0
-  4029--4039.
-
-\bibitem[Mikucki \emph{et~al.}(2009)Mikucki, Pearson, Johnston, Turchyn,
-  Farquhar, Schrag, Anbar, Priscu, and Lee]{Mikucki2009}
-Mikucki J.~A., Pearson A., Johnston D.~T., Turchyn A.~V., Farquhar J., Schrag
-  D.~P., Anbar A.~D., Priscu J.~C., and Lee P.~A. (2009).
-\newblock {A contemporary microbially maintained subglacial ferrous "ocean"}.
-\newblock \emph{Science}, 324:\penalty0 397--400.
 
 \bibitem[Miyoshi \emph{et~al.}(2005)Miyoshi, Iwatsuki, and
   Naganuma]{Miyoshi2005}
@@ -1477,13 +1388,6 @@ Perriss S.~J. and Laybourn-Parry J. (1997).
   Antarctica)}.
 \newblock \emph{Polar Biology}, 18:\penalty0 135--144.
 
-\bibitem[Pickard \emph{et~al.}(1986)Pickard, Adamson, and Heath]{Pickard1986}
-Pickard J., Adamson D.~A., and Heath C.~W. (1986).
-\newblock {The evolution of Watts Lake, Vestfold Hills, East Antarctica, from
-  marine inlet to freshwater lake}.
-\newblock \emph{Palaeogeography, Palaeoclimatology, Palaeoecology},
-  53:\penalty0 271--288.
-
 \bibitem[Pignatelli and Moya(2011)]{Pignatelli2011}
 Pignatelli M. and Moya A. (2011).
 \newblock {Evaluating the fidelity of de novo short read metagenomic assembly
@@ -1573,12 +1477,6 @@ Roberts D. and McMinn A. (1996).
 \newblock {Relationships between surface sediment diatom assemblages and water
   chemistry gradients in saline lakes of the Vestfold Hills, Antarctica}.
 \newblock \emph{Antarctic Science}, 8:\penalty0 331--341.
-
-\bibitem[Roberts and McMinn(1999)]{Roberts1999}
-Roberts D. and McMinn A. (1999).
-\newblock {A diatom-based palaeosalinity history of Ace Lake, Vestfold Hills,
-  Antarctica}.
-\newblock \emph{The Holocene}, 9:\penalty0 401--408.
 
 \bibitem[Roberts and Burton(1993)]{Roberts1993a}
 Roberts N. and Burton H.~R. (1993).
@@ -1727,14 +1625,6 @@ Scholz M.~B., Lo~C.-C., and Chain P.~S. (2012).
   current state of metagenomic data analysis}.
 \newblock \emph{Current Opinion in Biotechnology}, 23:\penalty0 9--15.
 
-\bibitem[Schouten \emph{et~al.}(2001)Schouten, Rijpstra, Kok, Hopmans, Summons,
-  Volkman, and {Sinninghe Damst\'{e}}]{Schouten2001}
-Schouten S., Rijpstra W.~I.~C., Kok M., Hopmans E.~C., Summons R.~E., Volkman
-  J.~K., and {Sinninghe Damst\'{e}} J.~S. (2001).
-\newblock {Molecular organic tracers of biogeochemical processes in a saline
-  meromictic lake (Ace Lake)}.
-\newblock \emph{Geochimica et Cosmochimica Acta}, 65:\penalty0 1629--1640.
-
 \bibitem[Scott \emph{et~al.}(2006)Scott, Sievert, Abril, Ball, Barrett, Blake,
   Boller, Chain, Clark, Davis, Detter, Do, Dobrinski, Faza, Fitzpatrick,
   Freyermuth, Harmer, Hauser, H\"{u}gler, Kerfeld, Klotz, Kong, Land, Lapidus,
@@ -1775,14 +1665,6 @@ Sharma V.~K., Kumar N., Prakash T., and Taylor T.~D. (2012).
   using MetaBin}.
 \newblock \emph{PloS One}, 7:\penalty0 e34030.
 
-\bibitem[Siegert \emph{et~al.}(2001)Siegert, Ellis-Evans, Tranter, Mayer,
-  Petit, Salamatin, and Priscu]{Siegert2001}
-Siegert M.~J., Ellis-Evans J.~C., Tranter M., Mayer C., Petit J.-R., Salamatin
-  A., and Priscu J.~C. (2001).
-\newblock {Physical, chemical and biological processes in Lake Vostok and other
-  Antarctic subglacial lakes}.
-\newblock \emph{Nature}, 414:\penalty0 603--609.
-
 \bibitem[Sievert \emph{et~al.}(2008)Sievert, Scott, Klotz, Chain, Hauser, Hemp,
   H\"{u}gler, Land, Lapidus, Larimer, Lucas, Malfatti, Meyer, Paulsen, Ren, and
   Simon]{Sievert2008}
@@ -1793,14 +1675,6 @@ Sievert S.~M., Scott K.~M., Klotz M.~G., Chain P.~S., Hauser L.~J., Hemp J.,
   <i>Sulfurimonas denitrificans</i>}.
 \newblock \emph{Applied and Environmental Microbiology}, 74:\penalty0
   1145--1156.
-
-\bibitem[{Sinninghe Damst\'{e}} \emph{et~al.}(2001){Sinninghe Damst\'{e}}, {Van
-  Dongen}, Rijpstra, Schouten, Volkman, and Geenevasen]{Damste2001}
-{Sinninghe Damst\'{e}} J.~S., {Van Dongen} B.~E., Rijpstra W.~I.~C., Schouten
-  S., Volkman J.~K., and Geenevasen J.~A. (2001).
-\newblock {Novel intact glycolipids in sediments from an Antarctic lake (Ace
-  Lake)}.
-\newblock \emph{Organic Geochemistry}, 32:\penalty0 321--332.
 
 \bibitem[Sowell \emph{et~al.}(2009)Sowell, Wilhelm, Norbeck, Lipton, Nicora,
   Barofsky, Carlson, Smith, and Giovanonni]{Sowell2009}
@@ -1834,13 +1708,6 @@ Suttle C.~A., Chan A.~M., and Cottrell M.~T. (1990).
 \newblock {Infection of phytoplankton by viruses and reduction of primary
   productivity}.
 \newblock \emph{Nature}, 347:\penalty0 467--469.
-
-\bibitem[Swadling \emph{et~al.}(2001)Swadling, Dartnall, Gibson,
-  Saulnier-Talbot, and Vincent]{Swadling2001}
-Swadling K.~M., Dartnall H.~J., Gibson J.~A., Saulnier-Talbot E., and Vincent
-  W.~F. (2001).
-\newblock {Fossil rotifers and the early colonization of an Antarctic lake}.
-\newblock \emph{Quaternary Research}, 55:\penalty0 380--384.
 
 \bibitem[Tajima \emph{et~al.}(1999)Tajima, Aminov, Nagamine, Ogata, Nakamura,
   Matsui, and Benno]{Tajima1999}
@@ -2007,15 +1874,6 @@ Hoff J.van~den and Franzmann P.~D. (1986).
   from ten Antarctic lakes}.
 \newblock \emph{Systematic and Applied Microbiology}, 25:\penalty0 603--610.
 
-\bibitem[{Van Trappen} \emph{et~al.}(2004){Van Trappen}, Mergaert, and
-  Swings]{VanTrappen2004}
-{Van Trappen} S., Mergaert J., and Swings J. (2004).
-\newblock {Loktanella salsilacus gen. nov., sp. nov., Loktanella fryxellensis
-  sp. nov. and Loktanella vestfoldensis sp. nov., new members of the
-  Rhodobacter group, isolated from microbial mats in Antarctic lakes}.
-\newblock \emph{International Journal of Systematic and Evolutionary
-  Microbiology}, 54:\penalty0 1263--1269.
-
 \bibitem[Venter \emph{et~al.}(2004)Venter, Remington, Heidelberg, Halpern,
   Rusch, Eisen, Wu, Paulsen, Nelson, Nelson, Fouts, Levy, Knap, Lomas, Nealson,
   White, Peterson, Hoffman, Parsons, Baden-Tillson, Pfannkoch, Rogers, and
@@ -2034,20 +1892,6 @@ Villaescusa J.~A., Casamayor E.~O., Rochera C., Vel\'{a}zquez D., \'{A}lvaro
 \newblock {A close link between bacterial community composition and
   environmental heterogeneity in maritime Antarctic lakes}.
 \newblock \emph{International Microbiology}, 13:\penalty0 67--77.
-
-\bibitem[Volkman \emph{et~al.}(1986)Volkman, Allen, Stevenson, and
-  Burton]{Volkman1986}
-Volkman J.~K., Allen D.~I., Stevenson P.~L., and Burton H.~R. (1986).
-\newblock {Bacterial and algal hydrocarbons in sediments from a saline
-  Antarctic lake, Ace Lake}.
-\newblock \emph{Organic Geochemistry}, 10:\penalty0 671--681.
-
-\bibitem[Volkman \emph{et~al.}(1988)Volkman, Burton, Everitt, and
-  Allen]{Volkman1988}
-Volkman J.~K., Burton H.~R., Everitt D., and Allen D.~I. (1988).
-\newblock {Pigment and lipid compositions of algal and bacterial communities in
-  Ace Lake, Vestfold Hills, Antarctica}.
-\newblock \emph{Hydrobiologia}, 165:\penalty0 41--57.
 
 \bibitem[Volterra(1926)]{Volterra1926}
 Volterra V. (1926).
@@ -2212,13 +2056,6 @@ Yilmaz P., Iversen M.~H., Hankeln W., Kottmann R., Quast C., and Gl\"{o}ckner
 \newblock {Ecological structuring of bacterial and archaeal taxa in surface
   ocean waters}.
 \newblock \emph{FEMS Microbiology Ecology}, 81:\penalty0 373--385.
-
-\bibitem[Yilmaz \emph{et~al.}(2010)Yilmaz, Allgaier, and
-  Hugenholtz]{Yilmaz2010}
-Yilmaz S., Allgaier M., and Hugenholtz P. (2010).
-\newblock {Multiple displacement amplification compromises quantitative
-  analysis of metagenomes}.
-\newblock \emph{Nature Methods}, 7:\penalty0 943--944.
 
 \bibitem[Zwartz \emph{et~al.}(1998)Zwartz, Bird, Stone, and
   Lambeck]{Zwartz1998}

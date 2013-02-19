@@ -15,61 +15,62 @@ A level-1 auxiliary file: orglake.aux
 A level-1 auxiliary file: conc.aux
 The style file: mybibstyle.bst
 A level-1 auxiliary file: appendices.aux
-Reallocated field_info (elt_size=4) to 12982 items from 5000.
+Reallocated field_info (elt_size=4) to 12384 items from 5000.
 Database file #1: Thesis.bib
-Reallocated str_pool (elt_size=1) to 130000 items from 65000.
-Repeated entry---line 3265 of file Thesis.bib
+Repeated entry---line 1502 of file Thesis.bib
  : @article{Laybourn-Parry2007
  :                            ,
 I'm skipping whatever remains of this entry
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--I didn't find a database entry for ""
 You can't pop an empty literal stack for entry Clarke2006
 while executing---line 1411 of file mybibstyle.bst
+Warning--empty journal in Coolen2008
 You can't pop an empty literal stack for entry Diemer2012
 while executing---line 1411 of file mybibstyle.bst
 Warning--empty publisher in Laybourn-Parry1997
 Warning--empty publisher in Redfield1963
 You can't pop an empty literal stack for entry Torrice2009
 while executing---line 1411 of file mybibstyle.bst
-You've used 306 entries,
+You've used 283 entries,
             2739 wiz_defined-function locations,
-            2866 strings with 98206 characters,
-and the built_in function-call counts, 182420 in all, are:
-= -- 16324
-> -- 15888
-< -- 82
-+ -- 5316
-- -- 5003
-* -- 18144
-:= -- 30028
-add.period$ -- 925
-call.type$ -- 306
-change.case$ -- 2581
-chr.to.int$ -- 299
-cite$ -- 614
-duplicate$ -- 5008
-empty$ -- 9533
-format.name$ -- 5395
-if$ -- 35826
+            2705 strings with 92061 characters,
+and the built_in function-call counts, 170094 in all, are:
+= -- 15179
+> -- 14943
+< -- 75
++ -- 4999
+- -- 4709
+* -- 16954
+:= -- 28011
+add.period$ -- 855
+call.type$ -- 283
+change.case$ -- 2415
+chr.to.int$ -- 276
+cite$ -- 569
+duplicate$ -- 4630
+empty$ -- 8812
+format.name$ -- 5074
+if$ -- 33386
 int.to.chr$ -- 8
 int.to.str$ -- 1
-missing$ -- 302
-newline$ -- 1540
-num.names$ -- 1234
-pop$ -- 3735
+missing$ -- 279
+newline$ -- 1425
+num.names$ -- 1140
+pop$ -- 3509
 preamble$ -- 1
-purify$ -- 2276
+purify$ -- 2133
 quote$ -- 0
-skip$ -- 4984
+skip$ -- 4644
 stack$ -- 0
-substring$ -- 8022
-swap$ -- 459
-text.length$ -- 15
+substring$ -- 7420
+swap$ -- 428
+text.length$ -- 14
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 3366
-warning$ -- 2
-while$ -- 1506
+type$ -- 3113
+warning$ -- 3
+while$ -- 1389
 width$ -- 0
-write$ -- 3697
+write$ -- 3417
 (There were 4 error messages)
