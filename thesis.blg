@@ -15,9 +15,9 @@ A level-1 auxiliary file: orglake.aux
 A level-1 auxiliary file: conc.aux
 The style file: mybibstyle.bst
 A level-1 auxiliary file: appendices.aux
-Reallocated field_info (elt_size=4) to 12384 items from 5000.
+Reallocated field_info (elt_size=4) to 13034 items from 5000.
 Database file #1: Thesis.bib
-Repeated entry---line 1502 of file Thesis.bib
+Repeated entry---line 2672 of file Thesis.bib
  : @article{Laybourn-Parry2007
  :                            ,
 I'm skipping whatever remains of this entry
@@ -32,45 +32,45 @@ Warning--empty publisher in Laybourn-Parry1997
 Warning--empty publisher in Redfield1963
 You can't pop an empty literal stack for entry Torrice2009
 while executing---line 1411 of file mybibstyle.bst
-You've used 283 entries,
+You've used 308 entries,
             2739 wiz_defined-function locations,
-            2705 strings with 92061 characters,
-and the built_in function-call counts, 170094 in all, are:
-= -- 15179
-> -- 14943
-< -- 75
-+ -- 4999
-- -- 4709
-* -- 16954
-:= -- 28011
-add.period$ -- 855
-call.type$ -- 283
-change.case$ -- 2415
-chr.to.int$ -- 276
-cite$ -- 569
-duplicate$ -- 4630
-empty$ -- 8812
-format.name$ -- 5074
-if$ -- 33386
+            2877 strings with 98539 characters,
+and the built_in function-call counts, 183904 in all, are:
+= -- 16451
+> -- 16024
+< -- 83
++ -- 5361
+- -- 5046
+* -- 18293
+:= -- 30267
+add.period$ -- 933
+call.type$ -- 308
+change.case$ -- 2601
+chr.to.int$ -- 301
+cite$ -- 619
+duplicate$ -- 5057
+empty$ -- 9612
+format.name$ -- 5438
+if$ -- 36126
 int.to.chr$ -- 8
 int.to.str$ -- 1
-missing$ -- 279
-newline$ -- 1425
-num.names$ -- 1140
-pop$ -- 3509
+missing$ -- 304
+newline$ -- 1551
+num.names$ -- 1244
+pop$ -- 3772
 preamble$ -- 1
-purify$ -- 2133
+purify$ -- 2294
 quote$ -- 0
-skip$ -- 4644
+skip$ -- 5026
 stack$ -- 0
-substring$ -- 7420
-swap$ -- 428
-text.length$ -- 14
+substring$ -- 8063
+swap$ -- 468
+text.length$ -- 17
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 3113
+type$ -- 3388
 warning$ -- 3
-while$ -- 1389
+while$ -- 1518
 width$ -- 0
-write$ -- 3417
+write$ -- 3726
 (There were 4 error messages)
