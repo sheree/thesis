@@ -54,7 +54,6 @@
 \contentsline {subsection}{\numberline {3.4.3}Gene exchange between virophage and phycodnaviruses}{53}{subsection.3.4.3}
 \contentsline {subsection}{\numberline {3.4.4}Virophage in algal host--phycodnavirus dynamics}{54}{subsection.3.4.4}
 \contentsline {subsection}{\numberline {3.4.5}Ecological relevance of virophages in aquatic systems}{56}{subsection.3.4.5}
-\contentsline {section}{\numberline {3.5}Acknowledgements}{59}{section.3.5}
 \contentsline {chapter}{\numberline {4}Strategies of carbon conservation and unusual sulphur biogeochemistry in Organic Lake}{61}{chapter.4}
 \contentsline {section}{Co-authorship statement}{61}{section*.112}
 \contentsline {section}{\numberline {4.1}Abstract}{62}{section.4.1}

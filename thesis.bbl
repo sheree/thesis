@@ -1,4 +1,4 @@
-\begin{thebibliography}{308}
+\begin{thebibliography}{309}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -738,6 +738,12 @@ Grzymski J.~J., Riesenfeld C.~S., Williams T.~J., Dussaq A.~M., Ducklow H.,
 \newblock {A metagenomic assessment of winter and summer bacterioplankton from
   Antarctica Peninsula coastal surface waters}.
 \newblock \emph{The ISME Journal}, 6:\penalty0 1901--1915.
+
+\bibitem[Guindon and Gascuel(2003)]{Guindon2003}
+Guindon S. and Gascuel O. (2003).
+\newblock {A simple, fast, and accurate algorithm to estimate large phylogenies
+  by maximum likelihood}.
+\newblock \emph{Systematic Biology}, 52:\penalty0 696--704.
 
 \bibitem[Haft \emph{et~al.}(2001)Haft, Loftus, Richardson, Yang, Eisen,
   Paulsen, and White]{Haft2001}
