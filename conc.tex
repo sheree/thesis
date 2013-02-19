@@ -227,7 +227,7 @@ To take advantage of the range of specialist features offered by different pipel
 The different outputs then need to be combined locally and may not be directly comparable to one another due to differences in processing.
 Nonetheless, use of webserver pipelines is a worthwhile option in future metagenomic studies of the lakes, especially if specialist tools or specific databases are needed, and can relieve some pressure on local computing time.
 
-\subsubsection{Cloud computing and \acs{GPU}s}
+\subsubsection{Cloud computing}
 Cloud computing, the use of computing infrastructure, software or platforms as a service, looks to be a promising way to make up shortfalls in computational resources by affording large amounts of readily accessible compute time (reviewed by \citet{Schatz2010} and \citet{Thakur2012}).
 Several major providers exist: Amazon's \ac{EC2} is the largest publically available service and the Department of Energy's Magellen Cloud is available for academic use.
 %Unlike webservers, cloud computing can be used for any task, but require more expertise to use.
@@ -243,12 +243,19 @@ However, additional considerations such as adequate connection speeds to upload 
 Cloud resources look to be most useful in future Antarctic projects for running computationally intensive analyses, such as \acs{BLAST} searches and \emph{de novo} assembly (discussed below).
 %Currently, improvements in technology is increasing sequencing throughput at a rate of five fold per year outstripping improvements in computer processor speed, which double every 18 months \cite{Schatz2010}.
 
+\subsubsection{Hardware-driven solutions}
 Cutting down processing times of \ac{NGS} data analysis can also be achieved by hardware-driven solutions.
-The most promising of these is use of \acp{GPU}, which enable faster processing than a conventional \acp{CPU}.
+One promising example of this is use of \acp{GPU}, which enable faster processing than a conventional \acp{CPU}.
 A trial comparing the of use \acp{GPU} for processing Illumina GAIIx metagenomic datasets reported a 10--15 fold increase in processing speed compared to a \ac{CPU} cluster \cite{Su2012}.
 Currently, use of \acp{GPU} seems to be limited only by availability of bioinformatics software that can run on the different architechture and access to \ac{GPU} clusters.
 A specific metagenomic analysis pipeline called Parallel-META has been launched that can run 16S \acs{rRNA} prediction from a shotgun metagenome, classify the 16S sequences by \acs{BLAST} and perform comparisons of multiple samples \cite{Su2012}.
-More pipelines such as these and increasing availability of \ac{GPU} clusters will undoubtedly be useful for speeding up metagenomic analyses.
+
+Another promising advance in hardware that can be utilised for bioinformatic processing are \ac{FPGA} cards, which like \acp{GPU} offer higher processing performance.
+A comparison of running short read mapping software on standard hardware and a modified version that runs on an \ac{FPGA} system found 250$\times$ increase in speed compared to the original software \cite{Olson2012}.
+Although both \ac{GPU} and \ac{FPGA} cards offer faster processing times than \ac{CPU} clusters, they perform differently in terms of power usage and programability, which will ultimately determine which is the better platform for a particular task.
+Currently, there is a paucity of open-source metagenomic-specific software available for use on \ac{FPGA} hardware, although use of \ac{FPGA}-driven bioinformatic solutions can be obtained as a service from the company \textsc{TimeLogic} 
+\url{http://www.timelogic.com}.
+More software tailored for use on \ac{GPU} and \ac{FPGA} accelerated clusters and their increased availability will undoubtedly be a crucial development for speeding up metagenomic analyses.
 
 \subsubsection{Bioinformatic tools for binning and assembly of \acs{NGS} data}
 The increased output of \ac{NGS} technology is spurring development of faster bioinformatic programs and new algorithms for solving metagenomic computational problems.

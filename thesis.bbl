@@ -1,4 +1,4 @@
-\begin{thebibliography}{310}
+\begin{thebibliography}{311}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -1432,6 +1432,14 @@ Noguchi H., Park J., and Takagi T. (2006).
 \newblock {MetaGene: prokaryotic gene finding from environmental genome shotgun
   sequences.}
 \newblock \emph{Nucleic Acids Research}, 34:\penalty0 5623--5630.
+
+\bibitem[Olson \emph{et~al.}(2012)Olson, Kim, Clauson, Kogon, Ebeling, Hauck,
+  and Ruzzo]{Olson2012}
+Olson C.~B., Kim M., Clauson C., Kogon B., Ebeling C., Hauck S., and Ruzzo
+  W.~L. (2012).
+\newblock {Hardware acceleration of short read Mapping}.
+\newblock \emph{Proceeding of the 2012 IEEE 20th International Symposium on
+  FCCM}, pages 161--168.
 
 \bibitem[Olson \emph{et~al.}(1998)Olson, Steppe, Litaker, and Paerl]{Olson1998}
 Olson J., Steppe T., Litaker R., and Paerl H. (1998).
