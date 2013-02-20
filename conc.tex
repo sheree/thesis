@@ -180,6 +180,7 @@ Although this level of sequencing effort is now relatively small, it was enough 
 These studies were also revolutionary because they pioneered different ways of using shot-gun sequencing to look into the microbial world.
 Where metagenomics applied to the higher diversity Sargasso Sea opened up a broad swathe of species and functional diversity \cite{Venter2004}, environmental sequencing applied to the lower complexity acid mine community enabled strain level differences of a few organisms to be resolved \cite{Tyson2004}.
 
+
 \subsection{Next generation sequencing technologies}
 Since the availability of high-throughput \ac{NGS} technologies, the volume of metagenomic data has increased exponentially.
 %Currently, the Genomes Online Database (\url{http://www.genomesonline.org}) lists 2,350 metagenomic samples from 369 separate projects.
@@ -194,6 +195,7 @@ Members of the community that appeared to become seasonally absent in the shallo
 The ability to look into deeper into diversity of the Antarctic lake communities can discern if a similar persistent `seed bank' population exists in the lakes, if succession of populations occurs or external seeding.
 These three different possibilities have different implications for predicting responses to change in environmental conditions in the lakes.
 It also illustrates how \ac{NGS} can be used for hypothesis-driven analysis and not just as a tool for discovery.
+Understanding whether the project is going to take a `gene-centric' \emph{vs.} `genome-centric' approach, that is what question is the metagenomic sequencing attempting to answer about the ecosystem, will determine everything from sample collection strategy to the sequencing effort required and computational tools/infrastructure needed.
 %The long read length offered by single-molecular sequencing (Pacific Biosciences) is off-set by a high error-rate and has not as yet been applied to metagenomics.
 \input{conc_figures/seq_tech.tex}
 
@@ -251,8 +253,8 @@ A trial comparing the of use \acp{GPU} for processing Illumina GAIIx metagenomic
 Currently, use of \acp{GPU} seems to be limited only by availability of bioinformatics software that can run on the different architecture and access to \ac{GPU} clusters.
 A specific metagenomic analysis pipeline called Parallel-META has been launched that can run 16S \acs{rRNA} prediction from a shotgun metagenome, classify the 16S sequences by \acs{BLAST} and perform comparisons of multiple samples \cite{Su2012}.
 
-Another promising advance in hardware that can be utilised for bioinformatic processing are \ac{FPGA} cards, which like \acp{GPU} offer higher processing performance.
-A comparison of running short read mapping software on standard hardware and a modified version that runs on an \ac{FPGA} system found 250$\times$ increase in speed compared to the original software \cite{Olson2012}.
+Another promising advance in hardware that can be utilised for bioinformatic processing is \ac{FPGA} cards, which like \acp{GPU} offer higher processing performance.
+A comparison of short read mapping software run on standard hardware \emph{vs.} a modified version run on a \ac{FPGA} system found 250$\times$ increase in speed for the \ac{FPGA} run version compared to the original software \cite{Olson2012}.
 Although both \ac{GPU} and \ac{FPGA} cards offer faster processing times than \ac{CPU} clusters, they perform differently in terms of power usage and programability, which will ultimately determine which is the better platform for a particular task.
 Currently, there is a paucity of open-source metagenomic-specific software available for use on \ac{FPGA} hardware, although use of \ac{FPGA}-driven bioinformatic solutions can be obtained as a service from the company \textsc{TimeLogic} 
 (\url{http://www.timelogic.com}).
@@ -262,7 +264,7 @@ More software tailored for use on \ac{GPU} and \ac{FPGA} accelerated clusters an
 The increased output of \ac{NGS} technology is spurring development of faster bioinformatic programs and new algorithms for solving metagenomic computational problems.
 Metagenomic analyses are typically based on data from single reads, (\emph{e.g.} chapter \ref{ch:org}) or from assembled genomic information (\emph{e.g.} chapter \ref{ch:olv}).
 These analyses entail two tasks that are unique to metagenomics: classification/binning of short sequences and assembly from mixed species datasets. 
-%There are now a huge array of bioinformatic tools that accomplish these tasks so discussion will be restricted to recent developments aimed at faster processing of large metagenomic \ac{NGS} datasets.
+There are now a huge array of bioinformatic tools that accomplish these tasks so discussion will be restricted to recent developments aimed at faster processing of large metagenomic \ac{NGS} datasets.
 
 %\subsubsection{\acs{NGS} taxonomic binning}
 Programs for classifying reads either use homology-based methods, where reads are compared to known sequences, or composition-based methods, where reads are clustered according to intrinsic properties.
@@ -276,6 +278,13 @@ Some examples of popular programs are \textsc{TETRA} \cite{Teeling2004} (tetra n
 These older methods can only achieve high accuracy with longer reads (300--800 bp) due to local variations in genomic composition (reviewed in \citet{Teeling2012b}).
 The latest binning algorithms, \textsc{AbundanceBin} that uses l-tuples \cite{Wu2011b} and the mixture models developed by \citet{Meinicke2011}, are a lot less sensitive to read length and can be used effectively for binning of reads produced by Illumina platforms.
 Programs have also been developed that take a combined homology- and composition-based approach including PhymmBL \cite{Brady2009, Rosen2011} and the NB-based classifier developed by \citet{Parks2011}.
+
+A third way of approaching the problem of classifying a large volume of reads is to use what can be loosely termed data clustering analyses.
+Different algorithms exist to perform this class of analysis, such as locality sensitivity hashing and greedy-incremental approaches, but theyall aim to group similar sequences together thus reducing the complexity of data under consideration (see \citet{Li2012} for a review of ultrafasta clustering algorithms for metagenomics).
+This is a generalised approach that can be broadly applied to reduce the computational time for diverse computational tasks, but in particularrepresents a promising way of speeding up similarity searches.
+On one level, clustering can be used to reduce redundancy of both the query sequence set and the search database thereby reducing the number of comparisons necessary in a downstream search \cite{Li2012}.
+It can also be directly applied to increase efficiency of similarity comparisons.
+Two examples of where it has been implemented for this purpose are large-scale comparisons of long sequences \cite{Buhler2001} and protein sequence classification \cite{Caragea2012}, therefore future application in similarity searching of short metagenomic reads may prove fruitful.
 
 %\subsubsection{\emph{de novo} assembly of \acs{NGS} taxonomic binning}
 The deep sequencing capability of \ac{NGS} technologies enables increased coverage of genomes in the environment and therefore a greater possibility for complete genomes to be assembled \emph{de novo}.
