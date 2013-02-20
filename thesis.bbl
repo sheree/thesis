@@ -1,4 +1,4 @@
-\begin{thebibliography}{312}
+\begin{thebibliography}{318}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -186,6 +186,12 @@ Budinoff C.~R., Loar S.~N., LeCleir G.~R., Wilhelm S.~W., and Buchan A. (2011).
   microscopy using Anodisc™ 13 membranes.}
 \newblock \emph{BMC Microbiology}, 11:\penalty0 168.
 
+\bibitem[Buhler(2001)]{Buhler2001}
+Buhler J. (2001).
+\newblock {Efficient large-scale sequence comparison by locality-sensitive
+  hashing}.
+\newblock \emph{Bioinformatics}, 17:\penalty0 419--428.
+
 \bibitem[Bulat \emph{et~al.}(2004)Bulat, Alekhina, Blot, Petit, de~Angelis,
   Wagenbach, Lipenkov, Vasilyeva, Wloch, Raynaud, and Lukin]{Bulat2004}
 Bulat S.~A., Alekhina I.~A., Blot M., Petit J.-R., Angelis M.de, Wagenbach D.,
@@ -240,6 +246,11 @@ Caporaso J.~G., Paszkiewicz K., Field D., Knight R., and Gilbert J.~A. (2012).
 \newblock {The Western English Channel contains a persistent microbial seed
   bank}.
 \newblock \emph{The ISME journal}, 6:\penalty0 1089--1093.
+
+\bibitem[Caragea \emph{et~al.}(2012)Caragea, Silvescu, and Mitra]{Caragea2012}
+Caragea C., Silvescu A., and Mitra P. (2012).
+\newblock {Protein sequence classification using feature hashing}.
+\newblock \emph{Proteome Science}, 10:\penalty0 S14.
 
 \bibitem[Carver \emph{et~al.}(2005)Carver, Rutherford, Berriman, Rajandream,
   Barrell, and Parkhill]{Carver2005}
@@ -525,6 +536,32 @@ Ferris J.~M., Gibson J.~A., and Burton H.~R. (1991).
   in ice-covered saline lakes}.
 \newblock \emph{Palaeogeography, Palaeoclimatology, Palaeoecology},
   84:\penalty0 99--107.
+
+\bibitem[Field \emph{et~al.}(2008)Field, Garrity, Gray, Morrison, Selengut,
+  Sterk, Tatusova, Thomsen, Allen, Angiuoli, Ashburner, Axelrod, Baldauf,
+  Ballard, Boore, Cochrane, Cole, Dawyndt, {De Vos}, DePamphilis, Edwards,
+  Faruque, Feldman, Gilbert, Gilna, Gl\"{o}ckner, Goldstein, Guralnick, Haft,
+  Hancock, Hermjakob, Hertz-Fowler, Hugenholtz, Joint, Kagan, Kane, Kennedy,
+  Kowalchuk, Kottmann, Kolker, Kravitz, Kyrpides, Leebens-Mack, Lewis, Li,
+  Lister, Lord, Maltsev, Markowitz, Martiny, Methe, Mizrachi, Moxon, Nelson,
+  Parkhill, Proctor, White, Sansone, Spiers, Stevens, Swift, Taylor, Tateno,
+  Tett, Turner, Ussery, Vaughan, Ward, Whetzel, {San Gil}, Wilson, and
+  Wipat]{Field2007}
+Field D., Garrity G., Gray T., Morrison N., Selengut J., Sterk P., Tatusova
+  T.~A., Thomsen N., Allen M.~J., Angiuoli S.~V., Ashburner M., Axelrod N.,
+  Baldauf S.~L., Ballard S., Boore J., Cochrane G., Cole J.~R., Dawyndt P., {De
+  Vos} P., DePamphilis C., Edwards R., Faruque N., Feldman R., Gilbert J.~A.,
+  Gilna P., Gl\"{o}ckner F.~O., Goldstein P., Guralnick R., Haft D.~H., Hancock
+  D., Hermjakob H., Hertz-Fowler C., Hugenholtz P., Joint I., Kagan L., Kane
+  M., Kennedy J., Kowalchuk G., Kottmann R., Kolker E., Kravitz S.~A., Kyrpides
+  N.~C., Leebens-Mack J., Lewis S.~E., Li~K., Lister A., Lord P., Maltsev N.,
+  Markowitz V.~M., Martiny J., Methe B., Mizrachi I., Moxon R., Nelson K.~E.,
+  Parkhill J., Proctor L.~M., White O., Sansone S.-A., Spiers A., Stevens R.,
+  Swift P., Taylor C., Tateno Y., Tett A., Turner S., Ussery D., Vaughan B.,
+  Ward N., Whetzel T., {San Gil} I., Wilson G., and Wipat A. (2008).
+\newblock {The minimum information about a genome sequence (MIGS)
+  specification}.
+\newblock \emph{Nature Biotechnology}, 26:\penalty0 541--547.
 
 \bibitem[Fischer(2011)]{Fischer2011b}
 Fischer M.~G. (2011).
@@ -1145,6 +1182,13 @@ Laybourn-Parry J. (2002).
 \newblock \emph{Philosophical transactions of the Royal Society of London.
   Series B}, 357:\penalty0 863--869.
 
+\bibitem[Laybourn-Parry and Pearce(2007)]{Laybourn-Parry2007}
+Laybourn-Parry J. and Pearce D.~A. (2007).
+\newblock {The biodiversity and ecology of Antarctic lakes: models for
+  evolution}.
+\newblock \emph{Philosophical Transactions of the Royal Society of London.
+  Series B, Biological sciences}, 362:\penalty0 2273--2289.
+
 \bibitem[Laybourn-Parry \emph{et~al.}(2001)Laybourn-Parry, Hofer, and
   Sommaruga]{Laybourn-Parry2001}
 Laybourn-Parry J., Hofer J.~S., and Sommaruga R. (2001).
@@ -1158,12 +1202,6 @@ Laybourn-Parry J., Marshall W.~A., and Marchant H.~J. (2005).
   contrasting Antarctic saline lakes}.
 \newblock \emph{Freshwater Biology}, 50:\penalty0 830--838.
 
-\bibitem[Laybourn-Parry \emph{et~al.}(2007)Laybourn-Parry, Marshall, and
-  Madan]{Laybourn-Parry2007}
-Laybourn-Parry J., Marshall W.~A., and Madan N.~J. (2007).
-\newblock {Viral dynamics and patterns of lysogeny in saline Antarctic lakes}.
-\newblock \emph{Polar Biology}, 30:\penalty0 351--358.
-
 \bibitem[Ley \emph{et~al.}(2006)Ley, Turnbaugh, Klein, and Gordon]{Ley2006}
 Ley R.~E., Turnbaugh P.~J., Klein S., and Gordon J.~I. (2006).
 \newblock {Human gut microbes associated with obesity}.
@@ -1173,6 +1211,11 @@ Ley R.~E., Turnbaugh P.~J., Klein S., and Gordon J.~I. (2006).
 Li~L., Stoeckert C.~J., and Roos D.~S. (2003).
 \newblock {OrthoMCL: identification of ortholog groups for eukaryotic genomes}.
 \newblock \emph{Genome Research}, 13:\penalty0 2178--2189.
+
+\bibitem[Li \emph{et~al.}(2012)Li, Fu, Niu, Wu, and Wooley]{Li2012}
+Li~W., Fu~L., Niu B., Wu~S., and Wooley J. (2012).
+\newblock {Ultrafast clustering algorithms for metagenomic sequence analysis}.
+\newblock \emph{Briefings in Bioinformatics}, 13:\penalty0 656--668.
 
 \bibitem[L\'{o}pez-Bueno \emph{et~al.}(2009)L\'{o}pez-Bueno, Tamares,
   Vel\'{a}zquez, Moya, Quesada, and Alcam\'{\i}]{Lopez-Bueno2009}
@@ -1576,6 +1619,12 @@ Purdy K., Nedwell D., and Embley T. (2003).
 Quayle W.~C., Peck L.~S., Peat H., Ellis-Evans J., and Harrigan P.~R. (2002).
 \newblock {Extreme responses to climate change in Antarctic lakes}.
 \newblock \emph{Science}, 295:\penalty0 645.
+
+\bibitem[Raes \emph{et~al.}(2007)Raes, Foerstner, and Bork]{Raes2007}
+Raes J., Foerstner K.~U., and Bork P. (2007).
+\newblock {Get the most out of your metagenome: computational analysis of
+  environmental sequence data}.
+\newblock \emph{Current Opinion in Microbiology}, pages 490--498.
 
 \bibitem[Raina \emph{et~al.}(2010)Raina, Dinsdale, Willis, and
   Bourne]{Raina2010}
@@ -2246,6 +2295,41 @@ Yau S., Lauro F.~M., DeMaere M.~Z., Brown M.~V., Thomas T., Raftery M.~J.,
 \newblock {Virophage control of antarctic algal host–virus dynamics}.
 \newblock \emph{Proceedings of the National Academy of Sciences USA},
   108:\penalty0 6163--6168.
+
+\bibitem[Yilmaz \emph{et~al.}(2011)Yilmaz, Kottmann, Field, Knight, Cole,
+  Amaral-Zettler, Gilbert, Karsch-Mizrachi, Johnston, Cochrane, Vaughan,
+  Hunter, Park, Morrison, Rocca-Serra, Sterk, Arumugam, Bailey, Baumgartner,
+  Birren, Blaser, Bonazzi, Booth, Bork, Bushman, Buttigieg, Chain, Charlson,
+  Costello, Huot-Creasy, Dawyndt, DeSantis, Fierer, Fuhrman, Gallery, Gevers,
+  Gibbs, {San Gil}, Gonzalez, Gordon, Guralnick, Hankeln, Highlander,
+  Hugenholtz, Jansson, Kau, Kelley, Kennedy, Knights, Koren, Kuczynski,
+  Kyrpides, Larsen, Lauber, Legg, Ley, Lozupone, Ludwig, Lyons, Maguire,
+  Meth\'{e}, Meyer, Muegge, Nakielny, Nelson, Nemergut, Neufeld, Newbold,
+  Oliver, Pace, Palanisamy, Peplies, Petrosino, Proctor, Pruesse, Quast, Raes,
+  Ratnasingham, Ravel, Relman, Assunta-Sansone, Schloss, Schriml, Sinha, Smith,
+  Sodergren, Spo, Stombaugh, Tiedje, Ward, Weinstock, Wendel, White, Whiteley,
+  Wilke, Wortman, Yatsunenko, and Gl\"{o}ckner]{Yilmaz2011}
+Yilmaz P., Kottmann R., Field D., Knight R., Cole J.~R., Amaral-Zettler L.,
+  Gilbert J.~A., Karsch-Mizrachi I., Johnston A., Cochrane G., Vaughan R.,
+  Hunter C., Park J., Morrison N., Rocca-Serra P., Sterk P., Arumugam M.,
+  Bailey M., Baumgartner L., Birren B.~W., Blaser M.~J., Bonazzi V., Booth T.,
+  Bork P., Bushman F.~D., Buttigieg P.~L., Chain P.~S., Charlson E., Costello
+  E.~K., Huot-Creasy H., Dawyndt P., DeSantis T., Fierer N., Fuhrman J.~A.,
+  Gallery R.~E., Gevers D., Gibbs R.~A., {San Gil} I., Gonzalez A., Gordon
+  J.~I., Guralnick R., Hankeln W., Highlander S., Hugenholtz P., Jansson J.,
+  Kau A.~L., Kelley S.~T., Kennedy J., Knights D., Koren O., Kuczynski J.,
+  Kyrpides N., Larsen R., Lauber C.~L., Legg T., Ley R.~E., Lozupone C.~A.,
+  Ludwig W., Lyons D., Maguire E., Meth\'{e} B.~A., Meyer F., Muegge B.,
+  Nakielny S., Nelson K.~E., Nemergut D., Neufeld J.~D., Newbold L.~K., Oliver
+  A.~E., Pace N.~R., Palanisamy G., Peplies J., Petrosino J., Proctor L.,
+  Pruesse E., Quast C., Raes J., Ratnasingham S., Ravel J., Relman D.~a.,
+  Assunta-Sansone S., Schloss P.~D., Schriml L., Sinha R., Smith M.~I.,
+  Sodergren E., Spo A., Stombaugh J., Tiedje J.~M., Ward D.~V., Weinstock
+  G.~M., Wendel D., White O., Whiteley A., Wilke A., Wortman J.~R., Yatsunenko
+  T., and Gl\"{o}ckner F.~O. (2011).
+\newblock {Minimum information about a marker gene sequence (MIMARKS) and
+  minimum information about any (x) sequence (MIxS) specifications.}
+\newblock \emph{Nature Biotechnology}, 29:\penalty0 415--420.
 
 \bibitem[Yilmaz \emph{et~al.}(2012)Yilmaz, Iversen, Hankeln, Kottmann, Quast,
   and Gl\"{o}ckner]{Yilmaz2012}

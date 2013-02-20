@@ -173,12 +173,12 @@ The same experiment can be performed using $^{13}$C-labelled \ac{DMS} to determi
 In conjunction with metagenomic sequencing, or flow sorting and \acp{SAG} of \ac{DMS}/\ac{DMSP}-degraders, the biochemical pathways involved in \ac{DMS} breakdown can then be reconstructed giving a more complete understanding of Organic Lake sulphur biogeochemistry.
 
 \section{Perspectives on `-omics' approaches }
-It was not so long ago that what could be called the second molecular revolution in microbial ecology began in earnest with the first shotgun metagenomic sequencing of a marine virome \cite{Breitbart2002}.
+It was not so long ago that what could be called the second molecular revolution in microbial ecology began in earnest with the first shotgun  sequencing of a marine virome \cite{Breitbart2002}.
 That metagenome, sequenced with Sanger sequencing technology, was a modest 1.28 Mbp \cite{Breitbart2002}.
 The first shotgun sequenced metagenomes of cellular life from the Sargasso Sea \cite{Venter2004} and the Iron Mountain acid mine drainage \cite{Tyson2004} added 1 Gbp and 76 Mbp respectively to the public databanks.
-Although this level of sequencing effort is now relatively small, it was enough to uncover hundreds to thousands of viral types of which 65\% bore no similarity to any known sequence \cite{Breitbart2002} and expand the breadth of known protein families including 782 previously unknown rhodopsin-like sequences \cite{Venter2004}.  
+Although these sequencing efforts are now relatively small, it was enough to uncover hundreds to thousands of viral types of which 65\% bore no similarity to any known sequence \cite{Breitbart2002} and significantly expand the breadth of known protein families \cite{Venter2004}.  
 These studies were also revolutionary because they pioneered different ways of using shot-gun sequencing to look into the microbial world.
-Where metagenomics applied to the higher diversity Sargasso Sea opened up a broad swathe of species and functional diversity \cite{Venter2004}, environmental sequencing applied to the lower complexity acid mine community enabled strain level differences of a few organisms to be resolved \cite{Tyson2004}.
+Metagenomics applied to the higher diversity Sargasso Sea was conducive to a `gene-centric' approach \cite{Venter2004} while sequencing of the lower complexity mine community enabled strain level differences of the dominant organisms to be resolved via a `genome-centric' view \cite{Tyson2004}.
 
 
 \subsection{Next generation sequencing technologies}
@@ -195,7 +195,7 @@ Members of the community that appeared to become seasonally absent in the shallo
 The ability to look into deeper into diversity of the Antarctic lake communities can discern if a similar persistent `seed bank' population exists in the lakes, if succession of populations occurs or external seeding.
 These three different possibilities have different implications for predicting responses to change in environmental conditions in the lakes.
 It also illustrates how \ac{NGS} can be used for hypothesis-driven analysis and not just as a tool for discovery.
-Understanding whether the project is going to take a `gene-centric' \emph{vs.} `genome-centric' approach, that is what question is the metagenomic sequencing attempting to answer about the ecosystem, will determine everything from sample collection strategy to the sequencing effort required and computational tools/infrastructure needed.
+Planning what question a metagenomic sequencing project is attempting to answer about the ecosystem, will determine everything from the sample collection strategy to the sequencing effort required and computational tools/infrastructure needed.
 %The long read length offered by single-molecular sequencing (Pacific Biosciences) is off-set by a high error-rate and has not as yet been applied to metagenomics.
 \input{conc_figures/seq_tech.tex}
 
@@ -223,10 +223,10 @@ Each have unique features that may be more desirable for particular sample types
 %In this thesis, use of \ac{CAMERA} was convenient for \acs{BLAST} searches of \ac{OLV} against all other metagenomes (chapter \ref{ch:olv}) as it saved from having to download large metagenomic datasets.
 %However, searching for genes involved in photoheterotrophy and \ac{DMSP} catabolism in Antarctic and \acs{GOS} metagenomes (chapter \ref{ch:org}) required downstream normalisation of the match frequencies that was easier to implement locally.
 %This illustrates how webservers can be useful, but workflows are not readily customisble.
-One disadvantage to webservers is workflows are not readily customisble.
+One disadvantage to webservers is that workflows are not readily customisble.
 The exception to this is WebGMA \cite{Wu2011a}, which hosts the most common metagenomic tools and enables them to be put together into custom pipelines, but does not contain a repository of metagenomic sequences.
 Current webservers have been designed towards analysis of either bacteria/archaea or viral sequences; although the metagenomes from this thesis contained significant proportions of both, as well as eucaryotic sequences.
-To take advantage of the range of specialist features offered by different pipelines can introduce inefficiencies such as performing similar sequence quality control steps in order to fit within their distinct analytical schemas. 
+To take advantage of the range of specialist features offered by different pipelines can introduce inefficiencies, such as performing similar sequence quality control steps in order to fit within their distinct analytical schemas. 
 The different outputs then need to be combined locally and may not be directly comparable to one another due to differences in processing.
 Nonetheless, use of webserver pipelines is a worthwhile option in future metagenomic studies of the lakes, especially if specialist tools or specific databases are needed, and can relieve some pressure on local computing time.
 
@@ -280,8 +280,8 @@ The latest binning algorithms, \textsc{AbundanceBin} that uses l-tuples \cite{Wu
 Programs have also been developed that take a combined homology- and composition-based approach including PhymmBL \cite{Brady2009, Rosen2011} and the NB-based classifier developed by \citet{Parks2011}.
 
 A third way of approaching the problem of classifying a large volume of reads is to use what can be loosely termed data clustering analyses.
-Different algorithms exist to perform this class of analysis, such as locality sensitivity hashing and greedy-incremental approaches, but theyall aim to group similar sequences together thus reducing the complexity of data under consideration (see \citet{Li2012} for a review of ultrafasta clustering algorithms for metagenomics).
-This is a generalised approach that can be broadly applied to reduce the computational time for diverse computational tasks, but in particularrepresents a promising way of speeding up similarity searches.
+Different algorithms exist to perform this class of analysis, such as locality sensitivity hashing and greedy-incremental approaches, but they all aim to group similar sequences together thus reducing the complexity of data under consideration (see \citet{Li2012} for a review of ultrafasta clustering algorithms for metagenomics).
+This is a generalised approach that can be broadly applied to reduce the computational time for diverse computational tasks, but in particular represents a promising way of speeding up similarity searches.
 On one level, clustering can be used to reduce redundancy of both the query sequence set and the search database thereby reducing the number of comparisons necessary in a downstream search \cite{Li2012}.
 It can also be directly applied to increase efficiency of similarity comparisons.
 Two examples of where it has been implemented for this purpose are large-scale comparisons of long sequences \cite{Buhler2001} and protein sequence classification \cite{Caragea2012}, therefore future application in similarity searching of short metagenomic reads may prove fruitful.
@@ -304,13 +304,13 @@ Software used to generate these genomes will be made available in the future at
 which will allow the assembly methodology to be validated on other metagenomic samples and assessed for broad applicability.
 In particular, information about the computational resources and degree of manual curation necessary to achieve this sort of assembly is needed to gauge its utility.
 
-Two recent algorithms have been developed that overcome memory limitations when using a de Bruijn graph-based assembly approach \cite{Conway2012, Pell2012}.
+Two recent algorithms have been developed that overcome memory limitations when implementing the popularly-used de Bruijn graph assembly approach \cite{Conway2012, Pell2012}.
 The first of these is a \emph{de novo} assembler called \textsc{Gossamer} in which the \emph{k}-mer connectivity (de Bruijn) graphs produced in the assembly process are stored as a simplified representation, such as a bitmap or a set of integers, which requires less memory \cite{Conway2012}.
-Similarly, in the approach developed by \cite{Pell2012}, the de Bruijn graphs are simplified using Bloom filters.
-Reads are also partitioned into smaller connected sets to be separately assembled thereby affording further memory efficiency \cite{Pell2012}.
-As yet, \textsc{Gossamer} has not been trialled on metagenomic data, which would be necessary to evaluate if it is capable of accuarate assembly when challenged with mixed species data.
-The algorithm by \cite{Pell2012} has been applied to a Illumina GII sequenced soil metagenome and showed comparable assembly fidelity to the standard assembly algorithm but with a 40-fold decrease in memory usage.
-Again, further testing is required to evaluate its broad applicability but it looks to be scalable for any size dataset.
+In the approach developed by \citet{Pell2012}, the de Bruijn graphs are similarly simplified, but in this case using Bloom filters.
+Reads are also partitioned into smaller connected sets to be separately assembled, thereby affording further memory efficiency \cite{Pell2012}.
+As yet, \textsc{Gossamer} has not been trialled on metagenomic data, which would be necessary to evaluate if it is capable of accuarate assembly when challenged with mixed species sequences.
+The Bloom filters-based algorithm has been applied to an Illumina sequenced soil metagenome and showed comparable assembly fidelity to the standard assembly algorithm but with a 40-fold decrease in memory usage \cite{Pell2012}.
+Again, further testing is required to evaluate its broad applicability.
 
 Future Antarctic lake metagenomics projects can profit immensely from the wealth of emerging bioinformatics tools available.
 Complete viral genomes were able to be assembled \emph{de novo} from the 2006 Organic Lake samples using a combination of Sanger and 454 data (chapter \ref{ch:olv}) demonstrating assembly-driven approaches are effective in Antactic lakes.
@@ -345,6 +345,10 @@ They thus acts as a resource against which other datasets can be compared to gai
 These data can also be mined to recover features of interest.
 For example genes for enzymes with desired activities or bioactive compounds can be recovered from the sequence information.
 As sequence databases grow and more of the microbial world is characterised, this archive of molecular data can be re-analysed to learn even more about the lake ecosystems.
+
+To ensure `-omics' datasets are useful in the future, particularly for comparative analysis between metagenomic datasets, adequate metadata needs to be associated with them \cite{Raes2007}.
+This can be achieved by ensuring the Antarctic datasets comply with the minimum information about a (meta)genome sequence (MIGS/MIMS) \cite{Field2007} and minimum information about a marker gene sequence (MIMARKS) \cite{Yilmaz2011} recommendations  
+(\url{http://gensc.org/gc_wiki/index.php/MIGS/MIMS}).
 
 %cite your future work section and other people's commentaries.
 %Cite \cite{Warneke2007}
