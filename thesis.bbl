@@ -1,4 +1,4 @@
-\begin{thebibliography}{320}
+\begin{thebibliography}{323}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -116,6 +116,12 @@ Bouvier T. and Giorgio P.del (2007).
   bacterial community composition}.
 \newblock \emph{Environmental Microbiology}, 9:\penalty0 287--297.
 
+\bibitem[Bowman \emph{et~al.}(1997)Bowman, Mccammon, and Skerratt]{Bowman1997}
+Bowman J.~P., Mccammon S.~A., and Skerratt J.~H. (1997).
+\newblock {<i>Methylosphaera hansonii</i> gen. nov., sp. nov., a psychrophilic,
+  group I methanotroph from Antarctic marine-salinity, meromictic lakes}.
+\newblock \emph{Microbiology}, 143:\penalty0 1451--1459.
+
 \bibitem[Bowman \emph{et~al.}(1998)Bowman, Mccammon, Lewis, Skerratt, Brown,
   Nichols, and McMeekin]{Bowman1998}
 Bowman J.~P., Mccammon S.~A., Lewis T., Skerratt J.~H., Brown J.~L., Nichols
@@ -186,12 +192,6 @@ Budinoff C.~R., Loar S.~N., LeCleir G.~R., Wilhelm S.~W., and Buchan A. (2011).
   microscopy using Anodisc™ 13 membranes.}
 \newblock \emph{BMC Microbiology}, 11:\penalty0 168.
 
-\bibitem[Buhler(2001)]{Buhler2001}
-Buhler J. (2001).
-\newblock {Efficient large-scale sequence comparison by locality-sensitive
-  hashing}.
-\newblock \emph{Bioinformatics}, 17:\penalty0 419--428.
-
 \bibitem[Bulat \emph{et~al.}(2004)Bulat, Alekhina, Blot, Petit, de~Angelis,
   Wagenbach, Lipenkov, Vasilyeva, Wloch, Raynaud, and Lukin]{Bulat2004}
 Bulat S.~A., Alekhina I.~A., Blot M., Petit J.-R., Angelis M.de, Wagenbach D.,
@@ -246,11 +246,6 @@ Caporaso J.~G., Paszkiewicz K., Field D., Knight R., and Gilbert J.~A. (2012).
 \newblock {The Western English Channel contains a persistent microbial seed
   bank}.
 \newblock \emph{The ISME journal}, 6:\penalty0 1089--1093.
-
-\bibitem[Caragea \emph{et~al.}(2012)Caragea, Silvescu, and Mitra]{Caragea2012}
-Caragea C., Silvescu A., and Mitra P. (2012).
-\newblock {Protein sequence classification using feature hashing}.
-\newblock \emph{Proteome Science}, 10:\penalty0 S14.
 
 \bibitem[Carver \emph{et~al.}(2005)Carver, Rutherford, Berriman, Rajandream,
   Barrell, and Parkhill]{Carver2005}
@@ -310,7 +305,7 @@ Conway T., Wazny J., Bromage A., Zobel J., and Beresford-Smith B. (2012).
 \newblock \emph{Bioinformatics}, 28:\penalty0 1937--1938.
 
 \bibitem[Coolen \emph{et~al.}(2004{\natexlab{a}})Coolen, Hopmans, Rijpstra,
-  Muyzer, Schouten, Volkman, and {Sinninghe Damst\'{e}}]{Coolen2004b}
+  Muyzer, Schouten, Volkman, and {Sinninghe Damst\'{e}}]{Coolen2004a}
 Coolen M.~J., Hopmans E.~C., Rijpstra W.~I.~C., Muyzer G., Schouten S., Volkman
   J.~K., and {Sinninghe Damst\'{e}} J.~S. (2004).
 \newblock {Evolution of the methane cycle in Ace Lake (Antarctica) during the
@@ -318,7 +313,7 @@ Coolen M.~J., Hopmans E.~C., Rijpstra W.~I.~C., Muyzer G., Schouten S., Volkman
 \newblock \emph{Organic Geochemistry}, 35\penalty0 (10):\penalty0 1151--1167.
 
 \bibitem[Coolen \emph{et~al.}(2004{\natexlab{b}})Coolen, Muyzer, Rijpstra,
-  Schouten, Volkman, and {Sinninghe Damst\'{e}}]{Coolen2004a}
+  Schouten, Volkman, and {Sinninghe Damst\'{e}}]{Coolen2004b}
 Coolen M.~J., Muyzer G., Rijpstra W.~I.~C., Schouten S., Volkman J.~K., and
   {Sinninghe Damst\'{e}} J.~S. (2004).
 \newblock {Combined DNA and lipid analyses of sediments reveal changes in
@@ -563,11 +558,6 @@ Field D., Garrity G., Gray T., Morrison N., Selengut J., Sterk P., Tatusova
   specification}.
 \newblock \emph{Nature Biotechnology}, 26:\penalty0 541--547.
 
-\bibitem[Fischer(2011)]{Fischer2011b}
-Fischer M.~G. (2011).
-\newblock {Sputnik and Mavirus: more than just satellite viruses}.
-\newblock \emph{Nature Reviews}, 10:\penalty0 1--2.
-
 \bibitem[Fischer and Suttle(2011)]{Fischer2011a}
 Fischer M.~G. and Suttle C.~A. (2011).
 \newblock {A virophage at the origin of large DNA transposons}.
@@ -594,6 +584,17 @@ Fofonoff N. and Millard R.~J. (1983).
 \newblock {Algorithms for computation of fundamental properties of seawater}.
 \newblock \emph{UNESCO Technical Papers in Marine Science}, 44.
 
+\bibitem[Franzmann and Dobson(1992)]{Franzmann1992a}
+Franzmann P.~D. and Dobson S. (1992).
+\newblock {Cell wall-less, free living spirochetes in Antarctica}.
+\newblock \emph{FEMS Microbiology Letters}, 97:\penalty0 289--292.
+
+\bibitem[Franzmann and Rohde(1991)]{Franzmann1991b}
+Franzmann P.~D. and Rohde M. (1991).
+\newblock {An obligately anaerobic, coiled bacterium from Ace Lake,
+  Antarctica}.
+\newblock \emph{Journal of General Microbiology}, 137:\penalty0 2191--2196.
+
 \bibitem[Franzmann \emph{et~al.}(1987{\natexlab{a}})Franzmann, Burton, and
   McMeekin]{Franzmann1987a}
 Franzmann P.~D., Burton H.~R., and McMeekin T.~A. (1987).
@@ -616,6 +617,22 @@ Franzmann P.~D., Stackebrandt E., Sanderson K., Volkman J.~K., Cameron D.,
 \newblock {<i>Halorubrum lacusprofundi</i> sp. nov., a halophilic bacterium
   idolated from Deep Lake, Antarctica}.
 \newblock \emph{Systematic \& Applied Microbiology}, 11:\penalty0 20--27.
+
+\bibitem[Franzmann \emph{et~al.}(1991)Franzmann, Hopfl, Weiss, and
+  Tindall]{Franzmann1991a}
+Franzmann P.~D., Hopfl R., Weiss N., and Tindall B.~J. (1991).
+\newblock {Psychrotrophic, lactic acid-producing bacteria from anoxic waters in
+  Ace Lake; Carnobacteriums funditum sp. nov. and Carnobacterium alterfunditum
+  sp. nov.}
+\newblock \emph{Archives of Microbiology}, 156:\penalty0 255--262.
+
+\bibitem[Franzmann \emph{et~al.}(1992)Franzmann, Springer, Ludwig, {Conway de
+  Marcario}, and Rohde]{Franzmann1992b}
+Franzmann P.~D., Springer N., Ludwig W., {Conway de Marcario} E., and Rohde M.
+  (1992).
+\newblock {A methanogenic archaeon from Ace Lake, Antarctica: Methanococcoides
+  burtonii sp. nov.}
+\newblock \emph{Systematic and Applied Microbiology}, 15:\penalty0 573--581.
 
 \bibitem[Friedrich \emph{et~al.}(2005)Friedrich, Bardischewsky, Rother,
   Quentmeier, and Fischer]{Friedrich2005}
@@ -1182,6 +1199,13 @@ Laybourn-Parry J. (2002).
 \newblock \emph{Philosophical transactions of the Royal Society of London.
   Series B}, 357:\penalty0 863--869.
 
+\bibitem[Laybourn-Parry and Pearce(2007)]{Laybourn-Parry2007b}
+Laybourn-Parry J. and Pearce D.~A. (2007).
+\newblock {The biodiversity and ecology of Antarctic lakes: models for
+  evolution}.
+\newblock \emph{Philosophical Transactions of the Royal Society of London.
+  Series B, Biological sciences}, 362:\penalty0 2273--2289.
+
 \bibitem[Laybourn-Parry \emph{et~al.}(2001)Laybourn-Parry, Hofer, and
   Sommaruga]{Laybourn-Parry2001}
 Laybourn-Parry J., Hofer J.~S., and Sommaruga R. (2001).
@@ -1196,7 +1220,7 @@ Laybourn-Parry J., Marshall W.~A., and Marchant H.~J. (2005).
 \newblock \emph{Freshwater Biology}, 50:\penalty0 830--838.
 
 \bibitem[Laybourn-Parry \emph{et~al.}(2007)Laybourn-Parry, Marshall, and
-  Madan]{Laybourn-Parry2007}
+  Madan]{Laybourn-Parry2007a}
 Laybourn-Parry J., Marshall W.~A., and Madan N.~J. (2007).
 \newblock {Viral dynamics and patterns of lysogeny in saline Antarctic lakes}.
 \newblock \emph{Polar Biology}, 30:\penalty0 351--358.
@@ -1494,11 +1518,6 @@ Olson J., Steppe T., Litaker R., and Paerl H. (1998).
 \newblock {N<sub>2</sub>-fixing microbial consortia associated with the ice
   cover of Lake Bonney, Antarctica}.
 \newblock \emph{Microbial Ecology}, 36:\penalty0 231--238.
-
-\bibitem[Pace(1997)]{Pace1997}
-Pace N.~R. (1997).
-\newblock {A molecular view of microbial diversity and the biosphere}.
-\newblock \emph{Science}, 276:\penalty0 734--740.
 
 \bibitem[Parks and Beiko(2010)]{Parks2010}
 Parks D.~H. and Beiko R.~G. (2010).
@@ -2306,6 +2325,11 @@ Yau S., Lauro F.~M., DeMaere M.~Z., Brown M.~V., Thomas T., Raftery M.~J.,
 \newblock {Virophage control of antarctic algal host–virus dynamics}.
 \newblock \emph{Proceedings of the National Academy of Sciences USA},
   108:\penalty0 6163--6168.
+
+\bibitem[Ye \emph{et~al.}(2011)Ye, Choi, and Tang]{Ye2011}
+Ye~Y., Choi J.-H., and Tang H. (2011).
+\newblock {RAPSearch: a fast protein similarity search tool for short reads}.
+\newblock \emph{BMC Bioinformatics}, 12:\penalty0 159.
 
 \bibitem[Yilmaz \emph{et~al.}(2011)Yilmaz, Kottmann, Field, Knight, Cole,
   Amaral-Zettler, Gilbert, Karsch-Mizrachi, Johnston, Cochrane, Vaughan,
