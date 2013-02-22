@@ -15,13 +15,13 @@ A level-1 auxiliary file: orglake.aux
 A level-1 auxiliary file: conc.aux
 The style file: mybibstyle.bst
 A level-1 auxiliary file: appendices.aux
-Reallocated field_info (elt_size=4) to 13294 items from 5000.
+Reallocated field_info (elt_size=4) to 13346 items from 5000.
 Database file #1: Thesis.bib
-Repeated entry---line 1262 of file Thesis.bib
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Repeated entry---line 3137 of file Thesis.bib
  : @article{Laybourn-Parry2007
  :                            ,
 I'm skipping whatever remains of this entry
-Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--I didn't find a database entry for ""
 You can't pop an empty literal stack for entry Clarke2006
 while executing---line 1411 of file mybibstyle.bst
@@ -32,45 +32,45 @@ Warning--empty publisher in Laybourn-Parry1997
 Warning--empty publisher in Redfield1963
 You can't pop an empty literal stack for entry Torrice2009
 while executing---line 1411 of file mybibstyle.bst
-You've used 318 entries,
+You've used 320 entries,
             2739 wiz_defined-function locations,
-            2950 strings with 104731 characters,
-and the built_in function-call counts, 197073 in all, are:
-= -- 17427
-> -- 17814
+            2964 strings with 105088 characters,
+and the built_in function-call counts, 198002 in all, are:
+= -- 17516
+> -- 17872
 < -- 89
-+ -- 5959
-- -- 5634
-* -- 19724
-:= -- 32532
-add.period$ -- 963
-call.type$ -- 318
-change.case$ -- 2827
-chr.to.int$ -- 311
-cite$ -- 639
-duplicate$ -- 5231
-empty$ -- 9930
-format.name$ -- 6040
-if$ -- 38612
++ -- 5979
+- -- 5652
+* -- 19814
+:= -- 32684
+add.period$ -- 969
+call.type$ -- 320
+change.case$ -- 2839
+chr.to.int$ -- 313
+cite$ -- 643
+duplicate$ -- 5263
+empty$ -- 9992
+format.name$ -- 6058
+if$ -- 38795
 int.to.chr$ -- 8
 int.to.str$ -- 1
-missing$ -- 314
-newline$ -- 1601
-num.names$ -- 1284
-pop$ -- 4180
+missing$ -- 316
+newline$ -- 1611
+num.names$ -- 1292
+pop$ -- 4195
 preamble$ -- 1
-purify$ -- 2510
+purify$ -- 2520
 quote$ -- 0
-skip$ -- 5350
+skip$ -- 5374
 stack$ -- 0
-substring$ -- 8343
-swap$ -- 496
+substring$ -- 8397
+swap$ -- 498
 text.length$ -- 19
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 3498
+type$ -- 3520
 warning$ -- 3
-while$ -- 1569
+while$ -- 1579
 width$ -- 0
-write$ -- 3846
+write$ -- 3870
 (There were 4 error messages)
