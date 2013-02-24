@@ -6,19 +6,37 @@
 
 \acro{2D-SDS PAGE}{two dimensional-sodium dodecyl sulphate polyacrylamide gel electrophoresis}
 
+\acro{AAnP}{aerobic anoxygenic photosynthesis}
+
 \acro{ABC}{ATP-binding cassette}
+
+\acro{ACT}{Artemis comparison tool}
+
+\acro{ALV}{Ace Lake virophage}
+
+\acro{EC2}{Elastic Compute Cloud}
+
+\acro{ANOSIM}{analysis of similarity}
+
+\acro{ApMV}{\emph{Acanthamoeba polyphaga} mimivirus}
+
+\acro{ASR}{assimilatory sulphate reduction}
+
+\acro{BchlA}{bacteriochlorophyll A}
 
 \acro{BLAST}{basic local alignment search tool}
 
-\acro{C-ace}{green sulphur bacteria from Ace Lake related to \emph{Chlorobium}}
+\acro{CAMERA}{Community Cyberinfrastructure for Advanced Microbial Ecology Research and Analysis}
 
-\acro{CAMERA}{community cyberinfrastructure for advanced microbial ecology research and analysis}
-
-\acro{CAS}{CRISPR-associated proteins}
+\acro{CAS}{\textsc{CRISPR}-associated proteins}
 
 \acro{COG}{clusters of orthologous groups}
 
+\acro{CPU}{central processing unit}
+
 \acro{CRISPR}{clustered regularly interspaced short palindromic repeat}
+
+\acro{CroV}{\emph{Cafteria roenbergensis} virus}
 
 \acro{DGGE}{denaturing gradient gel electrophoresis}
 
@@ -28,26 +46,45 @@
 
 \acro{DMSP}{dimethylsulphoproprionate}
 
-\acro{DNA}{deoxyribonucleic acid}
+\acro{DPOB}{\textsc{DNA} polymerase B}
 
-\acro{DPOB}{DNA polymerase B}
+\acro{DO}{dissolved oxygen}
 
 \acro{DOC}{dissolved organic carbon}
 
+\acro{DRP}{dissolved reactive phosphorus}
+
+\acro{FDR}{false discovery rate}
+
+\acro{FPGA}{Field Programmable Gate Array}
+
 \acro{GOS}{global ocean sampling}
+
+\acro{GPU}{graphical processing unit}
 
 \acro{GSB}{green sulphur bacteria}
 
 \acro{HMMER}{biosequence analysis using profile hidden Markov models}
 
-\acro{JCVI}{J.Craig Venter Institute}
+\acro{HPLC}{high performance liquid chromatography}
+
+\acro{IMG/M}{Integrated Microbial Genomes and Metagenomes}
+
+\acro{JCVI}{J. Craig Venter Institute}
 
 \acro{KEGG}{Kyoto Encyclopedia of Genes and Genomes}
 
-\acro{OLPV}{Organic Lake phycodnavirus}
-\acrodefplural{OLPV}{Organic Lake phycodnaviruses}
+\acro{KO}{\textsc{KEGG} Orthology}
+
+\acro{KOBAS}{\textsc{KEGG} Orthology Based Annotation System}
+
+\acro{LC}{liquid chromatography}
 
 \acro{MCP}{major capsid protein}
+
+\acro{MEGA}{Molecular Evolutionary Genetic Analysis}
+
+\acro{MG-RAST}{Metagenome Rapid Annotation using Subsystems Technology}
 
 \acro{MS}{mass spectrometry}
 
@@ -55,37 +92,93 @@
 
 \acro{NCBI}{National Center for Biotechnology Information}
 
+\acro{NCLDV}{nucleo-cytoplasmic large \textsc{DNA} virus}
+\acrodefplural{NCLDV}{nucleo-cytoplasmic large \textsc{DNA} viruses}
+
+\acro{NGS}{next generation sequencing}
+
 \acro{NR}{non-redundant database}
+
+\acro{NSA}{normalised spectral abundance}
+
+\acro{OLPV}{Organic Lake phycodnavirus}
+\acrodefplural{OLPV}{Organic Lake phycodnaviruses}
+
+\acro{OLV}{Organic Lake virophage}
 
 \acro{ORF}{open-reading frame}
 
-\acro{PCR}{polymerase chain-reaction}
+\acro{OTU}{operational taxonomic unit}
+
+\acro{PCA}{principal component analysis}
+
+\acro{PCR}{polymerase chain reaction}
+
+\acro{PCTE}{polycarbonate Track Etch}
 
 \acro{POC}{particulate organic carbon}
+
+\acro{PR}{proteorhodopsin}
 
 \acro{PV}{phycodnavirus}
 \acrodefplural{PV}{phycodnaviruses}
 
-\acro{RNA}{ribonucleic acid}
+\acro{QIIME}{Quanititative Insights Into Microbial Ecology}
 
-\acro{rRNA}{ribosomal RNA}
+\acro{RDP}{Ribosomal Database Project}
+
+\acro{RE}{restriction endonuclease}
+
+\acro{RM}{restriction modification}
+
+\acro{rRNA}{ribosomal \textsc{RNA}}
+
+\acro{rTCA}{reverse tricarboxylic acid}
+
+\acro{RuBisCO}{ribulose-bisphosphate carboxylase oxygenase}
+
+\acro{SAG}{single-cell amplified genome}
 
 \acro{SDS}{sodium dodecyl sulphate}
 
 \acro{SDS PAGE}{sodium dodecyl sulphate-polyacrylamide gel electrophoresis}
 
-\acro{SSU}{small subunit ribosomal RNA}
+\acro{SIP}{stable isotope probing}
 
-\acro{SRB}{sulphate reducing bacteria}
+\acro{SO}{Southern Ocean}
 
-\acro{STAMP}{statistical analysis of metagenomic profiles}
+\acro{SRB}{sulphate-reducing bacteria}
+
+\acro{SSU}{small subunit ribosomal \textsc{RNA}}
+
+\acro{STAMP}{Statistical Analysis of Metagenomic Profiles}
+
+\acro{SVG}{single virus genome}
 
 \acro{TEM}{transmission electron microscopy}
 
+\acro{TDN}{total dissolved nitrogen}
+
+\acro{TDP}{total dissolved phosphorus}
+
+\acro{TDS}{total dissolved sulphur}
+
+\acro{TIGRFAM}{the Institute of Genomic Research curated protein database}
+
+\acro{TN}{total nitrogen}
+
 \acro{TOC}{total organic carbon}
+
+\acro{TP}{total phosphorus}
+
+\acro{TS}{total sulphur}
 
 \acro{VLP}{virus-like particle}
 
+\acro{VIROME}{Viral Informatics Resource for Metagenome Exploration}
+
 \acro{WGS}{whole genome shotgun}
+
+\acro{WL}{Wood-Ljungdahl; or reductive acetyl-CoA}
 
 \end{acronym}

@@ -30,7 +30,7 @@ You can't pop an empty literal stack for entry Torrice2009
 while executing---line 1411 of file mybibstyle.bst
 You've used 323 entries,
             2739 wiz_defined-function locations,
-            2978 strings with 105912 characters,
+            2978 strings with 105920 characters,
 and the built_in function-call counts, 199853 in all, are:
 = -- 17691
 > -- 18022
